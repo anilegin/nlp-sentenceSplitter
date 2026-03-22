@@ -1,0 +1,3565 @@
+doc_id,char_idx,punct,left_context,right_context,centered_context,token_before,token_after,label
+it_isdt-ud-dev,112,.," lasciato la cima e
+stavano cominciando la discesa","
+ Tutti gli esseri umani sanno di poter essere più"," lasciato la cima e
+stavano cominciando la discesa.
+ Tutti gli esseri umani sanno di poter essere più",discesa,Tutti,1
+it_isdt-ud-dev,179,.,"ri umani sanno di poter essere più
+di ciò che sono","
+ Per lo stesso motivo però, spesso, fanno fatica ","ri umani sanno di poter essere più
+di ciò che sono.
+ Per lo stesso motivo però, spesso, fanno fatica ",sono,Per,1
+it_isdt-ud-dev,324,.," più dotato, possegga qualità e capacità
+superiori","
+ Vi sono migliaia di casi di questo genere.
+ È ve"," più dotato, possegga qualità e capacità
+superiori.
+ Vi sono migliaia di casi di questo genere.
+ È ve",superiori,Vi,1
+it_isdt-ud-dev,368,.,"eriori.
+ Vi sono migliaia di casi di questo genere","
+ È vero, tutti possiamo
+essere sostituiti.
+ Alcun","eriori.
+ Vi sono migliaia di casi di questo genere.
+ È vero, tutti possiamo
+essere sostituiti.
+ Alcun",genere,È,1
+it_isdt-ud-dev,411,.," genere.
+ È vero, tutti possiamo
+essere sostituiti","
+ Alcune chiamate partirono dal Quirinale.
+ Sorpre"," genere.
+ È vero, tutti possiamo
+essere sostituiti.
+ Alcune chiamate partirono dal Quirinale.
+ Sorpre",sostituiti,Alcune,1
+it_isdt-ud-dev,453,.,"stituiti.
+ Alcune chiamate partirono dal Quirinale","
+ Sorpresa nella
+sorpresa:
+ ""Lei ha la tipica camm","stituiti.
+ Alcune chiamate partirono dal Quirinale.
+ Sorpresa nella
+sorpresa:
+ ""Lei ha la tipica camm",Quirinale,Sorpresa,1
+it_isdt-ud-dev,518,.,"la
+sorpresa:
+ ""Lei ha la tipica camminata da spia""","
+ A inguaiare Minetto, che si è
+sempre proclamato ","la
+sorpresa:
+ ""Lei ha la tipica camminata da spia"".
+ A inguaiare Minetto, che si è
+sempre proclamato ",,A,1
+it_isdt-ud-dev,712,.,"i, coinvolto nell'inchiesta sulla ""Rosa dei
+venti""","
+ I carri armati, quando si muovevano, andavano a ","i, coinvolto nell'inchiesta sulla ""Rosa dei
+venti"".
+ I carri armati, quando si muovevano, andavano a ",,I,1
+it_isdt-ud-dev,827,.,"raga, a
+spegnere i fuochi per prevenire l'incendio","
+ La guerra europea nell'ex Jugoslavia
+è figlia di","raga, a
+spegnere i fuochi per prevenire l'incendio.
+ La guerra europea nell'ex Jugoslavia
+è figlia di",l'incendio,La,1
+it_isdt-ud-dev,1052,.,"ità atomica ha prodotto
+nella coscienza collettiva","
+ ROMA - Nello Zaire, 34 anni fa (allora si chiama","ità atomica ha prodotto
+nella coscienza collettiva.
+ ROMA - Nello Zaire, 34 anni fa (allora si chiama",collettiva,ROMA,1
+it_isdt-ud-dev,1357,.,"nuto, il 30 giugno 1960,
+l'indipendenza dal Belgio","
+ Dar Es Salaam (Tanzania) - Sono stati ritrovati ","nuto, il 30 giugno 1960,
+l'indipendenza dal Belgio.
+ Dar Es Salaam (Tanzania) - Sono stati ritrovati ",Belgio,Dar,1
+it_isdt-ud-dev,1717,.," da Dar Es Salaam, nella Tanzania nord occidentale","
+ Con Noella,
+della famiglia Castiglioni resta viv"," da Dar Es Salaam, nella Tanzania nord occidentale.
+ Con Noella,
+della famiglia Castiglioni resta viv",occidentale,Con,1
+it_isdt-ud-dev,1882,., Cremona e non ha mai seguito il padre nello Zaire,"
+ Le
+immagini del film di Michael Apted hanno ripr"," Cremona e non ha mai seguito il padre nello Zaire.
+ Le
+immagini del film di Michael Apted hanno ripr",Zaire,Le,1
+it_isdt-ud-dev,2174,.,"
+e dei ""bianchi"" che volevano soltanto arricchirsi","
+ Non è mai stato accertato chi
+volle la sua morte","
+e dei ""bianchi"" che volevano soltanto arricchirsi.
+ Non è mai stato accertato chi
+volle la sua morte",arricchirsi,Non,1
+it_isdt-ud-dev,2446,.,"ar vedere che esiste un Islam che non è fanatismo""","
+
+Il messaggio che l'economista italoamericano man","ar vedere che esiste un Islam che non è fanatismo"".
+
+Il messaggio che l'economista italoamericano man",,Il,1
+it_isdt-ud-dev,2735,.,viso ottimismo per le sorti della navicella Italia,"
+ Tudjman, l'arte
+della vendetta.
+ messo in ginocc","viso ottimismo per le sorti della navicella Italia.
+ Tudjman, l'arte
+della vendetta.
+ messo in ginocc",Italia,Tudjman,1
+it_isdt-ud-dev,2768,.," navicella Italia.
+ Tudjman, l'arte
+della vendetta","
+ messo in ginocchio dai serbi, lasciato solo dai "," navicella Italia.
+ Tudjman, l'arte
+della vendetta.
+ messo in ginocchio dai serbi, lasciato solo dai ",vendetta,messo,1
+it_isdt-ud-dev,3082,.," far pensare che la mossa fosse da
+tempo preparata","
+ Dietro le lenti affumicate gli occhi luccicano d"," far pensare che la mossa fosse da
+tempo preparata.
+ Dietro le lenti affumicate gli occhi luccicano d",preparata,Dietro,1
+it_isdt-ud-dev,3199,.,la bocca sottile si tende in un ghigno soddisfatto,"
+ Allora militanti serbi di
+Knin, organizzarono un","la bocca sottile si tende in un ghigno soddisfatto.
+ Allora militanti serbi di
+Knin, organizzarono un",soddisfatto,Allora,1
+it_isdt-ud-dev,3313,.,"tro il governo croato eletto nel maggio
+precedente","
+ Stravince le elezioni del 1990, e si lancia in v","tro il governo croato eletto nel maggio
+precedente.
+ Stravince le elezioni del 1990, e si lancia in v",precedente,Stravince,1
+it_isdt-ud-dev,3514,.,vvivere più a lungo del lupo solitario di Belgrado,"
+ ""Bossi quando
+parla si copre di ridicolo, dovreb","vvivere più a lungo del lupo solitario di Belgrado.
+ ""Bossi quando
+parla si copre di ridicolo, dovreb",Belgrado,,1
+it_isdt-ud-dev,3592,.,"pre di ridicolo, dovrebbe bastare questo a punirlo","
+ anche in
+Parlamento disse che noi saremmo usciti","pre di ridicolo, dovrebbe bastare questo a punirlo.
+ anche in
+Parlamento disse che noi saremmo usciti",punirlo,anche,1
+it_isdt-ud-dev,3669,.,e che noi saremmo usciti di lì con i piedi avanti ,".."".
+ Il ""duro""
+di An ce l'ha con Irene Pivetti, c","e che noi saremmo usciti di lì con i piedi avanti ..."".
+ Il ""duro""
+di An ce l'ha con Irene Pivetti, c",,,0
+it_isdt-ud-dev,3670,., che noi saremmo usciti di lì con i piedi avanti .,"."".
+ Il ""duro""
+di An ce l'ha con Irene Pivetti, ch"," che noi saremmo usciti di lì con i piedi avanti ..."".
+ Il ""duro""
+di An ce l'ha con Irene Pivetti, ch",,,0
+it_isdt-ud-dev,3671,.,che noi saremmo usciti di lì con i piedi avanti ..,""".
+ Il ""duro""
+di An ce l'ha con Irene Pivetti, che","che noi saremmo usciti di lì con i piedi avanti ..."".
+ Il ""duro""
+di An ce l'ha con Irene Pivetti, che",,,0
+it_isdt-ud-dev,3673,.,"e noi saremmo usciti di lì con i piedi avanti ...""","
+ Il ""duro""
+di An ce l'ha con Irene Pivetti, che a","e noi saremmo usciti di lì con i piedi avanti ..."".
+ Il ""duro""
+di An ce l'ha con Irene Pivetti, che a",,Il,1
+it_isdt-ud-dev,3892,.,"rma
+di linguaggio, magari più colorita del normale","
+ ""Finché c'è chi lo difende e lo
+incoraggia, lui ","rma
+di linguaggio, magari più colorita del normale.
+ ""Finché c'è chi lo difende e lo
+incoraggia, lui ",normale,,1
+it_isdt-ud-dev,3993,.,"continuerà a comportarsi così"", profetizza Storace","
+ Stia a casa
+lo stesso.
+ Ecco l'arringa di Tizian","continuerà a comportarsi così"", profetizza Storace.
+ Stia a casa
+lo stesso.
+ Ecco l'arringa di Tizian",Storace,Stia,1
+it_isdt-ud-dev,4017,.," così"", profetizza Storace.
+ Stia a casa
+lo stesso","
+ Ecco l'arringa di Tiziana Maiolo.
+ ""La Pivetti h"," così"", profetizza Storace.
+ Stia a casa
+lo stesso.
+ Ecco l'arringa di Tiziana Maiolo.
+ ""La Pivetti h",stesso,Ecco,1
+it_isdt-ud-dev,4052,.," casa
+lo stesso.
+ Ecco l'arringa di Tiziana Maiolo","
+ ""La Pivetti ha fatto benissimo a
+decidere di tes"," casa
+lo stesso.
+ Ecco l'arringa di Tiziana Maiolo.
+ ""La Pivetti ha fatto benissimo a
+decidere di tes",Maiolo,,1
+it_isdt-ud-dev,4109,.,"Pivetti ha fatto benissimo a
+decidere di testa sua","
+ Veniva da me questa pidiessina tremenda, la Albe","Pivetti ha fatto benissimo a
+decidere di testa sua.
+ Veniva da me questa pidiessina tremenda, la Albe",sua,Veniva,1
+it_isdt-ud-dev,4173,.,"e questa pidiessina tremenda, la Alberta De
+Simone","
+ mettiamo la targa agli ""esperti"".
+ E i ""colleghi","e questa pidiessina tremenda, la Alberta De
+Simone.
+ mettiamo la targa agli ""esperti"".
+ E i ""colleghi",Simone,mettiamo,1
+it_isdt-ud-dev,4208,.,"berta De
+Simone.
+ mettiamo la targa agli ""esperti""","
+ E i ""colleghi"" di Saxa Rubra?
+ Perché
+non ha sen","berta De
+Simone.
+ mettiamo la targa agli ""esperti"".
+ E i ""colleghi"" di Saxa Rubra?
+ Perché
+non ha sen",,E,1
+it_isdt-ud-dev,4239,?,"arga agli ""esperti"".
+ E i ""colleghi"" di Saxa Rubra","
+ Perché
+non ha senso dire al telespettatore che u","arga agli ""esperti"".
+ E i ""colleghi"" di Saxa Rubra?
+ Perché
+non ha senso dire al telespettatore che u",Rubra,Perché,1
+it_isdt-ud-dev,4452,.,"ne va inserito, ora, in una precisa area politica""","
+ ""Ma no, non è così -
+replica Ante -.
+ E come no,","ne va inserito, ora, in una precisa area politica"".
+ ""Ma no, non è così -
+replica Ante -.
+ E come no,",,,1
+it_isdt-ud-dev,4490,.,"ea politica"".
+ ""Ma no, non è così -
+replica Ante -","
+ E come no, come no, caro Ante.
+ ""Molti non hanno","ea politica"".
+ ""Ma no, non è così -
+replica Ante -.
+ E come no, come no, caro Ante.
+ ""Molti non hanno",-,E,1
+it_isdt-ud-dev,4522,.,"ì -
+replica Ante -.
+ E come no, come no, caro Ante","
+ ""Molti non hanno neppure fatto in
+tempo a raccog","ì -
+replica Ante -.
+ E come no, come no, caro Ante.
+ ""Molti non hanno neppure fatto in
+tempo a raccog",Ante,,1
+it_isdt-ud-dev,4600,.,"fatto in
+tempo a raccogliere gli effetti personali","
+ Altre 80 mila sono in cammino verso
+quella zona ","fatto in
+tempo a raccogliere gli effetti personali.
+ Altre 80 mila sono in cammino verso
+quella zona ",personali,Altre,1
+it_isdt-ud-dev,4702,.,rientale della sacca di Bihac ancora in mano serba,"
+ È finita la
+guerra?
+ Il primo ministro Silajgic ","rientale della sacca di Bihac ancora in mano serba.
+ È finita la
+guerra?
+ Il primo ministro Silajgic ",serba,È,1
+it_isdt-ud-dev,4723,?,"di Bihac ancora in mano serba.
+ È finita la
+guerra","
+ Il primo ministro Silajgic ha da poco annunciato","di Bihac ancora in mano serba.
+ È finita la
+guerra?
+ Il primo ministro Silajgic ha da poco annunciato",guerra,Il,1
+it_isdt-ud-dev,4869,.,vare un governo che sbarri la porta alla dittatura,"
+ Subito
+dopo l'arresto Orejuela è stato trasferit","vare un governo che sbarri la porta alla dittatura.
+ Subito
+dopo l'arresto Orejuela è stato trasferit",dittatura,Subito,1
+it_isdt-ud-dev,5037,.,"arte dei magistrati è stato esibito ai
+giornalisti","
+ Il concerto in Vaticano per i 50 anni dalle bomb","arte dei magistrati è stato esibito ai
+giornalisti.
+ Il concerto in Vaticano per i 50 anni dalle bomb",giornalisti,Il,1
+it_isdt-ud-dev,5148,.,"hima e
+Nagasaki si lascia dietro una coda velenosa","
+ Questa ricchezza è tutta apparenza.
+
+L'apprendis","hima e
+Nagasaki si lascia dietro una coda velenosa.
+ Questa ricchezza è tutta apparenza.
+
+L'apprendis",velenosa,Questa,1
+it_isdt-ud-dev,5185,.,"coda velenosa.
+ Questa ricchezza è tutta apparenza","
+
+L'apprendista stregone, evidentemente, non ha ri","coda velenosa.
+ Questa ricchezza è tutta apparenza.
+
+L'apprendista stregone, evidentemente, non ha ri",apparenza,L'apprendista,1
+it_isdt-ud-dev,5245,.,"ndista stregone, evidentemente, non ha rinunciato""","
+ La pensano allo
+stesso modo due turiste di Varsa","ndista stregone, evidentemente, non ha rinunciato"".
+ La pensano allo
+stesso modo due turiste di Varsa",,La,1
+it_isdt-ud-dev,5299,.,"a pensano allo
+stesso modo due turiste di Varsavia","
+ Il sub aveva la regolare boa di
+avvistamento ma ","a pensano allo
+stesso modo due turiste di Varsavia.
+ Il sub aveva la regolare boa di
+avvistamento ma ",Varsavia,Il,1
+it_isdt-ud-dev,5445,.,"33 anni, di Sesto
+San Giovanni non l'avrebbe vista","
+ Esodo controllato a Civitavecchia:
+ In ospedale
+","33 anni, di Sesto
+San Giovanni non l'avrebbe vista.
+ Esodo controllato a Civitavecchia:
+ In ospedale
+",vista,Esodo,1
+it_isdt-ud-dev,5593,.," escursionisti per ustioni e
+alterazioni cardiache","
+ avevano appena lasciato la cima per iniziare la "," escursionisti per ustioni e
+alterazioni cardiache.
+ avevano appena lasciato la cima per iniziare la ",cardiache,avevano,1
+it_isdt-ud-dev,5776,.,"corda
+doppia, come è norma elementare in alpinismo","
+ Ieri, la polizia ha denunciato in
+stato di irrep","corda
+doppia, come è norma elementare in alpinismo.
+ Ieri, la polizia ha denunciato in
+stato di irrep",alpinismo,Ieri,1
+it_isdt-ud-dev,5987,.,"di tentato omicidio e concorso in
+tentato omicidio","
+ Sono venuti in due su una macchina scura, forse ","di tentato omicidio e concorso in
+tentato omicidio.
+ Sono venuti in due su una macchina scura, forse ",omicidio,Sono,1
+it_isdt-ud-dev,6059,.,"su una macchina scura, forse una Golf -
+racconta -","
+ L'ho sentito qualche volta al telefono, non l'ho","su una macchina scura, forse una Golf -
+racconta -.
+ L'ho sentito qualche volta al telefono, non l'ho",-,L'ho,1
+it_isdt-ud-dev,6120,.,"tito qualche volta al telefono, non l'ho mai visto","
+ L'ex
+presidente antimafia.
+ ""Ora il governo pres","tito qualche volta al telefono, non l'ho mai visto.
+ L'ex
+presidente antimafia.
+ ""Ora il governo pres",visto,L'ex,1
+it_isdt-ud-dev,6148,.,"no, non l'ho mai visto.
+ L'ex
+presidente antimafia","
+ ""Ora il governo presenti un progetto sfidando i ","no, non l'ho mai visto.
+ L'ex
+presidente antimafia.
+ ""Ora il governo presenti un progetto sfidando i ",antimafia,,1
+it_isdt-ud-dev,6224,.,"i un progetto sfidando i nemici dei
+collaboratori""","
+ ""Mi pare che siano proposte serie e condivisibil","i un progetto sfidando i nemici dei
+collaboratori"".
+ ""Mi pare che siano proposte serie e condivisibil",,,1
+it_isdt-ud-dev,6277,.,"""Mi pare che siano proposte serie e condivisibili""","
+ ""Io spero
+che vengano subito discusse in commiss","""Mi pare che siano proposte serie e condivisibili"".
+ ""Io spero
+che vengano subito discusse in commiss",,,1
+it_isdt-ud-dev,6381,.,"e Affari Costituzionali e in
+commissione Giustizia","
+ Poi, se il governo non presenta un progetto di l","e Affari Costituzionali e in
+commissione Giustizia.
+ Poi, se il governo non presenta un progetto di l",Giustizia,Poi,1
+it_isdt-ud-dev,6492,.,o sia giusto che lo facciano altre parti politiche,"
+ Le chiavi dei suoi film
+sono fin troppo leggibil","o sia giusto che lo facciano altre parti politiche.
+ Le chiavi dei suoi film
+sono fin troppo leggibil",politiche,Le,1
+it_isdt-ud-dev,6554,.," dei suoi film
+sono fin troppo leggibili e giuste""","
+ ""Gli spot antiberlusconiani prodotti da
+Moretti "," dei suoi film
+sono fin troppo leggibili e giuste"".
+ ""Gli spot antiberlusconiani prodotti da
+Moretti ",,,1
+it_isdt-ud-dev,6767,.,"da Moravia che ne scrive
+sull'""Espresso"", eccetera","
+ gusto un po' facile e appeal sicuro.
+ Il primo
+""","da Moravia che ne scrive
+sull'""Espresso"", eccetera.
+ gusto un po' facile e appeal sicuro.
+ Il primo
+""",eccetera,gusto,1
+it_isdt-ud-dev,6805,.,"o"", eccetera.
+ gusto un po' facile e appeal sicuro","
+ Il primo
+""apolide toscano"" poco più che quarante","o"", eccetera.
+ gusto un po' facile e appeal sicuro.
+ Il primo
+""apolide toscano"" poco più che quarante",sicuro,Il,1
+it_isdt-ud-dev,6966,.,"m che proiettavano Dreyer, Bergman, Kazan, De Sica","
+ Dal '93
+dirige il Festival di Taormina.
+ Mare in","m che proiettavano Dreyer, Bergman, Kazan, De Sica.
+ Dal '93
+dirige il Festival di Taormina.
+ Mare in",Sica,Dal,1
+it_isdt-ud-dev,7007,.,", De Sica.
+ Dal '93
+dirige il Festival di Taormina","
+ Mare in tempesta vien fuori tutto da una attenta",", De Sica.
+ Dal '93
+dirige il Festival di Taormina.
+ Mare in tempesta vien fuori tutto da una attenta",Taormina,Mare,1
+it_isdt-ud-dev,7288,.,"Migliara:
+ inquietanti delitti, anche a luci rosse","
+
+Celli, la morte arriva come le vespe d'autunno.
+","Migliara:
+ inquietanti delitti, anche a luci rosse.
+
+Celli, la morte arriva come le vespe d'autunno.
+",rosse,Celli,1
+it_isdt-ud-dev,7337,.,"e.
+
+Celli, la morte arriva come le vespe d'autunno","
+ Chi ha ucciso l'ingegner Reali?
+
+Abbiamo cercato","e.
+
+Celli, la morte arriva come le vespe d'autunno.
+ Chi ha ucciso l'ingegner Reali?
+
+Abbiamo cercato",d'autunno,Chi,1
+it_isdt-ud-dev,7370,?,"e vespe d'autunno.
+ Chi ha ucciso l'ingegner Reali","
+
+Abbiamo cercato di presentare una interpretazion","e vespe d'autunno.
+ Chi ha ucciso l'ingegner Reali?
+
+Abbiamo cercato di presentare una interpretazion",Reali,Abbiamo,1
+it_isdt-ud-dev,7430,., cercato di presentare una interpretazione diversa,"
+ Adesso devo fare da
+cuscinetto tra lui e i batti"," cercato di presentare una interpretazione diversa.
+ Adesso devo fare da
+cuscinetto tra lui e i batti",diversa,Adesso,1
+it_isdt-ud-dev,7498,.,"e da
+cuscinetto tra lui e i battiti del suo cuore""","
+ Era in platea, è andato via
+soltanto mezz'ora pr","e da
+cuscinetto tra lui e i battiti del suo cuore"".
+ Era in platea, è andato via
+soltanto mezz'ora pr",,Era,1
+it_isdt-ud-dev,7563,.,"a, è andato via
+soltanto mezz'ora prima del finale","
+ E la pubblicità dei telefoni erotici non si
+ferm","a, è andato via
+soltanto mezz'ora prima del finale.
+ E la pubblicità dei telefoni erotici non si
+ferm",finale,E,1
+it_isdt-ud-dev,7641,?,"oni erotici non si
+ferma un attimo, tutta la notte","
+ L'ex adolescente ribelle:
+ Il Comune non pulisce","oni erotici non si
+ferma un attimo, tutta la notte?
+ L'ex adolescente ribelle:
+ Il Comune non pulisce",notte,L'ex,1
+it_isdt-ud-dev,7745,.,"esti scarabocchi perché i ""pittori"" li rifarebbero","
+ Al casello, dopo 240 km
+circa, pago L. 22.500, c","esti scarabocchi perché i ""pittori"" li rifarebbero.
+ Al casello, dopo 240 km
+circa, pago L. 22.500, c",rifarebbero,Al,1
+it_isdt-ud-dev,7785,.,"ifarebbero.
+ Al casello, dopo 240 km
+circa, pago L"," 22.500, commentando sfavorevolmente il fatto che ","ifarebbero.
+ Al casello, dopo 240 km
+circa, pago L. 22.500, commentando sfavorevolmente il fatto che ",L,22,0
+it_isdt-ud-dev,7789,.,"ebbero.
+ Al casello, dopo 240 km
+circa, pago L. 22","500, commentando sfavorevolmente il fatto che la c","ebbero.
+ Al casello, dopo 240 km
+circa, pago L. 22.500, commentando sfavorevolmente il fatto che la c",22,500,0
+it_isdt-ud-dev,7915,.,e al costo della benzina consumata per quel tratto,"
+ con questa
+semplice enumerazione di attività i c","e al costo della benzina consumata per quel tratto.
+ con questa
+semplice enumerazione di attività i c",tratto,con,1
+it_isdt-ud-dev,8088,.,"ione e sollievo si mescolano con la
+contemplazione","
+ Dopo Liegi e in attesa (giovedì) del Benfica a L","ione e sollievo si mescolano con la
+contemplazione.
+ Dopo Liegi e in attesa (giovedì) del Benfica a L",contemplazione,Dopo,1
+it_isdt-ud-dev,8304,.,igato dalla Fiorentina nell'ennesimo festival Opel,"
+
+""Queste sono faccende che non mi riguardano - ta","igato dalla Fiorentina nell'ennesimo festival Opel.
+
+""Queste sono faccende che non mi riguardano - ta",Opel,,1
+it_isdt-ud-dev,8375,.,nde che non mi riguardano - taglia corto Capello -,"
+ Se ne va,
+come Lewis, senza partecipare (ufficia","nde che non mi riguardano - taglia corto Capello -.
+ Se ne va,
+come Lewis, senza partecipare (ufficia",-,Se,1
+it_isdt-ud-dev,8446,.,"is, senza partecipare (ufficiale, salpa mercoledì)","
+ Non subito, almeno.
+
+Due giorni di Mondiale e Go","is, senza partecipare (ufficiale, salpa mercoledì).
+ Non subito, almeno.
+
+Due giorni di Mondiale e Go",,Non,1
+it_isdt-ud-dev,8467,.," (ufficiale, salpa mercoledì).
+ Non subito, almeno","
+
+Due giorni di Mondiale e Goteborg, la sua pista,"," (ufficiale, salpa mercoledì).
+ Non subito, almeno.
+
+Due giorni di Mondiale e Goteborg, la sua pista,",almeno,Due,1
+it_isdt-ud-dev,8644,.,"ivali lungo i tornanti del celebre
+passo pirenaico","
+ La situazione arbitrale è pessima e rischia di e","ivali lungo i tornanti del celebre
+passo pirenaico.
+ La situazione arbitrale è pessima e rischia di e",pirenaico,La,1
+it_isdt-ud-dev,8739,.,"a di esplodere
+durante il campionato, inquinandolo","
+ un po' per dare soddisfazione a quei
+presidenti ","a di esplodere
+durante il campionato, inquinandolo.
+ un po' per dare soddisfazione a quei
+presidenti ",inquinandolo,un,1
+it_isdt-ud-dev,8853,.,orso accusarono il designatore di favorire la Juve,"
+ Il
+ginocchio mi fa sempre un po' male, ma gli ul","orso accusarono il designatore di favorire la Juve.
+ Il
+ginocchio mi fa sempre un po' male, ma gli ul",Juve,Il,1
+it_isdt-ud-dev,8985,.,"
+dato molta sicurezza e l'ora della gara è ottima""","
+ ""La marcia è più brava di
+altre discipline a tro","
+dato molta sicurezza e l'ora della gara è ottima"".
+ ""La marcia è più brava di
+altre discipline a tro",,,1
+it_isdt-ud-dev,9079,.,"e a trovare i talenti e a non perderli per strada""","
+ Così diventa
+first lady.
+ È stata quello che ci ","e a trovare i talenti e a non perderli per strada"".
+ Così diventa
+first lady.
+ È stata quello che ci ",,Così,1
+it_isdt-ud-dev,9105,.,"non perderli per strada"".
+ Così diventa
+first lady","
+ È stata quello che ci si attendeva:
+ È solo gran","non perderli per strada"".
+ Così diventa
+first lady.
+ È stata quello che ci si attendeva:
+ È solo gran",lady,È,1
+it_isdt-ud-dev,9167,.,"uello che ci si attendeva:
+ È solo gran confusione","
+ C'è
+gente nuova da ieri in pista, la copre veloc","uello che ci si attendeva:
+ È solo gran confusione.
+ C'è
+gente nuova da ieri in pista, la copre veloc",confusione,C'è,1
+it_isdt-ud-dev,9269,.,":
+ Allora mi sono innervosita e ho
+temuto la beffa","
+ Sembrava un amore destinato a finire subito, inv",":
+ Allora mi sono innervosita e ho
+temuto la beffa.
+ Sembrava un amore destinato a finire subito, inv",beffa,Sembrava,1
+it_isdt-ud-dev,9386,.,"andò avanti fino alle nozze, celebrate due anni fa","
+ Precisa la trasformazione di
+Stoichkov dal disch","andò avanti fino alle nozze, celebrate due anni fa.
+ Precisa la trasformazione di
+Stoichkov dal disch",fa,Precisa,1
+it_isdt-ud-dev,9447,.,"la trasformazione di
+Stoichkov dal dischetto (43')","
+ Il caso del cavallo, non trattato con cocaina,
+e","la trasformazione di
+Stoichkov dal dischetto (43').
+ Il caso del cavallo, non trattato con cocaina,
+e",,Il,1
+it_isdt-ud-dev,9766,.,"ttaccante di 2,01,
+proveniente dai Milwaukee Bucks","
+ ""Anche nella passata stagione - dice Vialli -
+si","ttaccante di 2,01,
+proveniente dai Milwaukee Bucks.
+ ""Anche nella passata stagione - dice Vialli -
+si",Bucks,,1
+it_isdt-ud-dev,9895,.," interventi sembrano fatti su misura contro di
+noi","
+ E se d'ora in poi, in virtù di questi nuovi acco"," interventi sembrano fatti su misura contro di
+noi.
+ E se d'ora in poi, in virtù di questi nuovi acco",noi,E,1
+it_isdt-ud-dev,10233,.,"re quando c'è la
+possibilità di mostrare un trofeo","
+ ""Baggio, Savicevic e Weah possono giocare
+insiem","re quando c'è la
+possibilità di mostrare un trofeo.
+ ""Baggio, Savicevic e Weah possono giocare
+insiem",trofeo,,1
+it_isdt-ud-dev,10285,.," ""Baggio, Savicevic e Weah possono giocare
+insieme","
+ Dopo Varese aveva ridotto tutto a un proficuo al"," ""Baggio, Savicevic e Weah possono giocare
+insieme.
+ Dopo Varese aveva ridotto tutto a un proficuo al",insieme,Dopo,1
+it_isdt-ud-dev,10454,.,"alcosa in più di una squadra
+solamente volenterosa","
+ Più recenti i lutti, per due incidenti stradali ","alcosa in più di una squadra
+solamente volenterosa.
+ Più recenti i lutti, per due incidenti stradali ",volenterosa,Più,1
+it_isdt-ud-dev,10673,.,"icura collegata ai parchi nazionali più
+importanti","
+ Nel pozzetto anche la moglie e i due figli picco","icura collegata ai parchi nazionali più
+importanti.
+ Nel pozzetto anche la moglie e i due figli picco",importanti,Nel,1
+it_isdt-ud-dev,10726,.,Nel pozzetto anche la moglie e i due figli piccoli,"
+ Conseguenza, con
+tutta probabilità, di un pasto ","Nel pozzetto anche la moglie e i due figli piccoli.
+ Conseguenza, con
+tutta probabilità, di un pasto ",piccoli,Conseguenza,1
+it_isdt-ud-dev,10819,.,n pasto consumato subito prima di gettarsi in mare,"
+
+Subito è stato interpellato don Tomba, parroco d","n pasto consumato subito prima di gettarsi in mare.
+
+Subito è stato interpellato don Tomba, parroco d",mare,Subito,1
+it_isdt-ud-dev,11019,.,"rolamo Grillo,
+ora in vacanza dal fratello a Miami","
+ Sullo sfondo di tante torbide vicende c'è
+la ""ci","rolamo Grillo,
+ora in vacanza dal fratello a Miami.
+ Sullo sfondo di tante torbide vicende c'è
+la ""ci",Miami,Sullo,1
+it_isdt-ud-dev,11159,.,"il porto in declino, il contesto
+sociale difficile","
+ Da una, Luigi sorride con i due bambini Castigli","il porto in declino, il contesto
+sociale difficile.
+ Da una, Luigi sorride con i due bambini Castigli",difficile,Da,1
+it_isdt-ud-dev,11284,.,"i ieri, mentre si avviavano a una giornata allegra","
+ Ai balconi si
+affacciano donne anziane, pensiona","i ieri, mentre si avviavano a una giornata allegra.
+ Ai balconi si
+affacciano donne anziane, pensiona",allegra,Ai,1
+it_isdt-ud-dev,11396,.,"o ad alta voce:
+ Negozi e servizi
+aperti per ferie","
+ In periferia, calcola infatti l'Osservatorio di ","o ad alta voce:
+ Negozi e servizi
+aperti per ferie.
+ In periferia, calcola infatti l'Osservatorio di ",ferie,In,1
+it_isdt-ud-dev,11612,.,o irruzione gli agenti del commissariato Esquilino,"
+ ""È
+finito nel museo insieme ad altre cose"", ci a","o irruzione gli agenti del commissariato Esquilino.
+ ""È
+finito nel museo insieme ad altre cose"", ci a",Esquilino,,1
+it_isdt-ud-dev,11738,.,"and Buchs
+Binz, il trentesimo comandante del Corpo","
+ In armeria ci sono 300 armature delle
+quali 50 h","and Buchs
+Binz, il trentesimo comandante del Corpo.
+ In armeria ci sono 300 armature delle
+quali 50 h",Corpo,In,1
+it_isdt-ud-dev,11811,.,"00 armature delle
+quali 50 hanno più di tre secoli","
+ Le buone cose di Herr Meier.
+ al signor Meier
+pi","00 armature delle
+quali 50 hanno più di tre secoli.
+ Le buone cose di Herr Meier.
+ al signor Meier
+pi",secoli,Le,1
+it_isdt-ud-dev,11841,.,"no più di tre secoli.
+ Le buone cose di Herr Meier","
+ al signor Meier
+piaceva molto, infatti, arricchi","no più di tre secoli.
+ Le buone cose di Herr Meier.
+ al signor Meier
+piaceva molto, infatti, arricchi",Meier,al,1
+it_isdt-ud-dev,11929,.,"tti, arricchire la sua casa con piccole collezioni","
+ In questa
+pagina, una poltroncina e due sedie di","tti, arricchire la sua casa con piccole collezioni.
+ In questa
+pagina, una poltroncina e due sedie di",collezioni,In,1
+it_isdt-ud-dev,12010,.,ncina e due sedie di accurata ebanisteria viennese,"
+ La mostra,
+il cui allestimento ha richiesto 41,7","ncina e due sedie di accurata ebanisteria viennese.
+ La mostra,
+il cui allestimento ha richiesto 41,7",viennese,La,1
+it_isdt-ud-dev,12185,.,"cie di 2500 metri quadri e si prevede che
+viaggerà","
+ Il suo nome nasce, in maniera abbastanza singola","cie di 2500 metri quadri e si prevede che
+viaggerà.
+ Il suo nome nasce, in maniera abbastanza singola",viaggerà,Il,1
+it_isdt-ud-dev,12307,.,"
+umoristi svevi, Adolph Kussmaul e Ludwig Eichrodt","
+ il buon Rossi in Italia, il
+buon Smith in Inghil","
+umoristi svevi, Adolph Kussmaul e Ludwig Eichrodt.
+ il buon Rossi in Italia, il
+buon Smith in Inghil",Eichrodt,il,1
+it_isdt-ud-dev,12390,.,"on Smith in Inghilterra, il buon Dupont in Francia","
+ e a colonna è pure la
+stufa di ceramica, con ril","on Smith in Inghilterra, il buon Dupont in Francia.
+ e a colonna è pure la
+stufa di ceramica, con ril",Francia,e,1
+it_isdt-ud-dev,12454,.," è pure la
+stufa di ceramica, con rilievi floreali","
+ Questi ultimi hanno frequenti
+rivestimenti in re"," è pure la
+stufa di ceramica, con rilievi floreali.
+ Questi ultimi hanno frequenti
+rivestimenti in re",floreali,Questi,1
+it_isdt-ud-dev,12514,.,"ultimi hanno frequenti
+rivestimenti in reps rigato","
+ Frequenti erano i tavoli ovali e ancor più le
+sc","ultimi hanno frequenti
+rivestimenti in reps rigato.
+ Frequenti erano i tavoli ovali e ancor più le
+sc",rigato,Frequenti,1
+it_isdt-ud-dev,12729,.,"lonne laterali che potevano
+contenere delle piante","
+ la stessa che fa anche stendere sul pavimento pe","lonne laterali che potevano
+contenere delle piante.
+ la stessa che fa anche stendere sul pavimento pe",piante,la,1
+it_isdt-ud-dev,12792,.,"che fa anche stendere sul pavimento pelli di
+tigre","
+ Il mobiliere che le diede il proprio nome, chiam","che fa anche stendere sul pavimento pelli di
+tigre.
+ Il mobiliere che le diede il proprio nome, chiam",tigre,Il,1
+it_isdt-ud-dev,12957,.,"i giunse portando il legno di
+faggio della Moravia","
+ ai vetri di Boemia e di Moravia, alle porcellane","i giunse portando il legno di
+faggio della Moravia.
+ ai vetri di Boemia e di Moravia, alle porcellane",Moravia,ai,1
+it_isdt-ud-dev,13125,.,"ampionari di stoffe
+dei rappresentanti), alla moda","
+ Collezione ""Bi Marmi"", (distr. da Palazzo) in
+ma","ampionari di stoffe
+dei rappresentanti), alla moda.
+ Collezione ""Bi Marmi"", (distr. da Palazzo) in
+ma",moda,Collezione,1
+it_isdt-ud-dev,13157,.,"ntanti), alla moda.
+ Collezione ""Bi Marmi"", (distr"," da Palazzo) in
+marmo naturale, assemblato a mosai","ntanti), alla moda.
+ Collezione ""Bi Marmi"", (distr. da Palazzo) in
+marmo naturale, assemblato a mosai",distr,da,0
+it_isdt-ud-dev,13210,.,"a Palazzo) in
+marmo naturale, assemblato a mosaico","
+ L. 90.000 il mq.
+ Cm 60x60 e uno spessore
+di mm ","a Palazzo) in
+marmo naturale, assemblato a mosaico.
+ L. 90.000 il mq.
+ Cm 60x60 e uno spessore
+di mm ",mosaico,L,1
+it_isdt-ud-dev,13214,.,"lazzo) in
+marmo naturale, assemblato a mosaico.
+ L"," 90.000 il mq.
+ Cm 60x60 e uno spessore
+di mm 7.
+ ","lazzo) in
+marmo naturale, assemblato a mosaico.
+ L. 90.000 il mq.
+ Cm 60x60 e uno spessore
+di mm 7.
+ ",L,90,0
+it_isdt-ud-dev,13218,.,"o) in
+marmo naturale, assemblato a mosaico.
+ L. 90","000 il mq.
+ Cm 60x60 e uno spessore
+di mm 7.
+ ""Sto","o) in
+marmo naturale, assemblato a mosaico.
+ L. 90.000 il mq.
+ Cm 60x60 e uno spessore
+di mm 7.
+ ""Sto",90,000,0
+it_isdt-ud-dev,13228,.,"o naturale, assemblato a mosaico.
+ L. 90.000 il mq","
+ Cm 60x60 e uno spessore
+di mm 7.
+ ""Stoneglass"", ","o naturale, assemblato a mosaico.
+ L. 90.000 il mq.
+ Cm 60x60 e uno spessore
+di mm 7.
+ ""Stoneglass"", ",mq,Cm,1
+it_isdt-ud-dev,13262,.," L. 90.000 il mq.
+ Cm 60x60 e uno spessore
+di mm 7","
+ ""Stoneglass"", di Stone Italia, con frammenti di "," L. 90.000 il mq.
+ Cm 60x60 e uno spessore
+di mm 7.
+ ""Stoneglass"", di Stone Italia, con frammenti di ",7,,1
+it_isdt-ud-dev,13327,.,", di Stone Italia, con frammenti di vetro colorato","
+ Da L.
+135.000 a L. 160.000 il mq (tipi smaltati ",", di Stone Italia, con frammenti di vetro colorato.
+ Da L.
+135.000 a L. 160.000 il mq (tipi smaltati ",colorato,Da,1
+it_isdt-ud-dev,13334,.,"one Italia, con frammenti di vetro colorato.
+ Da L","
+135.000 a L. 160.000 il mq (tipi smaltati lisci).","one Italia, con frammenti di vetro colorato.
+ Da L.
+135.000 a L. 160.000 il mq (tipi smaltati lisci).",L,135,0
+it_isdt-ud-dev,13339,.,"talia, con frammenti di vetro colorato.
+ Da L.
+135","000 a L. 160.000 il mq (tipi smaltati lisci).
+ Dal","talia, con frammenti di vetro colorato.
+ Da L.
+135.000 a L. 160.000 il mq (tipi smaltati lisci).
+ Dal",135,000,0
+it_isdt-ud-dev,13347,.,"on frammenti di vetro colorato.
+ Da L.
+135.000 a L"," 160.000 il mq (tipi smaltati lisci).
+ Dal momento","on frammenti di vetro colorato.
+ Da L.
+135.000 a L. 160.000 il mq (tipi smaltati lisci).
+ Dal momento",L,160,0
+it_isdt-ud-dev,13352,.,"ammenti di vetro colorato.
+ Da L.
+135.000 a L. 160","000 il mq (tipi smaltati lisci).
+ Dal momento che ","ammenti di vetro colorato.
+ Da L.
+135.000 a L. 160.000 il mq (tipi smaltati lisci).
+ Dal momento che ",160,000,0
+it_isdt-ud-dev,13384,.,".
+135.000 a L. 160.000 il mq (tipi smaltati lisci)","
+ Dal momento che il prodotto è
+prefinito e lucida",".
+135.000 a L. 160.000 il mq (tipi smaltati lisci).
+ Dal momento che il prodotto è
+prefinito e lucida",,Dal,1
+it_isdt-ud-dev,13687,.," che non
+lascia bene intuire il suo aspetto finale","
+ Il primo stacca la mattina dal
+pomeriggio ed è f"," che non
+lascia bene intuire il suo aspetto finale.
+ Il primo stacca la mattina dal
+pomeriggio ed è f",finale,Il,1
+it_isdt-ud-dev,13813,.,"re energia e spezzare in due il ritmo
+dello stress","
+ Trattieni il respiro per cinque secondi, poi esp","re energia e spezzare in due il ritmo
+dello stress.
+ Trattieni il respiro per cinque secondi, poi esp",stress,Trattieni,1
+it_isdt-ud-dev,13924,.,"piano,
+ripetendo mentalmente la parola ""rilassati""","
+ Sulle zone da rimodellare (fianchi,
+cosce, seder","piano,
+ripetendo mentalmente la parola ""rilassati"".
+ Sulle zone da rimodellare (fianchi,
+cosce, seder",,Sulle,1
+it_isdt-ud-dev,14131,.,"ircolazione sanguigna e del metabolismo dei
+grassi","
+ Riorganizzare, trasformare, rimettere in ordine,","ircolazione sanguigna e del metabolismo dei
+grassi.
+ Riorganizzare, trasformare, rimettere in ordine,",grassi,Riorganizzare,1
+it_isdt-ud-dev,14302,.," nuova stagione in perfetta
+forma fisica e mentale","
+ Di rigore, per tutte, un buon ricostituente:
+ Se"," nuova stagione in perfetta
+forma fisica e mentale.
+ Di rigore, per tutte, un buon ricostituente:
+ Se",mentale,Di,1
+it_isdt-ud-dev,14585,.,"punta in fuori"" a causa di un portamento sbagliato","
+ Per
+l'intossicamento fisiologico, segui una diet","punta in fuori"" a causa di un portamento sbagliato.
+ Per
+l'intossicamento fisiologico, segui una diet",sbagliato,Per,1
+it_isdt-ud-dev,14750,.,"ti integrali che stimolano le funzioni
+intestinali","
+ Frizionale tutti i giorni con un guanto di crine","ti integrali che stimolano le funzioni
+intestinali.
+ Frizionale tutti i giorni con un guanto di crine",intestinali,Frizionale,1
+it_isdt-ud-dev,15023,.,"i il gel
+c'è quello exfoliant di Vichy tonificante","
+ Stanno lì, ben dilatati, pronti a
+riempirsi di a","i il gel
+c'è quello exfoliant di Vichy tonificante.
+ Stanno lì, ben dilatati, pronti a
+riempirsi di a",tonificante,Stanno,1
+it_isdt-ud-dev,15160,.,"trasformare una linea netta in
+una curva di troppo","
+ ""Creme Minceur"" di Orlane.
+ Vediamo prima di tut","trasformare una linea netta in
+una curva di troppo.
+ ""Creme Minceur"" di Orlane.
+ Vediamo prima di tut",troppo,,1
+it_isdt-ud-dev,15188,.,"in
+una curva di troppo.
+ ""Creme Minceur"" di Orlane","
+ Vediamo prima di tutto i fatti.
+
+Il dottor Guyjo","in
+una curva di troppo.
+ ""Creme Minceur"" di Orlane.
+ Vediamo prima di tutto i fatti.
+
+Il dottor Guyjo",Orlane,Vediamo,1
+it_isdt-ud-dev,15221,.,"inceur"" di Orlane.
+ Vediamo prima di tutto i fatti","
+
+Il dottor Guyjon, medico personale di Allende, l","inceur"" di Orlane.
+ Vediamo prima di tutto i fatti.
+
+Il dottor Guyjon, medico personale di Allende, l",fatti,Il,1
+it_isdt-ud-dev,15328,.,"e subito, 14 anni fa, che
+Allende si era suicidato","
+ Di certe verità"", ha scritto Analysis, ""è meglio","e subito, 14 anni fa, che
+Allende si era suicidato.
+ Di certe verità"", ha scritto Analysis, ""è meglio",suicidato,Di,1
+it_isdt-ud-dev,15403,.,"critto Analysis, ""è meglio
+discutere, che negarle""","
+ Piccoli omicidi senza importanza.
+ Chi non sa a ","critto Analysis, ""è meglio
+discutere, che negarle"".
+ Piccoli omicidi senza importanza.
+ Chi non sa a ",,Piccoli,1
+it_isdt-ud-dev,15438,.,"e, che negarle"".
+ Piccoli omicidi senza importanza","
+ Chi non sa a che
+santo votarsi, ricorre al mito ","e, che negarle"".
+ Piccoli omicidi senza importanza.
+ Chi non sa a che
+santo votarsi, ricorre al mito ",importanza,Chi,1
+it_isdt-ud-dev,15759,., indiani o proteggevano la fattoria dai fuorilegge,"
+ a impatto,
+ossia a 24 aghi; a non impatto e quin"," indiani o proteggevano la fattoria dai fuorilegge.
+ a impatto,
+ossia a 24 aghi; a non impatto e quin",fuorilegge,a,1
+it_isdt-ud-dev,15850,.,tto e quindi a getto d'inchiostro (ink jet); laser,"
+
+Per quanto riguarda il secondo sistema si regist","tto e quindi a getto d'inchiostro (ink jet); laser.
+
+Per quanto riguarda il secondo sistema si regist",laser,Per,1
+it_isdt-ud-dev,15999,.,"evate, una velocità di stampa abbastanza contenuta","
+ Sono anche
+già pronti i primi software, come Ill","evate, una velocità di stampa abbastanza contenuta.
+ Sono anche
+già pronti i primi software, come Ill",contenuta,Sono,1
+it_isdt-ud-dev,16072,.,"i i primi software, come Illustrator 88 e XPress 2","0 (entrambi
+destinati al Macintosh II della Apple)","i i primi software, come Illustrator 88 e XPress 2.0 (entrambi
+destinati al Macintosh II della Apple)",2,0,0
+it_isdt-ud-dev,16270,.,"essionale è ormai alla
+portata di tutte le aziende","
+ Pallucca , prima del trapianto, aveva subito tre","essionale è ormai alla
+portata di tutte le aziende.
+ Pallucca , prima del trapianto, aveva subito tre",aziende,Pallucca,1
+it_isdt-ud-dev,16353,.,", aveva subito tre
+infarti e aveva quattro by-pass","
+ Trascorrevo i giorni su una sedia a rotelle, mi
+",", aveva subito tre
+infarti e aveva quattro by-pass.
+ Trascorrevo i giorni su una sedia a rotelle, mi
+",by-pass,Trascorrevo,1
+it_isdt-ud-dev,16450,.," mi
+mancava il fiato per riposare, pesavo 46 chili","
+ in alto, il laboratorio di
+analisi (qui un esame"," mi
+mancava il fiato per riposare, pesavo 46 chili.
+ in alto, il laboratorio di
+analisi (qui un esame",chili,in,1
+it_isdt-ud-dev,16575,.,"to in 14 secondi);
+ Uomini, donne,
+vecchi, bambini","
+ Elisabeth Cole, responsabile della corrispondenz","to in 14 secondi);
+ Uomini, donne,
+vecchi, bambini.
+ Elisabeth Cole, responsabile della corrispondenz",bambini,Elisabeth,1
+it_isdt-ud-dev,16701,.,uto il mese scorso ben 547 lettere di obesi delusi,"
+ I figli di
+William Mayo seguirono le orme patern","uto il mese scorso ben 547 lettere di obesi delusi.
+ I figli di
+William Mayo seguirono le orme patern",delusi,I,1
+it_isdt-ud-dev,16788,.,"le orme paterne;
+ ""Due medici della Mayo, Edward C","
+Kendall e Philips S. Hench, hanno ottenuto nel 19","le orme paterne;
+ ""Due medici della Mayo, Edward C.
+Kendall e Philips S. Hench, hanno ottenuto nel 19",C,Kendall,0
+it_isdt-ud-dev,16809,.,"e medici della Mayo, Edward C.
+Kendall e Philips S"," Hench, hanno ottenuto nel 1950 il premio Nobel pe","e medici della Mayo, Edward C.
+Kendall e Philips S. Hench, hanno ottenuto nel 1950 il premio Nobel pe",S,Hench,0
+it_isdt-ud-dev,16889,.,"50 il premio Nobel per avere
+scoperto il cortisone","
+ Una libertà che, a quanto pare, ha dato i suoi f","50 il premio Nobel per avere
+scoperto il cortisone.
+ Una libertà che, a quanto pare, ha dato i suoi f",cortisone,Una,1
+it_isdt-ud-dev,17010,.," evitate di parlare tra voi delle vostre malattie""","
+ Eppure, prosegue
+la lettera, a tutti è noto che "," evitate di parlare tra voi delle vostre malattie"".
+ Eppure, prosegue
+la lettera, a tutti è noto che ",,Eppure,1
+it_isdt-ud-dev,17167,., cogli amici aveva celebrato il raggiunto miliardo,"
+ 2) Quattro edifici in
+Roma del valore totale, al"," cogli amici aveva celebrato il raggiunto miliardo.
+ 2) Quattro edifici in
+Roma del valore totale, al",miliardo,2,1
+it_isdt-ud-dev,17250,.," valore totale, alla sua morte, di circa 5 milioni","
+ Romana elettricità,
+azioni 1400; Terni, azioni 3"," valore totale, alla sua morte, di circa 5 milioni.
+ Romana elettricità,
+azioni 1400; Terni, azioni 3",milioni,Romana,1
+it_isdt-ud-dev,17559,.,"ere
+pubbliche, azioni 24; Buoni del tesoro, lire 1","000.000; contante, lire
+355.089,40; conto corrente","ere
+pubbliche, azioni 24; Buoni del tesoro, lire 1.000.000; contante, lire
+355.089,40; conto corrente",1,000,0
+it_isdt-ud-dev,17563,.,"pubbliche, azioni 24; Buoni del tesoro, lire 1.000","000; contante, lire
+355.089,40; conto corrente pos","pubbliche, azioni 24; Buoni del tesoro, lire 1.000.000; contante, lire
+355.089,40; conto corrente pos",000,000,0
+it_isdt-ud-dev,17587,.,"oni del tesoro, lire 1.000.000; contante, lire
+355","089,40; conto corrente postale, lire 32.975.
+ così","oni del tesoro, lire 1.000.000; contante, lire
+355.089,40; conto corrente postale, lire 32.975.
+ così",355,089,0
+it_isdt-ud-dev,17627,.,", lire
+355.089,40; conto corrente postale, lire 32","975.
+ così ad es., nell'acquisto e
+nella rivendita",", lire
+355.089,40; conto corrente postale, lire 32.975.
+ così ad es., nell'acquisto e
+nella rivendita",32,975,0
+it_isdt-ud-dev,17631,.,"re
+355.089,40; conto corrente postale, lire 32.975","
+ così ad es., nell'acquisto e
+nella rivendita di ","re
+355.089,40; conto corrente postale, lire 32.975.
+ così ad es., nell'acquisto e
+nella rivendita di ",975,così,1
+it_isdt-ud-dev,17644,.,"; conto corrente postale, lire 32.975.
+ così ad es",", nell'acquisto e
+nella rivendita di valori aziona","; conto corrente postale, lire 32.975.
+ così ad es., nell'acquisto e
+nella rivendita di valori aziona",es,,0
+it_isdt-ud-dev,17892,.,"a, per le sue origini, di assai dubbia provenienza","
+ (4) Il
+proprietario può escludere chiunque altro","a, per le sue origini, di assai dubbia provenienza.
+ (4) Il
+proprietario può escludere chiunque altro",provenienza,,1
+it_isdt-ud-dev,18051,.,o stesso bene esistano più diritti di proprietà [v," 1100].
+
+Particolarmente interessante è la discipl","o stesso bene esistano più diritti di proprietà [v. 1100].
+
+Particolarmente interessante è la discipl",v,1100,0
+it_isdt-ud-dev,18058,.,o bene esistano più diritti di proprietà [v. 1100],"
+
+Particolarmente interessante è la disciplina dei","o bene esistano più diritti di proprietà [v. 1100].
+
+Particolarmente interessante è la disciplina dei",,Particolarmente,1
+it_isdt-ud-dev,18296,.,teresse (1) sono determinate da leggi speciali (2),"
+ Egli
+può sempre opporsi a chi non è munito della","teresse (1) sono determinate da leggi speciali (2).
+ Egli
+può sempre opporsi a chi non è munito della",,Egli,1
+it_isdt-ud-dev,18380,.,on è munito della licenza rilasciata dall'autorità,"
+ Il
+proprietario di un fondo non può impedire le ","on è munito della licenza rilasciata dall'autorità.
+ Il
+proprietario di un fondo non può impedire le ",dall'autorità,Il,1
+it_isdt-ud-dev,18659,.,"à, avuto anche
+riguardo alla condizione dei luoghi","
+ 3) le aree fabbricabili;
+ Il credito
+relativo è ","à, avuto anche
+riguardo alla condizione dei luoghi.
+ 3) le aree fabbricabili;
+ Il credito
+relativo è ",luoghi,3,1
+it_isdt-ud-dev,18751,.,lativo è privilegiato a norma delle leggi speciali,"
+ 858. Comprensorio di
+bonifica e piano delle oper","lativo è privilegiato a norma delle leggi speciali.
+ 858. Comprensorio di
+bonifica e piano delle oper",speciali,858,1
+it_isdt-ud-dev,18757,.," è privilegiato a norma delle leggi speciali.
+ 858"," Comprensorio di
+bonifica e piano delle opere.
+ De"," è privilegiato a norma delle leggi speciali.
+ 858. Comprensorio di
+bonifica e piano delle opere.
+ De",858,Comprensorio,0
+it_isdt-ud-dev,18803,.," 858. Comprensorio di
+bonifica e piano delle opere","
+ Deve inoltre eseguire le opere che occorrono per"," 858. Comprensorio di
+bonifica e piano delle opere.
+ Deve inoltre eseguire le opere che occorrono per",opere,Deve,1
+it_isdt-ud-dev,18886,.," che occorrono per
+non danneggiare il vicino [877]","
+ in ogni caso la positura del piovente prevale
+su"," che occorrono per
+non danneggiare il vicino [877].
+ in ogni caso la positura del piovente prevale
+su",,in,1
+it_isdt-ud-dev,18960,.,"ura del piovente prevale
+su tutti gli altri indizi","
+ Chi vuol piantare alberi presso il confine deve
+","ura del piovente prevale
+su tutti gli altri indizi.
+ Chi vuol piantare alberi presso il confine deve
+",indizi,Chi,1
+it_isdt-ud-dev,19091,.,"e dai regolamenti e, in mancanza, dagli usi
+locali","
+ 1) tre metri per gli alberi di alto fusto.
+ vedu","e dai regolamenti e, in mancanza, dagli usi
+locali.
+ 1) tre metri per gli alberi di alto fusto.
+ vedu",locali,1,1
+it_isdt-ud-dev,19135,.,"locali.
+ 1) tre metri per gli alberi di alto fusto","
+ vedute o prospetti, quando
+permettono di affacci","locali.
+ 1) tre metri per gli alberi di alto fusto.
+ vedute o prospetti, quando
+permettono di affacci",fusto,vedute,1
+it_isdt-ud-dev,19243,.,"di guardare di fronte, obliquamente o lateralmente","
+
+907. Distanza delle costruzioni dalle vedute.
+ I","di guardare di fronte, obliquamente o lateralmente.
+
+907. Distanza delle costruzioni dalle vedute.
+ I",lateralmente,907,1
+it_isdt-ud-dev,19249,.,"rdare di fronte, obliquamente o lateralmente.
+
+907"," Distanza delle costruzioni dalle vedute.
+ Il prop","rdare di fronte, obliquamente o lateralmente.
+
+907. Distanza delle costruzioni dalle vedute.
+ Il prop",907,Distanza,0
+it_isdt-ud-dev,19290,.,"nte.
+
+907. Distanza delle costruzioni dalle vedute","
+ Il proprietario di un fondo
+limitato o attravers","nte.
+
+907. Distanza delle costruzioni dalle vedute.
+ Il proprietario di un fondo
+limitato o attravers",vedute,Il,1
+it_isdt-ud-dev,19608,.,re le colature e gli avanzi al corso ordinario (1),"
+ 913. Scolo delle
+acque.
+ Il codice preferisce ch","re le colature e gli avanzi al corso ordinario (1).
+ 913. Scolo delle
+acque.
+ Il codice preferisce ch",,913,1
+it_isdt-ud-dev,19614,.,"colature e gli avanzi al corso ordinario (1).
+ 913"," Scolo delle
+acque.
+ Il codice preferisce che i pr","colature e gli avanzi al corso ordinario (1).
+ 913. Scolo delle
+acque.
+ Il codice preferisce che i pr",913,Scolo,0
+it_isdt-ud-dev,19633,.,"zi al corso ordinario (1).
+ 913. Scolo delle
+acque","
+ Il codice preferisce che i proprietari contribui","zi al corso ordinario (1).
+ 913. Scolo delle
+acque.
+ Il codice preferisce che i proprietari contribui",acque,Il,1
+it_isdt-ud-dev,19796,.,"ali opere e non in base all'estensione
+del terreno","
+ 923. Cose suscettibili di occupazione.
+ 925. Ani","ali opere e non in base all'estensione
+del terreno.
+ 923. Cose suscettibili di occupazione.
+ 925. Ani",terreno,923,1
+it_isdt-ud-dev,19802,.,"ere e non in base all'estensione
+del terreno.
+ 923"," Cose suscettibili di occupazione.
+ 925. Animali m","ere e non in base all'estensione
+del terreno.
+ 923. Cose suscettibili di occupazione.
+ 925. Animali m",923,Cose,0
+it_isdt-ud-dev,19836,.,"el terreno.
+ 923. Cose suscettibili di occupazione","
+ 925. Animali mansuefatti.
+ Il
+sindaco rende nota","el terreno.
+ 923. Cose suscettibili di occupazione.
+ 925. Animali mansuefatti.
+ Il
+sindaco rende nota",occupazione,925,1
+it_isdt-ud-dev,19842,.,"reno.
+ 923. Cose suscettibili di occupazione.
+ 925"," Animali mansuefatti.
+ Il
+sindaco rende nota la co","reno.
+ 923. Cose suscettibili di occupazione.
+ 925. Animali mansuefatti.
+ Il
+sindaco rende nota la co",925,Animali,0
+it_isdt-ud-dev,19863,.,"ettibili di occupazione.
+ 925. Animali mansuefatti","
+ Il
+sindaco rende nota la consegna [927] per mezz","ettibili di occupazione.
+ 925. Animali mansuefatti.
+ Il
+sindaco rende nota la consegna [927] per mezz",mansuefatti,Il,1
+it_isdt-ud-dev,20048,.,"ive e da restare affissa
+per tre giorni ogni volta","
+ il ritrovamento e il decorso del tempo senza che","ive e da restare affissa
+per tre giorni ogni volta.
+ il ritrovamento e il decorso del tempo senza che",volta,il,1
+it_isdt-ud-dev,20131,.,"el tempo senza che
+nessuno abbia reclamato la cosa","
+ il costruttore può chiedere al giudice di
+attrib","el tempo senza che
+nessuno abbia reclamato la cosa.
+ il costruttore può chiedere al giudice di
+attrib",cosa,il,1
+it_isdt-ud-dev,20268,.,"to se il proprietario del fondo non si
+sia opposto","
+ Egli ha l'obbligo di pagare all'altro il valore ","to se il proprietario del fondo non si
+sia opposto.
+ Egli ha l'obbligo di pagare all'altro il valore ",opposto,Egli,1
+it_isdt-ud-dev,20362,.,"valore della cosa che vi è
+unita o mescolata;
+ 947", Mutamenti del letto dei fiumi derivanti da regola,"valore della cosa che vi è
+unita o mescolata;
+ 947. Mutamenti del letto dei fiumi derivanti da regola",947,Mutamenti,0
+it_isdt-ud-dev,20433,.," dei fiumi derivanti da regolamento
+del loro corso","
+ La disposizione dell'art. 941 non si applica nel"," dei fiumi derivanti da regolamento
+del loro corso.
+ La disposizione dell'art. 941 non si applica nel",corso,La,1
+it_isdt-ud-dev,20460,.,"olamento
+del loro corso.
+ La disposizione dell'art"," 941 non si applica nel caso in cui le
+alluvioni d","olamento
+del loro corso.
+ La disposizione dell'art. 941 non si applica nel caso in cui le
+alluvioni d",dell'art,941,0
+it_isdt-ud-dev,20628,.,"
+fatti artificiali indotti dall'attività antropica","
+ Del pari può alienare la
+proprietà della costruz","
+fatti artificiali indotti dall'attività antropica.
+ Del pari può alienare la
+proprietà della costruz",antropica,Del,1
+it_isdt-ud-dev,20752,.,"aratamente dalla proprietà del
+suolo [956] (1) (2)","
+ Ispirato a chiare finalità economiche e sociali ","aratamente dalla proprietà del
+suolo [956] (1) (2).
+ Ispirato a chiare finalità economiche e sociali ",,Ispirato,1
+it_isdt-ud-dev,20991,.,"ta, una disciplina
+organica dell'istituto in esame","
+ Se la costituzione del diritto è stata fatta
+per","ta, una disciplina
+organica dell'istituto in esame.
+ Se la costituzione del diritto è stata fatta
+per",esame,Se,1
+it_isdt-ud-dev,21211,.,"venta proprietario della costruzione
+[934] (2) (3)","
+ Il perimento della costruzione non importa, salv","venta proprietario della costruzione
+[934] (2) (3).
+ Il perimento della costruzione non importa, salv",,Il,1
+it_isdt-ud-dev,21323,.,"trario, l'estinzione del diritto di superficie (1)","
+ L'enfiteusi fu introdotta
+nel codice del 1865 pe","trario, l'estinzione del diritto di superficie (1).
+ L'enfiteusi fu introdotta
+nel codice del 1865 pe",,L'enfiteusi,1
+it_isdt-ud-dev,21604,.," un anno dall'avvenuto perimento
+(2964 e seguenti)","
+ 977. Enfiteusi costituite dalle persone giuridic"," un anno dall'avvenuto perimento
+(2964 e seguenti).
+ 977. Enfiteusi costituite dalle persone giuridic",,977,1
+it_isdt-ud-dev,21610,.,"no dall'avvenuto perimento
+(2964 e seguenti).
+ 977"," Enfiteusi costituite dalle persone giuridiche.
+ E","no dall'avvenuto perimento
+(2964 e seguenti).
+ 977. Enfiteusi costituite dalle persone giuridiche.
+ E",977,Enfiteusi,0
+it_isdt-ud-dev,21657,.,977. Enfiteusi costituite dalle persone giuridiche,"
+ Egli può
+trarre dalla cosa ogni utilità che ques","977. Enfiteusi costituite dalle persone giuridiche.
+ Egli può
+trarre dalla cosa ogni utilità che ques",giuridiche,Egli,1
+it_isdt-ud-dev,21767,.,"re (1998), fermi i limiti
+stabiliti in questo capo","
+ 987. Miniere, cave e torbiere.
+ L'usufruttuario ","re (1998), fermi i limiti
+stabiliti in questo capo.
+ 987. Miniere, cave e torbiere.
+ L'usufruttuario ",capo,987,1
+it_isdt-ud-dev,21773,.,"98), fermi i limiti
+stabiliti in questo capo.
+ 987"," Miniere, cave e torbiere.
+ L'usufruttuario deve
+i","98), fermi i limiti
+stabiliti in questo capo.
+ 987. Miniere, cave e torbiere.
+ L'usufruttuario deve
+i",987,Miniere,0
+it_isdt-ud-dev,21799,.,"iti in questo capo.
+ 987. Miniere, cave e torbiere","
+ L'usufruttuario deve
+inoltre dare idonea garanzi","iti in questo capo.
+ 987. Miniere, cave e torbiere.
+ L'usufruttuario deve
+inoltre dare idonea garanzi",torbiere,L'usufruttuario,1
+it_isdt-ud-dev,21858,.,"ruttuario deve
+inoltre dare idonea garanzia (1179)","
+ 1012. Usurpazioni durante l'usufrutto e
+azioni r","ruttuario deve
+inoltre dare idonea garanzia (1179).
+ 1012. Usurpazioni durante l'usufrutto e
+azioni r",,1012,1
+it_isdt-ud-dev,21865,.,"io deve
+inoltre dare idonea garanzia (1179).
+ 1012"," Usurpazioni durante l'usufrutto e
+azioni relative","io deve
+inoltre dare idonea garanzia (1179).
+ 1012. Usurpazioni durante l'usufrutto e
+azioni relative",1012,Usurpazioni,0
+it_isdt-ud-dev,21929,.,"durante l'usufrutto e
+azioni relative alle servitù","
+ La stessa disposizione si applica se l'usufrutto","durante l'usufrutto e
+azioni relative alle servitù.
+ La stessa disposizione si applica se l'usufrutto",servitù,La,1
+it_isdt-ud-dev,22019,.,"l'usufrutto è
+stabilito soltanto sopra un edificio","
+ 1019. Perimento di cosa assicurata
+dall'usufrutt","l'usufrutto è
+stabilito soltanto sopra un edificio.
+ 1019. Perimento di cosa assicurata
+dall'usufrutt",edificio,1019,1
+it_isdt-ud-dev,22026,.,"utto è
+stabilito soltanto sopra un edificio.
+ 1019"," Perimento di cosa assicurata
+dall'usufruttuario.
+","utto è
+stabilito soltanto sopra un edificio.
+ 1019. Perimento di cosa assicurata
+dall'usufruttuario.
+",1019,Perimento,0
+it_isdt-ud-dev,22075,.,"9. Perimento di cosa assicurata
+dall'usufruttuario","
+ Si comprendono inoltre i figli adottivi (291 e s","9. Perimento di cosa assicurata
+dall'usufruttuario.
+ Si comprendono inoltre i figli adottivi (291 e s",dall'usufruttuario,Si,1
+it_isdt-ud-dev,22319,.,"one sono seguiti dopo che il
+diritto era già sorto","
+ 1028. Nozione dell'utilità.
+ 1037. Condizioni pe","one sono seguiti dopo che il
+diritto era già sorto.
+ 1028. Nozione dell'utilità.
+ 1037. Condizioni pe",sorto,1028,1
+it_isdt-ud-dev,22326,.,"o seguiti dopo che il
+diritto era già sorto.
+ 1028"," Nozione dell'utilità.
+ 1037. Condizioni per la
+co","o seguiti dopo che il
+diritto era già sorto.
+ 1028. Nozione dell'utilità.
+ 1037. Condizioni per la
+co",1028,Nozione,0
+it_isdt-ud-dev,22348,.,"diritto era già sorto.
+ 1028. Nozione dell'utilità","
+ 1037. Condizioni per la
+costituzione della servi","diritto era già sorto.
+ 1028. Nozione dell'utilità.
+ 1037. Condizioni per la
+costituzione della servi",dell'utilità,1037,1
+it_isdt-ud-dev,22355,.," era già sorto.
+ 1028. Nozione dell'utilità.
+ 1037"," Condizioni per la
+costituzione della servitù.
+ ma"," era già sorto.
+ 1028. Nozione dell'utilità.
+ 1037. Condizioni per la
+costituzione della servitù.
+ ma",1037,Condizioni,0
+it_isdt-ud-dev,22401,.,"1037. Condizioni per la
+costituzione della servitù","
+ ma nei terreni medesimi il proprietario del fond","1037. Condizioni per la
+costituzione della servitù.
+ ma nei terreni medesimi il proprietario del fond",servitù,ma,1
+it_isdt-ud-dev,22619,.,"acquedotto, del suo spurgo e della sua
+riparazione","
+ Dell'appoggio e dell'infissione di chiusa.
+ Chi ","acquedotto, del suo spurgo e della sua
+riparazione.
+ Dell'appoggio e dell'infissione di chiusa.
+ Chi ",riparazione,Dell'appoggio,1
+it_isdt-ud-dev,22663,.,"azione.
+ Dell'appoggio e dell'infissione di chiusa","
+ Chi ha diritto di
+derivare acque da fiumi, torre","azione.
+ Dell'appoggio e dell'infissione di chiusa.
+ Chi ha diritto di
+derivare acque da fiumi, torre",chiusa,Chi,1
+it_isdt-ud-dev,22946,.,"re atte ad assicurare i
+fondi da ogni danno (1032)","
+ Qualora si verifichi un mutamento nelle condizio","re atte ad assicurare i
+fondi da ogni danno (1032).
+ Qualora si verifichi un mutamento nelle condizio",,Qualora,1
+it_isdt-ud-dev,23086,.,"e soppressa su istanza dell'una o dell'altra
+parte","
+ ma l'autorità giudiziaria può disporre una riduz","e soppressa su istanza dell'una o dell'altra
+parte.
+ ma l'autorità giudiziaria può disporre una riduz",parte,ma,1
+it_isdt-ud-dev,23215,.,ardo alla durata della servitù e al danno sofferto,"
+ Nel dubbio circa
+l'estensione e le modalità di e","ardo alla durata della servitù e al danno sofferto.
+ Nel dubbio circa
+l'estensione e le modalità di e",sofferto,Nel,1
+it_isdt-ud-dev,23404,.,"do dominante col minor aggravio del fondo
+servente","
+ La servitù si estingue (853, 2812), quando in un","do dominante col minor aggravio del fondo
+servente.
+ La servitù si estingue (853, 2812), quando in un",servente,La,1
+it_isdt-ud-dev,23544,., del fondo dominante con quella del fondo servente,"
+ Il
+modulo è l'unità di misura dell'acqua corrent"," del fondo dominante con quella del fondo servente.
+ Il
+modulo è l'unità di misura dell'acqua corrent",servente,Il,1
+it_isdt-ud-dev,23596,.," Il
+modulo è l'unità di misura dell'acqua corrente","
+ Parimenti si fa luogo alle
+dovute indennità in c"," Il
+modulo è l'unità di misura dell'acqua corrente.
+ Parimenti si fa luogo alle
+dovute indennità in c",corrente,Parimenti,1
+it_isdt-ud-dev,23752,.,"che
+siano state disposte dall'autorità giudiziaria","
+ Della servitù degli scoli e
+degli avanzi di acqu","che
+siano state disposte dall'autorità giudiziaria.
+ Della servitù degli scoli e
+degli avanzi di acqu",giudiziaria,Della,1
+it_isdt-ud-dev,23804,.," Della servitù degli scoli e
+degli avanzi di acqua","
+ Per gli assenti il termine decorre dal giorno in"," Della servitù degli scoli e
+degli avanzi di acqua.
+ Per gli assenti il termine decorre dal giorno in",acqua,Per,1
+it_isdt-ud-dev,23900,.,"no in cui è
+stata loro comunicata la deliberazione","
+ Chi ha ricevuto il pagamento è tenuto
+alla resti","no in cui è
+stata loro comunicata la deliberazione.
+ Chi ha ricevuto il pagamento è tenuto
+alla resti",deliberazione,Chi,1
+it_isdt-ud-dev,24044,.," regole stabilite per la
+ripetizione dell'indebito","
+ Il deposito che ha per oggetto somme di danaro p"," regole stabilite per la
+ripetizione dell'indebito.
+ Il deposito che ha per oggetto somme di danaro p",dell'indebito,Il,1
+it_isdt-ud-dev,24143,.," può
+eseguirsi anche presso un istituto di credito","
+ Salva diversa volontà delle
+parti, il debitore c"," può
+eseguirsi anche presso un istituto di credito.
+ Salva diversa volontà delle
+parti, il debitore c",credito,Salva,1
+it_isdt-ud-dev,24313,.,sponde anche dei fatti dolosi o colposi di costoro,"
+ In caso di
+successivo ritrovamento della cosa, s","sponde anche dei fatti dolosi o colposi di costoro.
+ In caso di
+successivo ritrovamento della cosa, s",costoro,In,1
+it_isdt-ud-dev,24434,.,"sizioni del secondo
+comma dell'articolo precedente","
+ La stessa disposizione si applica quando,
+essend","sizioni del secondo
+comma dell'articolo precedente.
+ La stessa disposizione si applica quando,
+essend",precedente,La,1
+it_isdt-ud-dev,24609,.,o residua alcunché dal perimento totale della cosa,"
+ Il terzo che, senza
+delegazione del debitore, ne","o residua alcunché dal perimento totale della cosa.
+ Il terzo che, senza
+delegazione del debitore, ne",cosa,Il,1
+it_isdt-ud-dev,24812,.,"on dichiara espressamente di
+liberare quest'ultimo","
+ L'ordinamento giuridico italiano si conforma all","on dichiara espressamente di
+liberare quest'ultimo.
+ L'ordinamento giuridico italiano si conforma all",quest'ultimo,L'ordinamento,1
+it_isdt-ud-dev,24923,.,l diritto internazionale generalmente riconosciute,"
+ Gli accertamenti e le
+ispezioni per motivi di sa","l diritto internazionale generalmente riconosciute.
+ Gli accertamenti e le
+ispezioni per motivi di sa",riconosciute,Gli,1
+it_isdt-ud-dev,25064,.,"conomici e
+fiscali sono regolati da leggi speciali","
+ Si può procedere a sequestro soltanto
+per atto m","conomici e
+fiscali sono regolati da leggi speciali.
+ Si può procedere a sequestro soltanto
+per atto m",speciali,Si,1
+it_isdt-ud-dev,25333,.,tessa prescriva per l'indicazione dei responsabili,"
+ Protegge
+la maternità, l'infanzia e la gioventù,","tessa prescriva per l'indicazione dei responsabili.
+ Protegge
+la maternità, l'infanzia e la gioventù,",responsabili,Protegge,1
+it_isdt-ud-dev,25430,.,"ntù, favorendo gli istituti necessari a tale
+scopo","
+ Enti e privati hanno il diritto di istituire scu","ntù, favorendo gli istituti necessari a tale
+scopo.
+ Enti e privati hanno il diritto di istituire scu",scopo,Enti,1
+it_isdt-ud-dev,25536,.,"d istituti di
+educazione, senza oneri per lo Stato","
+ Promuove e favorisce gli accordi e le
+organizzaz","d istituti di
+educazione, senza oneri per lo Stato.
+ Promuove e favorisce gli accordi e le
+organizzaz",Stato,Promuove,1
+it_isdt-ud-dev,25658,.,"ntesi ad affermare e regolare i diritti del
+lavoro","
+ aiuta la piccola e la media proprietà.
+ Sono ele","ntesi ad affermare e regolare i diritti del
+lavoro.
+ aiuta la piccola e la media proprietà.
+ Sono ele",lavoro,aiuta,1
+it_isdt-ud-dev,25698,.,"del
+lavoro.
+ aiuta la piccola e la media proprietà","
+ Sono eleggibili a deputati tutti
+gli elettori ch","del
+lavoro.
+ aiuta la piccola e la media proprietà.
+ Sono eleggibili a deputati tutti
+gli elettori ch",proprietà,Sono,1
+it_isdt-ud-dev,25817,.," elezione hanno compiuto i venticinque anni di
+età","
+ Il Presidente della Repubblica nomina il Preside"," elezione hanno compiuto i venticinque anni di
+età.
+ Il Presidente della Repubblica nomina il Preside",età,Il,1
+it_isdt-ud-dev,25935,.," dei
+ministri e, su proposta di questo, i ministri","
+ La legge provvede all'ordinamento
+della Presiden"," dei
+ministri e, su proposta di questo, i ministri.
+ La legge provvede all'ordinamento
+della Presiden",ministri,La,1
+it_isdt-ud-dev,26074,.,", le attribuzioni e
+l'organizzazione dei ministeri","
+ La giustizia è amministrata in nome del popolo.
+",", le attribuzioni e
+l'organizzazione dei ministeri.
+ La giustizia è amministrata in nome del popolo.
+",ministeri,La,1
+it_isdt-ud-dev,26123,.,"i.
+ La giustizia è amministrata in nome del popolo","
+
+I magistrati sono inamovibili.
+ La legge ne assi","i.
+ La giustizia è amministrata in nome del popolo.
+
+I magistrati sono inamovibili.
+ La legge ne assi",popolo,I,1
+it_isdt-ud-dev,26155,.,"in nome del popolo.
+
+I magistrati sono inamovibili","
+ La legge ne assicura la ragionevole durata.
+ La
+","in nome del popolo.
+
+I magistrati sono inamovibili.
+ La legge ne assicura la ragionevole durata.
+ La
+",inamovibili,La,1
+it_isdt-ud-dev,26200,.,"ibili.
+ La legge ne assicura la ragionevole durata","
+ La
+Regione, quando ritenga che una legge o un at","ibili.
+ La legge ne assicura la ragionevole durata.
+ La
+Regione, quando ritenga che una legge o un at",durata,La,1
+it_isdt-ud-dev,26524,.,"one della legge o dell'atto avente valore di
+legge","
+ Fino a quando non entri in funzione la Corte cos","one della legge o dell'atto avente valore di
+legge.
+ Fino a quando non entri in funzione la Corte cos",legge,Fino,1
+it_isdt-ud-dev,26746,.,esistenti all'entrata in vigore della Costituzione,"
+ In deroga
+all'articolo 48, sono stabilite con le","esistenti all'entrata in vigore della Costituzione.
+ In deroga
+all'articolo 48, sono stabilite con le",Costituzione,In,1
+it_isdt-ud-dev,26979,.,bilità per i capi responsabili del regime fascista,"
+ (21) I
+prodotti che consumano energia ed ottempe","bilità per i capi responsabili del regime fascista.
+ (21) I
+prodotti che consumano energia ed ottempe",fascista,,1
+it_isdt-ud-dev,27313,.," sul mercato interno e la
+loro libera circolazione","
+ Proposta di decisione del consiglio che estende "," sul mercato interno e la
+loro libera circolazione.
+ Proposta di decisione del consiglio che estende ",circolazione,Proposta,1
+it_isdt-ud-dev,27685,.," la contraffazione monetaria (programma
+""Pericle"")","
+ uno dei workshop ha portato all'elaborazione del"," la contraffazione monetaria (programma
+""Pericle"").
+ uno dei workshop ha portato all'elaborazione del",,uno,1
+it_isdt-ud-dev,27814,.,"Stati membri, di una raccomandazione del Consiglio","
+ I posti di
+blocco cominciano ad appena 60 chilom","Stati membri, di una raccomandazione del Consiglio.
+ I posti di
+blocco cominciano ad appena 60 chilom",Consiglio,I,1
+it_isdt-ud-dev,28007,.,"i toccano tutte le stazioni
+della rivolta albanese","
+ Tutto è cominciato con i funerali di Artur Ruste","i toccano tutte le stazioni
+della rivolta albanese.
+ Tutto è cominciato con i funerali di Artur Ruste",albanese,Tutto,1
+it_isdt-ud-dev,28218,., è arrivata la vendetta delle squadre antisommossa,"
+ La
+storia ci univa, ma anche ci divideva.
+ Era l"," è arrivata la vendetta delle squadre antisommossa.
+ La
+storia ci univa, ma anche ci divideva.
+ Era l",antisommossa,La,1
+it_isdt-ud-dev,28261,.,"ommossa.
+ La
+storia ci univa, ma anche ci divideva","
+ Era la notte del 13 gennaio quando da qui
+è part","ommossa.
+ La
+storia ci univa, ma anche ci divideva.
+ Era la notte del 13 gennaio quando da qui
+è part",divideva,Era,1
+it_isdt-ud-dev,28395,.," costa italiana con 130 milioni di
+dollari a bordo","
+ Appena la folla in rivolta per il crack delle fi"," costa italiana con 130 milioni di
+dollari a bordo.
+ Appena la folla in rivolta per il crack delle fi",bordo,Appena,1
+it_isdt-ud-dev,28662,.,"ma
+dove si sono portati via 135 barche sequestrate","
+ Con l'aumento della produzione
+di marijuana, ini","ma
+dove si sono portati via 135 barche sequestrate.
+ Con l'aumento della produzione
+di marijuana, ini",sequestrate,Con,1
+it_isdt-ud-dev,28843,.,ra fonte di reddito per contrabbandieri e scafisti,"
+ In molti
+casi il rastrellamento dei soldi dei pi","ra fonte di reddito per contrabbandieri e scafisti.
+ In molti
+casi il rastrellamento dei soldi dei pi",scafisti,In,1
+it_isdt-ud-dev,28980,.,ertura per riciclare denaro e distribuire tangenti,"
+ Anche il Presidente è nel
+mirino dei suoi attacc","ertura per riciclare denaro e distribuire tangenti.
+ Anche il Presidente è nel
+mirino dei suoi attacc",tangenti,Anche,1
+it_isdt-ud-dev,29033,?,"Anche il Presidente è nel
+mirino dei suoi attacchi","
+ Il Papa ha detto che è giunta l'ora storica e
+pr","Anche il Presidente è nel
+mirino dei suoi attacchi?
+ Il Papa ha detto che è giunta l'ora storica e
+pr",attacchi,Il,1
+it_isdt-ud-dev,29217,.,"ita prenatale, alla sfera della tutela del diritto","
+ Per loro potrebbe
+esserci una sorta di 'amminist","ita prenatale, alla sfera della tutela del diritto.
+ Per loro potrebbe
+esserci una sorta di 'amminist",diritto,Per,1
+it_isdt-ud-dev,29288,.,esserci una sorta di 'amministrazione controllata',"
+ Nessuno finora ha mostrato
+prove concrete contro","esserci una sorta di 'amministrazione controllata'.
+ Nessuno finora ha mostrato
+prove concrete contro",controllata',Nessuno,1
+it_isdt-ud-dev,29435,.,"altri membri
+del Governo o del Partito democratico","
+ Oggi un albanese su due vive fuori dai
+confini d","altri membri
+del Governo o del Partito democratico.
+ Oggi un albanese su due vive fuori dai
+confini d",democratico,Oggi,1
+it_isdt-ud-dev,29511,.," vive fuori dai
+confini della Repubblica di Tirana","
+ Il mantra dei Balcani rischia di diventare
+una t"," vive fuori dai
+confini della Repubblica di Tirana.
+ Il mantra dei Balcani rischia di diventare
+una t",Tirana,Il,1
+it_isdt-ud-dev,29575,.,"ei Balcani rischia di diventare
+una tragica realtà","
+ Sale di 200 lire il prezzo di un pacchetto di si","ei Balcani rischia di diventare
+una tragica realtà.
+ Sale di 200 lire il prezzo di un pacchetto di si",realtà,Sale,1
+it_isdt-ud-dev,29633,.,di 200 lire il prezzo di un pacchetto di sigarette,"
+ Il
+presidente Sali Berisha, che all'inizio della","di 200 lire il prezzo di un pacchetto di sigarette.
+ Il
+presidente Sali Berisha, che all'inizio della",sigarette,Il,1
+it_isdt-ud-dev,29885,.,"di più un leader dall'accentuato profilo
+balcanico","
+ L'incursione, approvata nel corso di un improvvi","di più un leader dall'accentuato profilo
+balcanico.
+ L'incursione, approvata nel corso di un improvvi",balcanico,L'incursione,1
+it_isdt-ud-dev,30273,.,"omini del reggimento fucilieri di marina
+San Marco","
+ Quando le due navi hanno raggiunto le posizioni ","omini del reggimento fucilieri di marina
+San Marco.
+ Quando le due navi hanno raggiunto le posizioni ",Marco,Quando,1
+it_isdt-ud-dev,30579,.," stranieri che era stato già concentrato sul
+luogo","
+ Tutte le persone sono state poi trasportate a Br"," stranieri che era stato già concentrato sul
+luogo.
+ Tutte le persone sono state poi trasportate a Br",luogo,Tutte,1
+it_isdt-ud-dev,30636,.,e le persone sono state poi trasportate a Brindisi,"
+ Servendosi di
+alcuni elicotteri i nostri militar","e le persone sono state poi trasportate a Brindisi.
+ Servendosi di
+alcuni elicotteri i nostri militar",Brindisi,Servendosi,1
+it_isdt-ud-dev,30879,.,"ausa della situazione interna, sempre più violenta","
+ L'Unione
+europea comincerà probabilmente a prend","ausa della situazione interna, sempre più violenta.
+ L'Unione
+europea comincerà probabilmente a prend",violenta,L'Unione,1
+it_isdt-ud-dev,31030,.,"ossimo, quando si riunirà il suo Comitato politico","
+ per quanto è
+dato sapere negli ultimi mesi il Ce","ossimo, quando si riunirà il suo Comitato politico.
+ per quanto è
+dato sapere negli ultimi mesi il Ce",politico,per,1
+it_isdt-ud-dev,31278,.,"na, dove un tempo aveva sede il museo Lenin-Stalin","
+
+L'inflazione è il peggior nemico del popolo e ri","na, dove un tempo aveva sede il museo Lenin-Stalin.
+
+L'inflazione è il peggior nemico del popolo e ri",Lenin-Stalin,L'inflazione,1
+it_isdt-ud-dev,31435,.,aro imponente significa svalutare la nostra moneta,"
+
+Per questo ha annunciato la creazione di nuove z","aro imponente significa svalutare la nostra moneta.
+
+Per questo ha annunciato la creazione di nuove z",moneta,Per,1
+it_isdt-ud-dev,31563,.,ovranno attirare i capitali salvati dai fallimenti,"
+ Il tutto regge fino a
+quando sono molto più cons","ovranno attirare i capitali salvati dai fallimenti.
+ Il tutto regge fino a
+quando sono molto più cons",fallimenti,Il,1
+it_isdt-ud-dev,31748,.," a proprio vantaggio), delle richieste di
+rimborso","
+ Ciò che distingue l'Albania dallo Zaire è soprat"," a proprio vantaggio), delle richieste di
+rimborso.
+ Ciò che distingue l'Albania dallo Zaire è soprat",rimborso,Ciò,1
+it_isdt-ud-dev,31819,.,l'Albania dallo Zaire è soprattutto la vegetazione,"
+
+L'Albania si è dimenticata che per vivere bisogn","l'Albania dallo Zaire è soprattutto la vegetazione.
+
+L'Albania si è dimenticata che per vivere bisogn",vegetazione,L'Albania,1
+it_isdt-ud-dev,31886,., dimenticata che per vivere bisogna anche produrre,"
+ I partiti
+d'opposizione al Governo di destra del"," dimenticata che per vivere bisogna anche produrre.
+ I partiti
+d'opposizione al Governo di destra del",produrre,I,1
+it_isdt-ud-dev,32057,.,indetto una manifestazione per oggi nella capitale,"
+
+La truffa riguardava i finanziamenti erogati per","indetto una manifestazione per oggi nella capitale.
+
+La truffa riguardava i finanziamenti erogati per",capitale,La,1
+it_isdt-ud-dev,32178,.,"to delle
+produzioni eccedenti nel settore agricolo","
+ Ieri Rifondazione e Verdi sono
+tornati all'attac","to delle
+produzioni eccedenti nel settore agricolo.
+ Ieri Rifondazione e Verdi sono
+tornati all'attac",agricolo,Ieri,1
+it_isdt-ud-dev,32231,.,"Ieri Rifondazione e Verdi sono
+tornati all'attacco","
+ Tende a stemperarsi, infine, lo scontro sui coef","Ieri Rifondazione e Verdi sono
+tornati all'attacco.
+ Tende a stemperarsi, infine, lo scontro sui coef",all'attacco,Tende,1
+it_isdt-ud-dev,32518,.," il risultato del primo turno"" delle
+presidenziali","
+ Nicolas Sarkozy ha ottenuto il 31,11% dei voti a"," il risultato del primo turno"" delle
+presidenziali.
+ Nicolas Sarkozy ha ottenuto il 31,11% dei voti a",presidenziali,Nicolas,1
+it_isdt-ud-dev,32646,.,"a socialista Segolene Royal che ha preso il 25,84%","
+ Dal Bahrein, il
+giovane brasiliano torna a casa ","a socialista Segolene Royal che ha preso il 25,84%.
+ Dal Bahrein, il
+giovane brasiliano torna a casa ",,Dal,1
+it_isdt-ud-dev,32796,.,"este cose, se ci rifletti su finisci per sbagliare","
+ Eppure dietro la resa,
+dietro la netta sconfitta","este cose, se ci rifletti su finisci per sbagliare.
+ Eppure dietro la resa,
+dietro la netta sconfitta",sbagliare,Eppure,1
+it_isdt-ud-dev,33339,.,n mano la stragrande maggioranza del suo sindacato,"
+ ""Il governo sono
+io, non Walesa e presto vedrò i","n mano la stragrande maggioranza del suo sindacato.
+ ""Il governo sono
+io, non Walesa e presto vedrò i",sindacato,,1
+it_isdt-ud-dev,33409,.,"io, non Walesa e presto vedrò il leader sovietico""","
+ La verità è che ormai la
+spesa sanitaria sta esp","io, non Walesa e presto vedrò il leader sovietico"".
+ La verità è che ormai la
+spesa sanitaria sta esp",,La,1
+it_isdt-ud-dev,33605,.,"ncremento che neppure gli assessori sanno
+spiegare","
+ Con English in campo, i Denver Nuggets hanno fat","ncremento che neppure gli assessori sanno
+spiegare.
+ Con English in campo, i Denver Nuggets hanno fat",spiegare,Con,1
+it_isdt-ud-dev,33782,.," vede favoriti anche
+domani sera nella finalissima","
+ Record di visitatori alla mostra del Lingotto
+su"," vede favoriti anche
+domani sera nella finalissima.
+ Record di visitatori alla mostra del Lingotto
+su",finalissima,Record,1
+it_isdt-ud-dev,33846,.,"isitatori alla mostra del Lingotto
+sull'arte russa","
+ L'Isola verde fa omaggio al «Cumenda» che la ide","isitatori alla mostra del Lingotto
+sull'arte russa.
+ L'Isola verde fa omaggio al «Cumenda» che la ide",russa,L'Isola,1
+it_isdt-ud-dev,33898,., L'Isola verde fa omaggio al «Cumenda» che la ideò,"
+ a lanciare
+l'allarme è stato il custode dello st"," L'Isola verde fa omaggio al «Cumenda» che la ideò.
+ a lanciare
+l'allarme è stato il custode dello st",ideò,a,1
+it_isdt-ud-dev,34018,.,"isto uscire due uomini
+dal cortile con una valigia","
+ Dal punto di vista finanziario i conti tornano, ","isto uscire due uomini
+dal cortile con una valigia.
+ Dal punto di vista finanziario i conti tornano, ",valigia,Dal,1
+it_isdt-ud-dev,34085,.,"ista finanziario i conti tornano, e
+brillantemente","
+ E la candidatura sembra traballare, visti i silu","ista finanziario i conti tornano, e
+brillantemente.
+ E la candidatura sembra traballare, visti i silu",brillantemente,E,1
+it_isdt-ud-dev,34310,.,"irandola di incontri e telefonate delle ultime
+ore","
+ Fra quattro giorni si aprirà il Salone internazi","irandola di incontri e telefonate delle ultime
+ore.
+ Fra quattro giorni si aprirà il Salone internazi",ore,Fra,1
+it_isdt-ud-dev,34537,.,"co nel più ricco mercato del mondo, quello europeo","
+ -
+Beato chi vi vede!
+ Questo punto di vista è so","co nel più ricco mercato del mondo, quello europeo.
+ -
+Beato chi vi vede!
+ Questo punto di vista è so",europeo,-,1
+it_isdt-ud-dev,34559,!,"to del mondo, quello europeo.
+ -
+Beato chi vi vede","
+ Questo punto di vista è sostenuto, ad esempio, d","to del mondo, quello europeo.
+ -
+Beato chi vi vede!
+ Questo punto di vista è sostenuto, ad esempio, d",vede,Questo,1
+it_isdt-ud-dev,34682,.,lle coordinazioni che sono permesse nel linguaggio,"
+ mercoledì è stata
+la volta del ministro degli Es","lle coordinazioni che sono permesse nel linguaggio.
+ mercoledì è stata
+la volta del ministro degli Es",linguaggio,mercoledì,1
+it_isdt-ud-dev,35094,.,vviso al difensore della persona chiamata in causa,"
+
+Il consiglio di amministrazione della maggiore b","vviso al difensore della persona chiamata in causa.
+
+Il consiglio di amministrazione della maggiore b",causa,Il,1
+it_isdt-ud-dev,35390,.," di 816,8 miliardi di lire riservato ad Ina e Inps","
+ Cominciò l'attesa
+della chiamata.
+ in generale, "," di 816,8 miliardi di lire riservato ad Ina e Inps.
+ Cominciò l'attesa
+della chiamata.
+ in generale, ",Inps,Cominciò,1
+it_isdt-ud-dev,35425,.,"o ad Ina e Inps.
+ Cominciò l'attesa
+della chiamata","
+ in generale, una realtà decantata dalla mente um","o ad Ina e Inps.
+ Cominciò l'attesa
+della chiamata.
+ in generale, una realtà decantata dalla mente um",chiamata,in,1
+it_isdt-ud-dev,35479,.,"n generale, una realtà decantata dalla mente umana","
+ Alla sua
+bottega studiarono fra gli altri Luca S","n generale, una realtà decantata dalla mente umana.
+ Alla sua
+bottega studiarono fra gli altri Luca S",umana,Alla,1
+it_isdt-ud-dev,35553,.,iarono fra gli altri Luca Signorelli e il Perugino,"
+ Prima della
+Seconda guerra mondiale, sviluppator","iarono fra gli altri Luca Signorelli e il Perugino.
+ Prima della
+Seconda guerra mondiale, sviluppator",Perugino,Prima,1
+it_isdt-ud-dev,35747,.,"r come sistema di
+difesa contro gli attacchi aerei","
+ Un ricevitore-trasmettitore
+(ricetrasmettitore) ","r come sistema di
+difesa contro gli attacchi aerei.
+ Un ricevitore-trasmettitore
+(ricetrasmettitore) ",aerei,Un,1
+it_isdt-ud-dev,35863,.,"egnale in risposta ad una specifica
+interrogazione","
+ Lo smog risulta nocivo alla salute dell'uomo e d","egnale in risposta ad una specifica
+interrogazione.
+ Lo smog risulta nocivo alla salute dell'uomo e d",interrogazione,Lo,1
+it_isdt-ud-dev,36064,.,anche per le piante e per gli ecosistemi acquatici,"
+ Inquinanti
+come l'ozono, i perossiacetilnitrati,","anche per le piante e per gli ecosistemi acquatici.
+ Inquinanti
+come l'ozono, i perossiacetilnitrati,",acquatici,Inquinanti,1
+it_isdt-ud-dev,36243,.," stomi delle foglie dove distruggono la
+clorofilla","
+ L'effetto del particolato sul clima è più comple"," stomi delle foglie dove distruggono la
+clorofilla.
+ L'effetto del particolato sul clima è più comple",clorofilla,L'effetto,1
+it_isdt-ud-dev,36297,.,'effetto del particolato sul clima è più complesso,"
+ Nel 1903 la
+parte principale dell'anello, che va","'effetto del particolato sul clima è più complesso.
+ Nel 1903 la
+parte principale dell'anello, che va",complesso,Nel,1
+it_isdt-ud-dev,36449,., completata e prese il nome di Linea Toshima (豊島線),"
+ L'anello fu
+completato nel 1925 con l'apertura d"," completata e prese il nome di Linea Toshima (豊島線).
+ L'anello fu
+completato nel 1925 con l'apertura d",,L'anello,1
+it_isdt-ud-dev,36695,.,ione centrale di Tokyo e per il centro della città,"
+
+Nello stesso anno venne inaugurata anche una lin","ione centrale di Tokyo e per il centro della città.
+
+Nello stesso anno venne inaugurata anche una lin",città,Nello,1
+it_isdt-ud-dev,36846,.,Shinagawa e Tabata) dedicata al trasporto di merci,"
+ Per la
+città, la Linea Yamanote ha un significat","Shinagawa e Tabata) dedicata al trasporto di merci.
+ Per la
+città, la Linea Yamanote ha un significat",merci,Per,1
+it_isdt-ud-dev,37009,.,"a forma di mano di Buddha, come a proteggere
+Tokyo","
+ 
+
+Il Progetto San Marco fu il programma di colla","a forma di mano di Buddha, come a proteggere
+Tokyo.
+ 
+
+Il Progetto San Marco fu il programma di colla",Tokyo,Il,1
+it_isdt-ud-dev,37183,.,"a scientifica e nella sperimentazione
+nello spazio","
+ Forte dell'esperienza acquisita, Broglio nel feb","a scientifica e nella sperimentazione
+nello spazio.
+ Forte dell'esperienza acquisita, Broglio nel feb",spazio,Forte,1
+it_isdt-ud-dev,37427,.,"ramente italiana da un
+poligono anch'esso italiano","
+ Un ulteriore esito positivo del lancio del San
+M","ramente italiana da un
+poligono anch'esso italiano.
+ Un ulteriore esito positivo del lancio del San
+M",italiano,Un,1
+it_isdt-ud-dev,37718,.,"i NASA a partire dal 12 dicembre 1970 con il
+SAS 1","
+ I lini si classificano secondo il grado di finez","i NASA a partire dal 12 dicembre 1970 con il
+SAS 1.
+ I lini si classificano secondo il grado di finez",1,I,1
+it_isdt-ud-dev,37905,.,"e di corda e spago e
+per la produzione della carta","
+ Il tessuto di lana non solo isola dal freddo ma
+","e di corda e spago e
+per la produzione della carta.
+ Il tessuto di lana non solo isola dal freddo ma
+",carta,Il,1
+it_isdt-ud-dev,38064,.,"iorno per ripararsi
+dal caldo e la sera dal freddo","
+ La lana è una fibra che si tinge molto
+facilment","iorno per ripararsi
+dal caldo e la sera dal freddo.
+ La lana è una fibra che si tinge molto
+facilment",freddo,La,1
+it_isdt-ud-dev,38116,.," La lana è una fibra che si tinge molto
+facilmente","
+ g) l'indicazione che occorre un numero minimo di"," La lana è una fibra che si tinge molto
+facilmente.
+ g) l'indicazione che occorre un numero minimo di",facilmente,g,1
+it_isdt-ud-dev,38309,.,formazione del consumatore in caso di annullamento,"
+ ii) nome, indirizzo e
+numero di telefono della r","formazione del consumatore in caso di annullamento.
+ ii) nome, indirizzo e
+numero di telefono della r",annullamento,ii,1
+it_isdt-ud-dev,39069,.,"ttuali né le
+informazioni ai sensi del paragrafo 1","
+ L'inosservanza delle disposizioni di cui
+ai para","ttuali né le
+informazioni ai sensi del paragrafo 1.
+ L'inosservanza delle disposizioni di cui
+ai para",1,L'inosservanza,1
+it_isdt-ud-dev,39346,.,"le concernenti la limitazione della
+responsabilità","
+ a) il danno causato dalla morte o da lesioni per","le concernenti la limitazione della
+responsabilità.
+ a) il danno causato dalla morte o da lesioni per",responsabilità,a,1
+it_isdt-ud-dev,39545,?,durante i film sono attualmente permesse dalla CEE,"
+ Quale ditta è accusata di
+avere sfruttato il lav","durante i film sono attualmente permesse dalla CEE?
+ Quale ditta è accusata di
+avere sfruttato il lav",CEE,Quale,1
+it_isdt-ud-dev,39608,?,"a è accusata di
+avere sfruttato il lavoro minorile","
+ Quando venne ucciso John Lennon?
+ Che cosa ha
+im","a è accusata di
+avere sfruttato il lavoro minorile?
+ Quando venne ucciso John Lennon?
+ Che cosa ha
+im",minorile,Quando,1
+it_isdt-ud-dev,39642,?," lavoro minorile?
+ Quando venne ucciso John Lennon","
+ Che cosa ha
+impacchettato l'artista Christo?
+ Ch"," lavoro minorile?
+ Quando venne ucciso John Lennon?
+ Che cosa ha
+impacchettato l'artista Christo?
+ Ch",Lennon,Che,1
+it_isdt-ud-dev,39688,?,"nnon?
+ Che cosa ha
+impacchettato l'artista Christo","
+ Chi fu l'ultimo zar di Russia?
+ Chi ha coniato
+l","nnon?
+ Che cosa ha
+impacchettato l'artista Christo?
+ Chi fu l'ultimo zar di Russia?
+ Chi ha coniato
+l",Christo,Chi,1
+it_isdt-ud-dev,39720,?," l'artista Christo?
+ Chi fu l'ultimo zar di Russia","
+ Chi ha coniato
+l'espressione ""incontri ravvicina"," l'artista Christo?
+ Chi fu l'ultimo zar di Russia?
+ Chi ha coniato
+l'espressione ""incontri ravvicina",Russia,Chi,1
+it_isdt-ud-dev,39789,?,"'espressione ""incontri ravvicinati del terzo tipo""","
+ Che cosa causò l'""effetto
+Tequila""?
+ In quale ci","'espressione ""incontri ravvicinati del terzo tipo""?
+ Che cosa causò l'""effetto
+Tequila""?
+ In quale ci",,Che,1
+it_isdt-ud-dev,39826,?,"l terzo tipo""?
+ Che cosa causò l'""effetto
+Tequila""","
+ In quale città è esplosa una lettera bomba?
+ Qua","l terzo tipo""?
+ Che cosa causò l'""effetto
+Tequila""?
+ In quale città è esplosa una lettera bomba?
+ Qua",,In,1
+it_isdt-ud-dev,39871,?,"uila""?
+ In quale città è esplosa una lettera bomba","
+ Quando è avvenuta la
+guerra del Chaco?
+ In quale","uila""?
+ In quale città è esplosa una lettera bomba?
+ Quando è avvenuta la
+guerra del Chaco?
+ In quale",bomba,Quando,1
+it_isdt-ud-dev,39911,?,"tera bomba?
+ Quando è avvenuta la
+guerra del Chaco","
+ In quale anno il Congresso americano ha approvat","tera bomba?
+ Quando è avvenuta la
+guerra del Chaco?
+ In quale anno il Congresso americano ha approvat",Chaco,In,1
+it_isdt-ud-dev,39983,?,"ngresso americano ha approvato il ""War
+Powers Act""","
+ Dimmi il nome di un burattinaio.
+ Di quale squad","ngresso americano ha approvato il ""War
+Powers Act""?
+ Dimmi il nome di un burattinaio.
+ Di quale squad",,Dimmi,1
+it_isdt-ud-dev,40017,.,"""War
+Powers Act""?
+ Dimmi il nome di un burattinaio","
+ Di quale squadra di calcio
+francese era presiden","""War
+Powers Act""?
+ Dimmi il nome di un burattinaio.
+ Di quale squadra di calcio
+francese era presiden",burattinaio,Di,1
+it_isdt-ud-dev,40084,?,"ra di calcio
+francese era presidente Bernard Tapie","
+ Dov'è Hide Park?
+ Qual è il più grande
+pianeta d","ra di calcio
+francese era presidente Bernard Tapie?
+ Dov'è Hide Park?
+ Qual è il più grande
+pianeta d",Tapie,Dov'è,1
+it_isdt-ud-dev,40102,?,"ese era presidente Bernard Tapie?
+ Dov'è Hide Park","
+ Qual è il più grande
+pianeta del sistema solare?","ese era presidente Bernard Tapie?
+ Dov'è Hide Park?
+ Qual è il più grande
+pianeta del sistema solare?",Park,Qual,1
+it_isdt-ud-dev,40152,?,"?
+ Qual è il più grande
+pianeta del sistema solare","
+ Quanto ha pagato l'IBM per Lotus?
+ Che cos'è il ","?
+ Qual è il più grande
+pianeta del sistema solare?
+ Quanto ha pagato l'IBM per Lotus?
+ Che cos'è il ",solare,Quanto,1
+it_isdt-ud-dev,40187,?," sistema solare?
+ Quanto ha pagato l'IBM per Lotus","
+ Che cos'è il CERN?
+
+Chi è il direttore del CERN?"," sistema solare?
+ Quanto ha pagato l'IBM per Lotus?
+ Che cos'è il CERN?
+
+Chi è il direttore del CERN?",Lotus,Che,1
+it_isdt-ud-dev,40207,?,"anto ha pagato l'IBM per Lotus?
+ Che cos'è il CERN","
+
+Chi è il direttore del CERN?
+ Dov'è la sede cent","anto ha pagato l'IBM per Lotus?
+ Che cos'è il CERN?
+
+Chi è il direttore del CERN?
+ Dov'è la sede cent",CERN,Chi,1
+it_isdt-ud-dev,40237,?,"?
+ Che cos'è il CERN?
+
+Chi è il direttore del CERN","
+ Dov'è la sede centrale della Harman Internationa","?
+ Che cos'è il CERN?
+
+Chi è il direttore del CERN?
+ Dov'è la sede centrale della Harman Internationa",CERN,Dov'è,1
+it_isdt-ud-dev,40300,?,"ede centrale della Harman International
+Industries","
+ Chi è il ministro delle finanze russo?
+ Quanti a","ede centrale della Harman International
+Industries?
+ Chi è il ministro delle finanze russo?
+ Quanti a",Industries,Chi,1
+it_isdt-ud-dev,40340,?,"Industries?
+ Chi è il ministro delle finanze russo","
+ Quanti anni ci vogliono per
+ottenere la cittadin","Industries?
+ Chi è il ministro delle finanze russo?
+ Quanti anni ci vogliono per
+ottenere la cittadin",russo,Quanti,1
+it_isdt-ud-dev,40404,?," ci vogliono per
+ottenere la cittadinanza svizzera","
+ Quando è avvenuta l'apertura ufficiale del
+tunne"," ci vogliono per
+ottenere la cittadinanza svizzera?
+ Quando è avvenuta l'apertura ufficiale del
+tunne",svizzera,Quando,1
+it_isdt-ud-dev,40469,?,"enuta l'apertura ufficiale del
+tunnel della Manica","
+ Su quale isola si trova Ponta Delgada?
+ Chi è il","enuta l'apertura ufficiale del
+tunnel della Manica?
+ Su quale isola si trova Ponta Delgada?
+ Chi è il",Manica,Su,1
+it_isdt-ud-dev,40509,?,"lla Manica?
+ Su quale isola si trova Ponta Delgada","
+ Chi è il
+ministro-presidente della Renania-Palat","lla Manica?
+ Su quale isola si trova Ponta Delgada?
+ Chi è il
+ministro-presidente della Renania-Palat",Delgada,Chi,1
+it_isdt-ud-dev,40565,?," è il
+ministro-presidente della Renania-Palatinato","
+ A quanto ammontano i debiti
+dell'Eurotunnel?
+ Ch"," è il
+ministro-presidente della Renania-Palatinato?
+ A quanto ammontano i debiti
+dell'Eurotunnel?
+ Ch",Renania-Palatinato,A,1
+it_isdt-ud-dev,40611,?,"nato?
+ A quanto ammontano i debiti
+dell'Eurotunnel","
+ Chi è Jorge Amado?
+ Quale squadra ha vinto il to","nato?
+ A quanto ammontano i debiti
+dell'Eurotunnel?
+ Chi è Jorge Amado?
+ Quale squadra ha vinto il to",dell'Eurotunnel,Chi,1
+it_isdt-ud-dev,40631,?,"ntano i debiti
+dell'Eurotunnel?
+ Chi è Jorge Amado","
+ Quale squadra ha vinto il torneo dell'NBA?
+
+Qual","ntano i debiti
+dell'Eurotunnel?
+ Chi è Jorge Amado?
+ Quale squadra ha vinto il torneo dell'NBA?
+
+Qual",Amado,Quale,1
+it_isdt-ud-dev,40675,?," Amado?
+ Quale squadra ha vinto il torneo dell'NBA","
+
+Quale presidente russo partecipò al Vertice G7 a"," Amado?
+ Quale squadra ha vinto il torneo dell'NBA?
+
+Quale presidente russo partecipò al Vertice G7 a",dell'NBA,Quale,1
+it_isdt-ud-dev,40733,?, presidente russo partecipò al Vertice G7 a Napoli,"
+ In quale quartiere di
+Londra si trova il British"," presidente russo partecipò al Vertice G7 a Napoli?
+ In quale quartiere di
+Londra si trova il British",Napoli,In,1
+it_isdt-ud-dev,40791,?,"ale quartiere di
+Londra si trova il British Museum","
+ Chi era il capo del gruppo guerrigliero UNITA
+in","ale quartiere di
+Londra si trova il British Museum?
+ Chi era il capo del gruppo guerrigliero UNITA
+in",Museum,Chi,1
+it_isdt-ud-dev,40849,?,"ra il capo del gruppo guerrigliero UNITA
+in Angola","
+ Qual è il maggior produttore di petrolio al mond","ra il capo del gruppo guerrigliero UNITA
+in Angola?
+ Qual è il maggior produttore di petrolio al mond",Angola,Qual,1
+it_isdt-ud-dev,40901,?, Qual è il maggior produttore di petrolio al mondo,"
+ Quanto è alto il
+monte Everest?
+ In quale città "," Qual è il maggior produttore di petrolio al mondo?
+ Quanto è alto il
+monte Everest?
+ In quale città ",mondo,Quanto,1
+it_isdt-ud-dev,40934,?,"petrolio al mondo?
+ Quanto è alto il
+monte Everest","
+ In quale città si trova la Porta di Brandeburgo?","petrolio al mondo?
+ Quanto è alto il
+monte Everest?
+ In quale città si trova la Porta di Brandeburgo?",Everest,In,1
+it_isdt-ud-dev,40984,?,"?
+ In quale città si trova la Porta di Brandeburgo","
+ Quanto è alto il
+Matterhorn?
+ Quanto ha speso la","?
+ In quale città si trova la Porta di Brandeburgo?
+ Quanto è alto il
+Matterhorn?
+ Quanto ha speso la",Brandeburgo,Quanto,1
+it_isdt-ud-dev,41014,?,"Porta di Brandeburgo?
+ Quanto è alto il
+Matterhorn","
+ Quanto ha speso la commissione trasporti di una ","Porta di Brandeburgo?
+ Quanto è alto il
+Matterhorn?
+ Quanto ha speso la commissione trasporti di una ",Matterhorn,Quanto,1
+it_isdt-ud-dev,41130,?,"ornia
+per acquistare telefoni per persone disabili","
+ Presso quale centro di ricerca
+lavora l'oceanogr","ornia
+per acquistare telefoni per persone disabili?
+ Presso quale centro di ricerca
+lavora l'oceanogr",disabili,Presso,1
+it_isdt-ud-dev,41196,?,"centro di ricerca
+lavora l'oceanografo John Potter","
+ Nomina una squadra in cui ha giocato Tim
+Crews.
+","centro di ricerca
+lavora l'oceanografo John Potter?
+ Nomina una squadra in cui ha giocato Tim
+Crews.
+",Potter,Nomina,1
+it_isdt-ud-dev,41245,.,"r?
+ Nomina una squadra in cui ha giocato Tim
+Crews","
+ Dove si trova Hebron?
+ Per quale compagnia lavor","r?
+ Nomina una squadra in cui ha giocato Tim
+Crews.
+ Dove si trova Hebron?
+ Per quale compagnia lavor",Crews,Dove,1
+it_isdt-ud-dev,41268,?,"in cui ha giocato Tim
+Crews.
+ Dove si trova Hebron","
+ Per quale compagnia lavora S Gregory?
+ Quando na","in cui ha giocato Tim
+Crews.
+ Dove si trova Hebron?
+ Per quale compagnia lavora S Gregory?
+ Quando na",Hebron,Per,1
+it_isdt-ud-dev,41307,?,"rova Hebron?
+ Per quale compagnia lavora S Gregory","
+ Quando nacque
+Lothar Matthaeus?
+ Chi vinse l'Osc","rova Hebron?
+ Per quale compagnia lavora S Gregory?
+ Quando nacque
+Lothar Matthaeus?
+ Chi vinse l'Osc",Gregory,Quando,1
+it_isdt-ud-dev,41340,?," lavora S Gregory?
+ Quando nacque
+Lothar Matthaeus","
+ Chi vinse l'Oscar per ""La Bella e la Bestia""?
+ C"," lavora S Gregory?
+ Quando nacque
+Lothar Matthaeus?
+ Chi vinse l'Oscar per ""La Bella e la Bestia""?
+ C",Matthaeus,Chi,1
+it_isdt-ud-dev,41387,?,"eus?
+ Chi vinse l'Oscar per ""La Bella e la Bestia""","
+ Chi è il capo
+del Gruppo Islamico Armato algerin","eus?
+ Chi vinse l'Oscar per ""La Bella e la Bestia""?
+ Chi è il capo
+del Gruppo Islamico Armato algerin",,Chi,1
+it_isdt-ud-dev,41439,?," Chi è il capo
+del Gruppo Islamico Armato algerino","
+ Chi era la voce solista dei Commodores?
+ Chi
+suc"," Chi è il capo
+del Gruppo Islamico Armato algerino?
+ Chi era la voce solista dei Commodores?
+ Chi
+suc",algerino,Chi,1
+it_isdt-ud-dev,41480,?," algerino?
+ Chi era la voce solista dei Commodores","
+ Chi
+successe a Ferdinand Marcos?
+ Qual è la capi"," algerino?
+ Chi era la voce solista dei Commodores?
+ Chi
+successe a Ferdinand Marcos?
+ Qual è la capi",Commodores,Chi,1
+it_isdt-ud-dev,41514,?,"a dei Commodores?
+ Chi
+successe a Ferdinand Marcos","
+ Qual è la capitale della Nuova Zelanda?
+ Che
+ann","a dei Commodores?
+ Chi
+successe a Ferdinand Marcos?
+ Qual è la capitale della Nuova Zelanda?
+ Che
+ann",Marcos,Qual,1
+it_isdt-ud-dev,41555,?,"nd Marcos?
+ Qual è la capitale della Nuova Zelanda","
+ Che
+anniversario è il ventesimo?
+ Quale nome dav","nd Marcos?
+ Qual è la capitale della Nuova Zelanda?
+ Che
+anniversario è il ventesimo?
+ Quale nome dav",Zelanda,Che,1
+it_isdt-ud-dev,41589,?,"la Nuova Zelanda?
+ Che
+anniversario è il ventesimo","
+ Quale nome dava Sherlock Holmes alla gang che lo","la Nuova Zelanda?
+ Che
+anniversario è il ventesimo?
+ Quale nome dava Sherlock Holmes alla gang che lo",ventesimo,Quale,1
+it_isdt-ud-dev,41667,?,"Holmes alla gang che lo
+aiutava a risolvere i casi","
+ Quando nacque Jackie Robinson?
+ Dove si trova la","Holmes alla gang che lo
+aiutava a risolvere i casi?
+ Quando nacque Jackie Robinson?
+ Dove si trova la",casi,Quando,1
+it_isdt-ud-dev,41699,?,"a risolvere i casi?
+ Quando nacque Jackie Robinson","
+ Dove si trova la
+Statua della Libertà?
+ Quanti t","a risolvere i casi?
+ Quando nacque Jackie Robinson?
+ Dove si trova la
+Statua della Libertà?
+ Quanti t",Robinson,Dove,1
+it_isdt-ud-dev,41739,?,"e Robinson?
+ Dove si trova la
+Statua della Libertà","
+ Quanti tasti neri ci sono nel pianoforte?
+ Come ","e Robinson?
+ Dove si trova la
+Statua della Libertà?
+ Quanti tasti neri ci sono nel pianoforte?
+ Come ",Libertà,Quanti,1
+it_isdt-ud-dev,41782,?,"Libertà?
+ Quanti tasti neri ci sono nel pianoforte","
+ Come si chiama
+la casa di Scarlett O Hara?
+ Quan","Libertà?
+ Quanti tasti neri ci sono nel pianoforte?
+ Come si chiama
+la casa di Scarlett O Hara?
+ Quan",pianoforte,Come,1
+it_isdt-ud-dev,41826,?,"oforte?
+ Come si chiama
+la casa di Scarlett O Hara","
+ Quanto dista Buffalo, New York, da Syracuse, New","oforte?
+ Come si chiama
+la casa di Scarlett O Hara?
+ Quanto dista Buffalo, New York, da Syracuse, New",Hara,Quanto,1
+it_isdt-ud-dev,41882,?,"nto dista Buffalo, New York, da Syracuse, New
+York","
+ In che anno il generale Montgomery condusse gli ","nto dista Buffalo, New York, da Syracuse, New
+York?
+ In che anno il generale Montgomery condusse gli ",York,In,1
+it_isdt-ud-dev,41996,?,"vittoria
+contro le truppe dell'asse in Nord Africa","
+ Dove sono conservati i gioielli della
+Corona bri","vittoria
+contro le truppe dell'asse in Nord Africa?
+ Dove sono conservati i gioielli della
+Corona bri",Africa,Dove,1
+it_isdt-ud-dev,42054,?,"sono conservati i gioielli della
+Corona britannica","
+ Che numero indossava Michael Jordan?
+ Che mestie","sono conservati i gioielli della
+Corona britannica?
+ Che numero indossava Michael Jordan?
+ Che mestie",britannica,Che,1
+it_isdt-ud-dev,42092,?,"a britannica?
+ Che numero indossava Michael Jordan","
+ Che mestiere faceva
+William Shakespeare prima di","a britannica?
+ Che numero indossava Michael Jordan?
+ Che mestiere faceva
+William Shakespeare prima di",Jordan,Che,1
+it_isdt-ud-dev,42170,?,am Shakespeare prima di iniziare a scrivere drammi,"
+ Quanti fusi orari ci
+sono nel mondo?
+ Quando ven","am Shakespeare prima di iniziare a scrivere drammi?
+ Quanti fusi orari ci
+sono nel mondo?
+ Quando ven",drammi,Quanti,1
+it_isdt-ud-dev,42208,?,"ivere drammi?
+ Quanti fusi orari ci
+sono nel mondo","
+ Quando venne bandito il tabacco da masticare nel","ivere drammi?
+ Quanti fusi orari ci
+sono nel mondo?
+ Quando venne bandito il tabacco da masticare nel",mondo,Quando,1
+it_isdt-ud-dev,42268,?,venne bandito il tabacco da masticare nel baseball,"
+ Di
+che cosa è fatto il Corian?
+ Quanti ""home run","venne bandito il tabacco da masticare nel baseball?
+ Di
+che cosa è fatto il Corian?
+ Quanti ""home run",baseball,Di,1
+it_isdt-ud-dev,42300,?,"icare nel baseball?
+ Di
+che cosa è fatto il Corian","
+ Quanti ""home run"" ha segnato Henry ""Hank"" Aaron ","icare nel baseball?
+ Di
+che cosa è fatto il Corian?
+ Quanti ""home run"" ha segnato Henry ""Hank"" Aaron ",Corian,Quanti,1
+it_isdt-ud-dev,42403,?,"l
+corso della sua carriera nel campionato maggiore","
+ Quali paesi hanno registrato
+degli incidenti di ","l
+corso della sua carriera nel campionato maggiore?
+ Quali paesi hanno registrato
+degli incidenti di ",maggiore,Quali,1
+it_isdt-ud-dev,42493,?,cidenti di scuolabus in cui morirono delle persone,"
+ Quanto misura un
+letto king-size?
+ Quale animale","cidenti di scuolabus in cui morirono delle persone?
+ Quanto misura un
+letto king-size?
+ Quale animale",persone,Quanto,1
+it_isdt-ud-dev,42528,?,"o delle persone?
+ Quanto misura un
+letto king-size","
+ Quale animale può percorrere le distanze maggior","o delle persone?
+ Quanto misura un
+letto king-size?
+ Quale animale può percorrere le distanze maggior",king-size,Quale,1
+it_isdt-ud-dev,42592,?,le può percorrere le distanze maggiori senza acqua,"
+
+Quale attore ha un tatuaggio sul suo polso destr","le può percorrere le distanze maggiori senza acqua?
+
+Quale attore ha un tatuaggio sul suo polso destr",acqua,Quale,1
+it_isdt-ud-dev,42679,?,"uo polso destro con la scritta ""Scozia per
+sempre""","
+ Quanto pesava Marilyn Monroe?
+ Come si chiamano ","uo polso destro con la scritta ""Scozia per
+sempre""?
+ Quanto pesava Marilyn Monroe?
+ Come si chiamano ",,Quanto,1
+it_isdt-ud-dev,42710,?,"""Scozia per
+sempre""?
+ Quanto pesava Marilyn Monroe","
+ Come si chiamano i suoni che sono troppo
+bassi p","""Scozia per
+sempre""?
+ Quanto pesava Marilyn Monroe?
+ Come si chiamano i suoni che sono troppo
+bassi p",Monroe,Come,1
+it_isdt-ud-dev,42795,?,"o troppo
+bassi per essere uditi dagli esseri umani","
+ Quante stanze ha il Grand Hotel MGM
+di Las V?
+ Q","o troppo
+bassi per essere uditi dagli esseri umani?
+ Quante stanze ha il Grand Hotel MGM
+di Las V?
+ Q",umani,Quante,1
+it_isdt-ud-dev,42842,?,"ani?
+ Quante stanze ha il Grand Hotel MGM
+di Las V","
+ Quale medicina comune scoperta dai nativi americ","ani?
+ Quante stanze ha il Grand Hotel MGM
+di Las V?
+ Quale medicina comune scoperta dai nativi americ",V,Quale,1
+it_isdt-ud-dev,42935,?,"i americani si ricava dalla
+corteccia di un salice","
+ Quando venne costruito il Titanic?
+ Chi è Alger ","i americani si ricava dalla
+corteccia di un salice?
+ Quando venne costruito il Titanic?
+ Chi è Alger ",salice,Quando,1
+it_isdt-ud-dev,42971,?,"a di un salice?
+ Quando venne costruito il Titanic","
+ Chi è Alger Hiss?
+
+Quando è stata fondata la Cro","a di un salice?
+ Quando venne costruito il Titanic?
+ Chi è Alger Hiss?
+
+Quando è stata fondata la Cro",Titanic,Chi,1
+it_isdt-ud-dev,42990,?,"ando venne costruito il Titanic?
+ Chi è Alger Hiss","
+
+Quando è stata fondata la Croce Rossa?
+ Per chi ","ando venne costruito il Titanic?
+ Chi è Alger Hiss?
+
+Quando è stata fondata la Croce Rossa?
+ Per chi ",Hiss,Quando,1
+it_isdt-ud-dev,43030,?,"Alger Hiss?
+
+Quando è stata fondata la Croce Rossa","
+ Per chi ha comprato i regali?
+ Con cosa
+stanno l","Alger Hiss?
+
+Quando è stata fondata la Croce Rossa?
+ Per chi ha comprato i regali?
+ Con cosa
+stanno l",Rossa,Per,1
+it_isdt-ud-dev,43061,?,"data la Croce Rossa?
+ Per chi ha comprato i regali","
+ Con cosa
+stanno legando le barche?
+ I colossi de","data la Croce Rossa?
+ Per chi ha comprato i regali?
+ Con cosa
+stanno legando le barche?
+ I colossi de",regali,Con,1
+it_isdt-ud-dev,43097,?,"prato i regali?
+ Con cosa
+stanno legando le barche","
+ I colossi dell'agrochimica Bayer e Syngenta hann","prato i regali?
+ Con cosa
+stanno legando le barche?
+ I colossi dell'agrochimica Bayer e Syngenta hann",barche,I,1
+it_isdt-ud-dev,43194,.,"hanno
+fatto separatamente causa all'Unione Europea","
+ È uno dei particolari
+dell'indagine per estorsio","hanno
+fatto separatamente causa all'Unione Europea.
+ È uno dei particolari
+dell'indagine per estorsio",Europea,È,1
+it_isdt-ud-dev,43391,.,"otto processo per concorso in
+associazione mafiosa","
+ L'accusa di reato per abuso d'ufficio è stata mo","otto processo per concorso in
+associazione mafiosa.
+ L'accusa di reato per abuso d'ufficio è stata mo",mafiosa,L'accusa,1
+it_isdt-ud-dev,43512,.,inmeccanica nei confronti del faccendiere Lavitola,"
+ L'accusa per
+Pozzessere: corruzione internaziona","inmeccanica nei confronti del faccendiere Lavitola.
+ L'accusa per
+Pozzessere: corruzione internaziona",Lavitola,L'accusa,1
+it_isdt-ud-dev,43663,.,e L'Avanti nonché super-consulente di Finmeccanica,"
+ il nome che si sta
+facendo strada presso l'esecu","e L'Avanti nonché super-consulente di Finmeccanica.
+ il nome che si sta
+facendo strada presso l'esecu",Finmeccanica,il,1
+it_isdt-ud-dev,43812,.,"è
+quello di Francesco Caio, ora al vertice di Avio","
+ Nel 2003 è stato nominato
+amministratore delegat","è
+quello di Francesco Caio, ora al vertice di Avio.
+ Nel 2003 è stato nominato
+amministratore delegat",Avio,Nel,1
+it_isdt-ud-dev,43895,.,nistratore delegato della britannica CableWireless,"
+ In carcere a Santa Maria
+Capua Vetere anche Tomm","nistratore delegato della britannica CableWireless.
+ In carcere a Santa Maria
+Capua Vetere anche Tomm",CableWireless,In,1
+it_isdt-ud-dev,44020,.,"a il ruolo di amministratore
+della società fallita","
+ Il gip di Busto Arsizio che ha firmato l'ordinan","a il ruolo di amministratore
+della società fallita.
+ Il gip di Busto Arsizio che ha firmato l'ordinan",fallita,Il,1
+it_isdt-ud-dev,44093,.,"zio che ha firmato l'ordinanza è
+stato assassinato","
+ Gianfranco Tornatore, che a sua volta aveva loca","zio che ha firmato l'ordinanza è
+stato assassinato.
+ Gianfranco Tornatore, che a sua volta aveva loca",assassinato,Gianfranco,1
+it_isdt-ud-dev,44164,.,"re, che a sua volta aveva locato alla Gold
+Hotel s","p.a., costituita poco prima e riferibile sempre al","re, che a sua volta aveva locato alla Gold
+Hotel s.p.a., costituita poco prima e riferibile sempre al",s,p,0
+it_isdt-ud-dev,44166,.,", che a sua volta aveva locato alla Gold
+Hotel s.p","a., costituita poco prima e riferibile sempre allo",", che a sua volta aveva locato alla Gold
+Hotel s.p.a., costituita poco prima e riferibile sempre allo",p,a,0
+it_isdt-ud-dev,44168,.,"che a sua volta aveva locato alla Gold
+Hotel s.p.a",", costituita poco prima e riferibile sempre allo s","che a sua volta aveva locato alla Gold
+Hotel s.p.a., costituita poco prima e riferibile sempre allo s",a,,0
+it_isdt-ud-dev,44234,.,co prima e riferibile sempre allo stesso Tornatore,"
+
+L’indagine sarà portata avanti dalle Gendarmerie","co prima e riferibile sempre allo stesso Tornatore.
+
+L’indagine sarà portata avanti dalle Gendarmerie",Tornatore,L,1
+it_isdt-ud-dev,44391,.,eribel e “non sarà chiusa prima di diversi giorni”,"
+
+Che tramite il manager e portavoce di Michael Sc","eribel e “non sarà chiusa prima di diversi giorni”.
+
+Che tramite il manager e portavoce di Michael Sc",,Che,1
+it_isdt-ud-dev,44542,.,anti messaggi di supporto giunti da tutto il mondo,"
+ Roma è
+piena di gente che lavora, ma anche di pe","anti messaggi di supporto giunti da tutto il mondo.
+ Roma è
+piena di gente che lavora, ma anche di pe",mondo,Roma,1
+it_isdt-ud-dev,44797,.," gli abbiamo messo delle coperte e affidati al
+118","
+ Una persona così merita di essere internato a vi"," gli abbiamo messo delle coperte e affidati al
+118.
+ Una persona così merita di essere internato a vi",118,Una,1
+it_isdt-ud-dev,44893,.," a vita e gettata via la
+chiave”, fa eco Edoardo M",".
+ L'associazione Creative Commons (di seguito
+'Cr"," a vita e gettata via la
+chiave”, fa eco Edoardo M..
+ L'associazione Creative Commons (di seguito
+'Cr",M,,0
+it_isdt-ud-dev,44894,.,"a vita e gettata via la
+chiave”, fa eco Edoardo M.","
+ L'associazione Creative Commons (di seguito
+'Cre","a vita e gettata via la
+chiave”, fa eco Edoardo M..
+ L'associazione Creative Commons (di seguito
+'Cre",,L'associazione,1
+it_isdt-ud-dev,45028,.,"legale e non fornisce servizi di consulenza
+legale","
+ L'opera (come sotto definita) è messa a disposiz","legale e non fornisce servizi di consulenza
+legale.
+ L'opera (come sotto definita) è messa a disposiz",legale,L'opera,1
+it_isdt-ud-dev,45184,.,"ative Commons Public Licence"" ('CCPL' o
+'licenza')","
+ Compensi per versioni cover.
+ Al fine di evitare","ative Commons Public Licence"" ('CCPL' o
+'licenza').
+ Compensi per versioni cover.
+ Al fine di evitare",,Compensi,1
+it_isdt-ud-dev,45214,.,"('CCPL' o
+'licenza').
+ Compensi per versioni cover","
+ Al fine di evitare dubbi, è inteso che
+il Licenz","('CCPL' o
+'licenza').
+ Compensi per versioni cover.
+ Al fine di evitare dubbi, è inteso che
+il Licenz",cover,Al,1
+it_isdt-ud-dev,45391,.,i dalla legge italiana sul diritto d'autore (ad es," per l'inserimento
+dell'opera in un'antologia ad u","i dalla legge italiana sul diritto d'autore (ad es. per l'inserimento
+dell'opera in un'antologia ad u",es,per,0
+it_isdt-ud-dev,45462,.,ell'opera in un'antologia ad uso scolastico ex art," 70 l. 633/1941).
+ Nessuna
+clausola di questa lice","ell'opera in un'antologia ad uso scolastico ex art. 70 l. 633/1941).
+ Nessuna
+clausola di questa lice",art,70,0
+it_isdt-ud-dev,45468,.,era in un'antologia ad uso scolastico ex art. 70 l," 633/1941).
+ Nessuna
+clausola di questa licenza es","era in un'antologia ad uso scolastico ex art. 70 l. 633/1941).
+ Nessuna
+clausola di questa licenza es",l,633,0
+it_isdt-ud-dev,45479,.,ntologia ad uso scolastico ex art. 70 l. 633/1941),"
+ Nessuna
+clausola di questa licenza esclude o lim","ntologia ad uso scolastico ex art. 70 l. 633/1941).
+ Nessuna
+clausola di questa licenza esclude o lim",,Nessuna,1
+it_isdt-ud-dev,45604,.,"l caso in cui
+questa dipenda da dolo o colpa grave","
+ Invece, i cittadini di alcuni nostri paesi
+sono ","l caso in cui
+questa dipenda da dolo o colpa grave.
+ Invece, i cittadini di alcuni nostri paesi
+sono ",grave,Invece,1
+it_isdt-ud-dev,45724,.,tastrofi naturali di proporzioni davvero terribili,"
+
+Avete chiesto che si tenesse una discussione su ","tastrofi naturali di proporzioni davvero terribili.
+
+Avete chiesto che si tenesse una discussione su ",terribili,Avete,1
+it_isdt-ud-dev,45838,.," prossimi giorni,
+nel corso della presente tornata","
+ La relazione Cunha sui programmi di
+orientamento"," prossimi giorni,
+nel corso della presente tornata.
+ La relazione Cunha sui programmi di
+orientamento",tornata,La,1
+it_isdt-ud-dev,46207,.,", nonostante il principio della
+stabilità relativa","
+ faccia in modo che sia reso disponibile anche un",", nonostante il principio della
+stabilità relativa.
+ faccia in modo che sia reso disponibile anche un",relativa,faccia,1
+it_isdt-ud-dev,46274,.," che sia reso disponibile anche un canale
+olandese","
+ Onorevole collega, sarà mia cura verificare tale"," che sia reso disponibile anche un canale
+olandese.
+ Onorevole collega, sarà mia cura verificare tale",olandese,Onorevole,1
+it_isdt-ud-dev,46331,.,"evole collega, sarà mia cura verificare tale punto","
+ Onorevole
+collega Barón Crespo, lei non ha potut","evole collega, sarà mia cura verificare tale punto.
+ Onorevole
+collega Barón Crespo, lei non ha potut",punto,Onorevole,1
+it_isdt-ud-dev,46441,.,"pare giovedì scorso alla
+conferenza dei presidenti","
+ (applausi dai banchi del gruppo del PPE-DE).
+ Qu","pare giovedì scorso alla
+conferenza dei presidenti.
+ (applausi dai banchi del gruppo del PPE-DE).
+ Qu",presidenti,,1
+it_isdt-ud-dev,46487,.,"enti.
+ (applausi dai banchi del gruppo del PPE-DE)","
+ Quindi,
+noi rispettiamo le eventuali decisioni i","enti.
+ (applausi dai banchi del gruppo del PPE-DE).
+ Quindi,
+noi rispettiamo le eventuali decisioni i",,Quindi,1
+it_isdt-ud-dev,46562,.,o le eventuali decisioni in materia del parlamento,"
+ Vorrei infine
+soffermarmi su un ultimo punto.
+ P","o le eventuali decisioni in materia del parlamento.
+ Vorrei infine
+soffermarmi su un ultimo punto.
+ P",parlamento,Vorrei,1
+it_isdt-ud-dev,46609,.,"nto.
+ Vorrei infine
+soffermarmi su un ultimo punto","
+ Pur sapendo che si tratta soltanto di un piccolo","nto.
+ Vorrei infine
+soffermarmi su un ultimo punto.
+ Pur sapendo che si tratta soltanto di un piccolo",punto,Pur,1
+it_isdt-ud-dev,46740,.,"rezza, vi invito a votare a favore della relazione","
+
+E' la prima volta che intervengo in Plenaria e d","rezza, vi invito a votare a favore della relazione.
+
+E' la prima volta che intervengo in Plenaria e d",relazione,E',1
+it_isdt-ud-dev,46921,.," che però, per fortuna, è
+durato più di due minuti","
+ Mi pare questa un'evoluzione estremamente positi"," che però, per fortuna, è
+durato più di due minuti.
+ Mi pare questa un'evoluzione estremamente positi",minuti,Mi,1
+it_isdt-ud-dev,47045,.,ingenti variano notevolmente da un paese all'altro,"
+ Il collega
+Koch ha dovuto preparare la sua prege","ingenti variano notevolmente da un paese all'altro.
+ Il collega
+Koch ha dovuto preparare la sua prege",all'altro,Il,1
+it_isdt-ud-dev,47245,.,"Unite non sono stati
+svolti con la dovuta celerità","
+ Signor presidente, mi congratulo nuovamente con
+","Unite non sono stati
+svolti con la dovuta celerità.
+ Signor presidente, mi congratulo nuovamente con
+",celerità,Signor,1
+it_isdt-ud-dev,47483,.,"tenuto lo scorso
+ottobre sul trasporto ferroviario","
+ Non dobbiamo dimenticare che lo spazio rurale
+ra","tenuto lo scorso
+ottobre sul trasporto ferroviario.
+ Non dobbiamo dimenticare che lo spazio rurale
+ra",ferroviario,Non,1
+it_isdt-ud-dev,47601,., quattro quinti del territorio dell'Unione Europea,"
+ Adesso
+siamo già molto in ritardo.
+ Ci opponiamo"," quattro quinti del territorio dell'Unione Europea.
+ Adesso
+siamo già molto in ritardo.
+ Ci opponiamo",Europea,Adesso,1
+it_isdt-ud-dev,47637,.,"Unione Europea.
+ Adesso
+siamo già molto in ritardo","
+ Ci opponiamo all'eccessivo controllo dell'Unione","Unione Europea.
+ Adesso
+siamo già molto in ritardo.
+ Ci opponiamo all'eccessivo controllo dell'Unione",ritardo,Ci,1
+it_isdt-ud-dev,47842,.,lentare lo sviluppo e lo svolgimento dei programmi,"
+ I
+fondi strutturali hanno svolto un ruolo chiave","lentare lo sviluppo e lo svolgimento dei programmi.
+ I
+fondi strutturali hanno svolto un ruolo chiave",programmi,I,1
+it_isdt-ud-dev,48101,.,"e acquee reflue e delle reti di
+trasporto connesse","
+ come articolare la politica dell'unione con le p","e acquee reflue e delle reti di
+trasporto connesse.
+ come articolare la politica dell'unione con le p",connesse,come,1
+it_isdt-ud-dev,48209,.,"e
+nazionali sussidiarie di gestione del territorio","
+ Per gli esperti del piano
+francese, lo scenario ","e
+nazionali sussidiarie di gestione del territorio.
+ Per gli esperti del piano
+francese, lo scenario ",territorio,Per,1
+it_isdt-ud-dev,48350,.,"l divario tra le
+regioni all'interno di ogni paese","
+ Considerato che il riconoscimento della
+dignità ","l divario tra le
+regioni all'interno di ogni paese.
+ Considerato che il riconoscimento della
+dignità ",paese,Considerato,1
+it_isdt-ud-dev,48619,.,"do;
+ Ogni individuo ha diritto ad una cittadinanza","
+ Inoltre,
+se decidi di utilizzare Facebook da un ","do;
+ Ogni individuo ha diritto ad una cittadinanza.
+ Inoltre,
+se decidi di utilizzare Facebook da un ",cittadinanza,Inoltre,1
+it_isdt-ud-dev,48871,.,"uanto stabilito dall'operatore di telefonia
+mobile","
+ Per registrarti per un nuovo account, inserisci ","uanto stabilito dall'operatore di telefonia
+mobile.
+ Per registrarti per un nuovo account, inserisci ",mobile,Per,1
+it_isdt-ud-dev,49002,.,sesso e indirizzo e-mail nel modulo disponibile su,"
+ Tasso di
+conversione del 10% dalle visite origin","sesso e indirizzo e-mail nel modulo disponibile su.
+ Tasso di
+conversione del 10% dalle visite origin",su,Tasso,1
+it_isdt-ud-dev,49085,.,alle visite originate dalle inserzioni di Facebook,"
+ È
+rinomato per i suoi personaggi poliedrici, che","alle visite originate dalle inserzioni di Facebook.
+ È
+rinomato per i suoi personaggi poliedrici, che",Facebook,È,1
+it_isdt-ud-dev,49160,.,"personaggi poliedrici, che sono moralmente ambigui","
+ Balzac
+ebbe difficoltà ad adattarsi allo stile r","personaggi poliedrici, che sono moralmente ambigui.
+ Balzac
+ebbe difficoltà ad adattarsi allo stile r",ambigui,Balzac,1
+it_isdt-ud-dev,49243,.,tarsi allo stile ripetitivo delle lezioni a scuola,"
+ Verso
+la fine della sua vita Balzac si lasciò at","tarsi allo stile ripetitivo delle lezioni a scuola.
+ Verso
+la fine della sua vita Balzac si lasciò at",scuola,Verso,1
+it_isdt-ud-dev,49330,.,"c si lasciò attirare dall'idea di far abbattere
+20",000 acri (81 Km2) di querce in Ucraina da trasport,"c si lasciò attirare dall'idea di far abbattere
+20.000 acri (81 Km2) di querce in Ucraina da trasport",20,000,0
+it_isdt-ud-dev,49405,.,rce in Ucraina da trasportare e vendere in Francia,"
+
+Quando gli venne l'idea, corse nell'appartamento","rce in Ucraina da trasportare e vendere in Francia.
+
+Quando gli venne l'idea, corse nell'appartamento",Francia,Quando,1
+it_isdt-ud-dev,49659,.,"e sono al centro delle scene più
+brutali del libro","
+ Le Cousin Pons (1847) e La Cousine Bette (1848) ","e sono al centro delle scene più
+brutali del libro.
+ Le Cousin Pons (1847) e La Cousine Bette (1848) ",libro,Le,1
+it_isdt-ud-dev,49772,.,"a
+storia de Les Parents Pauvres (i parenti poveri)","
+ La loro corrispondenza lascia
+intravedere un int","a
+storia de Les Parents Pauvres (i parenti poveri).
+ La loro corrispondenza lascia
+intravedere un int",,La,1
+it_isdt-ud-dev,50058,.,"l'esistenza umana attraverso
+l'uso dei particolari","
+ Alcuni critici considerano la scrittura di Balza","l'esistenza umana attraverso
+l'uso dei particolari.
+ Alcuni critici considerano la scrittura di Balza",particolari,Alcuni,1
+it_isdt-ud-dev,50285,.,"mano come intrinsecamente collegato con
+l'ambiente","
+ ""Allo stesso tempo, i personaggi rappresentano u","mano come intrinsecamente collegato con
+l'ambiente.
+ ""Allo stesso tempo, i personaggi rappresentano u",l'ambiente,,1
+it_isdt-ud-dev,50528,.,"alzac scrisse che ""i libri sono
+scritti per tutti""","
+ All'età di 18 anni, sposò Anne Hathaway, con la ","alzac scrisse che ""i libri sono
+scritti per tutti"".
+ All'età di 18 anni, sposò Anne Hathaway, con la ",,All'età,1
+it_isdt-ud-dev,50738,.,e non raggiunse il peso attuale fino al xix secolo,"
+ La sua vera
+data di nascita rimane sconosciuta, ","e non raggiunse il peso attuale fino al xix secolo.
+ La sua vera
+data di nascita rimane sconosciuta, ",secolo,La,1
+it_isdt-ud-dev,50861,.," si colloca il 23
+aprile, il giorno di san Giorgio","
+ Nel 1599, un partenariato di membri della
+compag"," si colloca il 23
+aprile, il giorno di san Giorgio.
+ Nel 1599, un partenariato di membri della
+compag",Giorgio,Nel,1
+it_isdt-ud-dev,50997,.,"chiamarono Globe sulla sponda sud del
+fiume Tamigi","
+ Testimonianze degli acquisti immobiliari e degli","chiamarono Globe sulla sponda sud del
+fiume Tamigi.
+ Testimonianze degli acquisti immobiliari e degli",Tamigi,Testimonianze,1
+it_isdt-ud-dev,51122,.,eare mostrano che la compagnia lo aveva reso ricco,"
+ Nel 1604, si spostò
+di nuovo a nord del fiume, i","eare mostrano che la compagnia lo aveva reso ricco.
+ Nel 1604, si spostò
+di nuovo a nord del fiume, i",ricco,Nel,1
+it_isdt-ud-dev,51244,.,"a cattedrale di Saint Paul con
+molte case eleganti","
+ Qui affittò camere da un ugonotto francese chiam","a cattedrale di Saint Paul con
+molte case eleganti.
+ Qui affittò camere da un ugonotto francese chiam",eleganti,Qui,1
+it_isdt-ud-dev,51373,.,produttore di parrucche da donna e altri copricapi,"
+ Nel
+1612, fu chiamato come testimone in Bellott ","produttore di parrucche da donna e altri copricapi.
+ Nel
+1612, fu chiamato come testimone in Bellott ",copricapi,Nel,1
+it_isdt-ud-dev,51425,.," Nel
+1612, fu chiamato come testimone in Bellott v"," Mountjoy, un processo che
+riguardava l'accordo ma"," Nel
+1612, fu chiamato come testimone in Bellott v. Mountjoy, un processo che
+riguardava l'accordo ma",v,Mountjoy,0
+it_isdt-ud-dev,51517,.,"ccordo matrimoniale della figlia di Mountjoy, Mary","
+ Le sue ultime
+tre opere teatrali furono delle co","ccordo matrimoniale della figlia di Mountjoy, Mary.
+ Le sue ultime
+tre opere teatrali furono delle co",Mary,Le,1
+it_isdt-ud-dev,51673,.,successe come poeta drammatico presso i King's Men,"
+ ""essere o non
+essere, questo è il problema"".
+ Ne","successe come poeta drammatico presso i King's Men.
+ ""essere o non
+essere, questo è il problema"".
+ Ne",Men,,1
+it_isdt-ud-dev,51719,.," Men.
+ ""essere o non
+essere, questo è il problema""","
+ Nel 1613, Sir Henry Wotton scrisse che l'Enrico
+"," Men.
+ ""essere o non
+essere, questo è il problema"".
+ Nel 1613, Sir Henry Wotton scrisse che l'Enrico
+",,Nel,1
+it_isdt-ud-dev,51836,.,"ato con grande acclamazione fra fasti e cerimonie""","
+ La raccolta
+conteneva 36 testi, tra cui 18 inedi","ato con grande acclamazione fra fasti e cerimonie"".
+ La raccolta
+conteneva 36 testi, tra cui 18 inedi",,La,1
+it_isdt-ud-dev,51889,.,"La raccolta
+conteneva 36 testi, tra cui 18 inediti","
+ Li dedicò a Henry Wriothesley, il conte
+di South","La raccolta
+conteneva 36 testi, tra cui 18 inediti.
+ Li dedicò a Henry Wriothesley, il conte
+di South",inediti,Li,1
+it_isdt-ud-dev,51946,.,"edicò a Henry Wriothesley, il conte
+di Southampton","
+ Questi includono due opere scritte da Giuseppe V","edicò a Henry Wriothesley, il conte
+di Southampton.
+ Questi includono due opere scritte da Giuseppe V",Southampton,Questi,1
+it_isdt-ud-dev,52094,.,"tica è paragonabile a quella delle opere
+originali","
+ Ai tempi di Shakespeare, la grammatica inglese, ","tica è paragonabile a quella delle opere
+originali.
+ Ai tempi di Shakespeare, la grammatica inglese, ",originali,Ai,1
+it_isdt-ud-dev,52298,.,inguaggio ha aiutato a modellare l'inglese moderno,"
+ Negli anni 50,
+un'ondata di nuovi approcci criti","inguaggio ha aiutato a modellare l'inglese moderno.
+ Negli anni 50,
+un'ondata di nuovi approcci criti",moderno,Negli,1
+it_isdt-ud-dev,52435,.,"la strada
+agli studi ""post-moderni"" su Shakespeare","
+ A diciotto anni sposò la ventiseienne
+Anne Hatha","la strada
+agli studi ""post-moderni"" su Shakespeare.
+ A diciotto anni sposò la ventiseienne
+Anne Hatha",Shakespeare,A,1
+it_isdt-ud-dev,52506,.,"osò la ventiseienne
+Anne Hathaway, che era incinta","
+ Nel tardo diciannovesimo secolo, Edward Dowden
+d","osò la ventiseienne
+Anne Hathaway, che era incinta.
+ Nel tardo diciannovesimo secolo, Edward Dowden
+d",incinta,Nel,1
+it_isdt-ud-dev,52729,.,"edie, il termine di Dowden viene
+spesso utilizzato","
+ Ovviamente, siamo noi.
+ Gli economisti di Citigr","edie, il termine di Dowden viene
+spesso utilizzato.
+ Ovviamente, siamo noi.
+ Gli economisti di Citigr",utilizzato,Ovviamente,1
+it_isdt-ud-dev,52753,.,"en viene
+spesso utilizzato.
+ Ovviamente, siamo noi","
+ Gli economisti di Citigroup, Mckinsey,
+Pricewate","en viene
+spesso utilizzato.
+ Ovviamente, siamo noi.
+ Gli economisti di Citigroup, Mckinsey,
+Pricewate",noi,Gli,1
+it_isdt-ud-dev,52957,.,"ovuto interessare vari paesi, dall'Asia
+all'Africa","
+ In terzo luogo, i tassi di cambio fluttuanti son","ovuto interessare vari paesi, dall'Asia
+all'Africa.
+ In terzo luogo, i tassi di cambio fluttuanti son",all'Africa,In,1
+it_isdt-ud-dev,53035,.,"i cambio fluttuanti sono ammortizzatori
+imperfetti","
+ È ingenuo da parte dei governi dei mercati emerg","i cambio fluttuanti sono ammortizzatori
+imperfetti.
+ È ingenuo da parte dei governi dei mercati emerg",imperfetti,È,1
+it_isdt-ud-dev,53211,.,"n risposta a condizioni
+economiche vigenti altrove","
+ Ma il punto è che le idee tutelate dai diritti d","n risposta a condizioni
+economiche vigenti altrove.
+ Ma il punto è che le idee tutelate dai diritti d",altrove,Ma,1
+it_isdt-ud-dev,53379,.,"aesi sviluppati
+che per i paesi in via di sviluppo","
+ E' ora che i leader indiani riconoscano il
+ruolo","aesi sviluppati
+che per i paesi in via di sviluppo.
+ E' ora che i leader indiani riconoscano il
+ruolo",sviluppo,E',1
+it_isdt-ud-dev,53549,.,"a
+crescita e migliorare il benessere dei cittadini","
+ Andy Haldane, uno dei
+banchieri della Boe eredit","a
+crescita e migliorare il benessere dei cittadini.
+ Andy Haldane, uno dei
+banchieri della Boe eredit",cittadini,Andy,1
+it_isdt-ud-dev,53780,.,"
+limitare ampie parti di economia non finanziaria""","
+ Le ragioni di questa
+correlazione non sono sempl","
+limitare ampie parti di economia non finanziaria"".
+ Le ragioni di questa
+correlazione non sono sempl",,Le,1
+it_isdt-ud-dev,53895,.,"re, e le conclusioni degli autori sono
+controverse","
+ Queste società hanno più difficoltà a reclutare ","re, e le conclusioni degli autori sono
+controverse.
+ Queste società hanno più difficoltà a reclutare ",controverse,Queste,1
+it_isdt-ud-dev,54028,.,cietà finanziarie possono pagare stipendi più alti,"
+ Ma se la finanza
+continua a prendersi un numero ","cietà finanziarie possono pagare stipendi più alti.
+ Ma se la finanza
+continua a prendersi un numero ",alti,Ma,1
+it_isdt-ud-dev,54224,.,"ese nel 2050, e ancor meno
+aziende hi-tech di oggi","
+ Secondo Heisenberg, il fenomeno subatomico può
+m","ese nel 2050, e ancor meno
+aziende hi-tech di oggi.
+ Secondo Heisenberg, il fenomeno subatomico può
+m",oggi,Secondo,1
+it_isdt-ud-dev,54519,.,"investimento in persone, infrastrutture e
+capacità","
+ Come saranno allocate le risorse per la cura deg","investimento in persone, infrastrutture e
+capacità.
+ Come saranno allocate le risorse per la cura deg",capacità,Come,1
+it_isdt-ud-dev,54735,?,ute degli anziani sono evidentemente insostenibili,"
+
+Una tassa globale sul carbonio attenuerebbe i ri","ute degli anziani sono evidentemente insostenibili?
+
+Una tassa globale sul carbonio attenuerebbe i ri",insostenibili,Una,1
+it_isdt-ud-dev,54853,.,"leviando al
+contempo il peso debitorio dei governi","
+ Ma quando l'innovazione incide sulla
+qualità di ","leviando al
+contempo il peso debitorio dei governi.
+ Ma quando l'innovazione incide sulla
+qualità di ",governi,Ma,1
+it_isdt-ud-dev,54959,.,"tomobile, il compito diventa decisamente più arduo","
+ Le donne che
+hanno un'istruzione secondaria o te","tomobile, il compito diventa decisamente più arduo.
+ Le donne che
+hanno un'istruzione secondaria o te",arduo,Le,1
+it_isdt-ud-dev,55107,.,o più facilmente delle loro colleghe meno istruite,"
+ Di fatto, il suo piano
+triennale per l'innovazio","o più facilmente delle loro colleghe meno istruite.
+ Di fatto, il suo piano
+triennale per l'innovazio",istruite,Di,1
+it_isdt-ud-dev,55431,.,e un allungamento del congedo parentale retribuito,"
+ Il FMI si
+fonda sulla premessa di rappresentare ","e un allungamento del congedo parentale retribuito.
+ Il FMI si
+fonda sulla premessa di rappresentare ",retribuito,Il,1
+it_isdt-ud-dev,55525,.,"entare la cooperazione tra tutti i paesi del
+mondo","
+ Il prossimo mese i cittadini dell'Ucraina sarann","entare la cooperazione tra tutti i paesi del
+mondo.
+ Il prossimo mese i cittadini dell'Ucraina sarann",mondo,Il,1
+it_isdt-ud-dev,55748,.,tra presunta incapacità di mantenere la democrazia,"
+ In
+base alle stime, ci sarebbero poi 200 mila ca","tra presunta incapacità di mantenere la democrazia.
+ In
+base alle stime, ci sarebbero poi 200 mila ca",democrazia,In,1
+it_isdt-ud-dev,55874,.,"nno che
+causano 30 mila decessi a livello mondiale","
+ Solo attraverso una normativa
+pragmatica e basat","nno che
+causano 30 mila decessi a livello mondiale.
+ Solo attraverso una normativa
+pragmatica e basat",mondiale,Solo,1
+it_isdt-ud-dev,56041,.,ingegneria genetica nella lotta contro le malattie,"
+ Mancando la Germania
+del dinamismo economico nec","ingegneria genetica nella lotta contro le malattie.
+ Mancando la Germania
+del dinamismo economico nec",malattie,Mancando,1
+it_isdt-ud-dev,56208,.,no preferito non correre rischi sul piano politico,"
+ 
+
+Amo le sfide, e salvare la terra è probabilmen","no preferito non correre rischi sul piano politico.
+ 
+
+Amo le sfide, e salvare la terra è probabilmen",politico,Amo,1
+it_isdt-ud-dev,56277,.,e salvare la terra è probabilmente una buona sfida,"
+ Sappiamo tutti
+che la terra è in pericolo.
+ Siam","e salvare la terra è probabilmente una buona sfida.
+ Sappiamo tutti
+che la terra è in pericolo.
+ Siam",sfida,Sappiamo,1
+it_isdt-ud-dev,56321,.," sfida.
+ Sappiamo tutti
+che la terra è in pericolo","
+ Siamo entrati ora nella 6X:
+ la sesta estinzione"," sfida.
+ Sappiamo tutti
+che la terra è in pericolo.
+ Siamo entrati ora nella 6X:
+ la sesta estinzione",pericolo,Siamo,1
+it_isdt-ud-dev,56399,.,"X:
+ la sesta estinzione di
+massa su questo pianeta","
+ Penso che quel voto sia in corso, proprio adesso","X:
+ la sesta estinzione di
+massa su questo pianeta.
+ Penso che quel voto sia in corso, proprio adesso",pianeta,Penso,1
+it_isdt-ud-dev,56450,.,"
+ Penso che quel voto sia in corso, proprio adesso","
+
+Voglio presentarvi un set di 6 soluzioni micolog","
+ Penso che quel voto sia in corso, proprio adesso.
+
+Voglio presentarvi un set di 6 soluzioni micolog",adesso,Voglio,1
+it_isdt-ud-dev,56559,.,"e usano i funghi, le
+quali sono basate sul micelio","
+ Il micelio si infonde in tutti i terreni,
+mantie","e usano i funghi, le
+quali sono basate sul micelio.
+ Il micelio si infonde in tutti i terreni,
+mantie",micelio,Il,1
+it_isdt-ud-dev,56649,.,"eni,
+mantiene i suoli uniti, è estremamente tenace","
+ Regge fino a 30.000 volte la
+propria massa.
+ Son","eni,
+mantiene i suoli uniti, è estremamente tenace.
+ Regge fino a 30.000 volte la
+propria massa.
+ Son",tenace,Regge,1
+it_isdt-ud-dev,56667,.,"oli uniti, è estremamente tenace.
+ Regge fino a 30","000 volte la
+propria massa.
+ Sono i grandi demolit","oli uniti, è estremamente tenace.
+ Regge fino a 30.000 volte la
+propria massa.
+ Sono i grandi demolit",30,000,0
+it_isdt-ud-dev,56694,.,"enace.
+ Regge fino a 30.000 volte la
+propria massa","
+ Sono i grandi demolitori molecolari della natura","enace.
+ Regge fino a 30.000 volte la
+propria massa.
+ Sono i grandi demolitori molecolari della natura",massa,Sono,1
+it_isdt-ud-dev,56764,.,"olitori molecolari della natura, i maghi del
+suolo","
+ Generano l'humus nelle terre emerse di tutta la ","olitori molecolari della natura, i maghi del
+suolo.
+ Generano l'humus nelle terre emerse di tutta la ",suolo,Generano,1
+it_isdt-ud-dev,56820,.,erano l'humus nelle terre emerse di tutta la terra,"
+ Dusty e io, ci
+piace dirlo, la domenica andiamo ","erano l'humus nelle terre emerse di tutta la terra.
+ Dusty e io, ci
+piace dirlo, la domenica andiamo ",terra,Dusty,1
+it_isdt-ud-dev,56884,.," ci
+piace dirlo, la domenica andiamo in chiesa qui","
+ Amo le foreste primarie, e sono
+un americano pat"," ci
+piace dirlo, la domenica andiamo in chiesa qui.
+ Amo le foreste primarie, e sono
+un americano pat",qui,Amo,1
+it_isdt-ud-dev,56965,.,"ono
+un americano patriottico proprio grazie a loro","
+ La maggior parte di voi conosce
+i funghi champig","ono
+un americano patriottico proprio grazie a loro.
+ La maggior parte di voi conosce
+i funghi champig",loro,La,1
+it_isdt-ud-dev,57019,.,"a maggior parte di voi conosce
+i funghi champignon","
+ E francamente, affronto un grande ostacolo:
+ Spe","a maggior parte di voi conosce
+i funghi champignon.
+ E francamente, affronto un grande ostacolo:
+ Spe",champignon,E,1
+it_isdt-ud-dev,57122,.," di
+sfatare questo pregiudizio per sempre, con voi","
+ La chiamiamo micofobia,
+l'irrazionale paura dell"," di
+sfatare questo pregiudizio per sempre, con voi.
+ La chiamiamo micofobia,
+l'irrazionale paura dell",voi,La,1
+it_isdt-ud-dev,57210,.,le paura dell'ignoto quando essa riguarda i funghi,"
+ I funghi hanno
+una crescita molto rapida.
+ I fun","le paura dell'ignoto quando essa riguarda i funghi.
+ I funghi hanno
+una crescita molto rapida.
+ I fun",funghi,I,1
+it_isdt-ud-dev,57253,.," funghi.
+ I funghi hanno
+una crescita molto rapida","
+ I funghi producono dei potenti antibiotici.
+ In
+"," funghi.
+ I funghi hanno
+una crescita molto rapida.
+ I funghi producono dei potenti antibiotici.
+ In
+",rapida,I,1
+it_isdt-ud-dev,57298,.,"apida.
+ I funghi producono dei potenti antibiotici","
+ In
+effetti siamo più vicini ai funghi che ad ogn","apida.
+ I funghi producono dei potenti antibiotici.
+ In
+effetti siamo più vicini ai funghi che ad ogn",antibiotici,In,1
+it_isdt-ud-dev,57375,.,ini ai funghi che ad ogni altro regno della natura,"
+ Abbiamo
+in comune gli stessi patogeni.
+ I funghi","ini ai funghi che ad ogni altro regno della natura.
+ Abbiamo
+in comune gli stessi patogeni.
+ I funghi",natura,Abbiamo,1
+it_isdt-ud-dev,57415,.,"lla natura.
+ Abbiamo
+in comune gli stessi patogeni","
+ I funghi non amano marcire a causa dei batteri e","lla natura.
+ Abbiamo
+in comune gli stessi patogeni.
+ I funghi non amano marcire a causa dei batteri e",patogeni,I,1
+it_isdt-ud-dev,57520,.,ì i nostri migliori antibiotici vengono dai funghi,"
+ Ma qui c'è un fungo
+vecchio come il mondo.
+ Dopo","ì i nostri migliori antibiotici vengono dai funghi.
+ Ma qui c'è un fungo
+vecchio come il mondo.
+ Dopo",funghi,Ma,1
+it_isdt-ud-dev,57564,.,"funghi.
+ Ma qui c'è un fungo
+vecchio come il mondo","
+ Dopo aver sporulato, marciscono.
+ Ma vi propongo","funghi.
+ Ma qui c'è un fungo
+vecchio come il mondo.
+ Dopo aver sporulato, marciscono.
+ Ma vi propongo",mondo,Dopo,1
+it_isdt-ud-dev,57598,.,"io come il mondo.
+ Dopo aver sporulato, marciscono","
+ Ma vi propongo l'idea
+che la varietà di microbi ","io come il mondo.
+ Dopo aver sporulato, marciscono.
+ Ma vi propongo l'idea
+che la varietà di microbi ",marciscono,Ma,1
+it_isdt-ud-dev,57721,.,"rcescenti è essenziale per la
+salute della foresta","
+ Fanno crescere gli alberi, creano le aree di det","rcescenti è essenziale per la
+salute della foresta.
+ Fanno crescere gli alberi, creano le aree di det",foresta,Fanno,1
+it_isdt-ud-dev,57799,.,", creano le aree di detriti che
+nutrono il micelio","
+ E così vediamo qui un fungo che sporula.
+ Le spo",", creano le aree di detriti che
+nutrono il micelio.
+ E così vediamo qui un fungo che sporula.
+ Le spo",micelio,E,1
+it_isdt-ud-dev,57841,.," micelio.
+ E così vediamo qui un fungo che sporula","
+ Le spore stanno
+germinando, il micelio si forma "," micelio.
+ E così vediamo qui un fungo che sporula.
+ Le spore stanno
+germinando, il micelio si forma ",sporula,Le,1
+it_isdt-ud-dev,57911,.,"erminando, il micelio si forma e avanza sottoterra","
+ In soli tre centimetri cubi
+di suolo possono ess","erminando, il micelio si forma e avanza sottoterra.
+ In soli tre centimetri cubi
+di suolo possono ess",sottoterra,In,1
+it_isdt-ud-dev,58010,.,sserci anche oltre 13 chilometri di queste cellule,"
+ Il mio
+piede sta coprendo oltre 480 chilometri d","sserci anche oltre 13 chilometri di queste cellule.
+ Il mio
+piede sta coprendo oltre 480 chilometri d",cellule,Il,1
+it_isdt-ud-dev,58070,.,piede sta coprendo oltre 480 chilometri di micelio,"
+ Questa è la microfotografia
+di Nick Read e Patri","piede sta coprendo oltre 480 chilometri di micelio.
+ Questa è la microfotografia
+di Nick Read e Patri",micelio,Questa,1
+it_isdt-ud-dev,58130,.,"è la microfotografia
+di Nick Read e Patrick Higkey","
+ Notate come man mano che il micelio cresce,
+conq","è la microfotografia
+di Nick Read e Patrick Higkey.
+ Notate come man mano che il micelio cresce,
+conq",Higkey,Notate,1
+it_isdt-ud-dev,58217,.,"o cresce,
+conquista il terreno e poi forma la rete","
+ Noi espiriamo Co2, proprio come il
+micelio.
+ E i","o cresce,
+conquista il terreno e poi forma la rete.
+ Noi espiriamo Co2, proprio come il
+micelio.
+ E i",rete,Noi,1
+it_isdt-ud-dev,58262,.," rete.
+ Noi espiriamo Co2, proprio come il
+micelio","
+ E il micelio inspira ossigeno, proprio come noi."," rete.
+ Noi espiriamo Co2, proprio come il
+micelio.
+ E il micelio inspira ossigeno, proprio come noi.",micelio,E,1
+it_isdt-ud-dev,58312,.,".
+ E il micelio inspira ossigeno, proprio come noi","
+ Ma questi sono
+essenzialmente stomaco e polmoni ",".
+ E il micelio inspira ossigeno, proprio come noi.
+ Ma questi sono
+essenzialmente stomaco e polmoni ",noi,Ma,1
+it_isdt-ud-dev,58377,.,"no
+essenzialmente stomaco e polmoni esternalizzati","
+ E vi lancio l'idea che queste
+siano membrane neu","no
+essenzialmente stomaco e polmoni esternalizzati.
+ E vi lancio l'idea che queste
+siano membrane neu",esternalizzati,E,1
+it_isdt-ud-dev,58444,.,"idea che queste
+siano membrane neurologiche estese","
+ E in queste cavità, si formano microcavità,
+che ","idea che queste
+siano membrane neurologiche estese.
+ E in queste cavità, si formano microcavità,
+che ",estese,E,1
+it_isdt-ud-dev,58528,.,"microcavità,
+che fondono i suoli e assorbono acqua","
+ Sono piccoli pozzi.
+ E dentro questi pozzi
+inizi","microcavità,
+che fondono i suoli e assorbono acqua.
+ Sono piccoli pozzi.
+ E dentro questi pozzi
+inizi",acqua,Sono,1
+it_isdt-ud-dev,58549,.,"ono i suoli e assorbono acqua.
+ Sono piccoli pozzi","
+ E dentro questi pozzi
+iniziano a formarsi queste","ono i suoli e assorbono acqua.
+ Sono piccoli pozzi.
+ E dentro questi pozzi
+iniziano a formarsi queste",pozzi,E,1
+it_isdt-ud-dev,58620,.,"zzi
+iniziano a formarsi queste comunità microbiche","
+ Per primo ho proposto, agli
+inizi degli anni '90","zzi
+iniziano a formarsi queste comunità microbiche.
+ Per primo ho proposto, agli
+inizi degli anni '90",microbiche,Per,1
+it_isdt-ud-dev,58732,.,"e il micelio fosse l'internet naturale della
+terra","
+ Osservandolo, il micelio appare molto ramificato","e il micelio fosse l'internet naturale della
+terra.
+ Osservandolo, il micelio appare molto ramificato",terra,Osservandolo,1
+it_isdt-ud-dev,58783,.,"
+ Osservandolo, il micelio appare molto ramificato","
+ Il micelio è senziente.
+
+Sa che sei nei paraggi.","
+ Osservandolo, il micelio appare molto ramificato.
+ Il micelio è senziente.
+
+Sa che sei nei paraggi.",ramificato,Il,1
+it_isdt-ud-dev,58808,.,"o appare molto ramificato.
+ Il micelio è senziente","
+
+Sa che sei nei paraggi.
+ Quando lo calpesti, cam","o appare molto ramificato.
+ Il micelio è senziente.
+
+Sa che sei nei paraggi.
+ Quando lo calpesti, cam",senziente,Sa,1
+it_isdt-ud-dev,58833,.,".
+ Il micelio è senziente.
+
+Sa che sei nei paraggi","
+ Quando lo calpesti, camminando sul terrero, esso",".
+ Il micelio è senziente.
+
+Sa che sei nei paraggi.
+ Quando lo calpesti, camminando sul terrero, esso",paraggi,Quando,1
+it_isdt-ud-dev,58947,.,impronta dei piedi cercando di afferrare i detriti,"
+ Quindi, credo che
+l'invenzione di Internet sia u","impronta dei piedi cercando di afferrare i detriti.
+ Quindi, credo che
+l'invenzione di Internet sia u",detriti,Quindi,1
+it_isdt-ud-dev,59085,.,"lo che già si
+era dimostrato biologicamente valido","
+ Cambiando argomento, la materia oscura si
+confor","lo che già si
+era dimostrato biologicamente valido.
+ Cambiando argomento, la materia oscura si
+confor",valido,Cambiando,1
+it_isdt-ud-dev,59170,.,"oscura si
+conforma allo stesso archetipo miceliale","
+ È questo il paradigma che vediamo in
+tutto l'uni","oscura si
+conforma allo stesso archetipo miceliale.
+ È questo il paradigma che vediamo in
+tutto l'uni",miceliale,È,1
+it_isdt-ud-dev,59226,.,"uesto il paradigma che vediamo in
+tutto l'universo","
+ Molti forse non sanno che furono i funghi i prim","uesto il paradigma che vediamo in
+tutto l'universo.
+ Molti forse non sanno che furono i funghi i prim",l'universo,Molti,1
+it_isdt-ud-dev,59318,.,"hi i primi organismi ad
+approdare sulla terraferma","
+ Arrivarono 1,3 miliardi di anni fa, centinaia di","hi i primi organismi ad
+approdare sulla terraferma.
+ Arrivarono 1,3 miliardi di anni fa, centinaia di",terraferma,Arrivarono,1
+it_isdt-ud-dev,59410,.,"tinaia di
+milioni di anni prima delle prime piante","
+ Com'è possibile?
+ Sbriciola le rocce ed
+è il pri","tinaia di
+milioni di anni prima delle prime piante.
+ Com'è possibile?
+ Sbriciola le rocce ed
+è il pri",piante,Com'è,1
+it_isdt-ud-dev,59428,?,"di anni prima delle prime piante.
+ Com'è possibile","
+ Sbriciola le rocce ed
+è il primo passo nella for","di anni prima delle prime piante.
+ Com'è possibile?
+ Sbriciola le rocce ed
+è il primo passo nella for",possibile,Sbriciola,1
+it_isdt-ud-dev,59496,.,"cce ed
+è il primo passo nella formazione del suolo","
+ L'acido ossalico è composto da due
+molecole di C","cce ed
+è il primo passo nella formazione del suolo.
+ L'acido ossalico è composto da due
+molecole di C",suolo,L'acido,1
+it_isdt-ud-dev,59563,.,"co è composto da due
+molecole di Co2 unite insieme","
+ Quindi i funghi ed il micelio sequestrano la Co2","co è composto da due
+molecole di Co2 unite insieme.
+ Quindi i funghi ed il micelio sequestrano la Co2",insieme,Quindi,1
+it_isdt-ud-dev,59648,.,"questrano la Co2
+sotto forma di ossalati di calcio","
+ E anche gli altri tipi di ossalati catturano
+la ","questrano la Co2
+sotto forma di ossalati di calcio.
+ E anche gli altri tipi di ossalati catturano
+la ",calcio,E,1
+it_isdt-ud-dev,59777,.," formati e sono fuoriusciti dalla matrice
+rocciosa","
+ Questo fu scoperto per la prima volta nel 1859.
+"," formati e sono fuoriusciti dalla matrice
+rocciosa.
+ Questo fu scoperto per la prima volta nel 1859.
+",rocciosa,Questo,1
+it_isdt-ud-dev,59826,.,"a.
+ Questo fu scoperto per la prima volta nel 1859","
+ Questa è la fotografia
+di Franz Hueber;
+ È stata","a.
+ Questo fu scoperto per la prima volta nel 1859.
+ Questa è la fotografia
+di Franz Hueber;
+ È stata",1859,Questa,1
+it_isdt-ud-dev,59919,., È stata scattata negli anni '50 in Arabia Saudita,"
+ 420 milioni
+di anni fa, esisteva questo organism"," È stata scattata negli anni '50 in Arabia Saudita.
+ 420 milioni
+di anni fa, esisteva questo organism",Saudita,420,1
+it_isdt-ud-dev,59971,.," 420 milioni
+di anni fa, esisteva questo organismo","
+ Si chiamava Prototaxites.
+ Un
+Prototaxites, rest"," 420 milioni
+di anni fa, esisteva questo organismo.
+ Si chiamava Prototaxites.
+ Un
+Prototaxites, rest",organismo,Si,1
+it_isdt-ud-dev,59998,.,"isteva questo organismo.
+ Si chiamava Prototaxites","
+ Un
+Prototaxites, restando bassi, era alto circa ","isteva questo organismo.
+ Si chiamava Prototaxites.
+ Un
+Prototaxites, restando bassi, era alto circa ",Prototaxites,Un,1
+it_isdt-ud-dev,60056,.,"ototaxites, restando bassi, era alto circa 1 metro","
+ Le piante più alte sulla
+terra, in quel periodo,","ototaxites, restando bassi, era alto circa 1 metro.
+ Le piante più alte sulla
+terra, in quel periodo,",metro,Le,1
+it_isdt-ud-dev,60130,.,"lla
+terra, in quel periodo, non arrivavano a 70 cm","
+ Tutti territori della terra
+erano punteggiati da","lla
+terra, in quel periodo, non arrivavano a 70 cm.
+ Tutti territori della terra
+erano punteggiati da",cm,Tutti,1
+it_isdt-ud-dev,60248,.,"ganti;
+ e questo in quasi tutte le masse
+terrestri","
+ Esso è esisitito per decine di milioni di anni.
+","ganti;
+ e questo in quasi tutte le masse
+terrestri.
+ Esso è esisitito per decine di milioni di anni.
+",terrestri,Esso,1
+it_isdt-ud-dev,60297,.,"i.
+ Esso è esisitito per decine di milioni di anni","
+ Una quantità enorme
+di detriti fu scagliata in a","i.
+ Esso è esisitito per decine di milioni di anni.
+ Una quantità enorme
+di detriti fu scagliata in a",anni,Una,1
+it_isdt-ud-dev,60416,.," solare si offuscò e i funghi
+ereditarono la terra","
+ Quegli organismi che facevano coppia coi funghi "," solare si offuscò e i funghi
+ereditarono la terra.
+ Quegli organismi che facevano coppia coi funghi ",terra,Quegli,1
+it_isdt-ud-dev,60518,.,"urono
+premiati, perché ai funghi la luce non serve","
+ Quindi l'idea che altrove, su
+altri pianeti, esi","urono
+premiati, perché ai funghi la luce non serve.
+ Quindi l'idea che altrove, su
+altri pianeti, esi",serve,Quindi,1
+it_isdt-ud-dev,60617,.,"sistano funghi, penso sia una conclusione evidente","
+ Nella mia
+mente, almeno, è così.
+ Il più vasto o","sistano funghi, penso sia una conclusione evidente.
+ Nella mia
+mente, almeno, è così.
+ Il più vasto o",evidente,Nella,1
+it_isdt-ud-dev,60651,.,"lusione evidente.
+ Nella mia
+mente, almeno, è così","
+ Il più vasto organismo al mondo si trova nell'Or","lusione evidente.
+ Nella mia
+mente, almeno, è così.
+ Il più vasto organismo al mondo si trova nell'Or",così,Il,1
+it_isdt-ud-dev,60764,.,"le:
+ era ampio circa 890 ettari e antico 2000 anni","
+ Il più largo organismo
+al mondo è un tappeto mic","le:
+ era ampio circa 890 ettari e antico 2000 anni.
+ Il più largo organismo
+al mondo è un tappeto mic",anni,Il,1
+it_isdt-ud-dev,60861,.," miceliale, dello spessore di una parete cellulare","
+ Il
+micelio, nelle giuste condizioni, produce un "," miceliale, dello spessore di una parete cellulare.
+ Il
+micelio, nelle giuste condizioni, produce un ",cellulare,Il,1
+it_isdt-ud-dev,60969,.,"che penetra con una forza
+tale da bucare l'asfalto","
+ Siamo stati coinvolti in diversi esperimenti.
+ E","che penetra con una forza
+tale da bucare l'asfalto.
+ Siamo stati coinvolti in diversi esperimenti.
+ E",l'asfalto,Siamo,1
+it_isdt-ud-dev,61016,.,"lto.
+ Siamo stati coinvolti in diversi esperimenti","
+ E sto
+per mostrarvi, se mi permettete, 6 soluzio","lto.
+ Siamo stati coinvolti in diversi esperimenti.
+ E sto
+per mostrarvi, se mi permettete, 6 soluzio",esperimenti,E,1
+it_isdt-ud-dev,61090,.,"se mi permettete, 6 soluzioni per salvare il mondo","
+ Ho lavorato
+coi laboratori Battelle di Bellingha","se mi permettete, 6 soluzioni per salvare il mondo.
+ Ho lavorato
+coi laboratori Battelle di Bellingha",mondo,Ho,1
+it_isdt-ud-dev,61154,.,"
+coi laboratori Battelle di Bellingham, Washington","
+ 
+","
+coi laboratori Battelle di Bellingham, Washington.
+ 
+",Washington,,1

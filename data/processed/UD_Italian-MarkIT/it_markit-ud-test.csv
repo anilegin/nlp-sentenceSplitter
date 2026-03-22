@@ -1,0 +1,1738 @@
+doc_id,char_idx,punct,left_context,right_context,centered_context,token_before,token_after,label
+it_markit-ud-test,135,.,"magine alquanto inedita , questo tipo di rapporto ","
+ Il filosofo greco
+Aristotele fu uno dei primi ad","magine alquanto inedita , questo tipo di rapporto .
+ Il filosofo greco
+Aristotele fu uno dei primi ad",,Il,1
+it_markit-ud-test,236,.," ideare una teoria sulla struttura dell' universo
+","
+ La Russia fu la prima a spedire in orbita attorn"," ideare una teoria sulla struttura dell' universo
+.
+ La Russia fu la prima a spedire in orbita attorn",,La,1
+it_markit-ud-test,342,.,"a terra un uomo ed a
+farlo ritornare sano e salvo ","
+ Nel primo caso la scoperta di un organismo
+vissu","a terra un uomo ed a
+farlo ritornare sano e salvo .
+ Nel primo caso la scoperta di un organismo
+vissu",,Nel,1
+it_markit-ud-test,556,.,"nno reso inospitale alla vita di quell'
+organismo ","
+ A tali domande ha cercato di dare una risposta R","nno reso inospitale alla vita di quell'
+organismo .
+ A tali domande ha cercato di dare una risposta R",,A,1
+it_markit-ud-test,713,.,"enomeno che ha preso sempre più piede
+attualmente ","
+ Un periodo così grigio e difficile per una nazio","enomeno che ha preso sempre più piede
+attualmente .
+ Un periodo così grigio e difficile per una nazio",,Un,1
+it_markit-ud-test,864,.," , ma è un fenomeno che coinvolge il mondo
+intero ","
+ L' iniziativa prende il nome di "" human brain pr"," , ma è un fenomeno che coinvolge il mondo
+intero .
+ L' iniziativa prende il nome di "" human brain pr",,L',1
+it_markit-ud-test,1212,.,"ione nel
+consumare e nel possedere beni materiali ","
+ Una vera e propria soluzione a tutto
+ciò potrebb","ione nel
+consumare e nel possedere beni materiali .
+ Una vera e propria soluzione a tutto
+ciò potrebb",,Una,1
+it_markit-ud-test,1429,.,"che cerchi il bene per la società
+che lo circonda ","
+ Ma c' è un altro tempo che , volente o nolente ,","che cerchi il bene per la società
+che lo circonda .
+ Ma c' è un altro tempo che , volente o nolente ,",,Ma,1
+it_markit-ud-test,1573,.,"stretto ad attraversare ed è il tempo dell'
+animo ","
+ Lungo tutto il percorso della storia , l' uomo è","stretto ad attraversare ed è il tempo dell'
+animo .
+ Lungo tutto il percorso della storia , l' uomo è",,Lungo,1
+it_markit-ud-test,1714,.,na buona convivenza è indispensabile la giustizia ,"
+ "" Tra
+tutte le scuse che sentiamo accampare per ","na buona convivenza è indispensabile la giustizia .
+ "" Tra
+tutte le scuse che sentiamo accampare per ",,,1
+it_markit-ud-test,2175,.," attorno , come per esempio un movimento politico ","
+
+Successivamente grazie alla colonizzazione di al"," attorno , come per esempio un movimento politico .
+
+Successivamente grazie alla colonizzazione di al",,Successivamente,1
+it_markit-ud-test,2319,.,si è giunti all' unificazione dell' impero romano ,"
+ Questo porta a
+resistenze ad aprirsi verso l' es","si è giunti all' unificazione dell' impero romano .
+ Questo porta a
+resistenze ad aprirsi verso l' es",,Questo,1
+it_markit-ud-test,2487,., direttamente come il fenomeno dell' immigrazione ,"
+ È
+merito di queste tecnologie avanzate se si è r"," direttamente come il fenomeno dell' immigrazione .
+ È
+merito di queste tecnologie avanzate se si è r",,È,1
+it_markit-ud-test,2731,.,"e quella che ha affrontato Samantha Cristoforetti
+","
+ Proprio questi dovrebbero essere il motore che s","e quella che ha affrontato Samantha Cristoforetti
+.
+ Proprio questi dovrebbero essere il motore che s",,Proprio,1
+it_markit-ud-test,3162,.,"aldo e
+le spiagge , mete molto ambite dai turisti ","
+ L' Italia in questa operazione è in
+pole positio","aldo e
+le spiagge , mete molto ambite dai turisti .
+ L' Italia in questa operazione è in
+pole positio",,L',1
+it_markit-ud-test,3401,.,"etti ,
+una dei protagonisti della missione Futura ","
+ Ciò che stupisce però è che tutto
+ciò ai Paesi s","etti ,
+una dei protagonisti della missione Futura .
+ Ciò che stupisce però è che tutto
+ciò ai Paesi s",,Ciò,1
+it_markit-ud-test,3570,.," che indifferenza o , nel caso contrario , rabbia ","
+ Ciò che è certo è che
+il Mediterraneo , oggi com"," che indifferenza o , nel caso contrario , rabbia .
+ Ciò che è certo è che
+il Mediterraneo , oggi com",,Ciò,1
+it_markit-ud-test,3801,.,"giori
+luoghi di approdo Mediterraneo e Sud Italia ","
+ Il prodotto interno lordo , meglio
+noto come PIL","giori
+luoghi di approdo Mediterraneo e Sud Italia .
+ Il prodotto interno lordo , meglio
+noto come PIL",,Il,1
+it_markit-ud-test,3892,.,"o come PIL , è il valore che dovrebbe servire a "" ",".. valutare il livello di
+benessere ... "" di una n","o come PIL , è il valore che dovrebbe servire a "" ... valutare il livello di
+benessere ... "" di una n",,,0
+it_markit-ud-test,3893,.," come PIL , è il valore che dovrebbe servire a "" .",". valutare il livello di
+benessere ... "" di una na"," come PIL , è il valore che dovrebbe servire a "" ... valutare il livello di
+benessere ... "" di una na",,,0
+it_markit-ud-test,3894,.,"come PIL , è il valore che dovrebbe servire a "" .."," valutare il livello di
+benessere ... "" di una naz","come PIL , è il valore che dovrebbe servire a "" ... valutare il livello di
+benessere ... "" di una naz",,valutare,0
+it_markit-ud-test,3929,.," servire a "" ... valutare il livello di
+benessere ",".. "" di una nazione , tenendo conto sostanzialment"," servire a "" ... valutare il livello di
+benessere ... "" di una nazione , tenendo conto sostanzialment",,,0
+it_markit-ud-test,3930,.,"servire a "" ... valutare il livello di
+benessere .",". "" di una nazione , tenendo conto sostanzialmente","servire a "" ... valutare il livello di
+benessere ... "" di una nazione , tenendo conto sostanzialmente",,,0
+it_markit-ud-test,3931,.,"ervire a "" ... valutare il livello di
+benessere .."," "" di una nazione , tenendo conto sostanzialmente ","ervire a "" ... valutare il livello di
+benessere ... "" di una nazione , tenendo conto sostanzialmente ",,,0
+it_markit-ud-test,4029,.,"te di tutto ciò che
+viene prodotto al suo interno ","
+ La prima è la psicologia sperimentale che spiega","te di tutto ciò che
+viene prodotto al suo interno .
+ La prima è la psicologia sperimentale che spiega",,La,1
+it_markit-ud-test,4209,.,teriorità quindi il Tempo è come se non esistesse ,"
+ Studi e ricerche sopra
+questo incredibile organo","teriorità quindi il Tempo è come se non esistesse .
+ Studi e ricerche sopra
+questo incredibile organo",,Studi,1
+it_markit-ud-test,4526,.,ello scientifico-tecnologico a quello psicologico ,"
+ Gabriele D'
+Annunzio , uomo dotto , interventist","ello scientifico-tecnologico a quello psicologico .
+ Gabriele D'
+Annunzio , uomo dotto , interventist",,Gabriele,1
+it_markit-ud-test,4702,.,"a analisi dell' uomo esteta nell' epoca
+Decadente ","
+ Ricercare è un' attività che ha per fine un ritr","a analisi dell' uomo esteta nell' epoca
+Decadente .
+ Ricercare è un' attività che ha per fine un ritr",,Ricercare,1
+it_markit-ud-test,4922,., i propri archivi riguardanti questi avvistamenti ,"
+ Essa
+è lo strumento più importante che un essere"," i propri archivi riguardanti questi avvistamenti .
+ Essa
+è lo strumento più importante che un essere",,Essa,1
+it_markit-ud-test,4994,., più importante che un essere vivente possa avere ,"
+ Il giorno 20
+Maggio 2007 è stata inaugurata la m"," più importante che un essere vivente possa avere .
+ Il giorno 20
+Maggio 2007 è stata inaugurata la m",,Il,1
+it_markit-ud-test,5210,.," , il
+quale ha annunciato la presente esposizione ","
+ Nel testo "" Dal mondo del
+pressappoco all' unive"," , il
+quale ha annunciato la presente esposizione .
+ Nel testo "" Dal mondo del
+pressappoco all' unive",,Nel,1
+it_markit-ud-test,5380,.,con esattezza le dimensioni di un essere naturale ,".. è
+attraverso lo strumento di misura che l' idea","con esattezza le dimensioni di un essere naturale ... è
+attraverso lo strumento di misura che l' idea",,,0
+it_markit-ud-test,5381,.,on esattezza le dimensioni di un essere naturale .,". è
+attraverso lo strumento di misura che l' idea ","on esattezza le dimensioni di un essere naturale ... è
+attraverso lo strumento di misura che l' idea ",,,0
+it_markit-ud-test,5382,.,n esattezza le dimensioni di un essere naturale ..," è
+attraverso lo strumento di misura che l' idea d","n esattezza le dimensioni di un essere naturale ... è
+attraverso lo strumento di misura che l' idea d",,è,0
+it_markit-ud-test,5559,.,"arriva a sostituirsi al mondo del ""
+pressappoco "" ","
+ Il fatto di raggiungere l' universo , una dimens","arriva a sostituirsi al mondo del ""
+pressappoco "" .
+ Il fatto di raggiungere l' universo , una dimens",,Il,1
+it_markit-ud-test,5805,.,"mantha Cristoforetti nell'
+intervista di Valesini ","
+ Proviamo a domandare ai napoletani , ai trentini","mantha Cristoforetti nell'
+intervista di Valesini .
+ Proviamo a domandare ai napoletani , ai trentini",,Proviamo,1
+it_markit-ud-test,5905,.,"i , al
+popolo di Seattle cosa ne pensano della CE ","
+ essa , infatti , è un mezzo che
+permette a perso","i , al
+popolo di Seattle cosa ne pensano della CE .
+ essa , infatti , è un mezzo che
+permette a perso",,essa,1
+it_markit-ud-test,6101,.,"n qualunque luogo e con qualsiasi genere musicale
+","
+ mentre , secondo l' interpretazione di B. Pascal","n qualunque luogo e con qualsiasi genere musicale
+.
+ mentre , secondo l' interpretazione di B. Pascal",,mentre,1
+it_markit-ud-test,6144,.,"sicale
+.
+ mentre , secondo l' interpretazione di B"," Pascal essi derivano dalla
+consapevolezza che la ","sicale
+.
+ mentre , secondo l' interpretazione di B. Pascal essi derivano dalla
+consapevolezza che la ",B,Pascal,0
+it_markit-ud-test,6272,.,"i "" vi è un' infinità di cose
+che la sorpassano "" ","
+ "" Il supremo passo della ragione sta nel riconos","i "" vi è un' infinità di cose
+che la sorpassano "" .
+ "" Il supremo passo della ragione sta nel riconos",,,1
+it_markit-ud-test,6473,.,oni presenti e future problemi finora sconosciuti ,"
+ Il progetto di
+una Costituzione Democratica per ","oni presenti e future problemi finora sconosciuti .
+ Il progetto di
+una Costituzione Democratica per ",,Il,1
+it_markit-ud-test,6632,.,che ha indotto popoli e nazioni diverse ad unirsi ,"
+ Forse per ""
+sillabare "" un' altra possibile risp","che ha indotto popoli e nazioni diverse ad unirsi .
+ Forse per ""
+sillabare "" un' altra possibile risp",,Forse,1
+it_markit-ud-test,6780,.,mo prima ancora che sull' essenza della filosofia ,"
+ Quello che volevo far
+emergere è l' importanza c","mo prima ancora che sull' essenza della filosofia .
+ Quello che volevo far
+emergere è l' importanza c",,Quello,1
+it_markit-ud-test,6908,.," dal 1948 , anno in cui
+entra in vigore , ad oggi ","
+ La prima di queste motivazioni , è una sensazion"," dal 1948 , anno in cui
+entra in vigore , ad oggi .
+ La prima di queste motivazioni , è una sensazion",,La,1
+it_markit-ud-test,7048,.," stati proposti , ognuno ritrova in forme
+diverse ","
+ ma quello che accomuna queste diverse definizion"," stati proposti , ognuno ritrova in forme
+diverse .
+ ma quello che accomuna queste diverse definizion",,ma,1
+it_markit-ud-test,7143,.,"nizioni , è l' importanza
+che le viene attribuita ","
+ È molto diffusa nella società attuale l' idea ch","nizioni , è l' importanza
+che le viene attribuita .
+ È molto diffusa nella società attuale l' idea ch",,È,1
+it_markit-ud-test,7312,.,"ato , si possa
+definire anche il benessere comune ","
+ Questo è un dato sicuramente importante che
+espr","ato , si possa
+definire anche il benessere comune .
+ Questo è un dato sicuramente importante che
+espr",,Questo,1
+it_markit-ud-test,7545,.," situazioni e a
+rassicurare nei momenti difficili ","
+ Svoltesi nell' ultimo fine settimana le
+nuove el"," situazioni e a
+rassicurare nei momenti difficili .
+ Svoltesi nell' ultimo fine settimana le
+nuove el",,Svoltesi,1
+it_markit-ud-test,7788,.,"aderenti
+all' Unione Europea è l' euroscetticismo ","
+ Ma dietro ai grandi incassi , c' è
+chi in modo i","aderenti
+all' Unione Europea è l' euroscetticismo .
+ Ma dietro ai grandi incassi , c' è
+chi in modo i",,Ma,1
+it_markit-ud-test,7900,.,diverte alle spalle di questo venerabile business ,"
+
+Uscendo dall' Italia , è bene ricordare un altro","diverte alle spalle di questo venerabile business .
+
+Uscendo dall' Italia , è bene ricordare un altro",,Uscendo,1
+it_markit-ud-test,7995,.," altro evento molto importante in
+ambito musicale ","
+ Sono molte le testimonianze che gli storici mode"," altro evento molto importante in
+ambito musicale .
+ Sono molte le testimonianze che gli storici mode",,Sono,1
+it_markit-ud-test,8208,.,mento di + 40 % rispetto alla media settimanale » ,"
+ Il
+futuro è come lo immaginiamo e come lo voglia","mento di + 40 % rispetto alla media settimanale » .
+ Il
+futuro è come lo immaginiamo e come lo voglia",,Il,1
+it_markit-ud-test,8339,.,"e
+nessun supercalcolatore è capace di prevedere "" ","
+ Come per molti di noi , al
+proprio paese spesso ","e
+nessun supercalcolatore è capace di prevedere "" .
+ Come per molti di noi , al
+proprio paese spesso ",,Come,1
+it_markit-ud-test,8595,.,utto nei piccoli paesi più che nelle grandi città ,"
+ La
+piazza è anche questo , sofferenza e solitudi","utto nei piccoli paesi più che nelle grandi città .
+ La
+piazza è anche questo , sofferenza e solitudi",,La,1
+it_markit-ud-test,9191,.,"ontato nei
+libri di storia passa in secondo piano ","
+ Non tutti però siamo appassionati dello
+stesso g","ontato nei
+libri di storia passa in secondo piano .
+ Non tutti però siamo appassionati dello
+stesso g",,Non,1
+it_markit-ud-test,9406,.,"ionato alle dolci melodie del Festival
+di Sanremo ","
+ Oppure c' è chi preferisce le sinfonie dei grand","ionato alle dolci melodie del Festival
+di Sanremo .
+ Oppure c' è chi preferisce le sinfonie dei grand",,Oppure,1
+it_markit-ud-test,9603,.,anche lui è da considerare un mito intramontabile ,"
+ Visto il grande ""
+consumo "" di musica c' è da ch","anche lui è da considerare un mito intramontabile .
+ Visto il grande ""
+consumo "" di musica c' è da ch",,Visto,1
+it_markit-ud-test,9720,.,"levato sia il profitto dei settori
+legati ad esso ","
+ Questa è la via che deve seguire la moderna Unio","levato sia il profitto dei settori
+legati ad esso .
+ Questa è la via che deve seguire la moderna Unio",,Questa,1
+it_markit-ud-test,10056,.,"uon film che non sia
+accompagnato da buona musica ","
+ Un uomo che , anche se , come dice Pascal , sa
+c","uon film che non sia
+accompagnato da buona musica .
+ Un uomo che , anche se , come dice Pascal , sa
+c",,Un,1
+it_markit-ud-test,10365,.,"ntagonista più cattivo
+, più difficile da battere ","
+ Nonostante questo , i primi a opporsi all' utili","ntagonista più cattivo
+, più difficile da battere .
+ Nonostante questo , i primi a opporsi all' utili",,Nonostante,1
+it_markit-ud-test,10557,., del proprio orrore dinanzi ai risultati ottenuti ,"
+ Solo che l' uomo non
+è una macchina a cui si sos"," del proprio orrore dinanzi ai risultati ottenuti .
+ Solo che l' uomo non
+è una macchina a cui si sos",,Solo,1
+it_markit-ud-test,10747,.," ambiente che lo circonda si ripercuote sul
+tutto ","
+ Certo è che ognuno può vederla in un modo come n"," ambiente che lo circonda si ripercuote sul
+tutto .
+ Certo è che ognuno può vederla in un modo come n",,Certo,1
+it_markit-ud-test,11007,.,"co giorno che apre le
+porte ad una nuova stagione ","
+ Questa è una festa che dura ininterrottamente pe","co giorno che apre le
+porte ad una nuova stagione .
+ Questa è una festa che dura ininterrottamente pe",,Questa,1
+it_markit-ud-test,11122,.,ni e per questo motivo serve molta organizzazione ,"
+ A conferma di
+ciò è il fatto che agli MTV Europe","ni e per questo motivo serve molta organizzazione .
+ A conferma di
+ciò è il fatto che agli MTV Europe",,A,1
+it_markit-ud-test,11439,.," , soprattutto per quanto riguarda la loro musica ","
+ una
+spiegazione più plausibile è che vi siano sc"," , soprattutto per quanto riguarda la loro musica .
+ una
+spiegazione più plausibile è che vi siano sc",,una,1
+it_markit-ud-test,11599,.,"eti o che , sviluppatasi , diventi intelligente "" ","
+ C' è
+chi afferma di essere stato testimone del f","eti o che , sviluppatasi , diventi intelligente "" .
+ C' è
+chi afferma di essere stato testimone del f",,C',1
+it_markit-ud-test,11793,.," vogliono renderci
+coscienti della loro esistenza ","
+ Egli ritiene inoltre che ci siano scarsissime
+pr"," vogliono renderci
+coscienti della loro esistenza .
+ Egli ritiene inoltre che ci siano scarsissime
+pr",,Egli,1
+it_markit-ud-test,11947,.,"erso o che queste almeno
+sviluppino l' intelletto ","
+ La persona altruista , generosa , che quando c' ","erso o che queste almeno
+sviluppino l' intelletto .
+ La persona altruista , generosa , che quando c' ",,La,1
+it_markit-ud-test,12190,.,"che hanno stima
+di lui , a differenza dell' avaro ","
+ Questa organizzazione , come già detto all'
+iniz","che hanno stima
+di lui , a differenza dell' avaro .
+ Questa organizzazione , come già detto all'
+iniz",,Questa,1
+it_markit-ud-test,12503,.," della parola
+, di vivere in un' "" Europa Unita "" ","
+ Questa è la definizione che troviamo
+sfogliando "," della parola
+, di vivere in un' "" Europa Unita "" .
+ Questa è la definizione che troviamo
+sfogliando ",,Questa,1
+it_markit-ud-test,12568,.,"definizione che troviamo
+sfogliando il dizionario ","
+ Bauman insiste con veemenza su quello che è l'
+a","definizione che troviamo
+sfogliando il dizionario .
+ Bauman insiste con veemenza su quello che è l'
+a",,Bauman,1
+it_markit-ud-test,12834,., a condizioni superiori pressoché irraggiungibili ,"
+ Ve n' è infatti
+una parte che diffonde cultura e"," a condizioni superiori pressoché irraggiungibili .
+ Ve n' è infatti
+una parte che diffonde cultura e",,Ve,1
+it_markit-ud-test,12899,.,"tti
+una parte che diffonde cultura e informazione ","
+ L' aspetto infine più nuovo , e
+a parer mio anch","tti
+una parte che diffonde cultura e informazione .
+ L' aspetto infine più nuovo , e
+a parer mio anch",,L',1
+it_markit-ud-test,13184,.,"i quindi un leggero aumento
+del benessere diffuso ","
+ La folla è vista come un pericolo perché è in gr","i quindi un leggero aumento
+del benessere diffuso .
+ La folla è vista come un pericolo perché è in gr",,La,1
+it_markit-ud-test,13423,.,"i essere senza dargli lo
+spazio per controbattere ","
+ L' opinione comune ci insegna che il diverso , c","i essere senza dargli lo
+spazio per controbattere .
+ L' opinione comune ci insegna che il diverso , c",,L',1
+it_markit-ud-test,13627,.," ha attuato per assimilare a sé l' intero paese "" ","
+ Il nostro
+vero io è l' unico che ci può rendere "," ha attuato per assimilare a sé l' intero paese "" .
+ Il nostro
+vero io è l' unico che ci può rendere ",,Il,1
+it_markit-ud-test,13758,.," abbiamo
+creato , la nostra autentica singolarità ","
+ L' unico neo sta nel fatto che è una
+ricerca mol"," abbiamo
+creato , la nostra autentica singolarità .
+ L' unico neo sta nel fatto che è una
+ricerca mol",,L',1
+it_markit-ud-test,13868,.,che produce conclusioni anche dopo decine di anni ,"
+ Il
+sedici novembre duemila si sono svolti a Stoc","che produce conclusioni anche dopo decine di anni .
+ Il
+sedici novembre duemila si sono svolti a Stoc",,Il,1
+it_markit-ud-test,13978,.," MTV Europe Music Awards ,
+gli oscar della musica ","
+ rappresenta il popolo italiano ed era un importa"," MTV Europe Music Awards ,
+gli oscar della musica .
+ rappresenta il popolo italiano ed era un importa",,rappresenta,1
+it_markit-ud-test,14139,.,"ito da uno dei più gravi
+regimi , quello fascista ","
+ quanti sono gli immigrati extraeuropei che risch","ito da uno dei più gravi
+regimi , quello fascista .
+ quanti sono gli immigrati extraeuropei che risch",,quanti,1
+it_markit-ud-test,14256,!,mare per venire nel nostro paese a cercar fortuna ,"
+ Si pensi ad
+esempio all' esilio , è un' esperien","mare per venire nel nostro paese a cercar fortuna !
+ Si pensi ad
+esempio all' esilio , è un' esperien",,Si,1
+it_markit-ud-test,14348,., esperienza dolorosa che lascia un segno profondo ,"
+
+Cioè la loro richiesta , se esaudita , è conside"," esperienza dolorosa che lascia un segno profondo .
+
+Cioè la loro richiesta , se esaudita , è conside",,Cioè,1
+it_markit-ud-test,14457,.,"sta perchè è un
+interesse che è stato soddisfatto ","
+ È difficile da definire ora se è più giusto
+un c","sta perchè è un
+interesse che è stato soddisfatto .
+ È difficile da definire ora se è più giusto
+un c",,È,1
+it_markit-ud-test,14619,.,"o che per
+questo evade la legge non rispettandola ","
+ L' umanità sta lentamente aprendosi ad
+una multi","o che per
+questo evade la legge non rispettandola .
+ L' umanità sta lentamente aprendosi ad
+una multi",,L',1
+it_markit-ud-test,14838,.,"allarghi fino ad estendersi in
+dimensioni globali ","
+ la giustizia non era più "" calata dall' alto "" p","allarghi fino ad estendersi in
+dimensioni globali .
+ la giustizia non era più "" calata dall' alto "" p",,la,1
+it_markit-ud-test,15030,.,nosceva agli individui alcuni diritti inviolabili ,"
+ Oltre alla
+difficoltà della misurazione stessa c","nosceva agli individui alcuni diritti inviolabili .
+ Oltre alla
+difficoltà della misurazione stessa c",,Oltre,1
+it_markit-ud-test,15337,.,l coraggio di squarciare con i raggi della verità ,"
+ Per un figlio non c' è
+realizzazione più grande ","l coraggio di squarciare con i raggi della verità .
+ Per un figlio non c' è
+realizzazione più grande ",,Per,1
+it_markit-ud-test,15445,.,"ere l' orgoglio dei genitori nei propri
+confronti ","
+ O essendo l' universo un adesso ha quindi in sé ","ere l' orgoglio dei genitori nei propri
+confronti .
+ O essendo l' universo un adesso ha quindi in sé ",,O,1
+it_markit-ud-test,15576,?,osa che ha preceduto la sua esistenza ) e un dopo ,"
+ Scontri tra
+ragioni filosofiche diverse però , e","osa che ha preceduto la sua esistenza ) e un dopo ?
+ Scontri tra
+ragioni filosofiche diverse però , e",,Scontri,1
+it_markit-ud-test,15749,.,"crate , potevano portare a dei rischi per la vita ","
+
+Il primo , ed è il più famoso poeta che viene da","crate , potevano portare a dei rischi per la vita .
+
+Il primo , ed è il più famoso poeta che viene da",,Il,1
+it_markit-ud-test,15995,.,"pagnia degli amici e delle rispettive donne amate
+","
+ La filosofia inoltre tratta tematiche del quotid","pagnia degli amici e delle rispettive donne amate
+.
+ La filosofia inoltre tratta tematiche del quotid",,La,1
+it_markit-ud-test,16287,.,are del tempo e l' interagire di popoli e civiltà ,"
+ Essa è sicuramente
+un tema che fa riflettere mol","are del tempo e l' interagire di popoli e civiltà .
+ Essa è sicuramente
+un tema che fa riflettere mol",,Essa,1
+it_markit-ud-test,16496,.," l' essere umano
+cerca fin dai primi anni di vita ","
+ In molti si chiedono però che cos' è questo
+sent"," l' essere umano
+cerca fin dai primi anni di vita .
+ In molti si chiedono però che cos' è questo
+sent",,In,1
+it_markit-ud-test,16602,.,o che lega profondamente una persona ad un' altra ,"
+ La disponibilità
+che un amico mette a nostra dis","o che lega profondamente una persona ad un' altra .
+ La disponibilità
+che un amico mette a nostra dis",,La,1
+it_markit-ud-test,16734,.,"nte , ricambiamo è
+un fattore che gratifica molto ","
+ Il rapportarsi agli altri è un atteggiamento
+ist","nte , ricambiamo è
+un fattore che gratifica molto .
+ Il rapportarsi agli altri è un atteggiamento
+ist",,Il,1
+it_markit-ud-test,16832,.,istintivo che ognuno di noi ha sin dall' infanzia ,"
+ Ne è un esempio Rosso
+Malpelo che sacrificò dei ","istintivo che ognuno di noi ha sin dall' infanzia .
+ Ne è un esempio Rosso
+Malpelo che sacrificò dei ",,Ne,1
+it_markit-ud-test,16978,.,"uasi
+nuovi all' amico Ranocchio gravemente malato ","
+ la piazza non è solo il luogo
+dove incontrare , ","uasi
+nuovi all' amico Ranocchio gravemente malato .
+ la piazza non è solo il luogo
+dove incontrare , ",,la,1
+it_markit-ud-test,17162,.,cchire culturalmente e aiutarvi nel vostro futuro ,"
+ Dico
+che la musica è un arte , perché è una cosa","cchire culturalmente e aiutarvi nel vostro futuro .
+ Dico
+che la musica è un arte , perché è una cosa",,Dico,1
+it_markit-ud-test,17371,.,"mozioni , ma questo è un dono che non tutti hanno ","
+ Il percorso della comunità
+europea firmato a Rom","mozioni , ma questo è un dono che non tutti hanno .
+ Il percorso della comunità
+europea firmato a Rom",,Il,1
+it_markit-ud-test,17615,.,"ono succeduti , tra i quali la trasformazione da C","E.E. in Unione Europea
+che raggruppa oggi 15 paesi","ono succeduti , tra i quali la trasformazione da C.E.E. in Unione Europea
+che raggruppa oggi 15 paesi",C,E,0
+it_markit-ud-test,17617,.,"o succeduti , tra i quali la trasformazione da C.E","E. in Unione Europea
+che raggruppa oggi 15 paesi .","o succeduti , tra i quali la trasformazione da C.E.E. in Unione Europea
+che raggruppa oggi 15 paesi .",E,E,0
+it_markit-ud-test,17619,.,"succeduti , tra i quali la trasformazione da C.E.E"," in Unione Europea
+che raggruppa oggi 15 paesi .
+ ","succeduti , tra i quali la trasformazione da C.E.E. in Unione Europea
+che raggruppa oggi 15 paesi .
+ ",E,in,0
+it_markit-ud-test,17667,.,".E. in Unione Europea
+che raggruppa oggi 15 paesi ","
+ L' unica cosa certa è che noi viviamo nel tempo ",".E. in Unione Europea
+che raggruppa oggi 15 paesi .
+ L' unica cosa certa è che noi viviamo nel tempo ",,L',1
+it_markit-ud-test,17749,.," viviamo nel tempo ,
+senza sapere cos' è e perché ","
+ All' inizio può essere una delusione , si può
+so"," viviamo nel tempo ,
+senza sapere cos' è e perché .
+ All' inizio può essere una delusione , si può
+so",,All',1
+it_markit-ud-test,18023,.,e che dia sempre meno spazio a spiacevoli episodi ,"
+ Ogni
+tanto mi incanto a guardare i miei compagni","e che dia sempre meno spazio a spiacevoli episodi .
+ Ogni
+tanto mi incanto a guardare i miei compagni",,Ogni,1
+it_markit-ud-test,18155,.,"è il
+tempo che rincorro perché mi piace osservare ","
+ La filosofia non porta alla
+felicità , ma ad una","è il
+tempo che rincorro perché mi piace osservare .
+ La filosofia non porta alla
+felicità , ma ad una",,La,1
+it_markit-ud-test,18320,.,o che la accompagna è il segno che stiamo vivendo ,"
+ Il tempo è un
+mutamento delle cose nello spazio ","o che la accompagna è il segno che stiamo vivendo .
+ Il tempo è un
+mutamento delle cose nello spazio ",,Il,1
+it_markit-ud-test,18670,.," una cosa da tutti i giorni e non si fa
+per tutti ","
+ Ma la cosa che più mi fa pensare è che prima di "," una cosa da tutti i giorni e non si fa
+per tutti .
+ Ma la cosa che più mi fa pensare è che prima di ",,Ma,1
+it_markit-ud-test,18769,.,"i tutto ciò , questi
+fatti non erano così diffusi ","
+ Questo sarà il periodo che sia lungo o breve ,
+c","i tutto ciò , questi
+fatti non erano così diffusi .
+ Questo sarà il periodo che sia lungo o breve ,
+c",,Questo,1
+it_markit-ud-test,18898,.,la mente perché comprende emozioni indescrivibili ,"
+
+Beh , certo sarebbe fantastico se ci cadesse tra","la mente perché comprende emozioni indescrivibili .
+
+Beh , certo sarebbe fantastico se ci cadesse tra",,Beh,1
+it_markit-ud-test,19056,.,uale completo con le istruzioni per essere felici ,"
+
+Sarebbe tutto più facile !
+ Questa è la domanda ","uale completo con le istruzioni per essere felici .
+
+Sarebbe tutto più facile !
+ Questa è la domanda ",,Sarebbe,1
+it_markit-ud-test,19084,!,"oni per essere felici .
+
+Sarebbe tutto più facile ","
+ Questa è la domanda che si pongono miliardi di
+p","oni per essere felici .
+
+Sarebbe tutto più facile !
+ Questa è la domanda che si pongono miliardi di
+p",,Questa,1
+it_markit-ud-test,19157,.,"che si pongono miliardi di
+persone da molto tempo ","
+ Dopo tutte queste leggende come scrisse Stephen ","che si pongono miliardi di
+persone da molto tempo .
+ Dopo tutte queste leggende come scrisse Stephen ",,Dopo,1
+it_markit-ud-test,19371,.,"e esistono ci lasciano nel nostro brodo
+primitivo ","
+ Una famiglia normalissima , che vive in una casa","e esistono ci lasciano nel nostro brodo
+primitivo .
+ Una famiglia normalissima , che vive in una casa",,Una,1
+it_markit-ud-test,19516,.,lavoro che gli permette di vivere rispettosamente ,"
+ egli
+sarà sempre troppo occupato a rincorrere un","lavoro che gli permette di vivere rispettosamente .
+ egli
+sarà sempre troppo occupato a rincorrere un",,egli,1
+it_markit-ud-test,19660,.,he questa è la prigione che limita la sua libertà ,"
+ È con la filosofia
+che , i più , cercano di trov","he questa è la prigione che limita la sua libertà .
+ È con la filosofia
+che , i più , cercano di trov",,È,1
+it_markit-ud-test,19741,.,"iù , cercano di trovare una possibile spiegazione ","
+ Ed è proprio il
+raggiungimento di sfide che semb","iù , cercano di trovare una possibile spiegazione .
+ Ed è proprio il
+raggiungimento di sfide che semb",,Ed,1
+it_markit-ud-test,19843,.,"ano impossibili , che causa una maggiore
+felicità ","
+ ma è proprio questa consapevolezza che spinge gl","ano impossibili , che causa una maggiore
+felicità .
+ ma è proprio questa consapevolezza che spinge gl",,ma,1
+it_markit-ud-test,19923,.,"volezza che spinge gli uomini a darsi
+delle leggi ","
+ È proprio questo percorso di ricerca , più che i","volezza che spinge gli uomini a darsi
+delle leggi .
+ È proprio questo percorso di ricerca , più che i",,È,1
+it_markit-ud-test,20162,.," aspetto dell' infinito concetto teorico
+felicità ","
+ Non è dunque l' ottica dell' utilità e del guada"," aspetto dell' infinito concetto teorico
+felicità .
+ Non è dunque l' ottica dell' utilità e del guada",,Non,1
+it_markit-ud-test,20245,.,"tilità e del guadagno a guidare verso
+la felicità ","
+ È dalle relazioni interpersonali che l' uomo ric","tilità e del guadagno a guidare verso
+la felicità .
+ È dalle relazioni interpersonali che l' uomo ric",,È,1
+it_markit-ud-test,20403,.,"ono di assaporare il gusto sublime
+della felicità ","
+ Ma è soprattutto grazie alla televisione che il ","ono di assaporare il gusto sublime
+della felicità .
+ Ma è soprattutto grazie alla televisione che il ",,Ma,1
+it_markit-ud-test,20532,.,"a sé l' intero potere , acquisendone il monopolio ","
+ Come la
+scienza , anche la filosofia ha al suo i","a sé l' intero potere , acquisendone il monopolio .
+ Come la
+scienza , anche la filosofia ha al suo i",,Come,1
+it_markit-ud-test,20672,.,"
+di queste ambiguità che le persone hanno bisogno ","
+ È in questo momento che la
+filosofia può renders","
+di queste ambiguità che le persone hanno bisogno .
+ È in questo momento che la
+filosofia può renders",,È,1
+it_markit-ud-test,20907,.,"cienze sociali , l' etica economica , la bioetica ","
+ È lo stato che attraverso i
+suoi invincibili mez","cienze sociali , l' etica economica , la bioetica .
+ È lo stato che attraverso i
+suoi invincibili mez",,È,1
+it_markit-ud-test,21077,.,ua missione di repressione di qualsiasi ideologia ,"
+ Sarà un salto
+evolutivo che permetterà la scoper","ua missione di repressione di qualsiasi ideologia .
+ Sarà un salto
+evolutivo che permetterà la scoper",,Sarà,1
+it_markit-ud-test,21148,?,utivo che permetterà la scoperta di efficaci cure ,"
+ La verità è che
+attualmente la scienza non può f","utivo che permetterà la scoperta di efficaci cure ?
+ La verità è che
+attualmente la scienza non può f",,La,1
+it_markit-ud-test,21379,.,questo campo il metodo scientifico è inefficiente ,"
+ È per questo motivo
+che si vedono famiglie disag","questo campo il metodo scientifico è inefficiente .
+ È per questo motivo
+che si vedono famiglie disag",,È,1
+it_markit-ud-test,21490,.,"micamente , ma felici , e uomini ricchi ma
+tristi ","
+ È proprio in questo che si distingue l' uomo dal","micamente , ma felici , e uomini ricchi ma
+tristi .
+ È proprio in questo che si distingue l' uomo dal",,È,1
+it_markit-ud-test,21660,.,"l giusto o l' ingiusto all'
+interno della società ","
+ È quindi ingiusto che , all' interno del mondo ,","l giusto o l' ingiusto all'
+interno della società .
+ È quindi ingiusto che , all' interno del mondo ,",,È,1
+it_markit-ud-test,21792,.,"o dei soldi , riescano a scontare pene e clausole ","
+ È
+proprio in quest' epoca nella quale i mercati ","o dei soldi , riescano a scontare pene e clausole .
+ È
+proprio in quest' epoca nella quale i mercati ",,È,1
+it_markit-ud-test,22090,.,"mercato e democrazia , tra capitalismo e politica ","
+ È forse la
+domanda che tutti si pongono , dai ne","mercato e democrazia , tra capitalismo e politica .
+ È forse la
+domanda che tutti si pongono , dai ne",,È,1
+it_markit-ud-test,22194,.,"ureati agli imprenditori , al semplice
+pensionato ","
+ Ed è così che ci fu lo scoppio della Prima Guerr","ureati agli imprenditori , al semplice
+pensionato .
+ Ed è così che ci fu lo scoppio della Prima Guerr",,Ed,1
+it_markit-ud-test,22331,.,"icidio ;
+ È una società che si accontenta di poco ","
+ È proprio
+per questo motivo che , come scritto n","icidio ;
+ È una società che si accontenta di poco .
+ È proprio
+per questo motivo che , come scritto n",,È,1
+it_markit-ud-test,22549,.,"s ,
+che prevede proprio ricerche in questo ambito ","
+ Sappiamo tutti , che oggi chi ha
+il potere è il ","s ,
+che prevede proprio ricerche in questo ambito .
+ Sappiamo tutti , che oggi chi ha
+il potere è il ",,Sappiamo,1
+it_markit-ud-test,22677,.,"ura la legge si inginocchia , forse
+troppo spesso ","
+ Questo progresso tecnologico ha dato la possibil","ura la legge si inginocchia , forse
+troppo spesso .
+ Questo progresso tecnologico ha dato la possibil",,Questo,1
+it_markit-ud-test,22950,.,ndo ad un vocabolario sempre più scarso e incolto ,"
+ È il meccanismo che
+coordina la maggior parte de","ndo ad un vocabolario sempre più scarso e incolto .
+ È il meccanismo che
+coordina la maggior parte de",,È,1
+it_markit-ud-test,23191,.,tutto il suo funzionamento all' interno del corpo ,"
+ Ed è precisamente in
+questo istante che il nostr","tutto il suo funzionamento all' interno del corpo .
+ Ed è precisamente in
+questo istante che il nostr",,Ed,1
+it_markit-ud-test,23488,.,"aneti o che
+, sviluppatasi , diventi intelligente ","
+ ( Dichiarazione di indipendenza dei
+tredici Stat","aneti o che
+, sviluppatasi , diventi intelligente .
+ ( Dichiarazione di indipendenza dei
+tredici Stat",,,1
+it_markit-ud-test,23679,., analizzare il tema molto discusso della felicità ,"
+ ma è
+proprio la società odierna che trasmette un"," analizzare il tema molto discusso della felicità .
+ ma è
+proprio la società odierna che trasmette un",,ma,1
+it_markit-ud-test,23759,.,erna che trasmette un messaggio davvero sbagliato ,"
+ Ed è
+proprio questo stesso pensatore a presuppor","erna che trasmette un messaggio davvero sbagliato .
+ Ed è
+proprio questo stesso pensatore a presuppor",,Ed,1
+it_markit-ud-test,23917,.,"ntani , là , sullo sfondo del firmamento infinito ","
+ è
+questa la domanda che l' uomo si pone da quand","ntani , là , sullo sfondo del firmamento infinito .
+ è
+questa la domanda che l' uomo si pone da quand",,è,1
+it_markit-ud-test,24231,., al quale ruotano i cieli ed i pianeti conosciuti ,"
+ È
+quel piacere che nasce dalla brama , dall' aff"," al quale ruotano i cieli ed i pianeti conosciuti .
+ È
+quel piacere che nasce dalla brama , dall' aff",,È,1
+it_markit-ud-test,24304,.,"asce dalla brama , dall' affanno , ed è già molto ","
+ È una
+natura maligna che pone nel cuore umano la","asce dalla brama , dall' affanno , ed è già molto .
+ È una
+natura maligna che pone nel cuore umano la",,È,1
+it_markit-ud-test,24406,.,"felicità senza dare la possibilità di
+realizzarla ","
+ È uno dei mille esempi che si potrebbero citare ","felicità senza dare la possibilità di
+realizzarla .
+ È uno dei mille esempi che si potrebbero citare ",,È,1
+it_markit-ud-test,24559,.," e non dal tentare di mostrarsi per come non
+si è ","
+ siamo noi , esseri umani , che produciamo la nos"," e non dal tentare di mostrarsi per come non
+si è .
+ siamo noi , esseri umani , che produciamo la nos",,siamo,1
+it_markit-ud-test,24623,.," esseri umani , che produciamo la nostra felicità ","
+ La
+felicità è sinonimo di benessere , gioia , le"," esseri umani , che produciamo la nostra felicità .
+ La
+felicità è sinonimo di benessere , gioia , le",,La,1
+it_markit-ud-test,24809,.,"rmonico di salute ,
+di forze fisiche e spirituali ","
+ Questa è la domanda che ci poniamo da intere
+gen","rmonico di salute ,
+di forze fisiche e spirituali .
+ Questa è la domanda che ci poniamo da intere
+gen",,Questa,1
+it_markit-ud-test,24869,.,"è la domanda che ci poniamo da intere
+generazioni ","
+ Ed è proprio sfogliando quel grande libro che è ","è la domanda che ci poniamo da intere
+generazioni .
+ Ed è proprio sfogliando quel grande libro che è ",,Ed,1
+it_markit-ud-test,24989,.,erso che l' uomo arriva a queste nuove conoscenze ,"
+ È infatti grazie al
+continuo progresso della sci","erso che l' uomo arriva a queste nuove conoscenze .
+ È infatti grazie al
+continuo progresso della sci",,È,1
+it_markit-ud-test,25187,.,"tono una conoscenza sempre più
+precisa e profonda ","
+ Ma è proprio in questi momenti che tralasciamo l","tono una conoscenza sempre più
+precisa e profonda .
+ Ma è proprio in questi momenti che tralasciamo l",,Ma,1
+it_markit-ud-test,25386,., tra due persone trova la sua massima espressione ,"
+ È un rapporto
+davvero grande che spesso può dive"," tra due persone trova la sua massima espressione .
+ È un rapporto
+davvero grande che spesso può dive",,È,1
+it_markit-ud-test,25995,.," sulla
+base di una legge unica e uguale per tutti ","
+ Domande come questa trovano
+ovviamente riscontri"," sulla
+base di una legge unica e uguale per tutti .
+ Domande come questa trovano
+ovviamente riscontri",,Domande,1
+it_markit-ud-test,26393,.,ll' allarmante stato di salute del nostro pianeta ,"
+ Fu appunto
+questa frase che portò l' autore alla","ll' allarmante stato di salute del nostro pianeta .
+ Fu appunto
+questa frase che portò l' autore alla",,Fu,1
+it_markit-ud-test,26470,.,"che portò l' autore alla logica conclusione che "" ",".. lo scienziato
+ha bisogno di sentirsi confermare","che portò l' autore alla logica conclusione che "" ... lo scienziato
+ha bisogno di sentirsi confermare",,,0
+it_markit-ud-test,26471,.,"he portò l' autore alla logica conclusione che "" .",". lo scienziato
+ha bisogno di sentirsi confermare ","he portò l' autore alla logica conclusione che "" ... lo scienziato
+ha bisogno di sentirsi confermare ",,,0
+it_markit-ud-test,26472,.,"e portò l' autore alla logica conclusione che "" .."," lo scienziato
+ha bisogno di sentirsi confermare d","e portò l' autore alla logica conclusione che "" ... lo scienziato
+ha bisogno di sentirsi confermare d",,lo,0
+it_markit-ud-test,26605,.,"natura stessa
+, di aver compreso la sua struttura ","
+ È con questo spirito che si sta
+progettando una ","natura stessa
+, di aver compreso la sua struttura .
+ È con questo spirito che si sta
+progettando una ",,È,1
+it_markit-ud-test,26727,.,"ggiungere l' orbita marziana nei prossimi
+decenni ","
+ È già da tempo che in Inghilterra si parla di "" ","ggiungere l' orbita marziana nei prossimi
+decenni .
+ È già da tempo che in Inghilterra si parla di "" ",,È,1
+it_markit-ud-test,27015,.,zienti desiderosi di porre fine alla propria vita ,"
+ È la natura
+stessa che Dio , prima di creare il ","zienti desiderosi di porre fine alla propria vita .
+ È la natura
+stessa che Dio , prima di creare il ",,È,1
+it_markit-ud-test,27386,.,"la
+società secondo le esigenze della propria vita ","
+ È un' esperienza di vitale
+importanza che ha dat","la
+società secondo le esigenze della propria vita .
+ È un' esperienza di vitale
+importanza che ha dat",,È,1
+it_markit-ud-test,27574,.," la poesia e la religione con l' aiuto del
+divino ","
+ Come sostiene P. Calamandrei , nell' Assemblea C"," la poesia e la religione con l' aiuto del
+divino .
+ Come sostiene P. Calamandrei , nell' Assemblea C",,Come,1
+it_markit-ud-test,27592,.,"ligione con l' aiuto del
+divino .
+ Come sostiene P"," Calamandrei , nell' Assemblea Costituente non c' ","ligione con l' aiuto del
+divino .
+ Come sostiene P. Calamandrei , nell' Assemblea Costituente non c' ",P,Calamandrei,0
+it_markit-ud-test,27843,.,"esto motivo che
+si dice che essa è compromissoria ","
+ Secondo me , questo fu possibile proprio
+perché ","esto motivo che
+si dice che essa è compromissoria .
+ Secondo me , questo fu possibile proprio
+perché ",,Secondo,1
+it_markit-ud-test,28027,.,"o motivo che si dice che è "" un atto flessibile "" ","
+ Infatti nel mondo
+dell' immaginazione siamo noi ","o motivo che si dice che è "" un atto flessibile "" .
+ Infatti nel mondo
+dell' immaginazione siamo noi ",,Infatti,1
+it_markit-ud-test,28219,.,"ace , spesso è nell' immaginazione che si
+rifugia ","
+ spesso infatti è proprio ciò in cui abbiamo fede","ace , spesso è nell' immaginazione che si
+rifugia .
+ spesso infatti è proprio ciò in cui abbiamo fede",,spesso,1
+it_markit-ud-test,28296,.," ciò in cui abbiamo fede a darci sicurezza e
+pace ","
+ Un altro autore che tratta la tematica del rappo"," ciò in cui abbiamo fede a darci sicurezza e
+pace .
+ Un altro autore che tratta la tematica del rappo",,Un,1
+it_markit-ud-test,28367,.,e tratta la tematica del rapporto padre-figlio è F,"
+Kafka .
+ Fu proprio in questo periodo che si iniz","e tratta la tematica del rapporto padre-figlio è F.
+Kafka .
+ Fu proprio in questo periodo che si iniz",F,Kafka,0
+it_markit-ud-test,28375,.," la tematica del rapporto padre-figlio è F.
+Kafka ","
+ Fu proprio in questo periodo che si iniziarono a"," la tematica del rapporto padre-figlio è F.
+Kafka .
+ Fu proprio in questo periodo che si iniziarono a",,Fu,1
+it_markit-ud-test,28483,.,"re i primi passi
+concreti verso l' Unione Europea ","
+ Nessuno può dire di non aver bisogno di un
+amico","re i primi passi
+concreti verso l' Unione Europea .
+ Nessuno può dire di non aver bisogno di un
+amico",,Nessuno,1
+it_markit-ud-test,28570,.,"no di un
+amico , è una condizione dell' uomo che F"," Uhlman , ne "" L' amico ritrovato "" ,
+traduce in ""","no di un
+amico , è una condizione dell' uomo che F. Uhlman , ne "" L' amico ritrovato "" ,
+traduce in """,F,Uhlman,0
+it_markit-ud-test,28853,.,"eno in parte , si vuole vivere da
+uomini liberi "" ","
+ Sicuramente no , ed è per questo motivo che ogni","eno in parte , si vuole vivere da
+uomini liberi "" .
+ Sicuramente no , ed è per questo motivo che ogni",,Sicuramente,1
+it_markit-ud-test,29016,.," amicizia come meglio ha
+potuto , nelle sue opere ","
+ C' è chi li attribuisce ad uno scherzo umano e c"," amicizia come meglio ha
+potuto , nelle sue opere .
+ C' è chi li attribuisce ad uno scherzo umano e c",,C',1
+it_markit-ud-test,29189,.,"ci degli
+indizi o che vogliono comunicare con noi ","
+ È da anni ormai che siamo governati
+da criminali","ci degli
+indizi o che vogliono comunicare con noi .
+ È da anni ormai che siamo governati
+da criminali",,È,1
+it_markit-ud-test,29302,.,giacca e cravatta con le mani macchiate di sangue ,"
+ Ogni
+anno , forti sono le critiche fatte contro ","giacca e cravatta con le mani macchiate di sangue .
+ Ogni
+anno , forti sono le critiche fatte contro ",,Ogni,1
+it_markit-ud-test,29602,.,"ione del mercato , soprattutto in ambito musicale ","
+ Ed è proprio
+questo centro pulsante d' attività ","ione del mercato , soprattutto in ambito musicale .
+ Ed è proprio
+questo centro pulsante d' attività ",,Ed,1
+it_markit-ud-test,29924,.,"ittadinanza o , addirittura , di un intero popolo ","
+ Fu in
+questi precisi termini , infatti , che nac","ittadinanza o , addirittura , di un intero popolo .
+ Fu in
+questi precisi termini , infatti , che nac",,Fu,1
+it_markit-ud-test,30101,.,"olgeva la vita politica e commerciale
+della città ","
+ Sono le piazze il topos letterario prediletto da","olgeva la vita politica e commerciale
+della città .
+ Sono le piazze il topos letterario prediletto da",,Sono,1
+it_markit-ud-test,30397,.,to che la vita di periferia alle volte può creare ,"
+ È
+in seguito a questo fenomeno che gli storici d","to che la vita di periferia alle volte può creare .
+ È
+in seguito a questo fenomeno che gli storici d",,È,1
+it_markit-ud-test,30508,.,"mere per Hobsbawm un
+ruolo di maggiore importanza ","
+ È proprio dalla storia infatti che l' uomo può
+r","mere per Hobsbawm un
+ruolo di maggiore importanza .
+ È proprio dalla storia infatti che l' uomo può
+r",,È,1
+it_markit-ud-test,30702,.,i errori in cui altri in passato sono già incorsi ,"
+ sono le
+sole cose materiali , che soddisfano le ","i errori in cui altri in passato sono già incorsi .
+ sono le
+sole cose materiali , che soddisfano le ",,sono,1
+it_markit-ud-test,30792,?,disfano le nostre aspettative e ci rendono felici ,"
+
+È qui che egli siede in tranquillità e dove i su","disfano le nostre aspettative e ci rendono felici ?
+
+È qui che egli siede in tranquillità e dove i su",,È,1
+it_markit-ud-test,30918,.,"d
+impaurirsi di fronte all' eternità e alla morte ","
+ In particolare sono due le
+caratteristiche di cu","d
+impaurirsi di fronte all' eternità e alla morte .
+ In particolare sono due le
+caratteristiche di cu",,In,1
+it_markit-ud-test,31229,.," senza
+senso ogni dubbio o paura dello scienziato ","
+ Non l' abbiamo mai controllata , ne
+siamo sempre"," senza
+senso ogni dubbio o paura dello scienziato .
+ Non l' abbiamo mai controllata , ne
+siamo sempre",,Non,1
+it_markit-ud-test,31396,.,ontrollo che causa dubbi e paure nello scienziato ,"
+ È qualcosa che viene
+preparato a tavolino per me","ontrollo che causa dubbi e paure nello scienziato .
+ È qualcosa che viene
+preparato a tavolino per me",,È,1
+it_markit-ud-test,31486,.,lino per meglio soddisfare le esigenze di mercato ,"
+ Quindi è
+proprio dalla piazza di questa città ch","lino per meglio soddisfare le esigenze di mercato .
+ Quindi è
+proprio dalla piazza di questa città ch",,Quindi,1
+it_markit-ud-test,31685,.,"e a trascurare l'
+effettiva utilità della scienza ","
+ questo è un evento che più che per la musica
+in ","e a trascurare l'
+effettiva utilità della scienza .
+ questo è un evento che più che per la musica
+in ",,questo,1
+it_markit-ud-test,32048,.,imento dell' appagamento e dell' ulteriore riposo ,"
+ è
+la mia amica che mi migliora il morale e che m","imento dell' appagamento e dell' ulteriore riposo .
+ è
+la mia amica che mi migliora il morale e che m",,è,1
+it_markit-ud-test,32133,.,"l morale e che mi fa sfogare quando ne ho bisogno
+","
+ Anche qui quindi sono sempre le grandi potenze a","l morale e che mi fa sfogare quando ne ho bisogno
+.
+ Anche qui quindi sono sempre le grandi potenze a",,Anche,1
+it_markit-ud-test,32389,.,"serra e un assottigliamento
+dello strato d' ozono ","
+ Ed è proprio questo problema che si pone nel nos","serra e un assottigliamento
+dello strato d' ozono .
+ Ed è proprio questo problema che si pone nel nos",,Ed,1
+it_markit-ud-test,32556,.,"e possibili
+catastrofi che la scienza può causare ","
+ È forse dunque la continua ricerca che
+ci porta ","e possibili
+catastrofi che la scienza può causare .
+ È forse dunque la continua ricerca che
+ci porta ",,È,1
+it_markit-ud-test,32631,?,"inua ricerca che
+ci porta lontani dall' obiettivo ","
+ è il troppo pensare , che rende le persone
+insod","inua ricerca che
+ci porta lontani dall' obiettivo ?
+ è il troppo pensare , che rende le persone
+insod",,è,1
+it_markit-ud-test,32691,.,"oppo pensare , che rende le persone
+insoddisfatte ","
+ è nella direzione delle neuroscienze che si stan","oppo pensare , che rende le persone
+insoddisfatte .
+ è nella direzione delle neuroscienze che si stan",,è,1
+it_markit-ud-test,32803,.,"o le
+nuove frontiere della scienza del XXI secolo ","
+ Ma , come nella storia , ogni
+tanto qualche noti","o le
+nuove frontiere della scienza del XXI secolo .
+ Ma , come nella storia , ogni
+tanto qualche noti",,Ma,1
+it_markit-ud-test,33013,.,"he se solo per un momento , dal
+suo sonno indotto ","
+ è quindi dall' unione dell' interesse per i part","he se solo per un momento , dal
+suo sonno indotto .
+ è quindi dall' unione dell' interesse per i part",,è,1
+it_markit-ud-test,33264,.,"questa che è al
+giorno d' oggi la scienza moderna ","
+ È in questo modo che il sentimento amoroso
+diven","questa che è al
+giorno d' oggi la scienza moderna .
+ È in questo modo che il sentimento amoroso
+diven",,È,1
+it_markit-ud-test,33413,.," possedere la capacità di
+provare tale sensazione ","
+ Sono tanti gli elementi che ci rendono unici :
+ "," possedere la capacità di
+provare tale sensazione .
+ Sono tanti gli elementi che ci rendono unici :
+ ",,Sono,1
+it_markit-ud-test,33724,.,"diritti con quella giustizia
+paladina di legalità ","
+ È qui che si svolgono le storie di Elmer , Herma","diritti con quella giustizia
+paladina di legalità .
+ È qui che si svolgono le storie di Elmer , Herma",,È,1
+it_markit-ud-test,33800,.,"e storie di Elmer , Herman , Bert
+, Tom e Charley ","
+ è qui che un Leopardi poco più che ventenne comp","e storie di Elmer , Herman , Bert
+, Tom e Charley .
+ è qui che un Leopardi poco più che ventenne comp",,è,1
+it_markit-ud-test,33968,.,"questa la domanda che molti
+scienziati si pongono ","
+ È questo lo spirito che spinge a spendere così t","questa la domanda che molti
+scienziati si pongono .
+ È questo lo spirito che spinge a spendere così t",,È,1
+it_markit-ud-test,34204,.," per il raggiungimento dell'
+ambito Pianeta Rosso ","
+ È stato solamente dopo aver trascorso un anno al"," per il raggiungimento dell'
+ambito Pianeta Rosso .
+ È stato solamente dopo aver trascorso un anno al",,È,1
+it_markit-ud-test,34421,., quanto fosse straordinario il paesaggio italiano ,"
+
+Quindi è l' uomo che sente di essere qualcuno e "," quanto fosse straordinario il paesaggio italiano .
+
+Quindi è l' uomo che sente di essere qualcuno e ",,Quindi,1
+it_markit-ud-test,34545,.,"raverso
+le sue opinioni , le sue idee e decisioni ","
+ è una qualità che come scrissero
+Darwin e Spence","raverso
+le sue opinioni , le sue idee e decisioni .
+ è una qualità che come scrissero
+Darwin e Spence",,è,1
+it_markit-ud-test,34711,.,lo il più forte e chi meglio si adatta sopravvive ,"
+ nei "" Promessi Sposi "" di
+Manzoni è proprio l' a","lo il più forte e chi meglio si adatta sopravvive .
+ nei "" Promessi Sposi "" di
+Manzoni è proprio l' a",,nei,1
+it_markit-ud-test,34809,.,' amicizia a dare sollievo a Renzo e al suo amico ,"
+ È in
+questo quadro sociale che Uhlman esprime il","' amicizia a dare sollievo a Renzo e al suo amico .
+ È in
+questo quadro sociale che Uhlman esprime il",,È,1
+it_markit-ud-test,34929,.,"icizia in "" L'
+amico ritrovato "" , opera del 1971 ","
+ Ed è proprio con uno sguardo che Raffaello
+riesc","icizia in "" L'
+amico ritrovato "" , opera del 1971 .
+ Ed è proprio con uno sguardo che Raffaello
+riesc",,Ed,1
+it_markit-ud-test,35034,.,dimostrarci tutto il suo affetto per un suo amico ,"
+ ed è proprio all'
+interno di questa realtà che c","dimostrarci tutto il suo affetto per un suo amico .
+ ed è proprio all'
+interno di questa realtà che c",,ed,1
+it_markit-ud-test,35160,.,"o il nostro interesse da
+questioni più importanti ","
+ È importante mantenerlo e rispettarlo , il nostr","o il nostro interesse da
+questioni più importanti .
+ È importante mantenerlo e rispettarlo , il nostr",,È,1
+it_markit-ud-test,35396,.,"ascoltata , anche se non
+sempre viene soddisfatta ","
+ È una domanda che la nostra rivista si è spesso ","ascoltata , anche se non
+sempre viene soddisfatta .
+ È una domanda che la nostra rivista si è spesso ",,È,1
+it_markit-ud-test,35453,.,"a domanda che la nostra rivista si è spesso posta
+","
+ È in questo quadro che va collocata la politica ","a domanda che la nostra rivista si è spesso posta
+.
+ È in questo quadro che va collocata la politica ",,È,1
+it_markit-ud-test,35538,.,"ata la politica aggressiva seguita dalla
+Germania ","
+ Sono proprio queste persone che pur di raggiunge","ata la politica aggressiva seguita dalla
+Germania .
+ Sono proprio queste persone che pur di raggiunge",,Sono,1
+it_markit-ud-test,35710,.," piacimento facendogli
+credere di essergli vicini ","
+ È il frutto di un attento esame di una persona ,"," piacimento facendogli
+credere di essergli vicini .
+ È il frutto di un attento esame di una persona ,",,È,1
+it_markit-ud-test,35825,.,apire se essa è degna di dare e ricevere amicizia ,"
+ Il nulla , lo
+stare soli , l' indifferenza , son","apire se essa è degna di dare e ricevere amicizia .
+ Il nulla , lo
+stare soli , l' indifferenza , son",,Il,1
+it_markit-ud-test,36103,.,", citata da
+Leopardi nel "" il passero solitario "" ","
+ affermando , nel primo , che è la nostra
+natura ",", citata da
+Leopardi nel "" il passero solitario "" .
+ affermando , nel primo , che è la nostra
+natura ",,affermando,1
+it_markit-ud-test,36220,.,a ricerca della compagnia e dell' aiuto reciproco ,"
+ È un
+desiderio che permane nel tempo , fino ai g","a ricerca della compagnia e dell' aiuto reciproco .
+ È un
+desiderio che permane nel tempo , fino ai g",,È,1
+it_markit-ud-test,36336,.,"e che già Dante scrive
+nella raccolta "" Le rime "" ","
+ "" Il cielo è blu , o siamo noi che lo vediamo bl","e che già Dante scrive
+nella raccolta "" Le rime "" .
+ "" Il cielo è blu , o siamo noi che lo vediamo bl",,,1
+it_markit-ud-test,36389,?,""" Il cielo è blu , o siamo noi che lo vediamo blu ","
+
+Sono parole che rendono in maniera molto chiara ",""" Il cielo è blu , o siamo noi che lo vediamo blu ?
+
+Sono parole che rendono in maniera molto chiara ",,Sono,1
+it_markit-ud-test,36705,.,e fanno scatenare dentro di noi tante insicurezze ,"
+ il
+tempo è un componente importante della nostra","e fanno scatenare dentro di noi tante insicurezze .
+ il
+tempo è un componente importante della nostra",,il,1
+it_markit-ud-test,36865,.,isione oggettiva e attenta di ciò che ci circonda ,"
+
+Ed è il tempo che ci fa crescere , che ci accomp","isione oggettiva e attenta di ciò che ci circonda .
+
+Ed è il tempo che ci fa crescere , che ci accomp",,Ed,1
+it_markit-ud-test,36955,.,"e ci accompagna e che segue ogni nostro
+movimento ","
+ Una persona che soffre perennemente perché tropp","e ci accompagna e che segue ogni nostro
+movimento .
+ Una persona che soffre perennemente perché tropp",,Una,1
+it_markit-ud-test,37233,.,rà proprio per quella sua unicità di persona vera ,"
+ È proprio questo
+sentimento che l' arte ha sempr","rà proprio per quella sua unicità di persona vera .
+ È proprio questo
+sentimento che l' arte ha sempr",,È,1
+it_markit-ud-test,37378,.," Il
+piccolo principe "" ne sia un esempio concreto ","
+ È un processo che non si può
+forzare ed è diffic"," Il
+piccolo principe "" ne sia un esempio concreto .
+ È un processo che non si può
+forzare ed è diffic",,È,1
+it_markit-ud-test,37477,.,"icile , se non impossibile , da spiegare a parole ","
+ È per
+questo che il tema dell' amicizia viene af","icile , se non impossibile , da spiegare a parole .
+ È per
+questo che il tema dell' amicizia viene af",,È,1
+it_markit-ud-test,37758,.,"e opere e
+renderle appassionanti ed entusiasmanti ","
+ E' all' interno di quest' ultimo
+gruppo che dovr","e opere e
+renderle appassionanti ed entusiasmanti .
+ E' all' interno di quest' ultimo
+gruppo che dovr",,E',1
+it_markit-ud-test,37962,.,"civile attraverso la partecipazione
+dei cittadini ","
+ Tutti esperimenti che permettono il migliorament","civile attraverso la partecipazione
+dei cittadini .
+ Tutti esperimenti che permettono il migliorament",,Tutti,1
+it_markit-ud-test,38076,.,"ze
+ed è appunto per questo che vengono realizzati ","
+ È per questo motivo che
+riuscire ad avvicinarsi ","ze
+ed è appunto per questo che vengono realizzati .
+ È per questo motivo che
+riuscire ad avvicinarsi ",,È,1
+it_markit-ud-test,38178,.,lla felicità autentica e totale è molto difficile ,"
+
+Quindi , secondo me è anche la tecnologia che ha","lla felicità autentica e totale è molto difficile .
+
+Quindi , secondo me è anche la tecnologia che ha",,Quindi,1
+it_markit-ud-test,38258,., la tecnologia che ha alterato la nostra serenità ,"
+ È
+per questo motivo che la "" felicità totale e a"," la tecnologia che ha alterato la nostra serenità .
+ È
+per questo motivo che la "" felicità totale e a",,È,1
+it_markit-ud-test,38401,.,a ogni volta che cerchiamo di avvicinarci ad essa ,"
+ Fu proprio negli
+Stati Uniti d' America che venn","a ogni volta che cerchiamo di avvicinarci ad essa .
+ Fu proprio negli
+Stati Uniti d' America che venn",,Fu,1
+it_markit-ud-test,38612,.,"vorire la
+concorrenza nel mercato tra più imprese ","
+ In questo periodo siamo nel mezzo di
+una depress","vorire la
+concorrenza nel mercato tra più imprese .
+ In questo periodo siamo nel mezzo di
+una depress",,In,1
+it_markit-ud-test,38934,.,"ferenza
+che attaccherà i progetti a lungo termine ","
+ Bisognerebbe invece fare il
+contrario , perché è","ferenza
+che attaccherà i progetti a lungo termine .
+ Bisognerebbe invece fare il
+contrario , perché è",,Bisognerebbe,1
+it_markit-ud-test,39068,.," che impedirà al breve
+termine di diventare lungo ","
+ È da tempo ormai che si cercano soluzioni per la"," che impedirà al breve
+termine di diventare lungo .
+ È da tempo ormai che si cercano soluzioni per la",,È,1
+it_markit-ud-test,39174,.,i economica che ha coinvolto ormai tutto il globo ,"
+ Sono molti gli studi e i
+progetti che sono in ba","i economica che ha coinvolto ormai tutto il globo .
+ Sono molti gli studi e i
+progetti che sono in ba",,Sono,1
+it_markit-ud-test,39284,.,"ome abbiamo visto prima c' è anche molta
+rivalità ","
+ In questo modo , risulta più facile allo Stato t","ome abbiamo visto prima c' è anche molta
+rivalità .
+ In questo modo , risulta più facile allo Stato t",,In,1
+it_markit-ud-test,39367,.,"acile allo Stato tenere sotto controllo
+il popolo ","
+ A causa di essa ne risentono , chi più e chi men","acile allo Stato tenere sotto controllo
+il popolo .
+ A causa di essa ne risentono , chi più e chi men",,A,1
+it_markit-ud-test,39533,.,"o , Vittorio Sgarbi :
+ Se ai
+veneziani del XVI sec", si presentava impossibile il raggiungimento via m,"o , Vittorio Sgarbi :
+ Se ai
+veneziani del XVI sec. si presentava impossibile il raggiungimento via m",sec,si,0
+it_markit-ud-test,39704,.,"mo un giorno
+colonizzi un pianeta diverso dal suo ","
+ E proprio di questo si tratta , del
+crescere .
+ ","mo un giorno
+colonizzi un pianeta diverso dal suo .
+ E proprio di questo si tratta , del
+crescere .
+ ",,E,1
+it_markit-ud-test,39752,.,"o .
+ E proprio di questo si tratta , del
+crescere ","
+ Stanno già lavorando altri studenti per migliora","o .
+ E proprio di questo si tratta , del
+crescere .
+ Stanno già lavorando altri studenti per migliora",,Stanno,1
+it_markit-ud-test,39826,.,"altri studenti per migliorarne le
+caratteristiche ","
+ "" Ho vissuto un' infanzia tremenda , ma non mi s","altri studenti per migliorarne le
+caratteristiche .
+ "" Ho vissuto un' infanzia tremenda , ma non mi s",,,1
+it_markit-ud-test,39972,.,"avo dentro di me ci credevo ancora nella felicità
+","
+ Intanto a questo festival girano miliardi , e se","avo dentro di me ci credevo ancora nella felicità
+.
+ Intanto a questo festival girano miliardi , e se",,Intanto,1
+it_markit-ud-test,40061,.,"iardi , e se i soldi sono tanti un motivo
+ci sarà ","
+ Di questa tesi si fece promotore lo stesso Heise","iardi , e se i soldi sono tanti un motivo
+ci sarà .
+ Di questa tesi si fece promotore lo stesso Heise",,Di,1
+it_markit-ud-test,40178,.,"accolse nel libro "" La tradizione della scienza "" ","
+ Inoltre sorsero all'
+interno della società vari ","accolse nel libro "" La tradizione della scienza "" .
+ Inoltre sorsero all'
+interno della società vari ",,Inoltre,1
+it_markit-ud-test,40343,.,ento dei reduci nel lavoro e l' ascesa dei prezzi ,"
+ Alcuni la
+ritengono infatti un' impresa paradoss","ento dei reduci nel lavoro e l' ascesa dei prezzi .
+ Alcuni la
+ritengono infatti un' impresa paradoss",,Alcuni,1
+it_markit-ud-test,40534,.,"dimensioni strettamente e
+rigidamente determinate ","
+ Si è esibito sul palco del Globen della capitale","dimensioni strettamente e
+rigidamente determinate .
+ Si è esibito sul palco del Globen della capitale",,Si,1
+it_markit-ud-test,40705,.,"cuse di
+violenza e per scrivere testi provocatori ","
+ Infiniti sono i luoghi dell' anima ,
+gli scenari","cuse di
+violenza e per scrivere testi provocatori .
+ Infiniti sono i luoghi dell' anima ,
+gli scenari",,Infiniti,1
+it_markit-ud-test,40855,.,"finità tale che al
+Leopardi "" sovvien l' eterno "" ","
+ Sempre più numerose saranno le ricerche e le
+sco","finità tale che al
+Leopardi "" sovvien l' eterno "" .
+ Sempre più numerose saranno le ricerche e le
+sco",,Sempre,1
+it_markit-ud-test,41066,.,"ro
+ Forme di massificazione se ne vedono
+dovunque ","
+ Un esempio è stato quello del presidente degli U","ro
+ Forme di massificazione se ne vedono
+dovunque .
+ Un esempio è stato quello del presidente degli U",,Un,1
+it_markit-ud-test,41261,.,"n
+viaggio per la sua campagna elettorale in Texas ","
+ Di omicidi intimidatori se ne
+videro molti anche","n
+viaggio per la sua campagna elettorale in Texas .
+ Di omicidi intimidatori se ne
+videro molti anche",,Di,1
+it_markit-ud-test,41516,.,nza delle passioni amorose e dei rapporti carnali ,"
+ Altro fattore
+che contribuisce al perseguimento ","nza delle passioni amorose e dei rapporti carnali .
+ Altro fattore
+che contribuisce al perseguimento ",,Altro,1
+it_markit-ud-test,41596,.,sce al perseguimento della felicità è il guadagno ,"
+ A questo evento
+partecipano soltanto artisti già","sce al perseguimento della felicità è il guadagno .
+ A questo evento
+partecipano soltanto artisti già",,A,1
+it_markit-ud-test,41916,.," per il "" fiasco "" del grande festival di Sanremo ","
+ Alla fine
+il disco lo si va a comprare comunque "," per il "" fiasco "" del grande festival di Sanremo .
+ Alla fine
+il disco lo si va a comprare comunque ",,Alla,1
+it_markit-ud-test,41981,.," disco lo si va a comprare comunque , se si vuole ","
+ Un esempio emblematico lo
+ritroviamo negli adole"," disco lo si va a comprare comunque , se si vuole .
+ Un esempio emblematico lo
+ritroviamo negli adole",,Un,1
+it_markit-ud-test,42110,.,"ad occhi aperti per fuggire
+dalla loro condizione ","
+ Un altro esempio lo si ritrova nella poesia ‘Inf","ad occhi aperti per fuggire
+dalla loro condizione .
+ Un altro esempio lo si ritrova nella poesia ‘Inf",,Un,1
+it_markit-ud-test,42180,.,"lo si ritrova nella poesia ‘Infinito'
+di Leopardi ","
+ Ciò che rimane sempre nell' animo e nel cuore di","lo si ritrova nella poesia ‘Infinito'
+di Leopardi .
+ Ciò che rimane sempre nell' animo e nel cuore di",,Ciò,1
+it_markit-ud-test,42258,.,"l' animo e nel cuore di una persona è l'
+ambiente ","
+ Il nostro con la scienza non è mai stato un rapp","l' animo e nel cuore di una persona è l'
+ambiente .
+ Il nostro con la scienza non è mai stato un rapp",,Il,1
+it_markit-ud-test,42405,.,o nell' ambito della ambiguità e dell' incoerenza ,"
+
+Il primo sentore dell' importanza di una piazza ","o nell' ambito della ambiguità e dell' incoerenza .
+
+Il primo sentore dell' importanza di una piazza ",,Il,1
+it_markit-ud-test,42593,.,"ad essa almeno tre o
+quattro volte in un discorso ","
+ Un esempio possiamo trovarlo anche piuttosto
+rec","ad essa almeno tre o
+quattro volte in un discorso .
+ Un esempio possiamo trovarlo anche piuttosto
+rec",,Un,1
+it_markit-ud-test,42694,.,entemente alla fine della seconda guerra mondiale ,"
+ Ma a rendere ancor più
+caratteristiche le nostre","entemente alla fine della seconda guerra mondiale .
+ Ma a rendere ancor più
+caratteristiche le nostre",,Ma,1
+it_markit-ud-test,42788,.," nostre città italiane , contribuiscono le piazze ","
+ Infatti
+nella società moderna vi è una netta dif"," nostre città italiane , contribuiscono le piazze .
+ Infatti
+nella società moderna vi è una netta dif",,Infatti,1
+it_markit-ud-test,42937,.,re che non riescono a sfamare la propria famiglia ,"
+ Loro stanno
+bene , ma a noi "" comuni mortali "" c","re che non riescono a sfamare la propria famiglia .
+ Loro stanno
+bene , ma a noi "" comuni mortali "" c",,Loro,1
+it_markit-ud-test,43003,?,"ene , ma a noi "" comuni mortali "" cosa ci aspetta ","
+ Stanno lì sulle loro
+poltrone e non pensano al d","ene , ma a noi "" comuni mortali "" cosa ci aspetta ?
+ Stanno lì sulle loro
+poltrone e non pensano al d",,Stanno,1
+it_markit-ud-test,43111,.,"i una nazione che la crisi la sta sentendo
+eccome ","
+ a fare questo ci pensò Sigmund Freud .
+ È un pen","i una nazione che la crisi la sta sentendo
+eccome .
+ a fare questo ci pensò Sigmund Freud .
+ È un pen",,a,1
+it_markit-ud-test,43151,.,"do
+eccome .
+ a fare questo ci pensò Sigmund Freud ","
+ È un pensiero abbastanza diffuso
+, confrontando ","do
+eccome .
+ a fare questo ci pensò Sigmund Freud .
+ È un pensiero abbastanza diffuso
+, confrontando ",,È,1
+it_markit-ud-test,43304,.,"re di aver
+fatto molti passi avanti in ogni campo ","
+ Altro chiaro esempio di "" matrimonio ""
+fra luogo","re di aver
+fatto molti passi avanti in ogni campo .
+ Altro chiaro esempio di "" matrimonio ""
+fra luogo",,Altro,1
+it_markit-ud-test,43475,.,"
+racconta di una serata nel paesino di Aci Trezza ","
+ tuttavia dietro a questa
+spiegazione c' è ben al","
+racconta di una serata nel paesino di Aci Trezza .
+ tuttavia dietro a questa
+spiegazione c' è ben al",,tuttavia,1
+it_markit-ud-test,43569,., ben altro ed il paesaggio italiano ne è la prova ,"
+ Di come si
+passi da una situazione di totale ind"," ben altro ed il paesaggio italiano ne è la prova .
+ Di come si
+passi da una situazione di totale ind",,Di,1
+it_markit-ud-test,43962,., a loro volta il profondo significato di amicizia ,"
+ Un altro
+importantissimo progetto intrapreso , è"," a loro volta il profondo significato di amicizia .
+ Un altro
+importantissimo progetto intrapreso , è",,Un,1
+it_markit-ud-test,44230,.,"capaci di sopravvivere in
+questo ambiente estremo ","
+ Quando parliamo di amicizia soprattutto fra noi
+","capaci di sopravvivere in
+questo ambiente estremo .
+ Quando parliamo di amicizia soprattutto fra noi
+",,Quando,1
+it_markit-ud-test,44567,.,"cultura e a memoria , la Divina Commedia ci narra ","
+ Del tempo , prima della
+nascita dell' Uomo non s","cultura e a memoria , la Divina Commedia ci narra .
+ Del tempo , prima della
+nascita dell' Uomo non s",,Del,1
+it_markit-ud-test,44714,.,"lle
+esperienze umane di cui abbiamo testimonianza ","
+ Più che altro a seguire questa
+ideologia sono i ","lle
+esperienze umane di cui abbiamo testimonianza .
+ Più che altro a seguire questa
+ideologia sono i ",,Più,1
+it_markit-ud-test,44775,.,"altro a seguire questa
+ideologia sono i religiosi ","
+ Un bellissimo esempio di come dovrebbe essere l'","altro a seguire questa
+ideologia sono i religiosi .
+ Un bellissimo esempio di come dovrebbe essere l'",,Un,1
+it_markit-ud-test,45055,.,ngiare per l' amico e gli diede dei calzoni nuovi ,"
+ La
+Costituzione non dobbiamo vederla solo come u","ngiare per l' amico e gli diede dei calzoni nuovi .
+ La
+Costituzione non dobbiamo vederla solo come u",,La,1
+it_markit-ud-test,45304,.," diffonda in noi maggior sicurezza e
+tranquillità ","
+ Il bene della società lo forma proprio chi ne fa"," diffonda in noi maggior sicurezza e
+tranquillità .
+ Il bene della società lo forma proprio chi ne fa",,Il,1
+it_markit-ud-test,45362,.,ne della società lo forma proprio chi ne fa parte ,"
+ Il
+paesaggio intorno al villaggio lo descrive co","ne della società lo forma proprio chi ne fa parte .
+ Il
+paesaggio intorno al villaggio lo descrive co",,Il,1
+it_markit-ud-test,45823,.,e soddisfatti di se stessi e delle proprie scelte ,"
+ In
+passato alcuni autori come Oscar Wilde e Gabr","e soddisfatti di se stessi e delle proprie scelte .
+ In
+passato alcuni autori come Oscar Wilde e Gabr",,In,1
+it_markit-ud-test,46124,., di vizi e trasformando essa in un' opera d' arte ,"
+ La felicità l' ho
+sempre paragonata alla scalata"," di vizi e trasformando essa in un' opera d' arte .
+ La felicità l' ho
+sempre paragonata alla scalata",,La,1
+it_markit-ud-test,46206,.,gonata alla scalata verso la cima di una montagna ,"
+ Questo pensiero
+lo ritroviamo nell' articolo "" A","gonata alla scalata verso la cima di una montagna .
+ Questo pensiero
+lo ritroviamo nell' articolo "" A",,Questo,1
+it_markit-ud-test,46329,.,"omia della felicità ""
+pubblicato su "" La Stampa "" ","
+ Un altro riferimento lo ritroviamo nel film ,
+in","omia della felicità ""
+pubblicato su "" La Stampa "" .
+ Un altro riferimento lo ritroviamo nel film ,
+in",,Un,1
+it_markit-ud-test,46570,.,"piacevoli che una
+famiglia povera deve affrontare ","
+ Un giorno questa verità vorrei conoscerla e
+sape","piacevoli che una
+famiglia povera deve affrontare .
+ Un giorno questa verità vorrei conoscerla e
+sape",,Un,1
+it_markit-ud-test,46687,.,ltre forme di vita al di fuori del nostro pianeta ,"
+ Io ,
+agli UFO ci credo , e a dirla tutta circa d","ltre forme di vita al di fuori del nostro pianeta .
+ Io ,
+agli UFO ci credo , e a dirla tutta circa d",,Io,1
+it_markit-ud-test,46776,.,"utta circa due settimane fa , ne ho avvistato uno
+","
+ La cosa ancora più misteriosa , la si trova come","utta circa due settimane fa , ne ho avvistato uno
+.
+ La cosa ancora più misteriosa , la si trova come",,La,1
+it_markit-ud-test,46864,.,"si trova come sappiamo tutti , nei campi di
+grano ","
+ Assurdo sarebbe pensare che al di fuori della no","si trova come sappiamo tutti , nei campi di
+grano .
+ Assurdo sarebbe pensare che al di fuori della no",,Assurdo,1
+it_markit-ud-test,46951,.,"fuori della nostra galassia non ci sia
+anima viva ","
+ In conclusione affermo che la ricerca della feli","fuori della nostra galassia non ci sia
+anima viva .
+ In conclusione affermo che la ricerca della feli",,In,1
+it_markit-ud-test,47196,.,"minimo di felicità anche
+quest' ultima la troverà ","
+ Come dice il testo sopra citato , tutto quello c","minimo di felicità anche
+quest' ultima la troverà .
+ Come dice il testo sopra citato , tutto quello c",,Come,1
+it_markit-ud-test,47498,.,"omunque avanti per raggiungere i
+propri obiettivi ","
+ La crisi , quali fattori l' hanno creata ?
+ Di q","omunque avanti per raggiungere i
+propri obiettivi .
+ La crisi , quali fattori l' hanno creata ?
+ Di q",,La,1
+it_markit-ud-test,47542,?,"ttivi .
+ La crisi , quali fattori l' hanno creata ","
+ Di questo però non
+possiamo esserne certi , l' i","ttivi .
+ La crisi , quali fattori l' hanno creata ?
+ Di questo però non
+possiamo esserne certi , l' i",,Di,1
+it_markit-ud-test,47819,.," a stilare nuovi
+programmi per lo sviluppo futuro ","
+ Questo valore è infatti solo la bella
+copertina "," a stilare nuovi
+programmi per lo sviluppo futuro .
+ Questo valore è infatti solo la bella
+copertina ",,Questo,1
+it_markit-ud-test,48100,.,"re un buon libro solo grazie alla bella
+copertina ","
+ La stessa situazione la possiamo trovare nel nos","re un buon libro solo grazie alla bella
+copertina .
+ La stessa situazione la possiamo trovare nel nos",,La,1
+it_markit-ud-test,48321,.,to tentativo di mettere fine a questa depressione ,"
+ La
+straordinaria bellezza del nostro Paese non l","to tentativo di mettere fine a questa depressione .
+ La
+straordinaria bellezza del nostro Paese non l",,La,1
+it_markit-ud-test,48555,., città di Verona il romanzo “ Romeo e Giulietta ” ,"
+ Il paesaggio
+, infatti , lo si può considerare u"," città di Verona il romanzo “ Romeo e Giulietta ” .
+ Il paesaggio
+, infatti , lo si può considerare u",,Il,1
+it_markit-ud-test,48669,.,"amentale del nostro essere e
+della nostra cultura ","
+ Posso solo dire che il tempo lo vivo ogni giorno","amentale del nostro essere e
+della nostra cultura .
+ Posso solo dire che il tempo lo vivo ogni giorno",,Posso,1
+it_markit-ud-test,48794,., poi al posto mio ci sarà qualcun altro a viverlo ,"
+ tutto
+ciò lo poté fare perché lo Statuto Alberti"," poi al posto mio ci sarà qualcun altro a viverlo .
+ tutto
+ciò lo poté fare perché lo Statuto Alberti",,tutto,1
+it_markit-ud-test,48863,.,é fare perché lo Statuto Albertino era flessibile ,"
+ molti pensano che
+la mondializzazione abbia atta","é fare perché lo Statuto Albertino era flessibile .
+ molti pensano che
+la mondializzazione abbia atta",,molti,1
+it_markit-ud-test,49334,.,diffusione la si debba anche alla globalizzazione ,"
+ Anche se
+disponiamo di macchinari tecnologici mo","diffusione la si debba anche alla globalizzazione .
+ Anche se
+disponiamo di macchinari tecnologici mo",,Anche,1
+it_markit-ud-test,49532,.,"ei cosiddetti UFO (
+Unidentified flying objects ) ","
+ C' è una canzone che mi ha fatto particolarmente","ei cosiddetti UFO (
+Unidentified flying objects ) .
+ C' è una canzone che mi ha fatto particolarmente",,C',1
+it_markit-ud-test,49730,.,ediamo ci chiediamo cosa le possa essere successo ,"
+ In piazza c' è
+l' ubriacone che guarda barcollan","ediamo ci chiediamo cosa le possa essere successo .
+ In piazza c' è
+l' ubriacone che guarda barcollan",,In,1
+it_markit-ud-test,49866,.," che , con
+pietà e sdegno , non lo vuole guardare ","
+ In Italia ci sarebbero moltissimi bravi
+ricercat"," che , con
+pietà e sdegno , non lo vuole guardare .
+ In Italia ci sarebbero moltissimi bravi
+ricercat",,In,1
+it_markit-ud-test,50032,.,"ro
+esperimenti , proprio per la mancanza di fondi ","
+ Tra essi c' è la clonazione
+umana che è vietata ","ro
+esperimenti , proprio per la mancanza di fondi .
+ Tra essi c' è la clonazione
+umana che è vietata ",,Tra,1
+it_markit-ud-test,50260,.,"ati fatti ,
+non rispettando assolutamente l' uomo ","
+ vi erano persone più timorose che
+affermavano ch","ati fatti ,
+non rispettando assolutamente l' uomo .
+ vi erano persone più timorose che
+affermavano ch",,vi,1
+it_markit-ud-test,50491,.,"rano persone che
+invece erano affascinate da esse ","
+ al suo interno c' è una grande piazza che
+funger","rano persone che
+invece erano affascinate da esse .
+ al suo interno c' è una grande piazza che
+funger",,al,1
+it_markit-ud-test,50608,.,"o fra visitatori , studenti e operatori del Museo ","
+ È
+significativo riconoscere che la scienza ha de","o fra visitatori , studenti e operatori del Museo .
+ È
+significativo riconoscere che la scienza ha de",,È,1
+it_markit-ud-test,50825,.,debole è la persona che non arriva a riconoscerlo ,"
+ Nessun
+musicista dicevamo , eppure Ricky Martin ","debole è la persona che non arriva a riconoscerlo .
+ Nessun
+musicista dicevamo , eppure Ricky Martin ",,Nessun,1
+it_markit-ud-test,50947,.,"nna , vende più di
+15 milioni di dischi all' anno ","
+ La condizione per la quale si genera una crisi
+e","nna , vende più di
+15 milioni di dischi all' anno .
+ La condizione per la quale si genera una crisi
+e",,La,1
+it_markit-ud-test,51047,.,"economica , è quando viene meno questo equilibrio ","
+ Concludendo , significativa
+è la dichiarazione d","economica , è quando viene meno questo equilibrio .
+ Concludendo , significativa
+è la dichiarazione d",,Concludendo,1
+it_markit-ud-test,51580,.,"itness , visto lo sforzo
+notevole di questi balli ","
+ Dal suffragio universale concesso in quegl' anni","itness , visto lo sforzo
+notevole di questi balli .
+ Dal suffragio universale concesso in quegl' anni",,Dal,1
+it_markit-ud-test,51823,.,"rincipalmente
+persiste quella originaria del 1947 ","
+ In Italia , oltre all' aspirazione
+naturalista ,","rincipalmente
+persiste quella originaria del 1947 .
+ In Italia , oltre all' aspirazione
+naturalista ,",,In,1
+it_markit-ud-test,51997,.,"lle opere d' arte , il cosiddetto "" paesaggismo "" ","
+ Molteplici sono
+gli esempi che si possono fare a","lle opere d' arte , il cosiddetto "" paesaggismo "" .
+ Molteplici sono
+gli esempi che si possono fare a",,Molteplici,1
+it_markit-ud-test,52296,.,"ssi si
+ritornerebbe all' età della pietra o quasi ","
+ Durante il 2016 si svolgerà la
+nuova missione Ex","ssi si
+ritornerebbe all' età della pietra o quasi .
+ Durante il 2016 si svolgerà la
+nuova missione Ex",,Durante,1
+it_markit-ud-test,52385,., missione ExoMars per la ricerca di forme di vita ,"
+ Quindi non dobbiamo
+concentrarci sul medio lungo"," missione ExoMars per la ricerca di forme di vita .
+ Quindi non dobbiamo
+concentrarci sul medio lungo",,Quindi,1
+it_markit-ud-test,52535,.,"di
+ciò che sta effettuando l' attuale depressione ","
+ Ecco , dunque , che riemerge la
+seconda parte de","di
+ciò che sta effettuando l' attuale depressione .
+ Ecco , dunque , che riemerge la
+seconda parte de",,Ecco,1
+it_markit-ud-test,52822,.," elezioni sono avvenute in un clima
+intimidatorio ","
+ Non solo ha la musica la straordinaria facoltà d"," elezioni sono avvenute in un clima
+intimidatorio .
+ Non solo ha la musica la straordinaria facoltà d",,Non,1
+it_markit-ud-test,52906,.,"dinaria facoltà di unire popoli e
+persone diverse ","
+ Trionfa Eminem come rapper bianco americano .
+ A","dinaria facoltà di unire popoli e
+persone diverse .
+ Trionfa Eminem come rapper bianco americano .
+ A",,Trionfa,1
+it_markit-ud-test,52953,.,"se .
+ Trionfa Eminem come rapper bianco americano ","
+ Al di là di
+questo , ciò che è fuori da ogni dub","se .
+ Trionfa Eminem come rapper bianco americano .
+ Al di là di
+questo , ciò che è fuori da ogni dub",,Al,1
+it_markit-ud-test,53109,.," è , per una gran parte , in mano agli scienziati ","
+ Ciò che
+sicuramente accomuna le due posizioni è "," è , per una gran parte , in mano agli scienziati .
+ Ciò che
+sicuramente accomuna le due posizioni è ",,Ciò,1
+it_markit-ud-test,53377,.,"olta in interessi di ordine
+politico ed economico ","
+ Ciò che distingue gli ultimi due episodi rispett","olta in interessi di ordine
+politico ed economico .
+ Ciò che distingue gli ultimi due episodi rispett",,Ciò,1
+it_markit-ud-test,53453,.,"ltimi due episodi rispetto ai
+primi è il silenzio ","
+ Tutto ciò che ci circonda è un' armonia in conti","ltimi due episodi rispetto ai
+primi è il silenzio .
+ Tutto ciò che ci circonda è un' armonia in conti",,Tutto,1
+it_markit-ud-test,53681,.,"etica ) che solo in pochi sono in
+grado di notare ","
+ 
+","etica ) che solo in pochi sono in
+grado di notare .
+ 
+",,,1

@@ -1,0 +1,993 @@
+doc_id,char_idx,punct,left_context,right_context,centered_context,token_before,token_after,label
+it_partut-ud-dev,131,.,legale e non fornisce servizi di consulenza legale,"
+ L'opera (come sotto
+definita) è messa a disposiz","legale e non fornisce servizi di consulenza legale.
+ L'opera (come sotto
+definita) è messa a disposiz",legale,L'opera,1
+it_partut-ud-dev,287,.,"ative Commons Public Licence"" ('CCPL' o 'Licenza')","
+ 1. Definizioni.
+ 4.
+Restrizioni.
+ 7. Risoluzione","ative Commons Public Licence"" ('CCPL' o 'Licenza').
+ 1. Definizioni.
+ 4.
+Restrizioni.
+ 7. Risoluzione",,1,1
+it_partut-ud-dev,291,.,"e Commons Public Licence"" ('CCPL' o 'Licenza').
+ 1"," Definizioni.
+ 4.
+Restrizioni.
+ 7. Risoluzione.
+ A","e Commons Public Licence"" ('CCPL' o 'Licenza').
+ 1. Definizioni.
+ 4.
+Restrizioni.
+ 7. Risoluzione.
+ A",1,Definizioni,0
+it_partut-ud-dev,304,.,"lic Licence"" ('CCPL' o 'Licenza').
+ 1. Definizioni","
+ 4.
+Restrizioni.
+ 7. Risoluzione.
+ Avete chiesto ","lic Licence"" ('CCPL' o 'Licenza').
+ 1. Definizioni.
+ 4.
+Restrizioni.
+ 7. Risoluzione.
+ Avete chiesto ",Definizioni,4,1
+it_partut-ud-dev,308,.,"Licence"" ('CCPL' o 'Licenza').
+ 1. Definizioni.
+ 4","
+Restrizioni.
+ 7. Risoluzione.
+ Avete chiesto che ","Licence"" ('CCPL' o 'Licenza').
+ 1. Definizioni.
+ 4.
+Restrizioni.
+ 7. Risoluzione.
+ Avete chiesto che ",4,Restrizioni,0
+it_partut-ud-dev,321,.,"PL' o 'Licenza').
+ 1. Definizioni.
+ 4.
+Restrizioni","
+ 7. Risoluzione.
+ Avete chiesto che si tenesse un","PL' o 'Licenza').
+ 1. Definizioni.
+ 4.
+Restrizioni.
+ 7. Risoluzione.
+ Avete chiesto che si tenesse un",Restrizioni,7,1
+it_partut-ud-dev,325,.,"o 'Licenza').
+ 1. Definizioni.
+ 4.
+Restrizioni.
+ 7"," Risoluzione.
+ Avete chiesto che si tenesse una di","o 'Licenza').
+ 1. Definizioni.
+ 4.
+Restrizioni.
+ 7. Risoluzione.
+ Avete chiesto che si tenesse una di",7,Risoluzione,0
+it_partut-ud-dev,338,.,"
+ 1. Definizioni.
+ 4.
+Restrizioni.
+ 7. Risoluzione","
+ Avete chiesto che si tenesse una discussione su
+","
+ 1. Definizioni.
+ 4.
+Restrizioni.
+ 7. Risoluzione.
+ Avete chiesto che si tenesse una discussione su
+",Risoluzione,Avete,1
+it_partut-ud-dev,452,.," prossimi giorni, nel corso della presente tornata","
+ La relazione
+Cunha sui programmi di orientamento"," prossimi giorni, nel corso della presente tornata.
+ La relazione
+Cunha sui programmi di orientamento",tornata,La,1
+it_partut-ud-dev,821,.,",
+nonostante il principio della stabilità relativa","
+ Onorevole collega, sarà mia
+cura verificare tale",",
+nonostante il principio della stabilità relativa.
+ Onorevole collega, sarà mia
+cura verificare tale",relativa,Onorevole,1
+it_partut-ud-dev,878,.,"evole collega, sarà mia
+cura verificare tale punto","
+ Vorrei infine soffermarmi su un ultimo punto.
+ P","evole collega, sarà mia
+cura verificare tale punto.
+ Vorrei infine soffermarmi su un ultimo punto.
+ P",punto,Vorrei,1
+it_partut-ud-dev,925,.,"nto.
+ Vorrei infine soffermarmi su un ultimo punto","
+ Pur
+sapendo che si tratta soltanto di un piccolo","nto.
+ Vorrei infine soffermarmi su un ultimo punto.
+ Pur
+sapendo che si tratta soltanto di un piccolo",punto,Pur,1
+it_partut-ud-dev,1056,.,"rezza,
+vi invito a votare a favore della relazione","
+ E' la prima volta che intervengo in
+Plenaria e d","rezza,
+vi invito a votare a favore della relazione.
+ E' la prima volta che intervengo in
+Plenaria e d",relazione,E',1
+it_partut-ud-dev,1237,.," che però, per fortuna, è durato più di due minuti","
+ Le condizioni
+contingenti variano notevolmente d"," che però, per fortuna, è durato più di due minuti.
+ Le condizioni
+contingenti variano notevolmente d",minuti,Le,1
+it_partut-ud-dev,1308,.,ingenti variano notevolmente da un paese all'altro,"
+ Il collega Koch ha
+dovuto preparare la sua prege","ingenti variano notevolmente da un paese all'altro.
+ Il collega Koch ha
+dovuto preparare la sua prege",all'altro,Il,1
+it_partut-ud-dev,1508,.,"Unite non sono stati svolti con
+la dovuta celerità","
+ Signor presidente, mi congratulo nuovamente con ","Unite non sono stati svolti con
+la dovuta celerità.
+ Signor presidente, mi congratulo nuovamente con ",celerità,Signor,1
+it_partut-ud-dev,1746,.,"tenuto lo scorso ottobre sul
+trasporto ferroviario","
+ Non dobbiamo dimenticare che lo spazio rurale ra","tenuto lo scorso ottobre sul
+trasporto ferroviario.
+ Non dobbiamo dimenticare che lo spazio rurale ra",ferroviario,Non,1
+it_partut-ud-dev,1864,., quattro quinti del territorio dell'Unione Europea,"
+ Adesso siamo già
+molto in ritardo.
+ Ci opponiamo"," quattro quinti del territorio dell'Unione Europea.
+ Adesso siamo già
+molto in ritardo.
+ Ci opponiamo",Europea,Adesso,1
+it_partut-ud-dev,1900,.,"Unione Europea.
+ Adesso siamo già
+molto in ritardo","
+ Ci opponiamo all'eccessivo controllo dell'Unione","Unione Europea.
+ Adesso siamo già
+molto in ritardo.
+ Ci opponiamo all'eccessivo controllo dell'Unione",ritardo,Ci,1
+it_partut-ud-dev,2105,.,lentare lo sviluppo e lo svolgimento dei programmi,"
+ I fondi
+strutturali hanno svolto un ruolo chiave","lentare lo sviluppo e lo svolgimento dei programmi.
+ I fondi
+strutturali hanno svolto un ruolo chiave",programmi,I,1
+it_partut-ud-dev,2364,.,"e acquee reflue e delle reti di trasporto
+connesse","
+ come articolare la politica dell'unione con le p","e acquee reflue e delle reti di trasporto
+connesse.
+ come articolare la politica dell'unione con le p",connesse,come,1
+it_partut-ud-dev,2472,.,"e nazionali
+sussidiarie di gestione del territorio","
+ Per gli esperti del piano francese, lo
+scenario ","e nazionali
+sussidiarie di gestione del territorio.
+ Per gli esperti del piano francese, lo
+scenario ",territorio,Per,1
+it_partut-ud-dev,2613,.,"l divario tra le regioni
+all'interno di ogni paese","
+ Inoltre, se decidi di utilizzare Facebook da un
+","l divario tra le regioni
+all'interno di ogni paese.
+ Inoltre, se decidi di utilizzare Facebook da un
+",paese,Inoltre,1
+it_partut-ud-dev,2863,.,"uanto
+stabilito dall'operatore di telefonia mobile","
+ Per registrarti per un nuovo
+account, inserisci ","uanto
+stabilito dall'operatore di telefonia mobile.
+ Per registrarti per un nuovo
+account, inserisci ",mobile,Per,1
+it_partut-ud-dev,2994,.,"sesso e indirizzo e-mail nel
+modulo disponibile su","
+ Inserzioni di Facebook.
+ Approfondisci le relazi","sesso e indirizzo e-mail nel
+modulo disponibile su.
+ Inserzioni di Facebook.
+ Approfondisci le relazi",su,Inserzioni,1
+it_partut-ud-dev,3019,.,"nel
+modulo disponibile su.
+ Inserzioni di Facebook","
+ Approfondisci le relazioni.
+ Tasso
+di conversion","nel
+modulo disponibile su.
+ Inserzioni di Facebook.
+ Approfondisci le relazioni.
+ Tasso
+di conversion",Facebook,Approfondisci,1
+it_partut-ud-dev,3048,.,"nserzioni di Facebook.
+ Approfondisci le relazioni","
+ Tasso
+di conversione del 10% dalle visite origin","nserzioni di Facebook.
+ Approfondisci le relazioni.
+ Tasso
+di conversione del 10% dalle visite origin",relazioni,Tasso,1
+it_partut-ud-dev,3131,.,alle visite originate dalle inserzioni di Facebook,"
+ (21)
+I prodotti che consumano energia ed ottempe","alle visite originate dalle inserzioni di Facebook.
+ (21)
+I prodotti che consumano energia ed ottempe",Facebook,,1
+it_partut-ud-dev,3465,.," sul mercato interno e la
+loro libera circolazione","
+ uno dei workshop ha portato all'elaborazione del"," sul mercato interno e la
+loro libera circolazione.
+ uno dei workshop ha portato all'elaborazione del",circolazione,uno,1
+it_partut-ud-dev,3594,.,"stati membri, di una raccomandazione del consiglio","
+
+Considerato che il riconoscimento della dignità ","stati membri, di una raccomandazione del consiglio.
+
+Considerato che il riconoscimento della dignità ",consiglio,Considerato,1
+it_partut-ud-dev,3863,.,"do;
+ Ogni individuo
+ha diritto ad una cittadinanza","
+ E' quella piramide.
+ E qual è?
+ Ovviamente, siam","do;
+ Ogni individuo
+ha diritto ad una cittadinanza.
+ E' quella piramide.
+ E qual è?
+ Ovviamente, siam",cittadinanza,E',1
+it_partut-ud-dev,3884,.,"a diritto ad una cittadinanza.
+ E' quella piramide","
+ E qual è?
+ Ovviamente, siamo
+noi.
+ Amo le sfide,","a diritto ad una cittadinanza.
+ E' quella piramide.
+ E qual è?
+ Ovviamente, siamo
+noi.
+ Amo le sfide,",piramide,E,1
+it_partut-ud-dev,3895,?,"d una cittadinanza.
+ E' quella piramide.
+ E qual è","
+ Ovviamente, siamo
+noi.
+ Amo le sfide, e salvare ","d una cittadinanza.
+ E' quella piramide.
+ E qual è?
+ Ovviamente, siamo
+noi.
+ Amo le sfide, e salvare ",è,Ovviamente,1
+it_partut-ud-dev,3919,.,"quella piramide.
+ E qual è?
+ Ovviamente, siamo
+noi","
+ Amo le sfide, e salvare la terra è probabilmente","quella piramide.
+ E qual è?
+ Ovviamente, siamo
+noi.
+ Amo le sfide, e salvare la terra è probabilmente",noi,Amo,1
+it_partut-ud-dev,3986,.,e salvare la terra è probabilmente una buona sfida,"
+ Sappiamo
+tutti che la terra è in pericolo.
+ Siam","e salvare la terra è probabilmente una buona sfida.
+ Sappiamo
+tutti che la terra è in pericolo.
+ Siam",sfida,Sappiamo,1
+it_partut-ud-dev,4030,.," sfida.
+ Sappiamo
+tutti che la terra è in pericolo","
+ Siamo entrati ora nella 6X:
+ la sesta
+estinzione"," sfida.
+ Sappiamo
+tutti che la terra è in pericolo.
+ Siamo entrati ora nella 6X:
+ la sesta
+estinzione",pericolo,Siamo,1
+it_partut-ud-dev,4108,.,"X:
+ la sesta
+estinzione di massa su questo pianeta","
+ Penso che quel voto sia in corso, proprio
+adesso","X:
+ la sesta
+estinzione di massa su questo pianeta.
+ Penso che quel voto sia in corso, proprio
+adesso",pianeta,Penso,1
+it_partut-ud-dev,4159,.,"
+ Penso che quel voto sia in corso, proprio
+adesso","
+ Voglio presentarvi un set di 6 soluzioni micolog","
+ Penso che quel voto sia in corso, proprio
+adesso.
+ Voglio presentarvi un set di 6 soluzioni micolog",adesso,Voglio,1
+it_partut-ud-dev,4268,.,"e usano i
+funghi, le quali sono basate sul micelio","
+ Il micelio si infonde in tutti i
+terreni, mantie","e usano i
+funghi, le quali sono basate sul micelio.
+ Il micelio si infonde in tutti i
+terreni, mantie",micelio,Il,1
+it_partut-ud-dev,4358,.,"eni, mantiene i suoli uniti, è estremamente tenace","
+ Regge fino a 30.000
+volte la propria massa.
+ Son","eni, mantiene i suoli uniti, è estremamente tenace.
+ Regge fino a 30.000
+volte la propria massa.
+ Son",tenace,Regge,1
+it_partut-ud-dev,4376,.,"oli uniti, è estremamente tenace.
+ Regge fino a 30","000
+volte la propria massa.
+ Sono i grandi demolit","oli uniti, è estremamente tenace.
+ Regge fino a 30.000
+volte la propria massa.
+ Sono i grandi demolit",30,000,0
+it_partut-ud-dev,4403,.,"enace.
+ Regge fino a 30.000
+volte la propria massa","
+ Sono i grandi demolitori molecolari della natura","enace.
+ Regge fino a 30.000
+volte la propria massa.
+ Sono i grandi demolitori molecolari della natura",massa,Sono,1
+it_partut-ud-dev,4473,.,"olitori molecolari della natura, i
+maghi del suolo","
+ Generano l'humus nelle terre emerse di tutta la ","olitori molecolari della natura, i
+maghi del suolo.
+ Generano l'humus nelle terre emerse di tutta la ",suolo,Generano,1
+it_partut-ud-dev,4529,.,erano l'humus nelle terre emerse di tutta la terra,"
+ Dusty e
+io, ci piace dirlo, la domenica andiamo ","erano l'humus nelle terre emerse di tutta la terra.
+ Dusty e
+io, ci piace dirlo, la domenica andiamo ",terra,Dusty,1
+it_partut-ud-dev,4593,.," ci piace dirlo, la domenica andiamo in chiesa qui","
+ Amo le foreste primarie,
+e sono un americano pat"," ci piace dirlo, la domenica andiamo in chiesa qui.
+ Amo le foreste primarie,
+e sono un americano pat",qui,Amo,1
+it_partut-ud-dev,4674,.,ono un americano patriottico proprio grazie a loro,"
+ La maggior parte di voi
+conosce i funghi champig","ono un americano patriottico proprio grazie a loro.
+ La maggior parte di voi
+conosce i funghi champig",loro,La,1
+it_partut-ud-dev,4728,.,"a maggior parte di voi
+conosce i funghi champignon","
+ E francamente, affronto un grande ostacolo:
+ Spe","a maggior parte di voi
+conosce i funghi champignon.
+ E francamente, affronto un grande ostacolo:
+ Spe",champignon,E,1
+it_partut-ud-dev,4831,.,"
+di sfatare questo pregiudizio per sempre, con voi","
+ La chiamiamo micofobia,
+l'irrazionale paura dell","
+di sfatare questo pregiudizio per sempre, con voi.
+ La chiamiamo micofobia,
+l'irrazionale paura dell",voi,La,1
+it_partut-ud-dev,4919,.,le paura dell'ignoto quando essa riguarda i funghi,"
+ I funghi hanno
+una crescita molto rapida.
+ I fun","le paura dell'ignoto quando essa riguarda i funghi.
+ I funghi hanno
+una crescita molto rapida.
+ I fun",funghi,I,1
+it_partut-ud-dev,4962,.," funghi.
+ I funghi hanno
+una crescita molto rapida","
+ I funghi producono dei potenti antibiotici.
+ In
+"," funghi.
+ I funghi hanno
+una crescita molto rapida.
+ I funghi producono dei potenti antibiotici.
+ In
+",rapida,I,1
+it_partut-ud-dev,5007,.,"apida.
+ I funghi producono dei potenti antibiotici","
+ In
+effetti siamo più vicini ai funghi che ad ogn","apida.
+ I funghi producono dei potenti antibiotici.
+ In
+effetti siamo più vicini ai funghi che ad ogn",antibiotici,In,1
+it_partut-ud-dev,5084,.,ini ai funghi che ad ogni altro regno della natura,"
+ Abbiamo
+in comune gli stessi patogeni.
+ I funghi","ini ai funghi che ad ogni altro regno della natura.
+ Abbiamo
+in comune gli stessi patogeni.
+ I funghi",natura,Abbiamo,1
+it_partut-ud-dev,5124,.,"lla natura.
+ Abbiamo
+in comune gli stessi patogeni","
+ I funghi non amano marcire a causa dei batteri e","lla natura.
+ Abbiamo
+in comune gli stessi patogeni.
+ I funghi non amano marcire a causa dei batteri e",patogeni,I,1
+it_partut-ud-dev,5229,.,ì i nostri migliori antibiotici vengono dai funghi,"
+ Ma qui c'è un fungo
+vecchio come il mondo.
+ Dopo","ì i nostri migliori antibiotici vengono dai funghi.
+ Ma qui c'è un fungo
+vecchio come il mondo.
+ Dopo",funghi,Ma,1
+it_partut-ud-dev,5273,.,"funghi.
+ Ma qui c'è un fungo
+vecchio come il mondo","
+ Dopo aver sporulato, marciscono.
+ Ma vi propongo","funghi.
+ Ma qui c'è un fungo
+vecchio come il mondo.
+ Dopo aver sporulato, marciscono.
+ Ma vi propongo",mondo,Dopo,1
+it_partut-ud-dev,5307,.,"io come il mondo.
+ Dopo aver sporulato, marciscono","
+ Ma vi propongo l'idea
+che la varietà di microbi ","io come il mondo.
+ Dopo aver sporulato, marciscono.
+ Ma vi propongo l'idea
+che la varietà di microbi ",marciscono,Ma,1
+it_partut-ud-dev,5430,.,"rcescenti è essenziale per la
+salute della foresta","
+ Fanno crescere gli alberi, creano le aree di det","rcescenti è essenziale per la
+salute della foresta.
+ Fanno crescere gli alberi, creano le aree di det",foresta,Fanno,1
+it_partut-ud-dev,5508,.,", creano le aree di detriti che
+nutrono il micelio","
+ E così vediamo qui un fungo che sporula.
+ Le spo",", creano le aree di detriti che
+nutrono il micelio.
+ E così vediamo qui un fungo che sporula.
+ Le spo",micelio,E,1
+it_partut-ud-dev,5550,.," micelio.
+ E così vediamo qui un fungo che sporula","
+ Le spore stanno
+germinando, il micelio si forma "," micelio.
+ E così vediamo qui un fungo che sporula.
+ Le spore stanno
+germinando, il micelio si forma ",sporula,Le,1
+it_partut-ud-dev,5620,.,"erminando, il micelio si forma e avanza sottoterra","
+ In soli tre centimetri cubi
+di suolo possono ess","erminando, il micelio si forma e avanza sottoterra.
+ In soli tre centimetri cubi
+di suolo possono ess",sottoterra,In,1
+it_partut-ud-dev,5719,.,sserci anche oltre 13 chilometri di queste cellule,"
+ Il mio
+piede sta coprendo oltre 480 chilometri d","sserci anche oltre 13 chilometri di queste cellule.
+ Il mio
+piede sta coprendo oltre 480 chilometri d",cellule,Il,1
+it_partut-ud-dev,5779,.,piede sta coprendo oltre 480 chilometri di micelio,"
+ Questa è la microfotografia
+di Nick Read e Patri","piede sta coprendo oltre 480 chilometri di micelio.
+ Questa è la microfotografia
+di Nick Read e Patri",micelio,Questa,1
+it_partut-ud-dev,5839,.,"è la microfotografia
+di Nick Read e Patrick Higkey","
+ Notate come man mano che il micelio cresce,
+conq","è la microfotografia
+di Nick Read e Patrick Higkey.
+ Notate come man mano che il micelio cresce,
+conq",Higkey,Notate,1
+it_partut-ud-dev,5926,.,"o cresce,
+conquista il terreno e poi forma la rete","
+ Noi espiriamo Co2, proprio come il
+micelio.
+ E i","o cresce,
+conquista il terreno e poi forma la rete.
+ Noi espiriamo Co2, proprio come il
+micelio.
+ E i",rete,Noi,1
+it_partut-ud-dev,5971,.," rete.
+ Noi espiriamo Co2, proprio come il
+micelio","
+ E il micelio inspira ossigeno, proprio come noi."," rete.
+ Noi espiriamo Co2, proprio come il
+micelio.
+ E il micelio inspira ossigeno, proprio come noi.",micelio,E,1
+it_partut-ud-dev,6021,.,".
+ E il micelio inspira ossigeno, proprio come noi","
+ Ma questi sono
+essenzialmente stomaco e polmoni ",".
+ E il micelio inspira ossigeno, proprio come noi.
+ Ma questi sono
+essenzialmente stomaco e polmoni ",noi,Ma,1
+it_partut-ud-dev,6086,.,"no
+essenzialmente stomaco e polmoni esternalizzati","
+ E vi lancio l'idea che queste
+siano membrane neu","no
+essenzialmente stomaco e polmoni esternalizzati.
+ E vi lancio l'idea che queste
+siano membrane neu",esternalizzati,E,1
+it_partut-ud-dev,6153,.,"idea che queste
+siano membrane neurologiche estese","
+ E in queste cavità, si formano microcavità,
+che ","idea che queste
+siano membrane neurologiche estese.
+ E in queste cavità, si formano microcavità,
+che ",estese,E,1
+it_partut-ud-dev,6237,.,"microcavità,
+che fondono i suoli e assorbono acqua","
+ Sono piccoli pozzi.
+ E dentro questi pozzi
+inizi","microcavità,
+che fondono i suoli e assorbono acqua.
+ Sono piccoli pozzi.
+ E dentro questi pozzi
+inizi",acqua,Sono,1
+it_partut-ud-dev,6258,.,"ono i suoli e assorbono acqua.
+ Sono piccoli pozzi","
+ E dentro questi pozzi
+iniziano a formarsi queste","ono i suoli e assorbono acqua.
+ Sono piccoli pozzi.
+ E dentro questi pozzi
+iniziano a formarsi queste",pozzi,E,1
+it_partut-ud-dev,6329,.,"zzi
+iniziano a formarsi queste comunità microbiche","
+ Per primo ho proposto, agli
+inizi degli anni '90","zzi
+iniziano a formarsi queste comunità microbiche.
+ Per primo ho proposto, agli
+inizi degli anni '90",microbiche,Per,1
+it_partut-ud-dev,6441,.,"e il micelio fosse l'internet naturale della
+terra","
+ Osservandolo, il micelio appare molto ramificato","e il micelio fosse l'internet naturale della
+terra.
+ Osservandolo, il micelio appare molto ramificato",terra,Osservandolo,1
+it_partut-ud-dev,6492,.,"
+ Osservandolo, il micelio appare molto ramificato","
+ Il micelio è senziente.
+
+Sa che sei nei paraggi.","
+ Osservandolo, il micelio appare molto ramificato.
+ Il micelio è senziente.
+
+Sa che sei nei paraggi.",ramificato,Il,1
+it_partut-ud-dev,6517,.,"o appare molto ramificato.
+ Il micelio è senziente","
+
+Sa che sei nei paraggi.
+ Quando lo calpesti, cam","o appare molto ramificato.
+ Il micelio è senziente.
+
+Sa che sei nei paraggi.
+ Quando lo calpesti, cam",senziente,Sa,1
+it_partut-ud-dev,6542,.,".
+ Il micelio è senziente.
+
+Sa che sei nei paraggi","
+ Quando lo calpesti, camminando sul terrero, esso",".
+ Il micelio è senziente.
+
+Sa che sei nei paraggi.
+ Quando lo calpesti, camminando sul terrero, esso",paraggi,Quando,1
+it_partut-ud-dev,6656,.,impronta dei piedi cercando di afferrare i detriti,"
+ Quindi, credo che
+l'invenzione di Internet sia u","impronta dei piedi cercando di afferrare i detriti.
+ Quindi, credo che
+l'invenzione di Internet sia u",detriti,Quindi,1
+it_partut-ud-dev,6794,.,"lo che già si
+era dimostrato biologicamente valido","
+ Cambiando argomento, la materia oscura si
+confor","lo che già si
+era dimostrato biologicamente valido.
+ Cambiando argomento, la materia oscura si
+confor",valido,Cambiando,1
+it_partut-ud-dev,6879,.,"oscura si
+conforma allo stesso archetipo miceliale","
+ È questo il paradigma che vediamo in
+tutto l'uni","oscura si
+conforma allo stesso archetipo miceliale.
+ È questo il paradigma che vediamo in
+tutto l'uni",miceliale,È,1
+it_partut-ud-dev,6935,.,"uesto il paradigma che vediamo in
+tutto l'universo","
+ Molti forse non sanno che furono i funghi i prim","uesto il paradigma che vediamo in
+tutto l'universo.
+ Molti forse non sanno che furono i funghi i prim",l'universo,Molti,1
+it_partut-ud-dev,7027,.,"hi i primi organismi ad
+approdare sulla terraferma","
+ Arrivarono 1,3 miliardi di anni fa, centinaia di","hi i primi organismi ad
+approdare sulla terraferma.
+ Arrivarono 1,3 miliardi di anni fa, centinaia di",terraferma,Arrivarono,1
+it_partut-ud-dev,7119,.,"tinaia di
+milioni di anni prima delle prime piante","
+ Com'è possibile?
+ Sbriciola le rocce ed
+è il pri","tinaia di
+milioni di anni prima delle prime piante.
+ Com'è possibile?
+ Sbriciola le rocce ed
+è il pri",piante,Com'è,1
+it_partut-ud-dev,7137,?,"di anni prima delle prime piante.
+ Com'è possibile","
+ Sbriciola le rocce ed
+è il primo passo nella for","di anni prima delle prime piante.
+ Com'è possibile?
+ Sbriciola le rocce ed
+è il primo passo nella for",possibile,Sbriciola,1
+it_partut-ud-dev,7205,.,"cce ed
+è il primo passo nella formazione del suolo","
+ L'acido ossalico è composto da due
+molecole di C","cce ed
+è il primo passo nella formazione del suolo.
+ L'acido ossalico è composto da due
+molecole di C",suolo,L'acido,1
+it_partut-ud-dev,7272,.,"co è composto da due
+molecole di Co2 unite insieme","
+ Quindi i funghi ed il micelio sequestrano la Co2","co è composto da due
+molecole di Co2 unite insieme.
+ Quindi i funghi ed il micelio sequestrano la Co2",insieme,Quindi,1
+it_partut-ud-dev,7357,.,"questrano la Co2
+sotto forma di ossalati di calcio","
+ E anche gli altri tipi di ossalati catturano
+la ","questrano la Co2
+sotto forma di ossalati di calcio.
+ E anche gli altri tipi di ossalati catturano
+la ",calcio,E,1
+it_partut-ud-dev,7486,.," formati e sono fuoriusciti dalla matrice
+rocciosa","
+ Questo fu scoperto per la prima volta nel 1859.
+"," formati e sono fuoriusciti dalla matrice
+rocciosa.
+ Questo fu scoperto per la prima volta nel 1859.
+",rocciosa,Questo,1
+it_partut-ud-dev,7535,.,"a.
+ Questo fu scoperto per la prima volta nel 1859","
+ Questa è la fotografia
+di Franz Hueber;
+ È stata","a.
+ Questo fu scoperto per la prima volta nel 1859.
+ Questa è la fotografia
+di Franz Hueber;
+ È stata",1859,Questa,1
+it_partut-ud-dev,7628,., È stata scattata negli anni '50 in Arabia Saudita,"
+ 420 milioni
+di anni fa, esisteva questo organism"," È stata scattata negli anni '50 in Arabia Saudita.
+ 420 milioni
+di anni fa, esisteva questo organism",Saudita,420,1
+it_partut-ud-dev,7680,.," 420 milioni
+di anni fa, esisteva questo organismo","
+ Si chiamava Prototaxites.
+ Un
+Prototaxites, rest"," 420 milioni
+di anni fa, esisteva questo organismo.
+ Si chiamava Prototaxites.
+ Un
+Prototaxites, rest",organismo,Si,1
+it_partut-ud-dev,7707,.,"isteva questo organismo.
+ Si chiamava Prototaxites","
+ Un
+Prototaxites, restando bassi, era alto circa ","isteva questo organismo.
+ Si chiamava Prototaxites.
+ Un
+Prototaxites, restando bassi, era alto circa ",Prototaxites,Un,1
+it_partut-ud-dev,7765,.,"ototaxites, restando bassi, era alto circa 1 metro","
+ Le piante più alte sulla
+terra, in quel periodo,","ototaxites, restando bassi, era alto circa 1 metro.
+ Le piante più alte sulla
+terra, in quel periodo,",metro,Le,1
+it_partut-ud-dev,7839,.,"lla
+terra, in quel periodo, non arrivavano a 70 cm","
+ Tutti territori della terra
+erano punteggiati da","lla
+terra, in quel periodo, non arrivavano a 70 cm.
+ Tutti territori della terra
+erano punteggiati da",cm,Tutti,1
+it_partut-ud-dev,7957,.,"ganti;
+ e questo in quasi tutte le masse
+terrestri","
+ Esso è esisitito per decine di milioni di anni.
+","ganti;
+ e questo in quasi tutte le masse
+terrestri.
+ Esso è esisitito per decine di milioni di anni.
+",terrestri,Esso,1
+it_partut-ud-dev,8006,.,"i.
+ Esso è esisitito per decine di milioni di anni","
+ Una quantità enorme
+di detriti fu scagliata in a","i.
+ Esso è esisitito per decine di milioni di anni.
+ Una quantità enorme
+di detriti fu scagliata in a",anni,Una,1
+it_partut-ud-dev,8125,.," solare si offuscò e i funghi
+ereditarono la terra","
+ Quegli organismi che facevano coppia coi funghi "," solare si offuscò e i funghi
+ereditarono la terra.
+ Quegli organismi che facevano coppia coi funghi ",terra,Quegli,1
+it_partut-ud-dev,8227,.,"urono
+premiati, perché ai funghi la luce non serve","
+ Quindi l'idea che altrove, su
+altri pianeti, esi","urono
+premiati, perché ai funghi la luce non serve.
+ Quindi l'idea che altrove, su
+altri pianeti, esi",serve,Quindi,1
+it_partut-ud-dev,8326,.,"sistano funghi, penso sia una conclusione evidente","
+ Nella mia
+mente, almeno, è così.
+ Il più vasto o","sistano funghi, penso sia una conclusione evidente.
+ Nella mia
+mente, almeno, è così.
+ Il più vasto o",evidente,Nella,1
+it_partut-ud-dev,8360,.,"lusione evidente.
+ Nella mia
+mente, almeno, è così","
+ Il più vasto organismo al mondo si trova nell'Or","lusione evidente.
+ Nella mia
+mente, almeno, è così.
+ Il più vasto organismo al mondo si trova nell'Or",così,Il,1
+it_partut-ud-dev,8473,.,"le:
+ era ampio circa 890 ettari e antico 2000 anni","
+ Il più largo organismo
+al mondo è un tappeto mic","le:
+ era ampio circa 890 ettari e antico 2000 anni.
+ Il più largo organismo
+al mondo è un tappeto mic",anni,Il,1
+it_partut-ud-dev,8570,.," miceliale, dello spessore di una parete cellulare","
+ Il
+micelio, nelle giuste condizioni, produce un "," miceliale, dello spessore di una parete cellulare.
+ Il
+micelio, nelle giuste condizioni, produce un ",cellulare,Il,1
+it_partut-ud-dev,8678,.,"che penetra con una forza
+tale da bucare l'asfalto","
+ Siamo stati coinvolti in diversi esperimenti.
+ E","che penetra con una forza
+tale da bucare l'asfalto.
+ Siamo stati coinvolti in diversi esperimenti.
+ E",l'asfalto,Siamo,1
+it_partut-ud-dev,8725,.,"lto.
+ Siamo stati coinvolti in diversi esperimenti","
+ E sto
+per mostrarvi, se mi permettete, 6 soluzio","lto.
+ Siamo stati coinvolti in diversi esperimenti.
+ E sto
+per mostrarvi, se mi permettete, 6 soluzio",esperimenti,E,1
+it_partut-ud-dev,8799,.,"se mi permettete, 6 soluzioni per salvare il mondo","
+ Ho lavorato
+coi laboratori Battelle di Bellingha","se mi permettete, 6 soluzioni per salvare il mondo.
+ Ho lavorato
+coi laboratori Battelle di Bellingha",mondo,Ho,1
+it_partut-ud-dev,8863,.,"
+coi laboratori Battelle di Bellingham, Washington","
+ Gli economisti di Citigroup,
+Mckinsey, Pricewate","
+coi laboratori Battelle di Bellingham, Washington.
+ Gli economisti di Citigroup,
+Mckinsey, Pricewate",Washington,Gli,1
+it_partut-ud-dev,9067,.,"ovuto interessare vari paesi,
+dall'Asia all'Africa","
+ In terzo luogo, i tassi di cambio fluttuanti son","ovuto interessare vari paesi,
+dall'Asia all'Africa.
+ In terzo luogo, i tassi di cambio fluttuanti son",all'Africa,In,1
+it_partut-ud-dev,9145,.,"i cambio fluttuanti sono
+ammortizzatori imperfetti","
+ È ingenuo da parte dei governi dei mercati emerg","i cambio fluttuanti sono
+ammortizzatori imperfetti.
+ È ingenuo da parte dei governi dei mercati emerg",imperfetti,È,1
+it_partut-ud-dev,9321,.,"n risposta
+a condizioni economiche vigenti altrove","
+ Ma il punto è che le idee tutelate dai
+diritti d","n risposta
+a condizioni economiche vigenti altrove.
+ Ma il punto è che le idee tutelate dai
+diritti d",altrove,Ma,1
+it_partut-ud-dev,9489,.,"aesi
+sviluppati che per i paesi in via di sviluppo","
+ E' ora che i leader indiani
+riconoscano il ruolo","aesi
+sviluppati che per i paesi in via di sviluppo.
+ E' ora che i leader indiani
+riconoscano il ruolo",sviluppo,E',1
+it_partut-ud-dev,9659,.,a crescita e migliorare il benessere dei cittadini,"
+ Andy Haldane, uno
+dei banchieri della BoE eredit","a crescita e migliorare il benessere dei cittadini.
+ Andy Haldane, uno
+dei banchieri della BoE eredit",cittadini,Andy,1
+it_partut-ud-dev,9890,.," limitare ampie parti di economia non finanziaria""","
+ Le ragioni di questa
+correlazione non sono sempl"," limitare ampie parti di economia non finanziaria"".
+ Le ragioni di questa
+correlazione non sono sempl",,Le,1
+it_partut-ud-dev,10005,.,"re, e le conclusioni degli autori sono
+controverse","
+ Queste società hanno più difficoltà a reclutare ","re, e le conclusioni degli autori sono
+controverse.
+ Queste società hanno più difficoltà a reclutare ",controverse,Queste,1
+it_partut-ud-dev,10138,.,cietà finanziarie possono pagare stipendi più alti,"
+ Ma se la finanza
+continua a prendersi un numero ","cietà finanziarie possono pagare stipendi più alti.
+ Ma se la finanza
+continua a prendersi un numero ",alti,Ma,1
+it_partut-ud-dev,10336,.,"e nel 2050, e ancor meno
+aziende hi - tech di oggi","
+ Secondo Heisenberg, il fenomeno subatomico può
+m","e nel 2050, e ancor meno
+aziende hi - tech di oggi.
+ Secondo Heisenberg, il fenomeno subatomico può
+m",oggi,Secondo,1
+it_partut-ud-dev,10631,.,"investimento in persone, infrastrutture e
+capacità","
+ Come saranno allocate le risorse per la cura deg","investimento in persone, infrastrutture e
+capacità.
+ Come saranno allocate le risorse per la cura deg",capacità,Come,1
+it_partut-ud-dev,10847,?,ute degli anziani sono evidentemente insostenibili,"
+
+Una tassa globale sul carbonio attenuerebbe i ri","ute degli anziani sono evidentemente insostenibili?
+
+Una tassa globale sul carbonio attenuerebbe i ri",insostenibili,Una,1
+it_partut-ud-dev,10965,.,"leviando al
+contempo il peso debitorio dei governi","
+ Ma quando l'innovazione incide sulla
+qualità di ","leviando al
+contempo il peso debitorio dei governi.
+ Ma quando l'innovazione incide sulla
+qualità di ",governi,Ma,1
+it_partut-ud-dev,11071,.,"tomobile, il compito diventa decisamente più arduo","
+ Le donne che
+hanno un'istruzione secondaria o te","tomobile, il compito diventa decisamente più arduo.
+ Le donne che
+hanno un'istruzione secondaria o te",arduo,Le,1
+it_partut-ud-dev,11219,.,o più facilmente delle loro colleghe meno istruite,"
+ Di fatto, il suo piano
+triennale per l'innovazio","o più facilmente delle loro colleghe meno istruite.
+ Di fatto, il suo piano
+triennale per l'innovazio",istruite,Di,1
+it_partut-ud-dev,11543,.,e un allungamento del congedo parentale retribuito,"
+ Il FMI si
+fonda sulla premessa di rappresentare ","e un allungamento del congedo parentale retribuito.
+ Il FMI si
+fonda sulla premessa di rappresentare ",retribuito,Il,1
+it_partut-ud-dev,11637,.,"entare la cooperazione tra tutti i paesi del
+mondo","
+ Il prossimo mese i cittadini dell'Ucraina sarann","entare la cooperazione tra tutti i paesi del
+mondo.
+ Il prossimo mese i cittadini dell'Ucraina sarann",mondo,Il,1
+it_partut-ud-dev,11860,.,tra presunta incapacità di mantenere la democrazia,"
+ In
+base alle stime, ci sarebbero poi 200 mila ca","tra presunta incapacità di mantenere la democrazia.
+ In
+base alle stime, ci sarebbero poi 200 mila ca",democrazia,In,1
+it_partut-ud-dev,11986,.,"nno che
+causano 30 mila decessi a livello mondiale","
+ Solo attraverso una normativa
+pragmatica e basat","nno che
+causano 30 mila decessi a livello mondiale.
+ Solo attraverso una normativa
+pragmatica e basat",mondiale,Solo,1
+it_partut-ud-dev,12153,.,ingegneria genetica nella lotta contro le malattie,"
+ È rinomato per i suoi
+personaggi poliedrici, che","ingegneria genetica nella lotta contro le malattie.
+ È rinomato per i suoi
+personaggi poliedrici, che",malattie,È,1
+it_partut-ud-dev,12228,.,"personaggi poliedrici, che sono moralmente ambigui","
+ Balzac ebbe difficoltà ad
+adattarsi allo stile r","personaggi poliedrici, che sono moralmente ambigui.
+ Balzac ebbe difficoltà ad
+adattarsi allo stile r",ambigui,Balzac,1
+it_partut-ud-dev,12311,.,tarsi allo stile ripetitivo delle lezioni a scuola,"
+ Il narratore dice:
+ Verso
+la fine della sua vita","tarsi allo stile ripetitivo delle lezioni a scuola.
+ Il narratore dice:
+ Verso
+la fine della sua vita",scuola,Il,1
+it_partut-ud-dev,12418,.,"c si lasciò attirare dall'idea di far abbattere
+20",000 acri (81 Km2) di querce in Ucraina da trasport,"c si lasciò attirare dall'idea di far abbattere
+20.000 acri (81 Km2) di querce in Ucraina da trasport",20,000,0
+it_partut-ud-dev,12493,.,rce in Ucraina da trasportare e vendere in Francia,"
+
+Quando gli venne l'idea, corse nell'appartamento","rce in Ucraina da trasportare e vendere in Francia.
+
+Quando gli venne l'idea, corse nell'appartamento",Francia,Quando,1
+it_partut-ud-dev,12745,.,"e sono al centro delle scene
+più brutali del libro","
+ Le Cousin Pons (1847) e La Cousine Bette (1848)
+","e sono al centro delle scene
+più brutali del libro.
+ Le Cousin Pons (1847) e La Cousine Bette (1848)
+",libro,Le,1
+it_partut-ud-dev,12858,.,a storia de Les Parents Pauvres (I parenti poveri),"
+ La loro
+corrispondenza lascia intravedere un int","a storia de Les Parents Pauvres (I parenti poveri).
+ La loro
+corrispondenza lascia intravedere un int",,La,1
+it_partut-ud-dev,13144,.,"l'esistenza
+umana attraverso l'uso dei particolari","
+ Alcuni critici considerano la scrittura
+di Balza","l'esistenza
+umana attraverso l'uso dei particolari.
+ Alcuni critici considerano la scrittura
+di Balza",particolari,Alcuni,1
+it_partut-ud-dev,13371,.,"mano come intrinsecamente
+collegato con l'ambiente","
+ ""Allo stesso tempo, i personaggi rappresentano u","mano come intrinsecamente
+collegato con l'ambiente.
+ ""Allo stesso tempo, i personaggi rappresentano u",l'ambiente,,1
+it_partut-ud-dev,13614,.,"alzac scrisse che ""i
+libri sono scritti per tutti""","
+ All'età di 18 anni, sposò Anne Hathaway, con la
+","alzac scrisse che ""i
+libri sono scritti per tutti"".
+ All'età di 18 anni, sposò Anne Hathaway, con la
+",,All'età,1
+it_partut-ud-dev,13824,.,e non raggiunse il peso attuale fino al XIX secolo,"
+
+La sua vera data di nascita rimane sconosciuta, ","e non raggiunse il peso attuale fino al XIX secolo.
+
+La sua vera data di nascita rimane sconosciuta, ",secolo,La,1
+it_partut-ud-dev,13947,.," si
+colloca il 23 aprile, il giorno di san Giorgio","
+ Nel 1599, un partenariato di
+membri della compag"," si
+colloca il 23 aprile, il giorno di san Giorgio.
+ Nel 1599, un partenariato di
+membri della compag",Giorgio,Nel,1
+it_partut-ud-dev,14083,.,"chiamarono Globe sulla
+sponda sud del fiume Tamigi","
+ Testimonianze degli acquisti immobiliari e degli","chiamarono Globe sulla
+sponda sud del fiume Tamigi.
+ Testimonianze degli acquisti immobiliari e degli",Tamigi,Testimonianze,1
+it_partut-ud-dev,14208,.,eare mostrano che la compagnia lo aveva reso ricco,"
+ Nel
+1604, si spostò di nuovo a nord del fiume, i","eare mostrano che la compagnia lo aveva reso ricco.
+ Nel
+1604, si spostò di nuovo a nord del fiume, i",ricco,Nel,1
+it_partut-ud-dev,14330,.,"a cattedrale di
+Saint Paul con molte case eleganti","
+ Qui affittò camere da un ugonotto francese
+chiam","a cattedrale di
+Saint Paul con molte case eleganti.
+ Qui affittò camere da un ugonotto francese
+chiam",eleganti,Qui,1
+it_partut-ud-dev,14459,.,"produttore di parrucche da donna e altri
+copricapi","
+ Le sue ultime tre opere teatrali furono delle co","produttore di parrucche da donna e altri
+copricapi.
+ Le sue ultime tre opere teatrali furono delle co",copricapi,Le,1
+it_partut-ud-dev,14615,.,"successe come poeta drammatico presso i
+King's Men","
+ ""essere o non essere, questo è il problema"".
+ Ne","successe come poeta drammatico presso i
+King's Men.
+ ""essere o non essere, questo è il problema"".
+ Ne",Men,,1
+it_partut-ud-dev,14661,.," Men.
+ ""essere o non essere, questo è il problema""","
+ Nel 1613, Sir Henry
+Wotton scrisse che l'Enrico "," Men.
+ ""essere o non essere, questo è il problema"".
+ Nel 1613, Sir Henry
+Wotton scrisse che l'Enrico ",,Nel,1
+it_partut-ud-dev,14778,.,"ato con grande acclamazione fra
+fasti e cerimonie""","
+ La raccolta conteneva 36 testi, tra cui 18 inedi","ato con grande acclamazione fra
+fasti e cerimonie"".
+ La raccolta conteneva 36 testi, tra cui 18 inedi",,La,1
+it_partut-ud-dev,14831,.,"La raccolta conteneva 36 testi, tra cui 18 inediti","
+ Li
+dedicò a Henry Wriothesley, il conte di South","La raccolta conteneva 36 testi, tra cui 18 inediti.
+ Li
+dedicò a Henry Wriothesley, il conte di South",inediti,Li,1
+it_partut-ud-dev,14888,.,"edicò a Henry Wriothesley, il conte di Southampton","
+ Questi includono due opere
+scritte da Giuseppe V","edicò a Henry Wriothesley, il conte di Southampton.
+ Questi includono due opere
+scritte da Giuseppe V",Southampton,Questi,1
+it_partut-ud-dev,15036,.,"tica è
+paragonabile a quella delle opere originali","
+ Ai tempi di Shakespeare, la
+grammatica inglese, ","tica è
+paragonabile a quella delle opere originali.
+ Ai tempi di Shakespeare, la
+grammatica inglese, ",originali,Ai,1
+it_partut-ud-dev,15240,.,"inguaggio ha aiutato a modellare
+l'inglese moderno","
+ Negli anni 50, un'ondata di nuovi approcci criti","inguaggio ha aiutato a modellare
+l'inglese moderno.
+ Negli anni 50, un'ondata di nuovi approcci criti",moderno,Negli,1
+it_partut-ud-dev,15377,.,"la strada agli studi ""post-moderni"" su Shakespeare","
+ A
+diciotto anni sposò la ventiseienne Anne Hatha","la strada agli studi ""post-moderni"" su Shakespeare.
+ A
+diciotto anni sposò la ventiseienne Anne Hatha",Shakespeare,A,1
+it_partut-ud-dev,15448,.,"osò la ventiseienne Anne Hathaway, che era incinta","
+ Nel tardo
+diciannovesimo secolo, Edward Dowden d","osò la ventiseienne Anne Hathaway, che era incinta.
+ Nel tardo
+diciannovesimo secolo, Edward Dowden d",incinta,Nel,1
+it_partut-ud-dev,15671,.,"edie, il termine di Dowden viene spesso utilizzato","
+ 
+","edie, il termine di Dowden viene spesso utilizzato.
+ 
+",utilizzato,,1

@@ -1,0 +1,3186 @@
+doc_id,char_idx,punct,left_context,right_context,centered_context,token_before,token_after,label
+it_isdt-ud-test,24,.,Evacuata la Tate Gallery,"
+ GOTEBORG - È stata la giornata del doppio oro it","Evacuata la Tate Gallery.
+ GOTEBORG - È stata la giornata del doppio oro it",Gallery,GOTEBORG,1
+it_isdt-ud-test,286,.,"e in
+pericolo l'incolumità del presidente Scalfaro","
+ Nuovo appello del Papa:
+ Un ottimo
+conservatorio","e in
+pericolo l'incolumità del presidente Scalfaro.
+ Nuovo appello del Papa:
+ Un ottimo
+conservatorio",Scalfaro,Nuovo,1
+it_isdt-ud-test,357,.,"Papa:
+ Un ottimo
+conservatorio un valido musicista","
+ Fanno fatica ad ammettere che una mescolanza
+mis","Papa:
+ Un ottimo
+conservatorio un valido musicista.
+ Fanno fatica ad ammettere che una mescolanza
+mis",musicista,Fanno,1
+it_isdt-ud-test,565,.," cose che essi non potranno mai nemmeno
+immaginare","
+ Loro non ci sarebbero mai potuti arrivare, perch"," cose che essi non potranno mai nemmeno
+immaginare.
+ Loro non ci sarebbero mai potuti arrivare, perch",immaginare,Loro,1
+it_isdt-ud-test,710,.,"e l'altra no, l'altra lottava contro l'impossibile","
+
+lo storico, paternalistico disinteresse della ch","e l'altra no, l'altra lottava contro l'impossibile.
+
+lo storico, paternalistico disinteresse della ch",l'impossibile,lo,1
+it_isdt-ud-test,809,.,"chiesa cattolica verso il loro
+""genio"" è alla fine","
+ Anche Maria, ricorda Wojtyla, ""portò il peso"" di","chiesa cattolica verso il loro
+""genio"" è alla fine.
+ Anche Maria, ricorda Wojtyla, ""portò il peso"" di",fine,Anche,1
+it_isdt-ud-test,887,.,"yla, ""portò il peso"" di una
+storica emarginazione ",".. eppure ""il figlio di Dio non esitò a mettersi a","yla, ""portò il peso"" di una
+storica emarginazione ... eppure ""il figlio di Dio non esitò a mettersi a",,,0
+it_isdt-ud-test,888,.,"la, ""portò il peso"" di una
+storica emarginazione .",". eppure ""il figlio di Dio non esitò a mettersi al","la, ""portò il peso"" di una
+storica emarginazione ... eppure ""il figlio di Dio non esitò a mettersi al",,,0
+it_isdt-ud-test,889,.,"a, ""portò il peso"" di una
+storica emarginazione .."," eppure ""il figlio di Dio non esitò a mettersi all","a, ""portò il peso"" di una
+storica emarginazione ... eppure ""il figlio di Dio non esitò a mettersi all",,eppure,0
+it_isdt-ud-test,953,.,"iglio di Dio non esitò a mettersi alla sua
+scuola""","
+ Un corazziere contro Scalfaro.
+ Il nome del cara","iglio di Dio non esitò a mettersi alla sua
+scuola"".
+ Un corazziere contro Scalfaro.
+ Il nome del cara",,Un,1
+it_isdt-ud-test,985,.,"i alla sua
+scuola"".
+ Un corazziere contro Scalfaro","
+ Il nome del carabiniere (i corazzieri
+sono infat","i alla sua
+scuola"".
+ Un corazziere contro Scalfaro.
+ Il nome del carabiniere (i corazzieri
+sono infat",Scalfaro,Il,1
+it_isdt-ud-test,1270,.,"i offesa all'onore del presidente della
+Repubblica","
+ L'altro giorno mio figlio, che ha una casetta in","i offesa all'onore del presidente della
+Repubblica.
+ L'altro giorno mio figlio, che ha una casetta in",Repubblica,L'altro,1
+it_isdt-ud-test,1465,.,"alche
+giorno, ma lui non se l'è sentita di partire","
+ Sergio Minetto, ex volontario
+nella Repubblica d","alche
+giorno, ma lui non se l'è sentita di partire.
+ Sergio Minetto, ex volontario
+nella Repubblica d",partire,Sergio,1
+it_isdt-ud-test,1702,.,"ggio, su ordine del giudice milanese Guido Salvini","
+ La sperimentazione
+dell'atomica ha cambiato il m","ggio, su ordine del giudice milanese Guido Salvini.
+ La sperimentazione
+dell'atomica ha cambiato il m",Salvini,La,1
+it_isdt-ud-test,1800,.,"l mondo per sempre, si disse subito dopo Hiroshima","
+ Il
+tutto avviene con la connivenza delle autorit","l mondo per sempre, si disse subito dopo Hiroshima.
+ Il
+tutto avviene con la connivenza delle autorit",Hiroshima,Il,1
+it_isdt-ud-test,1954,.,o è stato gettato in uno stato di povertà assoluta,"
+ I
+Castiglioni li chiamavano per scherzo ""gli afr","o è stato gettato in uno stato di povertà assoluta.
+ I
+Castiglioni li chiamavano per scherzo ""gli afr",assoluta,I,1
+it_isdt-ud-test,2091,.,"nti erano andati a trovarli in questi anni, laggiù","
+ Un mese in Africa,
+lasciando a casa i genitori (","nti erano andati a trovarli in questi anni, laggiù.
+ Un mese in Africa,
+lasciando a casa i genitori (",laggiù,Un,1
+it_isdt-ud-test,2183,.,enitori (Lamberti) e moglie e due figli (Cattaneo),"
+ era
+partito solo qualche mese fa.
+ MILANO - ""Car","enitori (Lamberti) e moglie e due figli (Cattaneo).
+ era
+partito solo qualche mese fa.
+ MILANO - ""Car",,era,1
+it_isdt-ud-test,2218,.,"igli (Cattaneo).
+ era
+partito solo qualche mese fa","
+ MILANO - ""Carissimi, ho ricevuto con grande
+piac","igli (Cattaneo).
+ era
+partito solo qualche mese fa.
+ MILANO - ""Carissimi, ho ricevuto con grande
+piac",fa,MILANO,1
+it_isdt-ud-test,2329,.,tra lettera e con altrettanto sento che state bene,"
+ assassini e
+omicidi sono all'ordine del giorno t","tra lettera e con altrettanto sento che state bene.
+ assassini e
+omicidi sono all'ordine del giorno t",bene,assassini,1
+it_isdt-ud-test,2429,.,"tra i locali;
+ Irene venga a lezione di
+tolleranza","
+ E la fiducia è ritornata.
+ A quel punto può colt","tra i locali;
+ Irene venga a lezione di
+tolleranza.
+ E la fiducia è ritornata.
+ A quel punto può colt",tolleranza,E,1
+it_isdt-ud-test,2456,.,"a lezione di
+tolleranza.
+ E la fiducia è ritornata","
+ A quel punto può coltivare la sua passione
+per l","a lezione di
+tolleranza.
+ E la fiducia è ritornata.
+ A quel punto può coltivare la sua passione
+per l",ritornata,A,1
+it_isdt-ud-test,2572,.,nte e di lì a poco sposa la linea dei nazionalisti,"
+ Poi ha
+dovuto seguire la Slovenia.
+ È guerra con","nte e di lì a poco sposa la linea dei nazionalisti.
+ Poi ha
+dovuto seguire la Slovenia.
+ È guerra con",nazionalisti,Poi,1
+it_isdt-ud-test,2608,.,"i nazionalisti.
+ Poi ha
+dovuto seguire la Slovenia","
+ È guerra con i nemici"".
+ una volta per sempre Bo","i nazionalisti.
+ Poi ha
+dovuto seguire la Slovenia.
+ È guerra con i nemici"".
+ una volta per sempre Bo",Slovenia,È,1
+it_isdt-ud-test,2633,.,"ovuto seguire la Slovenia.
+ È guerra con i nemici""","
+ una volta per sempre Bossi
+va colpito secondo la","ovuto seguire la Slovenia.
+ È guerra con i nemici"".
+ una volta per sempre Bossi
+va colpito secondo la",,una,1
+it_isdt-ud-test,2691,.,"olta per sempre Bossi
+va colpito secondo la legge""","
+ È nel suo diritto.
+ La sinistra l'ha attaccata
+p","olta per sempre Bossi
+va colpito secondo la legge"".
+ È nel suo diritto.
+ La sinistra l'ha attaccata
+p",,È,1
+it_isdt-ud-test,2711,.,"i
+va colpito secondo la legge"".
+ È nel suo diritto","
+ La sinistra l'ha attaccata
+perché Pivetti non si","i
+va colpito secondo la legge"".
+ È nel suo diritto.
+ La sinistra l'ha attaccata
+perché Pivetti non si",diritto,La,1
+it_isdt-ud-test,2773,.,"ra l'ha attaccata
+perché Pivetti non si è adeguata","
+ Prima ho dovuto lottare con una del mio stesso
+p","ra l'ha attaccata
+perché Pivetti non si è adeguata.
+ Prima ho dovuto lottare con una del mio stesso
+p",adeguata,Prima,1
+it_isdt-ud-test,2852,.,"n una del mio stesso
+partito, Tina Lagostena Bassi","
+ Ma se gliene avete fatte di tutti i colori, voi
+","n una del mio stesso
+partito, Tina Lagostena Bassi.
+ Ma se gliene avete fatte di tutti i colori, voi
+",Bassi,Ma,1
+it_isdt-ud-test,2919,.,"vete fatte di tutti i colori, voi
+di Forza Italia ","...
+ Il blitz è riuscito, ""dal punto di vista tatt","vete fatte di tutti i colori, voi
+di Forza Italia ....
+ Il blitz è riuscito, ""dal punto di vista tatt",,,0
+it_isdt-ud-test,2920,.,"ete fatte di tutti i colori, voi
+di Forza Italia .","..
+ Il blitz è riuscito, ""dal punto di vista tatti","ete fatte di tutti i colori, voi
+di Forza Italia ....
+ Il blitz è riuscito, ""dal punto di vista tatti",,,0
+it_isdt-ud-test,2921,.,"te fatte di tutti i colori, voi
+di Forza Italia ..",".
+ Il blitz è riuscito, ""dal punto di vista tattic","te fatte di tutti i colori, voi
+di Forza Italia ....
+ Il blitz è riuscito, ""dal punto di vista tattic",,,0
+it_isdt-ud-test,2922,.,"e fatte di tutti i colori, voi
+di Forza Italia ...","
+ Il blitz è riuscito, ""dal punto di vista tattico","e fatte di tutti i colori, voi
+di Forza Italia ....
+ Il blitz è riuscito, ""dal punto di vista tattico",,Il,1
+it_isdt-ud-test,3014,.,"a tattico""
+l'operazione è considerata già conclusa","
+ i serbi abbandonano in massa la Krajina
+espugnat","a tattico""
+l'operazione è considerata già conclusa.
+ i serbi abbandonano in massa la Krajina
+espugnat",conclusa,i,1
+it_isdt-ud-test,3252,.,"i parla di
+epurazioni e di processi contro i vinti","
+ Ci stavano sterminando"".
+ Sabato Mladic
+aveva sp","i parla di
+epurazioni e di processi contro i vinti.
+ Ci stavano sterminando"".
+ Sabato Mladic
+aveva sp",vinti,Ci,1
+it_isdt-ud-test,3278,.," processi contro i vinti.
+ Ci stavano sterminando""","
+ Sabato Mladic
+aveva spedito un fax dal suo quart"," processi contro i vinti.
+ Ci stavano sterminando"".
+ Sabato Mladic
+aveva spedito un fax dal suo quart",,Sabato,1
+it_isdt-ud-test,3433,.,presidente e invocare il sostegno dei suoi soldati,"
+ I generali si
+sono anche appellati al ""parlament","presidente e invocare il sostegno dei suoi soldati.
+ I generali si
+sono anche appellati al ""parlament",soldati,I,1
+it_isdt-ud-test,3494,.,"li si
+sono anche appellati al ""parlamento"" di Pale","
+ ""Lui le regalò un porcellino
+salvadanaio"".
+ il f","li si
+sono anche appellati al ""parlamento"" di Pale.
+ ""Lui le regalò un porcellino
+salvadanaio"".
+ il f",Pale,,1
+it_isdt-ud-test,3538,.,"i Pale.
+ ""Lui le regalò un porcellino
+salvadanaio""","
+ il fusto in questione non è una sconosciuta guar","i Pale.
+ ""Lui le regalò un porcellino
+salvadanaio"".
+ il fusto in questione non è una sconosciuta guar",,il,1
+it_isdt-ud-test,3682,.,"ristocratico, ma un eroe dell'immaginario popolare","
+ Qui
+solo due anni fa dominava il coprifuoco impo","ristocratico, ma un eroe dell'immaginario popolare.
+ Qui
+solo due anni fa dominava il coprifuoco impo",popolare,Qui,1
+it_isdt-ud-test,3759,.,inava il coprifuoco imposto dai soldati israeliani,"
+ ""Venite
+al primo circo nella storia di Gaza"", av","inava il coprifuoco imposto dai soldati israeliani.
+ ""Venite
+al primo circo nella storia di Gaza"", av",israeliani,,1
+it_isdt-ud-test,3829,.,"circo nella storia di Gaza"", avvisano le locandine","
+ ""Chirac, ricordati
+Hiroshima"".
+ Per quanto se ne","circo nella storia di Gaza"", avvisano le locandine.
+ ""Chirac, ricordati
+Hiroshima"".
+ Per quanto se ne",locandine,,1
+it_isdt-ud-test,3861,.,"isano le locandine.
+ ""Chirac, ricordati
+Hiroshima""","
+ Per quanto se ne sa, il presidente non ha inviat","isano le locandine.
+ ""Chirac, ricordati
+Hiroshima"".
+ Per quanto se ne sa, il presidente non ha inviat",,Per,1
+it_isdt-ud-test,4005,., Tomiichi Murayama per l'anniversario di Hiroshima,"
+ Tra
+loro, in silenzio, c'erano cinquemila ""hibak"," Tomiichi Murayama per l'anniversario di Hiroshima.
+ Tra
+loro, in silenzio, c'erano cinquemila ""hibak",Hiroshima,Tra,1
+it_isdt-ud-test,4230,.,"Hiroshima; il secondo, tre giorni dopo, a Nagasaki","
+ Sono state
+liberate, come auspicio di pace, come","Hiroshima; il secondo, tre giorni dopo, a Nagasaki.
+ Sono state
+liberate, come auspicio di pace, come",Nagasaki,Sono,1
+it_isdt-ud-test,4444,.,"lle
+scene televisive, una specie di sinfonia alata","
+ Ma gli accenti più forti sono
+stati quelli di Ta","lle
+scene televisive, una specie di sinfonia alata.
+ Ma gli accenti più forti sono
+stati quelli di Ta",alata,Ma,1
+it_isdt-ud-test,4661,.,"iche delle alture
+prospicienti i loro insediamenti","
+ O se in gruppo, cantare cose tipo ""Bella,
+bella,","iche delle alture
+prospicienti i loro insediamenti.
+ O se in gruppo, cantare cose tipo ""Bella,
+bella,",insediamenti,O,1
+it_isdt-ud-test,4719,.,"in gruppo, cantare cose tipo ""Bella,
+bella, bella""","
+ Un'operazione tutt'altro che facile dato che i t","in gruppo, cantare cose tipo ""Bella,
+bella, bella"".
+ Un'operazione tutt'altro che facile dato che i t",,Un'operazione,1
+it_isdt-ud-test,4828,.,"vevano
+documenti e date le condizioni dei cadaveri","
+ Il padre di lei, spalleggiato forse
+dalla moglie","vevano
+documenti e date le condizioni dei cadaveri.
+ Il padre di lei, spalleggiato forse
+dalla moglie",cadaveri,Il,1
+it_isdt-ud-test,4933,.,i ha sparato contro numerosi colpi d'arma da fuoco,"
+ La sua
+identità e la sua nazionalità non sono st","i ha sparato contro numerosi colpi d'arma da fuoco.
+ La sua
+identità e la sua nazionalità non sono st",fuoco,La,1
+it_isdt-ud-test,5004,.,la sua nazionalità non sono state ancora accertate,"
+ ""È successo un
+quarto d'ora fa.
+ Parma conquista","la sua nazionalità non sono state ancora accertate.
+ ""È successo un
+quarto d'ora fa.
+ Parma conquista",accertate,,1
+it_isdt-ud-test,5037,.," ancora accertate.
+ ""È successo un
+quarto d'ora fa","
+ Parma conquista il premio da 200 milioni.
+ Non s"," ancora accertate.
+ ""È successo un
+quarto d'ora fa.
+ Parma conquista il premio da 200 milioni.
+ Non s",fa,Parma,1
+it_isdt-ud-test,5080,.,"'ora fa.
+ Parma conquista il premio da 200 milioni","
+ Non sarà anche colpa
+dei giudici che danno retta","'ora fa.
+ Parma conquista il premio da 200 milioni.
+ Non sarà anche colpa
+dei giudici che danno retta",milioni,Non,1
+it_isdt-ud-test,5148,?,"colpa
+dei giudici che danno retta a troppi pentiti","
+ Ma il ""caro nemico"" non è lui,
+quell'aggettivo n","colpa
+dei giudici che danno retta a troppi pentiti?
+ Ma il ""caro nemico"" non è lui,
+quell'aggettivo n",pentiti,Ma,1
+it_isdt-ud-test,5538,.,"
+ Ed eccoci
+ricascati nel ""politicamente corretto""","
+ Ma, come ammoniva il Vangelo, chi vuol
+salvare l","
+ Ed eccoci
+ricascati nel ""politicamente corretto"".
+ Ma, come ammoniva il Vangelo, chi vuol
+salvare l",,Ma,1
+it_isdt-ud-test,5616,.,"elo, chi vuol
+salvare la propria vita, la perderà""","
+ una serata all'Elba per Mariateresa Di
+Lascia.
+ ","elo, chi vuol
+salvare la propria vita, la perderà"".
+ una serata all'Elba per Mariateresa Di
+Lascia.
+ ",,una,1
+it_isdt-ud-test,5664,.,"à"".
+ una serata all'Elba per Mariateresa Di
+Lascia","
+ Diefenbach, il pittore nudo.
+ mare, spruzzi d'ac","à"".
+ una serata all'Elba per Mariateresa Di
+Lascia.
+ Diefenbach, il pittore nudo.
+ mare, spruzzi d'ac",Lascia,Diefenbach,1
+it_isdt-ud-test,5694,.,"ariateresa Di
+Lascia.
+ Diefenbach, il pittore nudo","
+ mare, spruzzi d'acqua, fluire d'onde tra
+gli sco","ariateresa Di
+Lascia.
+ Diefenbach, il pittore nudo.
+ mare, spruzzi d'acqua, fluire d'onde tra
+gli sco",nudo,mare,1
+it_isdt-ud-test,5804,.,siati dal soffio furente del vento e della pioggia,"
+ Come non
+bastasse, l'ex commissario viene a cono","siati dal soffio furente del vento e della pioggia.
+ Come non
+bastasse, l'ex commissario viene a cono",pioggia,Come,1
+it_isdt-ud-test,5894,.,iene a conoscenza di altri particolari inquietanti,"
+
+Si finirà per scoprire che, prima di dedicarsi a","iene a conoscenza di altri particolari inquietanti.
+
+Si finirà per scoprire che, prima di dedicarsi a",inquietanti,Si,1
+it_isdt-ud-test,6061,.,"i, Irma ha lavorato come prostituta in un
+bordello","
+ Basti sapere che costui uccide memore delle vesp","i, Irma ha lavorato come prostituta in un
+bordello.
+ Basti sapere che costui uccide memore delle vesp",bordello,Basti,1
+it_isdt-ud-test,6242,.,"stagione muore,
+""diventano erratiche e aggressive""","
+ Mi provo a ripetere con la variante le frasi
+di ","stagione muore,
+""diventano erratiche e aggressive"".
+ Mi provo a ripetere con la variante le frasi
+di ",,Mi,1
+it_isdt-ud-test,6343,.,"poco fa:
+ ""A me questa ""Traviata"" è piaciuta molto","
+ Franca Rame è al lavoro,
+al computer, da quando ","poco fa:
+ ""A me questa ""Traviata"" è piaciuta molto.
+ Franca Rame è al lavoro,
+al computer, da quando ",molto,Franca,1
+it_isdt-ud-test,6428,.,"uter, da quando l'ha scoperto non ne fa più a meno","
+ E sul suo film
+presentato prima a Cannes e poi q","uter, da quando l'ha scoperto non ne fa più a meno.
+ E sul suo film
+presentato prima a Cannes e poi q",meno,E,1
+it_isdt-ud-test,6535,?,"Festival di Locarno:
+ Le è simpatica
+Nicole Kidman","
+ Ma va da sè che io faccio parte di quella maggio","Festival di Locarno:
+ Le è simpatica
+Nicole Kidman?
+ Ma va da sè che io faccio parte di quella maggio",Kidman,Ma,1
+it_isdt-ud-test,6645,.,condomini che non saprebbe da che parte cominciare,"
+ I tecnici del mestiere
+comunque avranno capito q","condomini che non saprebbe da che parte cominciare.
+ I tecnici del mestiere
+comunque avranno capito q",cominciare,I,1
+it_isdt-ud-test,6825,.,"e, cemento e gel e, se vorranno, potranno imitarvi","
+ La
+Stefi di Grazia Nidasio.
+ Studiando con sapie","e, cemento e gel e, se vorranno, potranno imitarvi.
+ La
+Stefi di Grazia Nidasio.
+ Studiando con sapie",imitarvi,La,1
+it_isdt-ud-test,6854,.,"no, potranno imitarvi.
+ La
+Stefi di Grazia Nidasio","
+ Studiando con sapienza la sua strategia, Pasqual","no, potranno imitarvi.
+ La
+Stefi di Grazia Nidasio.
+ Studiando con sapienza la sua strategia, Pasqual",Nidasio,Studiando,1
+it_isdt-ud-test,6944,.,"ia, Pasqualin
+mette in circolo la suggestione Juve","
+ Attendiamo il ritorno di Galliani per le
+opportu","ia, Pasqualin
+mette in circolo la suggestione Juve.
+ Attendiamo il ritorno di Galliani per le
+opportu",Juve,Attendiamo,1
+it_isdt-ud-test,7010,.," ritorno di Galliani per le
+opportune valutazioni""","
+ ""Ma quella medaglia è anche inglese?"".
+ È nella "," ritorno di Galliani per le
+opportune valutazioni"".
+ ""Ma quella medaglia è anche inglese?"".
+ È nella ",,,1
+it_isdt-ud-test,7048,?,"valutazioni"".
+ ""Ma quella medaglia è anche inglese",""".
+ È nella natura
+delle cose e degli uomini.
+ Ed ","valutazioni"".
+ ""Ma quella medaglia è anche inglese?"".
+ È nella natura
+delle cose e degli uomini.
+ Ed ",inglese,,0
+it_isdt-ud-test,7050,.,"lutazioni"".
+ ""Ma quella medaglia è anche inglese?""","
+ È nella natura
+delle cose e degli uomini.
+ Ed è ","lutazioni"".
+ ""Ma quella medaglia è anche inglese?"".
+ È nella natura
+delle cose e degli uomini.
+ Ed è ",,È,1
+it_isdt-ud-test,7093,.,"glese?"".
+ È nella natura
+delle cose e degli uomini","
+ Ed è quello che hanno fatto May e Bailey.
+ E il ","glese?"".
+ È nella natura
+delle cose e degli uomini.
+ Ed è quello che hanno fatto May e Bailey.
+ E il ",uomini,Ed,1
+it_isdt-ud-test,7136,.," uomini.
+ Ed è quello che hanno fatto May e Bailey","
+ E il sogno
+continua con la Sidoti.
+ Oggi tocca a"," uomini.
+ Ed è quello che hanno fatto May e Bailey.
+ E il sogno
+continua con la Sidoti.
+ Oggi tocca a",Bailey,E,1
+it_isdt-ud-test,7172,.,"o May e Bailey.
+ E il sogno
+continua con la Sidoti","
+ Oggi tocca alle donne sui 10 chilometri, che ai ","o May e Bailey.
+ E il sogno
+continua con la Sidoti.
+ Oggi tocca alle donne sui 10 chilometri, che ai ",Sidoti,Oggi,1
+it_isdt-ud-test,7342,.,"are l'argento alle
+spalle della finlandese Essayah","
+ atleta che non nasconde lo sforzo ma lo rende
+ta","are l'argento alle
+spalle della finlandese Essayah.
+ atleta che non nasconde lo sforzo ma lo rende
+ta",Essayah,atleta,1
+it_isdt-ud-test,7635,.,"ia, più avvezzo alle emozioni di quanto
+non sembri","
+ non ho finito il liceo artistico, mi sono ritira","ia, più avvezzo alle emozioni di quanto
+non sembri.
+ non ho finito il liceo artistico, mi sono ritira",sembri,non,1
+it_isdt-ud-test,7702,.,"il liceo artistico, mi sono ritirato alla maturità","
+
+Mai nessuna azzurra aveva conquistato un titolo ","il liceo artistico, mi sono ritirato alla maturità.
+
+Mai nessuna azzurra aveva conquistato un titolo ",maturità,Mai,1
+it_isdt-ud-test,7760,.,essuna azzurra aveva conquistato un titolo iridato,"
+ La gara di Goteborg è
+stata un passaggio di cons","essuna azzurra aveva conquistato un titolo iridato.
+ La gara di Goteborg è
+stata un passaggio di cons",iridato,La,1
+it_isdt-ud-test,7899,.,"a sulle prime non
+capisce che si tratta del marito","
+ L'oro di Fiona, in pratica, è stato
+conquistato ","a sulle prime non
+capisce che si tratta del marito.
+ L'oro di Fiona, in pratica, è stato
+conquistato ",marito,L'oro,1
+it_isdt-ud-test,8010,.,"mo salto, con 6,93;
+ Al 35'il pareggio di Agostini","
+ Gli
+arbitri non hanno gradito la linea di condot","mo salto, con 6,93;
+ Al 35'il pareggio di Agostini.
+ Gli
+arbitri non hanno gradito la linea di condot",Agostini,Gli,1
+it_isdt-ud-test,8287,.,"to
+economico riservato a chi dirige in serie A e B","
+ Gianluca Vialli ama parlare
+della gestione del c","to
+economico riservato a chi dirige in serie A e B.
+ Gianluca Vialli ama parlare
+della gestione del c",B,Gianluca,1
+it_isdt-ud-test,8383,.,del calcio e non soltanto dei suoi aspetti tecnici,"
+ O
+accontentarsi così, perché per vincere non occ","del calcio e non soltanto dei suoi aspetti tecnici.
+ O
+accontentarsi così, perché per vincere non occ",tecnici,O,1
+it_isdt-ud-test,8850,.,iato a lavorare per mettere in posa i tubi fognari,"
+
+Il motoscafo, un ""Draco AS"", è partito da Fiumic","iato a lavorare per mettere in posa i tubi fognari.
+
+Il motoscafo, un ""Draco AS"", è partito da Fiumic",fognari,Il,1
+it_isdt-ud-test,8934,.,"partito da Fiumicino e sta dirigendosi verso
+Anzio","
+ Cimini era uscito in mare, solo, a bordo di una ","partito da Fiumicino e sta dirigendosi verso
+Anzio.
+ Cimini era uscito in mare, solo, a bordo di una ",Anzio,Cimini,1
+it_isdt-ud-test,9020,.,"a bordo di una piccola imbarcazione, la
+sera prima","
+ Monsignor Grillo è stato molto sensibile a nomin","a bordo di una piccola imbarcazione, la
+sera prima.
+ Monsignor Grillo è stato molto sensibile a nomin",prima,Monsignor,1
+it_isdt-ud-test,9088,.,o è stato molto sensibile a nominare due esorcisti,"
+
+Quadri, oggetti ricordo dell'Africa, qualche mon","o è stato molto sensibile a nominare due esorcisti.
+
+Quadri, oggetti ricordo dell'Africa, qualche mon",esorcisti,Quadri,1
+it_isdt-ud-test,9300,.,"o, dal fratello alla cognata, dal cugino ai nipoti","
+ Affidava le lettere a
+persone di passaggio, in v","o, dal fratello alla cognata, dal cugino ai nipoti.
+ Affidava le lettere a
+persone di passaggio, in v",nipoti,Affidava,1
+it_isdt-ud-test,9403,.,"ggio verso località dove fosse possibile imbucare""","
+
+Al momento di scendere, spesso si rischia di cad","ggio verso località dove fosse possibile imbucare"".
+
+Al momento di scendere, spesso si rischia di cad",,Al,1
+it_isdt-ud-test,9532,.,"anno
+alcuna attenzione e ripartono senza guardare""","
+ Per lui, che da quasi un lustro
+aspetta la nuova","anno
+alcuna attenzione e ripartono senza guardare"".
+ Per lui, che da quasi un lustro
+aspetta la nuova",,Per,1
+it_isdt-ud-test,9966,.,"il test di Pescara prima della pausa di
+Ferragosto","
+ Si chiama Tiziano, è svizzero e fa lo ""svizzero""","il test di Pescara prima della pausa di
+Ferragosto.
+ Si chiama Tiziano, è svizzero e fa lo ""svizzero""",Ferragosto,Si,1
+it_isdt-ud-test,10035,.,"o, è svizzero e fa lo ""svizzero"" al soldo del papa","
+
+Ci facciamo delle gran sudate.
+ Dal 1970 è l'uni","o, è svizzero e fa lo ""svizzero"" al soldo del papa.
+
+Ci facciamo delle gran sudate.
+ Dal 1970 è l'uni",papa,Ci,1
+it_isdt-ud-test,10067,.," al soldo del papa.
+
+Ci facciamo delle gran sudate","
+ Dal 1970 è l'unico corpo militare del Vaticano.
+"," al soldo del papa.
+
+Ci facciamo delle gran sudate.
+ Dal 1970 è l'unico corpo militare del Vaticano.
+",sudate,Dal,1
+it_isdt-ud-test,10116,.,"e.
+ Dal 1970 è l'unico corpo militare del Vaticano","
+
+Il più vistoso è quello situato davanti all'ingr","e.
+ Dal 1970 è l'unico corpo militare del Vaticano.
+
+Il più vistoso è quello situato davanti all'ingr",Vaticano,Il,1
+it_isdt-ud-test,10503,.," balaustra che sovrasta l'edificio, e li inghiotte","
+ Ama
+la casa, il lavoro, la musica, la letteratur"," balaustra che sovrasta l'edificio, e li inghiotte.
+ Ama
+la casa, il lavoro, la musica, la letteratur",inghiotte,Ama,1
+it_isdt-ud-test,10670,.,"e incontra con una certa regolarità anche al
+caffè","
+ Si formano così gruppi di costruzioni in stretta","e incontra con una certa regolarità anche al
+caffè.
+ Si formano così gruppi di costruzioni in stretta",caffè,Si,1
+it_isdt-ud-test,10742,.,ppi di costruzioni in stretta connessione fra loro,"
+
+l'albero di Natale, la prima Comunione, scene di","ppi di costruzioni in stretta connessione fra loro.
+
+l'albero di Natale, la prima Comunione, scene di",loro,l'albero,1
+it_isdt-ud-test,10936,.,"i e rosei,
+blandi accenni alla povertà e al dolore","
+ Boris Podrecca, però, si è rifiutato di
+porre l'","i e rosei,
+blandi accenni alla povertà e al dolore.
+ Boris Podrecca, però, si è rifiutato di
+porre l'",dolore,Boris,1
+it_isdt-ud-test,11042,.,to per l'ennesima volta su questi aspetti ben noti,"
+ ""fili"" di
+ottone luccicante, ""cocci"" di vetro di","to per l'ennesima volta su questi aspetti ben noti.
+ ""fili"" di
+ottone luccicante, ""cocci"" di vetro di",noti,,1
+it_isdt-ud-test,11159,.," decisi o lievi, scaglie
+di madreperla iridescente","
+ Recentissima anche la creazione di ""Splatter"", u"," decisi o lievi, scaglie
+di madreperla iridescente.
+ Recentissima anche la creazione di ""Splatter"", u",iridescente,Recentissima,1
+it_isdt-ud-test,11299,.,"perficie che luccica secondo il variare
+della luce","
+ Quando si parla di piastrelle a mano non si può ","perficie che luccica secondo il variare
+della luce.
+ Quando si parla di piastrelle a mano non si può ",luce,Quando,1
+it_isdt-ud-test,11384,.,"mano non si può non citare la
+produzione di Vietri","
+ la prima per la terracotta, la seconda per il co","mano non si può non citare la
+produzione di Vietri.
+ la prima per la terracotta, la seconda per il co",Vietri,la,1
+it_isdt-ud-test,11439,.," prima per la terracotta, la seconda per il colore","
+
+Oltre alle tinte unite, esistono bordure di dive"," prima per la terracotta, la seconda per il colore.
+
+Oltre alle tinte unite, esistono bordure di dive",colore,Oltre,1
+it_isdt-ud-test,11537,.,"iversi tipi, anche con suggestivi
+motivi a rilievo","
+ Ha la stessa durezza del granito, è antigelivo e","iversi tipi, anche con suggestivi
+motivi a rilievo.
+ Ha la stessa durezza del granito, è antigelivo e",rilievo,Ha,1
+it_isdt-ud-test,11729,.,accio che renderebbe la superficie sdrucciolevole),"
+ Se sei un tipo preciso
+completa il trattamento c","accio che renderebbe la superficie sdrucciolevole).
+ Se sei un tipo preciso
+completa il trattamento c",,Se,1
+it_isdt-ud-test,11903,.,mola la circolazione e l'assorbimento del prodotto,"
+ La
+cellulite, infatti, ha ben poco a che vedere ","mola la circolazione e l'assorbimento del prodotto.
+ La
+cellulite, infatti, ha ben poco a che vedere ",prodotto,La,1
+it_isdt-ud-test,12031,.,"chili di
+troppo è più predisposta ad ""accoglierla""","
+ Chi ha la cellulite ha una
+muscolatura debole e ","chili di
+troppo è più predisposta ad ""accoglierla"".
+ Chi ha la cellulite ha una
+muscolatura debole e ",,Chi,1
+it_isdt-ud-test,12153,.," provocherebbe ematomi e rilasciamenti
+dei tessuti","
+ Chiedi al computer il tuo menù.
+ È una signora a"," provocherebbe ematomi e rilasciamenti
+dei tessuti.
+ Chiedi al computer il tuo menù.
+ È una signora a",tessuti,Chiedi,1
+it_isdt-ud-test,12186,.,"menti
+dei tessuti.
+ Chiedi al computer il tuo menù","
+ È una signora ancor bella di quasi
+sessant'anni ","menti
+dei tessuti.
+ Chiedi al computer il tuo menù.
+ È una signora ancor bella di quasi
+sessant'anni ",menù,È,1
+it_isdt-ud-test,12282,.,anni e che da più di dieci vive in esilio a Parigi,"
+ Adesso, comunque,
+che finalmente sembra essersi ","anni e che da più di dieci vive in esilio a Parigi.
+ Adesso, comunque,
+che finalmente sembra essersi ",Parigi,Adesso,1
+it_isdt-ud-test,12375,.,"essersi decisa a parlare, è scoppiato il finimondo","
+ Ma
+conoscono bene Carmen Castillo, la signora ci","essersi decisa a parlare, è scoppiato il finimondo.
+ Ma
+conoscono bene Carmen Castillo, la signora ci",finimondo,Ma,1
+it_isdt-ud-test,12556,.,"ayita, e che conferma punto per
+punto l'intervista","
+ Il mercato dell'editoria elettronica personale o","ayita, e che conferma punto per
+punto l'intervista.
+ Il mercato dell'editoria elettronica personale o",l'intervista,Il,1
+it_isdt-ud-test,13049,.,"ono di gestire testo e
+grafica ad alta risoluzione","
+ Care signore così onorevoli.
+ tra gli incarcerat","ono di gestire testo e
+grafica ad alta risoluzione.
+ Care signore così onorevoli.
+ tra gli incarcerat",risoluzione,Care,1
+it_isdt-ud-test,13079,.," ad alta risoluzione.
+ Care signore così onorevoli","
+ tra gli incarcerati
+per reati contro l'ordine pu"," ad alta risoluzione.
+ Care signore così onorevoli.
+ tra gli incarcerati
+per reati contro l'ordine pu",onorevoli,tra,1
+it_isdt-ud-test,13291,.,"lle donne detenute è
+maggiore della media generale","
+ Le ore libere - i viaggi.
+ Ho cominciato con 3-4","lle donne detenute è
+maggiore della media generale.
+ Le ore libere - i viaggi.
+ Ho cominciato con 3-4",generale,Le,1
+it_isdt-ud-test,13318,.,"re della media generale.
+ Le ore libere - i viaggi","
+ Ho cominciato con 3-4
+chilometri al giorno e son","re della media generale.
+ Le ore libere - i viaggi.
+ Ho cominciato con 3-4
+chilometri al giorno e son",viaggi,Ho,1
+it_isdt-ud-test,13409,.,orno e sono arrivato alla fine a correrne anche 20,"
+ ""Con
+l'esempio di Saverio abbiamo voluto dare un","orno e sono arrivato alla fine a correrne anche 20.
+ ""Con
+l'esempio di Saverio abbiamo voluto dare un",20,,1
+it_isdt-ud-test,13653,.,"del tutto normale anche dopo un incidente
+cardiaco","
+ Significa che sono state tagliate le vie nervose","del tutto normale anche dopo un incidente
+cardiaco.
+ Significa che sono state tagliate le vie nervose",cardiaco,Significa,1
+it_isdt-ud-test,13767,.,"e quali è
+normalmente regolata l'attività cardiaca","
+ Per questo un ""trapiantato"" non riesce
+ad avvert","e quali è
+normalmente regolata l'attività cardiaca.
+ Per questo un ""trapiantato"" non riesce
+ad avvert",cardiaca,Per,1
+it_isdt-ud-test,13903,.,"on ha controllo cosciente della
+frequenza cardiaca","
+ Tutti gli edifici sono collegati tra loro da gal","on ha controllo cosciente della
+frequenza cardiaca.
+ Tutti gli edifici sono collegati tra loro da gal",cardiaca,Tutti,1
+it_isdt-ud-test,14030,.,"azione da medici, personale di servizio e pazienti","
+ Inutile
+guardarli.
+ Prende l'appuntamento più di","azione da medici, personale di servizio e pazienti.
+ Inutile
+guardarli.
+ Prende l'appuntamento più di",pazienti,Inutile,1
+it_isdt-ud-test,14050,.,"rsonale di servizio e pazienti.
+ Inutile
+guardarli","
+ Prende l'appuntamento più di un mese prima e ci ","rsonale di servizio e pazienti.
+ Inutile
+guardarli.
+ Prende l'appuntamento più di un mese prima e ci ",guardarli,Prende,1
+it_isdt-ud-test,14145,.," e ci arriva generalmente
+alla vigilia degli esami","
+ La ""Guida del paziente"" consiglia una visita al "," e ci arriva generalmente
+alla vigilia degli esami.
+ La ""Guida del paziente"" consiglia una visita al ",esami,La,1
+it_isdt-ud-test,14321,.,"dificio
+bianco in cui vengono effettuati gli esami","
+ D'altronde è proprio questo che
+sorprende il vis","dificio
+bianco in cui vengono effettuati gli esami.
+ D'altronde è proprio questo che
+sorprende il vis",esami,D'altronde,1
+it_isdt-ud-test,14529,.,"ttare un appartamento o una camera in
+case private","
+ Nella camera d'albergo il cameriere vi porterà, ","ttare un appartamento o una camera in
+case private.
+ Nella camera d'albergo il cameriere vi porterà, ",private,Nella,1
+it_isdt-ud-test,14614,.,"ere vi porterà, su semplice
+richiesta, un clistere","
+ l'essenzialità, in quanto delineano e definiscon","ere vi porterà, su semplice
+richiesta, un clistere.
+ l'essenzialità, in quanto delineano e definiscon",clistere,l'essenzialità,1
+it_isdt-ud-test,14715,.,"o il
+contenuto del diritto stesso;
+ stillicidio [v"," 908]).
+ L'espropriazione è
+realizzata attraverso ","o il
+contenuto del diritto stesso;
+ stillicidio [v. 908]).
+ L'espropriazione è
+realizzata attraverso ",v,908,0
+it_isdt-ud-test,14722,.,"ntenuto del diritto stesso;
+ stillicidio [v. 908])","
+ L'espropriazione è
+realizzata attraverso un atto","ntenuto del diritto stesso;
+ stillicidio [v. 908]).
+ L'espropriazione è
+realizzata attraverso un atto",,L'espropriazione,1
+it_isdt-ud-test,15054,.,"ione nazionale, al decoro e all'igiene nelle città","
+ 867.
+Sistemazione e rimboschimento dei terreni v","ione nazionale, al decoro e all'igiene nelle città.
+ 867.
+Sistemazione e rimboschimento dei terreni v",città,867,1
+it_isdt-ud-test,15060,.,"azionale, al decoro e all'igiene nelle città.
+ 867","
+Sistemazione e rimboschimento dei terreni vincola","azionale, al decoro e all'igiene nelle città.
+ 867.
+Sistemazione e rimboschimento dei terreni vincola",867,Sistemazione,0
+it_isdt-ud-test,15113,.,istemazione e rimboschimento dei terreni vincolati,"
+ Le conseguenze di carattere
+amministrativo della","istemazione e rimboschimento dei terreni vincolati.
+ Le conseguenze di carattere
+amministrativo della",vincolati,Le,1
+it_isdt-ud-test,15254,.,"ticolo precedente
+sono stabilite da leggi speciali","
+ Se il vicino vuole servirsi (1) del muro
+esisten","ticolo precedente
+sono stabilite da leggi speciali.
+ Se il vicino vuole servirsi (1) del muro
+esisten",speciali,Se,1
+it_isdt-ud-test,15475,.,"74, ma deve pagare una
+indennità (2) per l'innesto","
+ lo Stato può anche costruire edifici demaniali i","74, ma deve pagare una
+indennità (2) per l'innesto.
+ lo Stato può anche costruire edifici demaniali i",l'innesto,lo,1
+it_isdt-ud-test,15559,.,"ifici demaniali in
+aderenza con quelli dei privati","
+ La rinunzia (3) non libera il rinunziante
+dall'o","ifici demaniali in
+aderenza con quelli dei privati.
+ La rinunzia (3) non libera il rinunziante
+dall'o",privati,La,1
+it_isdt-ud-test,15691,.,"struzioni a cui abbia dato causa col fatto
+proprio","
+ Ogni comproprietario può (1) alzare il muro comu","struzioni a cui abbia dato causa col fatto
+proprio.
+ Ogni comproprietario può (1) alzare il muro comu",proprio,Ogni,1
+it_isdt-ud-test,15849,.,"conservazione (2) della parte
+sopraedificata [903]","
+ 889. Distanze per pozzi, cisterne, fosse e tubi.","conservazione (2) della parte
+sopraedificata [903].
+ 889. Distanze per pozzi, cisterne, fosse e tubi.",,889,1
+it_isdt-ud-test,15855,.,"vazione (2) della parte
+sopraedificata [903].
+ 889"," Distanze per pozzi, cisterne, fosse e tubi.
+ 892.","vazione (2) della parte
+sopraedificata [903].
+ 889. Distanze per pozzi, cisterne, fosse e tubi.
+ 892.",889,Distanze,0
+it_isdt-ud-test,15899,.,".
+ 889. Distanze per pozzi, cisterne, fosse e tubi","
+ 892.
+Distanze per gli alberi.
+ Ogni fosso interp",".
+ 889. Distanze per pozzi, cisterne, fosse e tubi.
+ 892.
+Distanze per gli alberi.
+ Ogni fosso interp",tubi,892,1
+it_isdt-ud-test,15905,.,". Distanze per pozzi, cisterne, fosse e tubi.
+ 892","
+Distanze per gli alberi.
+ Ogni fosso interposto t",". Distanze per pozzi, cisterne, fosse e tubi.
+ 892.
+Distanze per gli alberi.
+ Ogni fosso interposto t",892,Distanze,0
+it_isdt-ud-test,15930,.,"terne, fosse e tubi.
+ 892.
+Distanze per gli alberi","
+ Ogni fosso interposto tra due fondi si presume c","terne, fosse e tubi.
+ 892.
+Distanze per gli alberi.
+ Ogni fosso interposto tra due fondi si presume c",alberi,Ogni,1
+it_isdt-ud-test,15986,.,i fosso interposto tra due fondi si presume comune,"
+
+Qualora per esigenze della produzione si debba p","i fosso interposto tra due fondi si presume comune.
+
+Qualora per esigenze della produzione si debba p",comune,Qualora,1
+it_isdt-ud-test,16340,.,"e
+traggono beneficio dalle opere stesse [863, 865]","
+ Il costruttore che senza
+malizia costruisce sul ","e
+traggono beneficio dalle opere stesse [863, 865].
+ Il costruttore che senza
+malizia costruisce sul ",,Il,1
+it_isdt-ud-test,16506,., il codice tutela il lavoro dello specificatore [v," 940].
+ Il
+proprietario può costituire il diritto "," il codice tutela il lavoro dello specificatore [v. 940].
+ Il
+proprietario può costituire il diritto ",v,940,0
+it_isdt-ud-test,16512,.,dice tutela il lavoro dello specificatore [v. 940],"
+ Il
+proprietario può costituire il diritto di far","dice tutela il lavoro dello specificatore [v. 940].
+ Il
+proprietario può costituire il diritto di far",,Il,1
+it_isdt-ud-test,16675,.,"i altri, che ne acquista la proprietà [934, 1350 n"," 2,
+2643 n. 2, 2810 n. 3].
+ Pertanto, è configurab","i altri, che ne acquista la proprietà [934, 1350 n. 2,
+2643 n. 2, 2810 n. 3].
+ Pertanto, è configurab",n,2,0
+it_isdt-ud-test,16686,.,"e ne acquista la proprietà [934, 1350 n. 2,
+2643 n"," 2, 2810 n. 3].
+ Pertanto, è configurabile un cont","e ne acquista la proprietà [934, 1350 n. 2,
+2643 n. 2, 2810 n. 3].
+ Pertanto, è configurabile un cont",n,2,0
+it_isdt-ud-test,16697,.,"ta la proprietà [934, 1350 n. 2,
+2643 n. 2, 2810 n"," 3].
+ Pertanto, è configurabile un contratto ad ef","ta la proprietà [934, 1350 n. 2,
+2643 n. 2, 2810 n. 3].
+ Pertanto, è configurabile un contratto ad ef",n,3,0
+it_isdt-ud-test,16701,.,"a proprietà [934, 1350 n. 2,
+2643 n. 2, 2810 n. 3]","
+ Pertanto, è configurabile un contratto ad effett","a proprietà [934, 1350 n. 2,
+2643 n. 2, 2810 n. 3].
+ Pertanto, è configurabile un contratto ad effett",,Pertanto,1
+it_isdt-ud-test,16798,.,"fetti
+obbligatori, qualificabile come locazione [v"," 1571], in cui al conduttore si
+concede il godimen","fetti
+obbligatori, qualificabile come locazione [v. 1571], in cui al conduttore si
+concede il godimen",v,1571,0
+it_isdt-ud-test,16945,.,"struzioni di cui
+godrà fino alla fine del rapporto","
+ 954. Estinzione del diritto di superficie.
+ Il
+d","struzioni di cui
+godrà fino alla fine del rapporto.
+ 954. Estinzione del diritto di superficie.
+ Il
+d",rapporto,954,1
+it_isdt-ud-test,16951,.,"oni di cui
+godrà fino alla fine del rapporto.
+ 954"," Estinzione del diritto di superficie.
+ Il
+diritto","oni di cui
+godrà fino alla fine del rapporto.
+ 954. Estinzione del diritto di superficie.
+ Il
+diritto",954,Estinzione,0
+it_isdt-ud-test,16989,.,"pporto.
+ 954. Estinzione del diritto di superficie","
+ Il
+diritto dell'enfiteuta si prescrive per effet","pporto.
+ 954. Estinzione del diritto di superficie.
+ Il
+diritto dell'enfiteuta si prescrive per effet",superficie,Il,1
+it_isdt-ud-test,17097,.,"non uso protratto per venti
+anni (2934 e seguenti)","
+ L'usufruttuario ha il diritto di conseguire il p","non uso protratto per venti
+anni (2934 e seguenti).
+ L'usufruttuario ha il diritto di conseguire il p",,L'usufruttuario,1
+it_isdt-ud-test,17222,.,"i ha l'usufrutto, salvo quanto è disposto dall'art"," 1002.
+
+L'usufruttuario ha diritto a un'indennità ","i ha l'usufrutto, salvo quanto è disposto dall'art. 1002.
+
+L'usufruttuario ha diritto a un'indennità ",dall'art,1002,0
+it_isdt-ud-test,17228,.,"'usufrutto, salvo quanto è disposto dall'art. 1002","
+
+L'usufruttuario ha diritto a un'indennità per i ","'usufrutto, salvo quanto è disposto dall'art. 1002.
+
+L'usufruttuario ha diritto a un'indennità per i ",1002,L'usufruttuario,1
+it_isdt-ud-test,17353,.,"tono al
+momento della restituzione della cosa (att"," 157).
+ Se le addizioni non possono
+separarsi senz","tono al
+momento della restituzione della cosa (att. 157).
+ Se le addizioni non possono
+separarsi senz",att,157,0
+it_isdt-ud-test,17359,.,"l
+momento della restituzione della cosa (att. 157)","
+ Se le addizioni non possono
+separarsi senza nocu","l
+momento della restituzione della cosa (att. 157).
+ Se le addizioni non possono
+separarsi senza nocu",,Se,1
+it_isdt-ud-test,17524,.,ano le disposizioni relative ai miglioramenti (att," 157).
+ L'usufruttuario
+può servirsi di essi solta","ano le disposizioni relative ai miglioramenti (att. 157).
+ L'usufruttuario
+può servirsi di essi solta",att,157,0
+it_isdt-ud-test,17530,., disposizioni relative ai miglioramenti (att. 157),"
+ L'usufruttuario
+può servirsi di essi soltanto pe"," disposizioni relative ai miglioramenti (att. 157).
+ L'usufruttuario
+può servirsi di essi soltanto pe",,L'usufruttuario,1
+it_isdt-ud-test,17619,., soltanto per le riparazioni che sono a suo carico,"
+
+L'usufruttuario deve restituire le cose che form"," soltanto per le riparazioni che sono a suo carico.
+
+L'usufruttuario deve restituire le cose che form",carico,L'usufruttuario,1
+it_isdt-ud-test,17758,.,"e dell'usufrutto, salvo quanto è disposto dall'art"," 995 (2930).
+
+L'usufruttuario di un'eredità o di u","e dell'usufrutto, salvo quanto è disposto dall'art. 995 (2930).
+
+L'usufruttuario di un'eredità o di u",dall'art,995,0
+it_isdt-ud-test,17770,.,"utto, salvo quanto è disposto dall'art. 995 (2930)","
+
+L'usufruttuario di un'eredità o di una quota di ","utto, salvo quanto è disposto dall'art. 995 (2930).
+
+L'usufruttuario di un'eredità o di una quota di ",,L'usufruttuario,1
+it_isdt-ud-test,17986,.,i o dei legati da cui l'eredità stessa sia gravata,"
+ 1015. Abusi
+dell'usufruttuario.
+ Se è perito un ","i o dei legati da cui l'eredità stessa sia gravata.
+ 1015. Abusi
+dell'usufruttuario.
+ Se è perito un ",gravata,1015,1
+it_isdt-ud-test,17993,.," legati da cui l'eredità stessa sia gravata.
+ 1015"," Abusi
+dell'usufruttuario.
+ Se è perito un edifici"," legati da cui l'eredità stessa sia gravata.
+ 1015. Abusi
+dell'usufruttuario.
+ Se è perito un edifici",1015,Abusi,0
+it_isdt-ud-test,18019,.,"tessa sia gravata.
+ 1015. Abusi
+dell'usufruttuario","
+ Se è perito un edificio e il proprietario intend","tessa sia gravata.
+ 1015. Abusi
+dell'usufruttuario.
+ Se è perito un edificio e il proprietario intend",dell'usufruttuario,Se,1
+it_isdt-ud-test,18159,.,"ta come indennità, l'usufruttuario non può
+opporsi","
+ Se la cosa è requisita o espropriata per pubblic","ta come indennità, l'usufruttuario non può
+opporsi.
+ Se la cosa è requisita o espropriata per pubblic",opporsi,Se,1
+it_isdt-ud-test,18280,.,utto si trasferisce sull'indennità relativa (1000),"
+ Delle
+servitu'prediali.
+ La servitù prediale con","utto si trasferisce sull'indennità relativa (1000).
+ Delle
+servitu'prediali.
+ La servitù prediale con",,Delle,1
+it_isdt-ud-test,18305,.,"indennità relativa (1000).
+ Delle
+servitu'prediali","
+ La servitù prediale consiste nel peso imposto so","indennità relativa (1000).
+ Delle
+servitu'prediali.
+ La servitù prediale consiste nel peso imposto so",servitu'prediali,La,1
+it_isdt-ud-test,18449,.,"o appartenente a diverso proprietario (1072,
+1100)","
+ 1038. Indennità per l'imposizione della servitù.","o appartenente a diverso proprietario (1072,
+1100).
+ 1038. Indennità per l'imposizione della servitù.",,1038,1
+it_isdt-ud-test,18456,.,"tenente a diverso proprietario (1072,
+1100).
+ 1038"," Indennità per l'imposizione della servitù.
+ 1039.","tenente a diverso proprietario (1072,
+1100).
+ 1038. Indennità per l'imposizione della servitù.
+ 1039.",1038,Indennità,0
+it_isdt-ud-test,18499,.,".
+ 1038. Indennità per l'imposizione della servitù","
+ 1039. Indennità per il
+passaggio temporaneo.
+ Se",".
+ 1038. Indennità per l'imposizione della servitù.
+ 1039. Indennità per il
+passaggio temporaneo.
+ Se",servitù,1039,1
+it_isdt-ud-test,18506,.,". Indennità per l'imposizione della servitù.
+ 1039"," Indennità per il
+passaggio temporaneo.
+ Se l'inde",". Indennità per l'imposizione della servitù.
+ 1039. Indennità per il
+passaggio temporaneo.
+ Se l'inde",1039,Indennità,0
+it_isdt-ud-test,18545,.,"vitù.
+ 1039. Indennità per il
+passaggio temporaneo","
+ Se l'indennità fu convenuta in annualità, la pre","vitù.
+ 1039. Indennità per il
+passaggio temporaneo.
+ Se l'indennità fu convenuta in annualità, la pre",temporaneo,Se,1
+it_isdt-ud-test,18631,.,"nualità, la prestazione
+cessa dall'anno successivo","
+ 1063. Norme regolatrici.
+ Il termine decorre dal","nualità, la prestazione
+cessa dall'anno successivo.
+ 1063. Norme regolatrici.
+ Il termine decorre dal",successivo,1063,1
+it_isdt-ud-test,18638,.,", la prestazione
+cessa dall'anno successivo.
+ 1063"," Norme regolatrici.
+ Il termine decorre dal
+giorno",", la prestazione
+cessa dall'anno successivo.
+ 1063. Norme regolatrici.
+ Il termine decorre dal
+giorno",1063,Norme,0
+it_isdt-ud-test,18657,.,"ssa dall'anno successivo.
+ 1063. Norme regolatrici","
+ Il termine decorre dal
+giorno in cui si è cessat","ssa dall'anno successivo.
+ 1063. Norme regolatrici.
+ Il termine decorre dal
+giorno in cui si è cessat",regolatrici,Il,1
+it_isdt-ud-test,18900,.,"per prescrizione o per devoluzione (958, 970, 972)","
+ Della servitù di
+presa o di derivazione di acqua","per prescrizione o per devoluzione (958, 970, 972).
+ Della servitù di
+presa o di derivazione di acqua",,Della,1
+it_isdt-ud-test,18951,.,"
+ Della servitù di
+presa o di derivazione di acqua","
+ Se si tratta di cose destinate a servire i
+condo","
+ Della servitù di
+presa o di derivazione di acqua.
+ Se si tratta di cose destinate a servire i
+condo",acqua,Se,1
+it_isdt-ud-test,19096,.,"ite in proporzione dell'uso che
+ciascuno può farne","
+ La prestazione che forma oggetto dell'obbligazio","ite in proporzione dell'uso che
+ciascuno può farne.
+ La prestazione che forma oggetto dell'obbligazio",farne,La,1
+it_isdt-ud-test,19273,.,"un
+interesse, anche non patrimoniale del creditore","
+ Nell'adempiere l'obbligazione
+il debitore deve u","un
+interesse, anche non patrimoniale del creditore.
+ Nell'adempiere l'obbligazione
+il debitore deve u",creditore,Nell'adempiere,1
+it_isdt-ud-test,19368,.,deve usare la diligenza del buon padre di famiglia,"
+ In questo caso
+l'obbligazione si estingue quando","deve usare la diligenza del buon padre di famiglia.
+ In questo caso
+l'obbligazione si estingue quando",famiglia,In,1
+it_isdt-ud-test,19453,., estingue quando la diversa prestazione è eseguita,"
+ Il
+creditore è in mora quando, senza il motivo l"," estingue quando la diversa prestazione è eseguita.
+ Il
+creditore è in mora quando, senza il motivo l",eseguita,Il,1
+it_isdt-ud-test,19675,.,ffinché il debitore possa adempiere l'obbligazione,"
+ Nelle
+obbligazioni che hanno per oggetto una som","ffinché il debitore possa adempiere l'obbligazione.
+ Nelle
+obbligazioni che hanno per oggetto una som",l'obbligazione,Nelle,1
+it_isdt-ud-test,19900,.,l creditore non prova di aver sofferto alcun danno,"
+ La restituzione
+volontaria del titolo originale ","l creditore non prova di aver sofferto alcun danno.
+ La restituzione
+volontaria del titolo originale ",danno,La,1
+it_isdt-ud-test,20072,.,iberazione anche rispetto ai condebitori in solido,"
+
+Tuttavia se gli altri fideiussori hanno consenti","iberazione anche rispetto ai condebitori in solido.
+
+Tuttavia se gli altri fideiussori hanno consenti",solido,Tuttavia,1
+it_isdt-ud-test,20179,.,"liberazione, essi
+rimangono obbligati per l'intero","
+ La compensazione non si verifica in
+pregiudizio ","liberazione, essi
+rimangono obbligati per l'intero.
+ La compensazione non si verifica in
+pregiudizio ",l'intero,La,1
+it_isdt-ud-test,20311,.,"diritti di usufrutto o di pegno su
+uno dei crediti","
+ La difesa è diritto inviolabile in ogni stato e ","diritti di usufrutto o di pegno su
+uno dei crediti.
+ La difesa è diritto inviolabile in ogni stato e ",crediti,La,1
+it_isdt-ud-test,20384,.,"inviolabile in ogni stato e grado del
+procedimento","
+ L'imputato non è considerato colpevole sino alla","inviolabile in ogni stato e grado del
+procedimento.
+ L'imputato non è considerato colpevole sino alla",procedimento,L'imputato,1
+it_isdt-ud-test,20455,.,"onsiderato colpevole sino alla condanna
+definitiva","
+ La Repubblica agevola con misure economiche e al","onsiderato colpevole sino alla condanna
+definitiva.
+ La Repubblica agevola con misure economiche e al",definitiva,La,1
+it_isdt-ud-test,20636,.,"i, con particolare
+riguardo alle famiglie numerose","
+ Gli inabili ed i minorati hanno diritto
+all'educ","i, con particolare
+riguardo alle famiglie numerose.
+ Gli inabili ed i minorati hanno diritto
+all'educ",numerose,Gli,1
+it_isdt-ud-test,20724,.,"itto
+all'educazione e all'avviamento professionale","
+ Il diritto di voto non può essere
+limitato se no","itto
+all'educazione e all'avviamento professionale.
+ Il diritto di voto non può essere
+limitato se no",professionale,Il,1
+it_isdt-ud-test,20896,., nei casi di indegnità morale indicati dalla legge,"
+ Con la legge
+di approvazione del bilancio non si"," nei casi di indegnità morale indicati dalla legge.
+ Con la legge
+di approvazione del bilancio non si",legge,Con,1
+it_isdt-ud-test,20993,.,"n si possono stabilire nuovi tributi e nuove
+spese","
+ Gli atti che hanno valore legislativo e gli altr","n si possono stabilire nuovi tributi e nuove
+spese.
+ Gli atti che hanno valore legislativo e gli altr",spese,Gli,1
+it_isdt-ud-test,21133,.,ti anche dal Presidente del Consiglio dei Ministri,"
+ Il
+Presidente della Repubblica, prima di assumer","ti anche dal Presidente del Consiglio dei Ministri.
+ Il
+Presidente della Repubblica, prima di assumer",Ministri,Il,1
+it_isdt-ud-test,21321,.,"ostituzione dinanzi
+al Parlamento in seduta comune","
+ Il Presidente del Consiglio dei ministri e i
+min","ostituzione dinanzi
+al Parlamento in seduta comune.
+ Il Presidente del Consiglio dei ministri e i
+min",comune,Il,1
+it_isdt-ud-test,21472,.,"ramento nelle mani del
+Presidente della Repubblica","
+ Nell'ordinamento degli uffici sono determinate l","ramento nelle mani del
+Presidente della Repubblica.
+ Nell'ordinamento degli uffici sono determinate l",Repubblica,Nell'ordinamento,1
+it_isdt-ud-test,21604,.,buzioni e le responsabilità proprie dei funzionari,"
+
+Il Consiglio di Stato e gli altri organi di gius","buzioni e le responsabilità proprie dei funzionari.
+
+Il Consiglio di Stato e gli altri organi di gius",funzionari,Il,1
+it_isdt-ud-test,21857,.,"indicate dalla legge, anche dei
+diritti soggettivi","
+ La colpevolezza dell'imputato non può essere pro","indicate dalla legge, anche dei
+diritti soggettivi.
+ La colpevolezza dell'imputato non può essere pro",soggettivi,La,1
+it_isdt-ud-test,22072,.,"gatorio da parte dell'imputato o del suo
+difensore","
+ Il Presidente eletto nomina e revoca i component","gatorio da parte dell'imputato o del suo
+difensore.
+ Il Presidente eletto nomina e revoca i component",difensore,Il,1
+it_isdt-ud-test,22137,.,e eletto nomina e revoca i componenti della Giunta,"
+ Il
+Governo della Repubblica può promuovere la qu","e eletto nomina e revoca i componenti della Giunta.
+ Il
+Governo della Repubblica può promuovere la qu",Giunta,Il,1
+it_isdt-ud-test,22328,.,"onale entro
+trenta giorni dalla loro pubblicazione","
+ Una legge costituzionale stabilisce le
+condizion","onale entro
+trenta giorni dalla loro pubblicazione.
+ Una legge costituzionale stabilisce le
+condizion",pubblicazione,Una,1
+it_isdt-ud-test,22514,.,le garanzie d'indipendenza dei giudici della Corte,"
+ Con legge
+ordinaria sono stabilite le altre norm","le garanzie d'indipendenza dei giudici della Corte.
+ Con legge
+ordinaria sono stabilite le altre norm",Corte,Con,1
+it_isdt-ud-test,22628,.,"per la costituzione e il
+funzionamento della Corte","
+ Alla Regione del Friuli-Venezia Giulia, di cui
+a","per la costituzione e il
+funzionamento della Corte.
+ Alla Regione del Friuli-Venezia Giulia, di cui
+a",Corte,Alla,1
+it_isdt-ud-test,22685,.," Regione del Friuli-Venezia Giulia, di cui
+all'art"," 116, si applicano provvisoriamente le norme gener"," Regione del Friuli-Venezia Giulia, di cui
+all'art. 116, si applicano provvisoriamente le norme gener",all'art,116,0
+it_isdt-ud-test,22851,.,"lle minoranze linguistiche in
+conformità con l'art"," 6.
+ Con l'entrata in vigore della Costituzione si","lle minoranze linguistiche in
+conformità con l'art. 6.
+ Con l'entrata in vigore della Costituzione si",l'art,6,0
+it_isdt-ud-test,22854,.," minoranze linguistiche in
+conformità con l'art. 6","
+ Con l'entrata in vigore della Costituzione si ha"," minoranze linguistiche in
+conformità con l'art. 6.
+ Con l'entrata in vigore della Costituzione si ha",6,Con,1
+it_isdt-ud-test,22986,.,"reto legislativo luogotenenziale 25 giugno 1944, n","
+151, sull'ordinamento provvisorio dello Stato.
+ F","reto legislativo luogotenenziale 25 giugno 1944, n.
+151, sull'ordinamento provvisorio dello Stato.
+ F",n,151,0
+it_isdt-ud-test,23033,.,", n.
+151, sull'ordinamento provvisorio dello Stato","
+ Fino al giorno delle elezioni
+delle nuove Camere",", n.
+151, sull'ordinamento provvisorio dello Stato.
+ Fino al giorno delle elezioni
+delle nuove Camere",Stato,Fino,1
+it_isdt-ud-test,23324,.," secondo, del decreto
+legislativo 16 marzo 1946, n"," 98.
+ La Costituzione dovrà essere fedelmente
+osse"," secondo, del decreto
+legislativo 16 marzo 1946, n. 98.
+ La Costituzione dovrà essere fedelmente
+osse",n,98,0
+it_isdt-ud-test,23328,.,"ondo, del decreto
+legislativo 16 marzo 1946, n. 98","
+ La Costituzione dovrà essere fedelmente
+osservat","ondo, del decreto
+legislativo 16 marzo 1946, n. 98.
+ La Costituzione dovrà essere fedelmente
+osservat",98,La,1
+it_isdt-ud-test,23469,.,"ca da tutti i cittadini e dagli
+organi dello Stato","
+ (14) Come principio generale, il consumo energet","ca da tutti i cittadini e dagli
+organi dello Stato.
+ (14) Come principio generale, il consumo energet",Stato,,1
+it_isdt-ud-test,23676,.,nimo necessario per il loro adeguato funzionamento,"
+ - Il
+programma deve essere prorogato di almeno 4","nimo necessario per il loro adeguato funzionamento.
+ - Il
+programma deve essere prorogato di almeno 4",funzionamento,-,1
+it_isdt-ud-test,23847,.,"UR all'anno) e gli stessi interventi e
+destinatari","
+ Il perimetro della concessione è costituito dagl","UR all'anno) e gli stessi interventi e
+destinatari.
+ Il perimetro della concessione è costituito dagl",destinatari,Il,1
+it_isdt-ud-test,24037,.,"o
+definiti dalle rispettive coordinate geografiche","
+ c) I rifiuti solidi
+radioattivi derivanti dalle ","o
+definiti dalle rispettive coordinate geografiche.
+ c) I rifiuti solidi
+radioattivi derivanti dalle ",geografiche,c,1
+it_isdt-ud-test,24165,.,"o saranno collocati in un
+deposito esterno al sito","
+ Anche gli italiani hanno assaggiato la reazione
+","o saranno collocati in un
+deposito esterno al sito.
+ Anche gli italiani hanno assaggiato la reazione
+",sito,Anche,1
+it_isdt-ud-test,24340,.,"no
+insieme alla base militare sull'Isola di Saseno","
+ Si allunga l'ombra della mafia
+sullo scandalo de","no
+insieme alla base militare sull'Isola di Saseno.
+ Si allunga l'ombra della mafia
+sullo scandalo de",Saseno,Si,1
+it_isdt-ud-test,24415,.,"la mafia
+sullo scandalo delle finanziarie albanesi","
+ Se venivi colto sul fatto, ti
+aspettavano otto a","la mafia
+sullo scandalo delle finanziarie albanesi.
+ Se venivi colto sul fatto, ti
+aspettavano otto a",albanesi,Se,1
+it_isdt-ud-test,24480,.,"lto sul fatto, ti
+aspettavano otto anni di carcere","
+ Lei sostiene che c'è un aspetto inquietante
+nell","lto sul fatto, ti
+aspettavano otto anni di carcere.
+ Lei sostiene che c'è un aspetto inquietante
+nell",carcere,Lei,1
+it_isdt-ud-test,24580,.,la rivolta di Valona e nel crack delle finanziarie,"
+ E i soldi delle piramidi
+dove sono finiti?
+ Gian","la rivolta di Valona e nel crack delle finanziarie.
+ E i soldi delle piramidi
+dove sono finiti?
+ Gian",finanziarie,E,1
+it_isdt-ud-test,24624,?,"ziarie.
+ E i soldi delle piramidi
+dove sono finiti","
+ Giancarlo Pagliarini ha difeso le ragioni econom","ziarie.
+ E i soldi delle piramidi
+dove sono finiti?
+ Giancarlo Pagliarini ha difeso le ragioni econom",finiti,Giancarlo,1
+it_isdt-ud-test,24696,.,"i ha difeso le ragioni economiche della
+secessione","
+ rispetto a gennaio è attesa una flessione dello ","i ha difeso le ragioni economiche della
+secessione.
+ rispetto a gennaio è attesa una flessione dello ",secessione,rispetto,1
+it_isdt-ud-test,24760,.,"gennaio è attesa una flessione dello 0,4 per cento","
+
+L'idea è emersa nella riunione alla Farnesina de","gennaio è attesa una flessione dello 0,4 per cento.
+
+L'idea è emersa nella riunione alla Farnesina de",cento,L'idea,1
+it_isdt-ud-test,24858,.," dei sottosegretari degli Esteri
+della Trilaterale","
+ Successivamente verrà il turno di chi ha un capi"," dei sottosegretari degli Esteri
+della Trilaterale.
+ Successivamente verrà il turno di chi ha un capi",Trilaterale,Successivamente,1
+it_isdt-ud-test,24996,.,"la dollari e, infine, tra i 10 e i 20 mila
+dollari","
+ Riesplode la questione albanese.
+ Mentre Tirana ","la dollari e, infine, tra i 10 e i 20 mila
+dollari.
+ Riesplode la questione albanese.
+ Mentre Tirana ",dollari,Riesplode,1
+it_isdt-ud-test,25030,.," 20 mila
+dollari.
+ Riesplode la questione albanese","
+ Mentre Tirana si risveglia
+recriminando con rabb"," 20 mila
+dollari.
+ Riesplode la questione albanese.
+ Mentre Tirana si risveglia
+recriminando con rabb",albanese,Mentre,1
+it_isdt-ud-test,25488,.," di alcune
+recenti sanguinose azioni terroristiche","
+ Gli emigrati versano il 3% dello
+stipendio in un"," di alcune
+recenti sanguinose azioni terroristiche.
+ Gli emigrati versano il 3% dello
+stipendio in un",terroristiche,Gli,1
+it_isdt-ud-test,25612,.,"al Governo autoproclamato del Kosovo e
+anche a noi","
+ Liri Avdekie, Libertà o Morte, è il motto in alb","al Governo autoproclamato del Kosovo e
+anche a noi.
+ Liri Avdekie, Libertà o Morte, è il motto in alb",noi,Liri,1
+it_isdt-ud-test,25774,.,"ilosevic e anche l'opinione pubblica
+sono concordi","
+ Una decina di morti, 30 feriti, il Sud nell'anar","ilosevic e anche l'opinione pubblica
+sono concordi.
+ Una decina di morti, 30 feriti, il Sud nell'anar",concordi,Una,1
+it_isdt-ud-test,25857,.,", il Sud nell'anarchia isolato dal
+resto del Paese","
+ A Scutari c'era la più alta densità di benzinai ",", il Sud nell'anarchia isolato dal
+resto del Paese.
+ A Scutari c'era la più alta densità di benzinai ",Paese,A,1
+it_isdt-ud-test,26047,.,uotato 20 marchi al litro sulle strade di Belgrado,"
+ Vi è andata bene, se
+eravate inglesi o americani","uotato 20 marchi al litro sulle strade di Belgrado.
+ Vi è andata bene, se
+eravate inglesi o americani",Belgrado,Vi,1
+it_isdt-ud-test,26126,.,te inglesi o americani sapevamo noi come trattarvi,"
+ Valona, Saranda e il
+Sud sono fuori controllo ma","te inglesi o americani sapevamo noi come trattarvi.
+ Valona, Saranda e il
+Sud sono fuori controllo ma",trattarvi,Valona,1
+it_isdt-ud-test,26535,.,citore delle contestate elezioni del maggio scorso,"
+ Dopo
+i calci e i pugni di domenica davanti al Pa","citore delle contestate elezioni del maggio scorso.
+ Dopo
+i calci e i pugni di domenica davanti al Pa",scorso,Dopo,1
+it_isdt-ud-test,26656,.,"l Club della
+stampa è stata devastata e incendiata","
+ difficoltà a trovare partner locali
+affidabili;
+","l Club della
+stampa è stata devastata e incendiata.
+ difficoltà a trovare partner locali
+affidabili;
+",incendiata,difficoltà,1
+it_isdt-ud-test,26795,.," con le autorità albanesi, è
+durata un paio di ore","
+ E di fronte al deteriorarsi della situazione in "," con le autorità albanesi, è
+durata un paio di ore.
+ E di fronte al deteriorarsi della situazione in ",ore,E,1
+it_isdt-ud-test,27068,.,nte rappresentativo delle forze politiche albanesi,"
+ Un altro messaggio è
+stato inviato al presidente","nte rappresentativo delle forze politiche albanesi.
+ Un altro messaggio è
+stato inviato al presidente",albanesi,Un,1
+it_isdt-ud-test,27269,.,"ato politico, che avrebbe
+luogo domani a Bruxelles","
+ 'La causa degli albanesi è la mia'.
+ Tempi duri ","ato politico, che avrebbe
+luogo domani a Bruxelles.
+ 'La causa degli albanesi è la mia'.
+ Tempi duri ",Bruxelles,'La,1
+it_isdt-ud-test,27306,.,"i a Bruxelles.
+ 'La causa degli albanesi è la mia'","
+ Tempi duri a
+Tirana per i partiti che dal maggio","i a Bruxelles.
+ 'La causa degli albanesi è la mia'.
+ Tempi duri a
+Tirana per i partiti che dal maggio",mia',Tempi,1
+it_isdt-ud-test,27453,.,ttorale del Centro-destra disertando il Parlamento,"
+ una manifestazione di
+circa 200 persone, inscena","ttorale del Centro-destra disertando il Parlamento.
+ una manifestazione di
+circa 200 persone, inscena",Parlamento,una,1
+it_isdt-ud-test,27677,.,"sa
+dalla polizia, senza ricorrere a metodi pesanti","
+ Alla vox populi Berisha
+risponde adesso evocando","sa
+dalla polizia, senza ricorrere a metodi pesanti.
+ Alla vox populi Berisha
+risponde adesso evocando",pesanti,Alla,1
+it_isdt-ud-test,27875,.,"alinismo ferreo di Enver Hoxha
+aveva al servizio 5","000 delatori su tre milioni di albanesi.
+ Un crack","alinismo ferreo di Enver Hoxha
+aveva al servizio 5.000 delatori su tre milioni di albanesi.
+ Un crack",5,000,0
+it_isdt-ud-test,27915,.,servizio 5.000 delatori su tre milioni di albanesi,"
+ Un crack
+finanziario scatena l'opposizione.
+ In ","servizio 5.000 delatori su tre milioni di albanesi.
+ Un crack
+finanziario scatena l'opposizione.
+ In ",albanesi,Un,1
+it_isdt-ud-test,27960,.,"anesi.
+ Un crack
+finanziario scatena l'opposizione","
+ In 500 mila, un albanese su sette, hanno
+scommes","anesi.
+ Un crack
+finanziario scatena l'opposizione.
+ In 500 mila, un albanese su sette, hanno
+scommes",l'opposizione,In,1
+it_isdt-ud-test,28229,., reddito medio pro capite non supera i 700 dollari,"
+ Le indagini,
+condotte dal Comando carabinieri po"," reddito medio pro capite non supera i 700 dollari.
+ Le indagini,
+condotte dal Comando carabinieri po",dollari,Le,1
+it_isdt-ud-test,28448,.,coordinate dalla Procura della Repubblica di Palmi,"
+ Ci ha messo freddezza nel
+realizzare il rigore d","coordinate dalla Procura della Repubblica di Palmi.
+ Ci ha messo freddezza nel
+realizzare il rigore d",Palmi,Ci,1
+it_isdt-ud-test,28639,.,"ne imposta perché troppa gente era entrata in
+area","
+ Ciascuno ne tragga il significato che crede sull","ne imposta perché troppa gente era entrata in
+area.
+ Ciascuno ne tragga il significato che crede sull",area,Ciascuno,1
+it_isdt-ud-test,28709,.,a il significato che crede sullo stato del pallone,"
+
+Sarebbe stata probabilmente un'altra storia se N","a il significato che crede sullo stato del pallone.
+
+Sarebbe stata probabilmente un'altra storia se N",pallone,Sarebbe,1
+it_isdt-ud-test,28925,.,colosamente col piede come un portiere da calcetto,"
+ Nell'1 si troveranno lo
+stand del paese ospite, ","colosamente col piede come un portiere da calcetto.
+ Nell'1 si troveranno lo
+stand del paese ospite, ",calcetto,Nell'1,1
+it_isdt-ud-test,29129,.,"nto il caso della pantera è
+diventato un'emergenza","
+ Il sindaco si è fatto promotore di una mini
+camp","nto il caso della pantera è
+diventato un'emergenza.
+ Il sindaco si è fatto promotore di una mini
+camp",un'emergenza,Il,1
+it_isdt-ud-test,29251,.,"tera, dalla Rai regionale a Telestudio ai giornali","
+
+Bonino e Pannella in campo per la sfida delle Re","tera, dalla Rai regionale a Telestudio ai giornali.
+
+Bonino e Pannella in campo per la sfida delle Re",giornali,Bonino,1
+it_isdt-ud-test,29309,.,o e Pannella in campo per la sfida delle Regionali,"
+ Ma la novità di ieri
+sono i radicali, che dopo l","o e Pannella in campo per la sfida delle Regionali.
+ Ma la novità di ieri
+sono i radicali, che dopo l",Regionali,Ma,1
+it_isdt-ud-test,29525,.,"ento di
+rilanciare anche la battaglia referendaria","
+ «Non ho preclusioni ideologiche»,
+spiega.
+ E chi","ento di
+rilanciare anche la battaglia referendaria.
+ «Non ho preclusioni ideologiche»,
+spiega.
+ E chi",referendaria,,1
+it_isdt-ud-test,29568,.,"endaria.
+ «Non ho preclusioni ideologiche»,
+spiega","
+ E chi lo conosce da una vita non si rassegna all","endaria.
+ «Non ho preclusioni ideologiche»,
+spiega.
+ E chi lo conosce da una vita non si rassegna all",spiega,E,1
+it_isdt-ud-test,29916,.,"dri e madri ""de
+santo"" nei terreiros del candomblè","
+ Durante i lavori si parlerà di riforme
+economich","dri e madri ""de
+santo"" nei terreiros del candomblè.
+ Durante i lavori si parlerà di riforme
+economich",candomblè,Durante,1
+it_isdt-ud-test,30203,.," un sistema che rifletta le
+democrazie occidentali","
+ Oggi a Torino Jackson il puro del rock Ci sono c"," un sistema che rifletta le
+democrazie occidentali.
+ Oggi a Torino Jackson il puro del rock Ci sono c",occidentali,Oggi,1
+it_isdt-ud-test,30384,.,"tri che
+quando finiscono si va via senza rimpianti","
+ parla del suo nuovo film ""Ultima
+fermata Brookly","tri che
+quando finiscono si va via senza rimpianti.
+ parla del suo nuovo film ""Ultima
+fermata Brookly",rimpianti,parla,1
+it_isdt-ud-test,30592,.,"e travagliato che oggi ha
+finalmente visto la luce","
+ E visto che come caratteristiche Bianchi è uomo ","e travagliato che oggi ha
+finalmente visto la luce.
+ E visto che come caratteristiche Bianchi è uomo ",luce,E,1
+it_isdt-ud-test,30801,.,"Policano, ecco che la sua candidatura prende quota","
+
+Vede che strani corsi e ricorsi?
+ Record di pres","Policano, ecco che la sua candidatura prende quota.
+
+Vede che strani corsi e ricorsi?
+ Record di pres",quota,Vede,1
+it_isdt-ud-test,30835,?,"ura prende quota.
+
+Vede che strani corsi e ricorsi","
+ Record di presenze al Lingotto per la mostra
+sul","ura prende quota.
+
+Vede che strani corsi e ricorsi?
+ Record di presenze al Lingotto per la mostra
+sul",ricorsi,Record,1
+it_isdt-ud-test,30910,.,"Lingotto per la mostra
+sull'arte russa e sovietica","
+ All'interno della maggioranza rossoverde c'è una","Lingotto per la mostra
+sull'arte russa e sovietica.
+ All'interno della maggioranza rossoverde c'è una",sovietica,All'interno,1
+it_isdt-ud-test,31047,.,"drea, come quella di Los Angeles, ma
+Sieroterapico","
+ Fuoristrada con lo smoking di rigore.
+ Dopo due ","drea, come quella di Los Angeles, ma
+Sieroterapico.
+ Fuoristrada con lo smoking di rigore.
+ Dopo due ",Sieroterapico,Fuoristrada,1
+it_isdt-ud-test,31086,.,"eroterapico.
+ Fuoristrada con lo smoking di rigore","
+ Dopo due settimane di
+programmazione, però, ha d","eroterapico.
+ Fuoristrada con lo smoking di rigore.
+ Dopo due settimane di
+programmazione, però, ha d",rigore,Dopo,1
+it_isdt-ud-test,31250,.,"s, che aveva totalizzato in 14 giorni 100 miliardi","
+ Prima di farci
+vedere gli scaffali di libri prez","s, che aveva totalizzato in 14 giorni 100 miliardi.
+ Prima di farci
+vedere gli scaffali di libri prez",miliardi,Prima,1
+it_isdt-ud-test,31429,.," mostra una catasta di legna su un terrazzo
+romano","
+ sicchè un bel giorno si udì la notizia che nella"," mostra una catasta di legna su un terrazzo
+romano.
+ sicchè un bel giorno si udì la notizia che nella",romano,sicchè,1
+it_isdt-ud-test,31569,., e ognuno poteva andare a vederli nello stallatico,"
+ Il 19
+novembre i berlinesi saranno chiamati a ma"," e ognuno poteva andare a vederli nello stallatico.
+ Il 19
+novembre i berlinesi saranno chiamati a ma",stallatico,Il,1
+it_isdt-ud-test,31654,.,no chiamati a manifestare per la libertà di stampa,"
+ E
+qui Baudo, chiamato a Raitre dal direttore Ang","no chiamati a manifestare per la libertà di stampa.
+ E
+qui Baudo, chiamato a Raitre dal direttore Ang",stampa,E,1
+it_isdt-ud-test,32028,.," tecnologicamente attrezzati, spiega la sua teoria","
+ Il 7 settembre
+1439 è citato come allievo di Dom"," tecnologicamente attrezzati, spiega la sua teoria.
+ Il 7 settembre
+1439 è citato come allievo di Dom",teoria,Il,1
+it_isdt-ud-test,32208,.,"della Vergine nel coro della chiesa di
+Sant'Egidio","
+ i sei santi laterali e le sette tavolette che co","della Vergine nel coro della chiesa di
+Sant'Egidio.
+ i sei santi laterali e le sette tavolette che co",Sant'Egidio,i,1
+it_isdt-ud-test,32326,.,edella sono invece opera dello sconosciuto allievo,"
+ Nel 1467 a Perugia eseguì
+per conto delle suore ","edella sono invece opera dello sconosciuto allievo.
+ Nel 1467 a Perugia eseguì
+per conto delle suore ",allievo,Nel,1
+it_isdt-ud-test,32801,.,ro da Filippo Brunelleschi e Leon Battista Alberti,"
+ Si è ispirato alla
+lezione euclidea per l'ordine","ro da Filippo Brunelleschi e Leon Battista Alberti.
+ Si è ispirato alla
+lezione euclidea per l'ordine",Alberti,Si,1
+it_isdt-ud-test,33171,.,"gole aritmetiche e
+algebriche applicate ai calcoli","
+ Nel 1999 la band non volendo più essere
+etichett","gole aritmetiche e
+algebriche applicate ai calcoli.
+ Nel 1999 la band non volendo più essere
+etichett",calcoli,Nel,1
+it_isdt-ud-test,33311,.,"tal band"" intraprende la via
+della sperimentazione","
+ Con Projector il gruppo approda a sonorità quasi","tal band"" intraprende la via
+della sperimentazione.
+ Con Projector il gruppo approda a sonorità quasi",sperimentazione,Con,1
+it_isdt-ud-test,33494,.,"te, atmosferiche, con anche vocals in canto pulito","
+ L'album riscuote un
+alto successo, ma divide i f","te, atmosferiche, con anche vocals in canto pulito.
+ L'album riscuote un
+alto successo, ma divide i f",pulito,L'album,1
+it_isdt-ud-test,33625,.,"corso e chi li accusa
+di aver rinnegato le origini","
+ una evoluzione di questa tecnica permetteva di f","corso e chi li accusa
+di aver rinnegato le origini.
+ una evoluzione di questa tecnica permetteva di f",origini,una,1
+it_isdt-ud-test,33759,.,"li sugli schermi radar, allineati lungo la
+radiale","
+ Tutti gli altri radar dello scenario continuano ","li sugli schermi radar, allineati lungo la
+radiale.
+ Tutti gli altri radar dello scenario continuano ",radiale,Tutti,1
+it_isdt-ud-test,33835,.,"ello scenario continuano a funzionare
+regolarmente","
+ La maggior parte dei dispositivi commercializzat","ello scenario continuano a funzionare
+regolarmente.
+ La maggior parte dei dispositivi commercializzat",regolarmente,La,1
+it_isdt-ud-test,34109,.,"
+una lettura corrispondente ad una velocità minore","
+ Specchi progettò la fontana
+nel 1711, nelle imme","
+una lettura corrispondente ad una velocità minore.
+ Specchi progettò la fontana
+nel 1711, nelle imme",minore,Specchi,1
+it_isdt-ud-test,34315,.,"hese di Prossedi e Generale
+delle Poste pontificie","
+ La sua prima comparsa viene generalmente identif","hese di Prossedi e Generale
+delle Poste pontificie.
+ La sua prima comparsa viene generalmente identif",pontificie,La,1
+it_isdt-ud-test,34443,.,"05, presentato a un convegno sulla salute pubblica","
+ Lo smog
+fotochimico viene anche chiamato smog es","05, presentato a un convegno sulla salute pubblica.
+ Lo smog
+fotochimico viene anche chiamato smog es",pubblica,Lo,1
+it_isdt-ud-test,34700,.,"o vennero segnalati intorno al 1940 a
+Los Angeles)","
+ Yamanote-sen è scritto ufficialmente senza kana ","o vennero segnalati intorno al 1940 a
+Los Angeles).
+ Yamanote-sen è scritto ufficialmente senza kana ",,Yamanote-sen,1
+it_isdt-ud-test,34798,.,"na ""no"" (の o ノ),
+rendendo la sua pronuncia ambigua","
+ Infatti il tentativo di Broglio di continuare
+la","na ""no"" (の o ノ),
+rendendo la sua pronuncia ambigua.
+ Infatti il tentativo di Broglio di continuare
+la",ambigua,Infatti,1
+it_isdt-ud-test,35104,.,"e per il lancio di satelliti di
+piccole dimensioni","
+ Le attività incluse nel primo progetto di elabor","e per il lancio di satelliti di
+piccole dimensioni.
+ Le attività incluse nel primo progetto di elabor",dimensioni,Le,1
+it_isdt-ud-test,35400,., Central-East Africa Satellite Monitoring (CEASMO),"
+
+L'insieme di tutte queste operazioni viene chiam"," Central-East Africa Satellite Monitoring (CEASMO).
+
+L'insieme di tutte queste operazioni viene chiam",,L'insieme,1
+it_isdt-ud-test,35466,.,tutte queste operazioni viene chiamato stigliatura,"
+ La lana che si
+ricava si chiama lana di concia.
+","tutte queste operazioni viene chiamato stigliatura.
+ La lana che si
+ricava si chiama lana di concia.
+",stigliatura,La,1
+it_isdt-ud-test,35515,.,"a.
+ La lana che si
+ricava si chiama lana di concia","
+ è rivestita esternamente da squame e presenta
+nu","a.
+ La lana che si
+ricava si chiama lana di concia.
+ è rivestita esternamente da squame e presenta
+nu",concia,è,1
+it_isdt-ud-test,35637,.,"astiche, origine della caratteristica arricciatura","
+ La
+trasformazione, che comprende filatura, tessi","astiche, origine della caratteristica arricciatura.
+ La
+trasformazione, che comprende filatura, tessi",arricciatura,La,1
+it_isdt-ud-test,35799,.,"ogativa europea, con Inghilterra e Italia in
+testa","
+ Il terzo originale è firmato dal vettore e da qu","ogativa europea, con Inghilterra e Italia in
+testa.
+ Il terzo originale è firmato dal vettore e da qu",testa,Il,1
+it_isdt-ud-test,35914,.,"o al
+mittente dopo aver preso in consegna la merce","
+ considerando che un termine di
+prescrizione unif","o al
+mittente dopo aver preso in consegna la merce.
+ considerando che un termine di
+prescrizione unif",merce,considerando,1
+it_isdt-ud-test,36125,?,"egnato il premio Nobel per la
+pace a Yasser Arafat","
+ Dove si tiene il Motorshow?
+ Chi è Jean-Bertrand","egnato il premio Nobel per la
+pace a Yasser Arafat?
+ Dove si tiene il Motorshow?
+ Chi è Jean-Bertrand",Arafat,Dove,1
+it_isdt-ud-test,36154,?,"
+pace a Yasser Arafat?
+ Dove si tiene il Motorshow","
+ Chi è Jean-Bertrand Aristide?
+
+Come si forma l'o","
+pace a Yasser Arafat?
+ Dove si tiene il Motorshow?
+ Chi è Jean-Bertrand Aristide?
+
+Come si forma l'o",Motorshow,Chi,1
+it_isdt-ud-test,36185,?," tiene il Motorshow?
+ Chi è Jean-Bertrand Aristide","
+
+Come si forma l'ozono?
+ In quale giorno cade il "," tiene il Motorshow?
+ Chi è Jean-Bertrand Aristide?
+
+Come si forma l'ozono?
+ In quale giorno cade il ",Aristide,Come,1
+it_isdt-ud-test,36209,?,"i è Jean-Bertrand Aristide?
+
+Come si forma l'ozono","
+ In quale giorno cade il solstizio d'estate?
+ Com","i è Jean-Bertrand Aristide?
+
+Come si forma l'ozono?
+ In quale giorno cade il solstizio d'estate?
+ Com",l'ozono,In,1
+it_isdt-ud-test,36254,?,"ozono?
+ In quale giorno cade il solstizio d'estate","
+ Come funziona
+la risonanza magnetica?
+ Di che co","ozono?
+ In quale giorno cade il solstizio d'estate?
+ Come funziona
+la risonanza magnetica?
+ Di che co",d'estate,Come,1
+it_isdt-ud-test,36293,?,"io d'estate?
+ Come funziona
+la risonanza magnetica","
+ Di che cosa sono fatti i cavi in fibra ottica?
+ ","io d'estate?
+ Come funziona
+la risonanza magnetica?
+ Di che cosa sono fatti i cavi in fibra ottica?
+ ",magnetica,Di,1
+it_isdt-ud-test,36341,?,"ca?
+ Di che cosa sono fatti i cavi in fibra ottica","
+ Chi
+interpreta il ruolo di una prostituta in ""Ta","ca?
+ Di che cosa sono fatti i cavi in fibra ottica?
+ Chi
+interpreta il ruolo di una prostituta in ""Ta",ottica,Chi,1
+it_isdt-ud-test,36402,?,"rpreta il ruolo di una prostituta in ""Taxi Driver""","
+ Da quale paese viene il
+tango?
+ Qual è la sigla ","rpreta il ruolo di una prostituta in ""Taxi Driver""?
+ Da quale paese viene il
+tango?
+ Qual è la sigla ",,Da,1
+it_isdt-ud-test,36434,?,"a in ""Taxi Driver""?
+ Da quale paese viene il
+tango","
+ Qual è la sigla per Amnesty International?
+ Che ","a in ""Taxi Driver""?
+ Da quale paese viene il
+tango?
+ Qual è la sigla per Amnesty International?
+ Che ",tango,Qual,1
+it_isdt-ud-test,36478,?,"
+tango?
+ Qual è la sigla per Amnesty International","
+ Che cosa ha influenzato
+l'""effetto Tequila""?
+ Co","
+tango?
+ Qual è la sigla per Amnesty International?
+ Che cosa ha influenzato
+l'""effetto Tequila""?
+ Co",International,Che,1
+it_isdt-ud-test,36524,?,"onal?
+ Che cosa ha influenzato
+l'""effetto Tequila""","
+ Cosa si può trovare al ""Chester Beatty""?
+ Che co","onal?
+ Che cosa ha influenzato
+l'""effetto Tequila""?
+ Cosa si può trovare al ""Chester Beatty""?
+ Che co",,Cosa,1
+it_isdt-ud-test,36566,?,"Tequila""?
+ Cosa si può trovare al ""Chester Beatty""","
+ Che cosa ha
+inventato il Barone Marcel Bich?
+ Ch","Tequila""?
+ Cosa si può trovare al ""Chester Beatty""?
+ Che cosa ha
+inventato il Barone Marcel Bich?
+ Ch",,Che,1
+it_isdt-ud-test,36612,?,"tty""?
+ Che cosa ha
+inventato il Barone Marcel Bich","
+ Che giorno è l'anniversario della scoperta
+dell'","tty""?
+ Che cosa ha
+inventato il Barone Marcel Bich?
+ Che giorno è l'anniversario della scoperta
+dell'",Bich,Che,1
+it_isdt-ud-test,36670,?,"iorno è l'anniversario della scoperta
+dell'America","
+ Chi era il presidente degli Stati Uniti nel 1994","iorno è l'anniversario della scoperta
+dell'America?
+ Chi era il presidente degli Stati Uniti nel 1994",dell'America,Chi,1
+it_isdt-ud-test,36721,?,"
+ Chi era il presidente degli Stati Uniti nel 1994","
+ In quale città
+italiana si trova la fontana di T","
+ Chi era il presidente degli Stati Uniti nel 1994?
+ In quale città
+italiana si trova la fontana di T",1994,In,1
+it_isdt-ud-test,36776,?," quale città
+italiana si trova la fontana di Trevi","
+ Chi è il fondatore del canale di notizie
+CNN?
+ Q"," quale città
+italiana si trova la fontana di Trevi?
+ Chi è il fondatore del canale di notizie
+CNN?
+ Q",Trevi,Chi,1
+it_isdt-ud-test,36823,?,"evi?
+ Chi è il fondatore del canale di notizie
+CNN","
+ Qual è il titolo dell'autobiografia di Nelson Ma","evi?
+ Chi è il fondatore del canale di notizie
+CNN?
+ Qual è il titolo dell'autobiografia di Nelson Ma",CNN,Qual,1
+it_isdt-ud-test,36879,?,l è il titolo dell'autobiografia di Nelson Mandela,"
+ Come si chiama la
+vedova di Samora Machel, il de","l è il titolo dell'autobiografia di Nelson Mandela?
+ Come si chiama la
+vedova di Samora Machel, il de",Mandela,Come,1
+it_isdt-ud-test,36960,?,"Samora Machel, il defunto presidente del Mozambico","
+ Dimmi il nome di
+uno dei fondatori di Greenpeace","Samora Machel, il defunto presidente del Mozambico?
+ Dimmi il nome di
+uno dei fondatori di Greenpeace",Mozambico,Dimmi,1
+it_isdt-ud-test,37011,.,"
+ Dimmi il nome di
+uno dei fondatori di Greenpeace","
+ Chi è Joao Havelange?
+ Che cosa ha ritirato la
+S","
+ Dimmi il nome di
+uno dei fondatori di Greenpeace.
+ Chi è Joao Havelange?
+ Che cosa ha ritirato la
+S",Greenpeace,Chi,1
+it_isdt-ud-test,37034,?,"dei fondatori di Greenpeace.
+ Chi è Joao Havelange","
+ Che cosa ha ritirato la
+Saab?
+ Quale porzione de","dei fondatori di Greenpeace.
+ Chi è Joao Havelange?
+ Che cosa ha ritirato la
+Saab?
+ Quale porzione de",Havelange,Che,1
+it_isdt-ud-test,37065,?,"hi è Joao Havelange?
+ Che cosa ha ritirato la
+Saab","
+ Quale porzione del fatturato della HP viene real","hi è Joao Havelange?
+ Che cosa ha ritirato la
+Saab?
+ Quale porzione del fatturato della HP viene real",Saab,Quale,1
+it_isdt-ud-test,37132,?, del fatturato della HP viene realizzato in Europa,"
+ Come si
+sono leggermente ferite 22 persone nell'"," del fatturato della HP viene realizzato in Europa?
+ Come si
+sono leggermente ferite 22 persone nell'",Europa,Come,1
+it_isdt-ud-test,37204,?,mente ferite 22 persone nell'Empire State Building,"
+ Chi è
+l'architetto del museo Guggenheim di Bilba","mente ferite 22 persone nell'Empire State Building?
+ Chi è
+l'architetto del museo Guggenheim di Bilba",Building,Chi,1
+it_isdt-ud-test,37256,?," Chi è
+l'architetto del museo Guggenheim di Bilbao","
+ Come si chiama il partito di Silvio
+Berlusconi?
+"," Chi è
+l'architetto del museo Guggenheim di Bilbao?
+ Come si chiama il partito di Silvio
+Berlusconi?
+",Bilbao,Come,1
+it_isdt-ud-test,37305,?,"o?
+ Come si chiama il partito di Silvio
+Berlusconi","
+ Di quale paese Egor Gadar è stato primo ministro","o?
+ Come si chiama il partito di Silvio
+Berlusconi?
+ Di quale paese Egor Gadar è stato primo ministro",Berlusconi,Di,1
+it_isdt-ud-test,37356,?,"
+ Di quale paese Egor Gadar è stato primo ministro","
+ Quanti film sono
+stati presentati al Festival mo","
+ Di quale paese Egor Gadar è stato primo ministro?
+ Quanti film sono
+stati presentati al Festival mo",ministro,Quanti,1
+it_isdt-ud-test,37436,?,entati al Festival mondiale del cinema di Montreal,"
+ Che lavoro faceva
+Danny Barker?
+ Di quale squadr","entati al Festival mondiale del cinema di Montreal?
+ Che lavoro faceva
+Danny Barker?
+ Di quale squadr",Montreal,Che,1
+it_isdt-ud-test,37469,?,"inema di Montreal?
+ Che lavoro faceva
+Danny Barker","
+ Di quale squadra automobilistica è direttore Fla","inema di Montreal?
+ Che lavoro faceva
+Danny Barker?
+ Di quale squadra automobilistica è direttore Fla",Barker,Di,1
+it_isdt-ud-test,37532,?,quadra automobilistica è direttore Flavio Briatore,"
+ Chi
+era il marito di Vieira da Silva?
+ Chi è il ","quadra automobilistica è direttore Flavio Briatore?
+ Chi
+era il marito di Vieira da Silva?
+ Chi è il ",Briatore,Chi,1
+it_isdt-ud-test,37571,?,"io Briatore?
+ Chi
+era il marito di Vieira da Silva","
+ Chi è il ministro dell'ambiente svedese?
+
+Quando","io Briatore?
+ Chi
+era il marito di Vieira da Silva?
+ Chi è il ministro dell'ambiente svedese?
+
+Quando",Silva,Chi,1
+it_isdt-ud-test,37613,?,"da Silva?
+ Chi è il ministro dell'ambiente svedese","
+
+Quando morì Simon Bolivar?
+ Quale importante fen","da Silva?
+ Chi è il ministro dell'ambiente svedese?
+
+Quando morì Simon Bolivar?
+ Quale importante fen",svedese,Quando,1
+it_isdt-ud-test,37641,?," dell'ambiente svedese?
+
+Quando morì Simon Bolivar","
+ Quale importante fenomeno del Sud Pacifico influ"," dell'ambiente svedese?
+
+Quando morì Simon Bolivar?
+ Quale importante fenomeno del Sud Pacifico influ",Bolivar,Quale,1
+it_isdt-ud-test,37714,?,"omeno del Sud Pacifico influenza
+il clima mondiale","
+ Quante persone, in tutta la UE, hanno diritto di","omeno del Sud Pacifico influenza
+il clima mondiale?
+ Quante persone, in tutta la UE, hanno diritto di",mondiale,Quante,1
+it_isdt-ud-test,37811,?,"o di voto per
+eleggere il nuovo Parlamento Europeo","
+ Chi è il capo del Sinn Fein?
+ Chi è il
+fondatore","o di voto per
+eleggere il nuovo Parlamento Europeo?
+ Chi è il capo del Sinn Fein?
+ Chi è il
+fondatore",Europeo,Chi,1
+it_isdt-ud-test,37841,?,"o Parlamento Europeo?
+ Chi è il capo del Sinn Fein","
+ Chi è il
+fondatore dell'Ordine del Tempio Solare","o Parlamento Europeo?
+ Chi è il capo del Sinn Fein?
+ Chi è il
+fondatore dell'Ordine del Tempio Solare",Fein,Chi,1
+it_isdt-ud-test,37892,?,"
+ Chi è il
+fondatore dell'Ordine del Tempio Solare","
+ Quando avvenne il disastro di
+Chernobyl?
+ Chi è ","
+ Chi è il
+fondatore dell'Ordine del Tempio Solare?
+ Quando avvenne il disastro di
+Chernobyl?
+ Chi è ",Solare,Quando,1
+it_isdt-ud-test,37934,?,"o Solare?
+ Quando avvenne il disastro di
+Chernobyl","
+ Chi è il Ministro degli Esteri italiano?
+ Quando","o Solare?
+ Quando avvenne il disastro di
+Chernobyl?
+ Chi è il Ministro degli Esteri italiano?
+ Quando",Chernobyl,Chi,1
+it_isdt-ud-test,37976,?,"hernobyl?
+ Chi è il Ministro degli Esteri italiano","
+ Quando Hong Kong passerà
+alla Cina?
+ Quale Primo","hernobyl?
+ Chi è il Ministro degli Esteri italiano?
+ Quando Hong Kong passerà
+alla Cina?
+ Quale Primo",italiano,Quando,1
+it_isdt-ud-test,38013,?,"teri italiano?
+ Quando Hong Kong passerà
+alla Cina","
+ Quale Primo Ministro francese si suicidò negli a","teri italiano?
+ Quando Hong Kong passerà
+alla Cina?
+ Quale Primo Ministro francese si suicidò negli a",Cina,Quale,1
+it_isdt-ud-test,38070,?,e Primo Ministro francese si suicidò negli anni 90,"
+ Dove vennero
+utilizzati i caccia Strike Eagles n","e Primo Ministro francese si suicidò negli anni 90?
+ Dove vennero
+utilizzati i caccia Strike Eagles n",90,Dove,1
+it_isdt-ud-test,38128,?,"vennero
+utilizzati i caccia Strike Eagles nel 1990","
+ Quando è stato girato il film
+""Giochi di Guerra""","vennero
+utilizzati i caccia Strike Eagles nel 1990?
+ Quando è stato girato il film
+""Giochi di Guerra""",1990,Quando,1
+it_isdt-ud-test,38192,?,"ato girato il film
+""Giochi di Guerra"" (""WarGames"")","
+ Nomina una canzone dei Nirvana.
+ Quante persone
+","ato girato il film
+""Giochi di Guerra"" (""WarGames"")?
+ Nomina una canzone dei Nirvana.
+ Quante persone
+",,Nomina,1
+it_isdt-ud-test,38225,.,"rra"" (""WarGames"")?
+ Nomina una canzone dei Nirvana","
+ Quante persone
+morirono nell'incidente aereo del","rra"" (""WarGames"")?
+ Nomina una canzone dei Nirvana.
+ Quante persone
+morirono nell'incidente aereo del",Nirvana,Quante,1
+it_isdt-ud-test,38298,?,ono nell'incidente aereo del 1972 nelle Everglades,"
+ Quando l'Unione
+Sovietica invase l'Afghanistan?
+","ono nell'incidente aereo del 1972 nelle Everglades?
+ Quando l'Unione
+Sovietica invase l'Afghanistan?
+",Everglades,Quando,1
+it_isdt-ud-test,38347,?,"s?
+ Quando l'Unione
+Sovietica invase l'Afghanistan","
+ Quanto è lungo il fiume Okavango?
+ Quando ci fu
+","s?
+ Quando l'Unione
+Sovietica invase l'Afghanistan?
+ Quanto è lungo il fiume Okavango?
+ Quando ci fu
+",l'Afghanistan,Quanto,1
+it_isdt-ud-test,38382,?,"e l'Afghanistan?
+ Quanto è lungo il fiume Okavango","
+ Quando ci fu
+la sparatoria a Columbine?
+ Quanti ","e l'Afghanistan?
+ Quanto è lungo il fiume Okavango?
+ Quando ci fu
+la sparatoria a Columbine?
+ Quanti ",Okavango,Quando,1
+it_isdt-ud-test,38423,?," Okavango?
+ Quando ci fu
+la sparatoria a Columbine","
+ Quanti stati erano ancora uniti dopo la secessio"," Okavango?
+ Quando ci fu
+la sparatoria a Columbine?
+ Quanti stati erano ancora uniti dopo la secessio",Columbine,Quanti,1
+it_isdt-ud-test,38496,?,"ncora uniti dopo la secessione
+degli stati del sud","
+ Dove venne costruito il primo Mcdonalds?
+ Il dis","ncora uniti dopo la secessione
+degli stati del sud?
+ Dove venne costruito il primo Mcdonalds?
+ Il dis",sud,Dove,1
+it_isdt-ud-test,38538,?," del sud?
+ Dove venne costruito il primo Mcdonalds","
+ Il disastro di
+Hindenburg avvenne nel 1937 in qu"," del sud?
+ Dove venne costruito il primo Mcdonalds?
+ Il disastro di
+Hindenburg avvenne nel 1937 in qu",Mcdonalds,Il,1
+it_isdt-ud-test,38613,?,urg avvenne nel 1937 in quale città del New Jersey,"
+ Dove si trova il
+punto più elevato della Terra?
+","urg avvenne nel 1937 in quale città del New Jersey?
+ Dove si trova il
+punto più elevato della Terra?
+",Jersey,Dove,1
+it_isdt-ud-test,38662,?,"y?
+ Dove si trova il
+punto più elevato della Terra","
+ Qual è l'inno nazionale in Inghilterra?
+ Quanto
+","y?
+ Dove si trova il
+punto più elevato della Terra?
+ Qual è l'inno nazionale in Inghilterra?
+ Quanto
+",Terra,Qual,1
+it_isdt-ud-test,38703,?,"lla Terra?
+ Qual è l'inno nazionale in Inghilterra","
+ Quanto
+era alta Judy Garland?
+ Qual è il paese c","lla Terra?
+ Qual è l'inno nazionale in Inghilterra?
+ Quanto
+era alta Judy Garland?
+ Qual è il paese c",Inghilterra,Quanto,1
+it_isdt-ud-test,38734,?,"nale in Inghilterra?
+ Quanto
+era alta Judy Garland","
+ Qual è il paese col più alto numero di abitanti ","nale in Inghilterra?
+ Quanto
+era alta Judy Garland?
+ Qual è il paese col più alto numero di abitanti ",Garland,Qual,1
+it_isdt-ud-test,38793,?, il paese col più alto numero di abitanti al mondo,"
+
+In che anno venne inventato il PC?
+ Chi diede in"," il paese col più alto numero di abitanti al mondo?
+
+In che anno venne inventato il PC?
+ Chi diede in",mondo,In,1
+it_isdt-ud-test,38829,?,"tanti al mondo?
+
+In che anno venne inventato il PC","
+ Chi diede inizio alla Riforma Protestante?
+
+Qual","tanti al mondo?
+
+In che anno venne inventato il PC?
+ Chi diede inizio alla Riforma Protestante?
+
+Qual",PC,Chi,1
+it_isdt-ud-test,38873,?," il PC?
+ Chi diede inizio alla Riforma Protestante","
+
+Qual è la percentuale della popolazione mancina?"," il PC?
+ Chi diede inizio alla Riforma Protestante?
+
+Qual è la percentuale della popolazione mancina?",Protestante,Qual,1
+it_isdt-ud-test,38923,?,"?
+
+Qual è la percentuale della popolazione mancina","
+ Come si chiama la moneta usata
+in Bolivia?
+ Quan","?
+
+Qual è la percentuale della popolazione mancina?
+ Come si chiama la moneta usata
+in Bolivia?
+ Quan",mancina,Come,1
+it_isdt-ud-test,38967,?,"ancina?
+ Come si chiama la moneta usata
+in Bolivia","
+ Quando ci fu l'invasione statunitense di Haiti?
+","ancina?
+ Come si chiama la moneta usata
+in Bolivia?
+ Quando ci fu l'invasione statunitense di Haiti?
+",Bolivia,Quando,1
+it_isdt-ud-test,39016,?,"a?
+ Quando ci fu l'invasione statunitense di Haiti","
+ Qual è l'ingrediente
+attivo nel tilenolo?
+ Come ","a?
+ Quando ci fu l'invasione statunitense di Haiti?
+ Qual è l'ingrediente
+attivo nel tilenolo?
+ Come ",Haiti,Qual,1
+it_isdt-ud-test,39059,?,"i Haiti?
+ Qual è l'ingrediente
+attivo nel tilenolo","
+ Come si chiama la famosa competizione di slitta ","i Haiti?
+ Qual è l'ingrediente
+attivo nel tilenolo?
+ Come si chiama la famosa competizione di slitta ",tilenolo,Come,1
+it_isdt-ud-test,39159,?," trainata da
+cani che si tiene ogni anno in Alaska","
+ Quanto si stima che costeranno le
+stazioni spazi"," trainata da
+cani che si tiene ogni anno in Alaska?
+ Quanto si stima che costeranno le
+stazioni spazi",Alaska,Quanto,1
+it_isdt-ud-test,39228,?,"che costeranno le
+stazioni spaziali internazionali","
+ Come dici ""patatine fritte"" in francese?
+ Che
+pr","che costeranno le
+stazioni spaziali internazionali?
+ Come dici ""patatine fritte"" in francese?
+ Che
+pr",internazionali,Come,1
+it_isdt-ud-test,39270,?,"azionali?
+ Come dici ""patatine fritte"" in francese","
+ Che
+premio vinse nel 1963 il libro di Sterling N","azionali?
+ Come dici ""patatine fritte"" in francese?
+ Che
+premio vinse nel 1963 il libro di Sterling N",francese,Che,1
+it_isdt-ud-test,39334,?,"vinse nel 1963 il libro di Sterling North ""Rascal""","
+ Come si dice ""maiale""
+in spagnolo?
+ Quanto è vec","vinse nel 1963 il libro di Sterling North ""Rascal""?
+ Come si dice ""maiale""
+in spagnolo?
+ Quanto è vec",,Come,1
+it_isdt-ud-test,39370,?,"North ""Rascal""?
+ Come si dice ""maiale""
+in spagnolo","
+ Quanto è vecchio l'universo?
+ Come viene chiamat","North ""Rascal""?
+ Come si dice ""maiale""
+in spagnolo?
+ Quanto è vecchio l'universo?
+ Come viene chiamat",spagnolo,Quanto,1
+it_isdt-ud-test,39400,?,"""maiale""
+in spagnolo?
+ Quanto è vecchio l'universo","
+ Come viene chiamato un gruppo di
+antilopi?
+ In q","""maiale""
+in spagnolo?
+ Quanto è vecchio l'universo?
+ Come viene chiamato un gruppo di
+antilopi?
+ In q",l'universo,Come,1
+it_isdt-ud-test,39444,?,"iverso?
+ Come viene chiamato un gruppo di
+antilopi","
+ In quale anno venne costruito Ebbets Field, la s","iverso?
+ Come viene chiamato un gruppo di
+antilopi?
+ In quale anno venne costruito Ebbets Field, la s",antilopi,In,1
+it_isdt-ud-test,39519,?,"struito Ebbets Field, la sede dei Brooklin
+Dodgers","
+ Quale stato venne istituito nel 1948?
+ Qual è il","struito Ebbets Field, la sede dei Brooklin
+Dodgers?
+ Quale stato venne istituito nel 1948?
+ Qual è il",Dodgers,Quale,1
+it_isdt-ud-test,39558,?,"lin
+Dodgers?
+ Quale stato venne istituito nel 1948","
+ Qual è il soprannome
+dell'Oklahoma?
+ Dimmi dove ","lin
+Dodgers?
+ Quale stato venne istituito nel 1948?
+ Qual è il soprannome
+dell'Oklahoma?
+ Dimmi dove ",1948,Qual,1
+it_isdt-ud-test,39595,?,"uito nel 1948?
+ Qual è il soprannome
+dell'Oklahoma","
+ Dimmi dove si trova la compagnia DuPont.
+ Chi è ","uito nel 1948?
+ Qual è il soprannome
+dell'Oklahoma?
+ Dimmi dove si trova la compagnia DuPont.
+ Chi è ",dell'Oklahoma,Dimmi,1
+it_isdt-ud-test,39637,.,"Oklahoma?
+ Dimmi dove si trova la compagnia DuPont","
+ Chi è Alberto Tomba?
+
+Qual è la popolazione dell","Oklahoma?
+ Dimmi dove si trova la compagnia DuPont.
+ Chi è Alberto Tomba?
+
+Qual è la popolazione dell",DuPont,Chi,1
+it_isdt-ud-test,39659,?,"si trova la compagnia DuPont.
+ Chi è Alberto Tomba","
+
+Qual è la popolazione dell'Islanda?
+ Quale veloc","si trova la compagnia DuPont.
+ Chi è Alberto Tomba?
+
+Qual è la popolazione dell'Islanda?
+ Quale veloc",Tomba,Qual,1
+it_isdt-ud-test,39696,?,"Alberto Tomba?
+
+Qual è la popolazione dell'Islanda","
+ Quale velocità può raggiungere un
+sottomarino nu","Alberto Tomba?
+
+Qual è la popolazione dell'Islanda?
+ Quale velocità può raggiungere un
+sottomarino nu",dell'Islanda,Quale,1
+it_isdt-ud-test,39753,?,"e velocità può raggiungere un
+sottomarino nucleare","
+ Quale membrana controlla la quantità di luce che","e velocità può raggiungere un
+sottomarino nucleare?
+ Quale membrana controlla la quantità di luce che",nucleare,Quale,1
+it_isdt-ud-test,39822,?,"ontrolla la quantità di luce che entra
+nell'occhio","
+ Come vengono chiamate le persone nate dal 1965 a","ontrolla la quantità di luce che entra
+nell'occhio?
+ Come vengono chiamate le persone nate dal 1965 a",nell'occhio,Come,1
+it_isdt-ud-test,39879,?, vengono chiamate le persone nate dal 1965 al 1980,"
+ Qual è il
+nome dello stadio dei Cav?
+ Qual è lo "," vengono chiamate le persone nate dal 1965 al 1980?
+ Qual è il
+nome dello stadio dei Cav?
+ Qual è lo ",1980,Qual,1
+it_isdt-ud-test,39917,?,"1965 al 1980?
+ Qual è il
+nome dello stadio dei Cav","
+ Qual è lo stato con la minore popolazione?
+ Elen","1965 al 1980?
+ Qual è il
+nome dello stadio dei Cav?
+ Qual è lo stato con la minore popolazione?
+ Elen",Cav,Qual,1
+it_isdt-ud-test,39961,?,"ei Cav?
+ Qual è lo stato con la minore popolazione","
+ Elenca
+delle cantanti che hanno recitato la part","ei Cav?
+ Qual è lo stato con la minore popolazione?
+ Elenca
+delle cantanti che hanno recitato la part",popolazione,Elenca,1
+it_isdt-ud-test,40076,.,"ira in messe in scena del
+""Don Giovanni"" di Mozart","
+ Quale animale ha le impronte digitali simili a q","ira in messe in scena del
+""Don Giovanni"" di Mozart.
+ Quale animale ha le impronte digitali simili a q",Mozart,Quale,1
+it_isdt-ud-test,40138,?,"male ha le impronte digitali simili a quelle
+umane","
+ Qual è il motto del ""New York Times""?
+ A quale a","male ha le impronte digitali simili a quelle
+umane?
+ Qual è il motto del ""New York Times""?
+ A quale a",umane,Qual,1
+it_isdt-ud-test,40177,?,"uelle
+umane?
+ Qual è il motto del ""New York Times""","
+ A quale azienda appartiene il
+marchio di bevande","uelle
+umane?
+ Qual è il motto del ""New York Times""?
+ A quale azienda appartiene il
+marchio di bevande",,A,1
+it_isdt-ud-test,40253,?,"ene il
+marchio di bevande non alcoliche ""Gatorade""","
+ Quali paesi ha visitato la first
+lady Hillary Cl","ene il
+marchio di bevande non alcoliche ""Gatorade""?
+ Quali paesi ha visitato la first
+lady Hillary Cl",,Quali,1
+it_isdt-ud-test,40309,?,"li paesi ha visitato la first
+lady Hillary Clinton","
+ In quale provincia canadese si trova il maggior ","li paesi ha visitato la first
+lady Hillary Clinton?
+ In quale provincia canadese si trova il maggior ",Clinton,In,1
+it_isdt-ud-test,40397,?,"a il maggior numero di
+persone di origine francese","
+ Da quale gas è composto il 78 percento
+dell'atmo","a il maggior numero di
+persone di origine francese?
+ Da quale gas è composto il 78 percento
+dell'atmo",francese,Da,1
+it_isdt-ud-test,40463,?,"è composto il 78 percento
+dell'atmosfera terrestre","
+ In quale giorno affondò il Lusitania?
+ Che cos'è","è composto il 78 percento
+dell'atmosfera terrestre?
+ In quale giorno affondò il Lusitania?
+ Che cos'è",terrestre,In,1
+it_isdt-ud-test,40502,?,"a terrestre?
+ In quale giorno affondò il Lusitania","
+ Che cos'è L'A?
+
+In quale giorno avvenne l'attacc","a terrestre?
+ In quale giorno affondò il Lusitania?
+ Che cos'è L'A?
+
+In quale giorno avvenne l'attacc",Lusitania,Che,1
+it_isdt-ud-test,40518,?," quale giorno affondò il Lusitania?
+ Che cos'è L'A","
+
+In quale giorno avvenne l'attacco a Pearl Harbor"," quale giorno affondò il Lusitania?
+ Che cos'è L'A?
+
+In quale giorno avvenne l'attacco a Pearl Harbor",L'A,In,1
+it_isdt-ud-test,40569,?,"
+
+In quale giorno avvenne l'attacco a Pearl Harbor","
+ Quando Panama si vide
+restituire il Canale di Pa","
+
+In quale giorno avvenne l'attacco a Pearl Harbor?
+ Quando Panama si vide
+restituire il Canale di Pa",Harbor,Quando,1
+it_isdt-ud-test,40624,?,"ando Panama si vide
+restituire il Canale di Panama","
+ In che modo le Hawaii divennero uno stato?
+ Da
+q","ando Panama si vide
+restituire il Canale di Panama?
+ In che modo le Hawaii divennero uno stato?
+ Da
+q",Panama,In,1
+it_isdt-ud-test,40668,?,"Panama?
+ In che modo le Hawaii divennero uno stato","
+ Da
+quale animale si ricava il ""veal""?
+ Quante fo","Panama?
+ In che modo le Hawaii divennero uno stato?
+ Da
+quale animale si ricava il ""veal""?
+ Quante fo",stato,Da,1
+it_isdt-ud-test,40707,?,"o uno stato?
+ Da
+quale animale si ricava il ""veal""","
+ Quante fossette ha una pallina regolamentare
+da ","o uno stato?
+ Da
+quale animale si ricava il ""veal""?
+ Quante fossette ha una pallina regolamentare
+da ",,Quante,1
+it_isdt-ud-test,40762,?,"ante fossette ha una pallina regolamentare
+da golf","
+ Da quale paese proveniva Marco Polo?
+ Chi è Niel","ante fossette ha una pallina regolamentare
+da golf?
+ Da quale paese proveniva Marco Polo?
+ Chi è Niel",golf,Da,1
+it_isdt-ud-test,40800,?,"tare
+da golf?
+ Da quale paese proveniva Marco Polo","
+ Chi è Niels Bohr?
+ Da quante
+repubbliche era com","tare
+da golf?
+ Da quale paese proveniva Marco Polo?
+ Chi è Niels Bohr?
+ Da quante
+repubbliche era com",Polo,Chi,1
+it_isdt-ud-test,40819,?,"uale paese proveniva Marco Polo?
+ Chi è Niels Bohr","
+ Da quante
+repubbliche era composta l'Unione Sovi","uale paese proveniva Marco Polo?
+ Chi è Niels Bohr?
+ Da quante
+repubbliche era composta l'Unione Sovi",Bohr,Da,1
+it_isdt-ud-test,40875,?,"quante
+repubbliche era composta l'Unione Sovietica","
+ A quanto corrisponde uno ""stone""
+inglese?
+ Dove ","quante
+repubbliche era composta l'Unione Sovietica?
+ A quanto corrisponde uno ""stone""
+inglese?
+ Dove ",Sovietica,A,1
+it_isdt-ud-test,40918,?,"vietica?
+ A quanto corrisponde uno ""stone""
+inglese","
+ Dove si trova il Monte Olimpo?
+ Quale ingegnere ","vietica?
+ A quanto corrisponde uno ""stone""
+inglese?
+ Dove si trova il Monte Olimpo?
+ Quale ingegnere ",inglese,Dove,1
+it_isdt-ud-test,40950,?,"no ""stone""
+inglese?
+ Dove si trova il Monte Olimpo","
+ Quale ingegnere progettò il Canale Erie?
+
+Quale ","no ""stone""
+inglese?
+ Dove si trova il Monte Olimpo?
+ Quale ingegnere progettò il Canale Erie?
+
+Quale ",Olimpo,Quale,1
+it_isdt-ud-test,40992,?,"e Olimpo?
+ Quale ingegnere progettò il Canale Erie","
+
+Quale attrice recitava il ruolo di Betsy nel ""Ma","e Olimpo?
+ Quale ingegnere progettò il Canale Erie?
+
+Quale attrice recitava il ruolo di Betsy nel ""Ma",Erie,Quale,1
+it_isdt-ud-test,41061,?,"citava il ruolo di Betsy nel ""Matrimonio di Betsy""","
+ Chi hanno
+incontrato i Rossi?
+ Su chi puntano i ","citava il ruolo di Betsy nel ""Matrimonio di Betsy""?
+ Chi hanno
+incontrato i Rossi?
+ Su chi puntano i ",,Chi,1
+it_isdt-ud-test,41092,?,"atrimonio di Betsy""?
+ Chi hanno
+incontrato i Rossi","
+ Su chi puntano i Repubblicani per vincere?
+ Che ","atrimonio di Betsy""?
+ Chi hanno
+incontrato i Rossi?
+ Su chi puntano i Repubblicani per vincere?
+ Che ",Rossi,Su,1
+it_isdt-ud-test,41136,?," Rossi?
+ Su chi puntano i Repubblicani per vincere","
+ Che cosa ha
+colpito la città?
+ Cosa ha travolto "," Rossi?
+ Su chi puntano i Repubblicani per vincere?
+ Che cosa ha
+colpito la città?
+ Cosa ha travolto ",vincere,Che,1
+it_isdt-ud-test,41167,?,"blicani per vincere?
+ Che cosa ha
+colpito la città","
+ Cosa ha travolto gli alberi?
+ Cosa viene prodott","blicani per vincere?
+ Che cosa ha
+colpito la città?
+ Cosa ha travolto gli alberi?
+ Cosa viene prodott",città,Cosa,1
+it_isdt-ud-test,41197,?," ha
+colpito la città?
+ Cosa ha travolto gli alberi","
+ Cosa viene prodotto dalla Oracle?
+
+Che cosa fann"," ha
+colpito la città?
+ Cosa ha travolto gli alberi?
+ Cosa viene prodotto dalla Oracle?
+
+Che cosa fann",alberi,Cosa,1
+it_isdt-ud-test,41232,?,"olto gli alberi?
+ Cosa viene prodotto dalla Oracle","
+
+Che cosa fanno gli antiossidanti?
+ In quanti han","olto gli alberi?
+ Cosa viene prodotto dalla Oracle?
+
+Che cosa fanno gli antiossidanti?
+ In quanti han",Oracle,Che,1
+it_isdt-ud-test,41267,?,"to dalla Oracle?
+
+Che cosa fanno gli antiossidanti","
+ In quanti hanno risposto?
+ Quando l'Austria ha
+f","to dalla Oracle?
+
+Che cosa fanno gli antiossidanti?
+ In quanti hanno risposto?
+ Quando l'Austria ha
+f",antiossidanti,In,1
+it_isdt-ud-test,41294,?,"fanno gli antiossidanti?
+ In quanti hanno risposto","
+ Quando l'Austria ha
+firmato il trattato?
+ Con le","fanno gli antiossidanti?
+ In quanti hanno risposto?
+ Quando l'Austria ha
+firmato il trattato?
+ Con le",risposto,Quando,1
+it_isdt-ud-test,41336,?,"risposto?
+ Quando l'Austria ha
+firmato il trattato","
+ Con le accuse di peculato e abuso d'ufficio, il ","risposto?
+ Quando l'Austria ha
+firmato il trattato?
+ Con le accuse di peculato e abuso d'ufficio, il ",trattato,Con,1
+it_isdt-ud-test,41726,.,"pardo, costituito tra i
+due Comuni della Ciociaria","
+ Tra gli indagati Francesco Rossi e Paolo Bianchi","pardo, costituito tra i
+due Comuni della Ciociaria.
+ Tra gli indagati Francesco Rossi e Paolo Bianchi",Ciociaria,Tra,1
+it_isdt-ud-test,41777,.,"
+ Tra gli indagati Francesco Rossi e Paolo Bianchi","
+ Ma
+quei soldi, per i pm di Palermo, sono frutto ","
+ Tra gli indagati Francesco Rossi e Paolo Bianchi.
+ Ma
+quei soldi, per i pm di Palermo, sono frutto ",Bianchi,Ma,1
+it_isdt-ud-test,42120,.,"atore di Forza Italia
+avrebbe fatto all'ex premier","
+ Per l'ex ministro Scajola i pm napoletani
+ipotiz","atore di Forza Italia
+avrebbe fatto all'ex premier.
+ Per l'ex ministro Scajola i pm napoletani
+ipotiz",premier,Per,1
+it_isdt-ud-test,42213,.,"i
+ipotizzano il reato di corruzione internazionale","
+ è già avvenuto in Lombardia,
+dove la crisi ha sp","i
+ipotizzano il reato di corruzione internazionale.
+ è già avvenuto in Lombardia,
+dove la crisi ha sp",internazionale,è,1
+it_isdt-ud-test,42345,.," le promozioni non solo a
+dicembre ma tutto l'anno","
+ prima che l'inchiesta colpisse addirittura il ve"," le promozioni non solo a
+dicembre ma tutto l'anno.
+ prima che l'inchiesta colpisse addirittura il ve",l'anno,prima,1
+it_isdt-ud-test,42516,.," filone, poi
+trasferito da Napoli a Busto Arstizio","
+ E non dimentichiamo che secondo Borgogni
+è stata"," filone, poi
+trasferito da Napoli a Busto Arstizio.
+ E non dimentichiamo che secondo Borgogni
+è stata",Arstizio,E,1
+it_isdt-ud-test,42613,.,tata assunta anche la figlia di Massimo Ponzellini,"
+ Altre tre persone, tra
+cui Marco Tornatore, figl","tata assunta anche la figlia di Massimo Ponzellini.
+ Altre tre persone, tra
+cui Marco Tornatore, figl",Ponzellini,Altre,1
+it_isdt-ud-test,42710,.,"figlio di Gianfranco, sono indagate a piede libero","
+
+Emergono intercettazioni in cui il manager Pozze","figlio di Gianfranco, sono indagate a piede libero.
+
+Emergono intercettazioni in cui il manager Pozze",libero,Emergono,1
+it_isdt-ud-test,42883,.,"neda, parla con disinvoltura di accordi
+e di quote","
+ “Nell’incidente ha sbattuto la parte destra dell","neda, parla con disinvoltura di accordi
+e di quote.
+ “Nell’incidente ha sbattuto la parte destra dell",quote,,1
+it_isdt-ud-test,42941,.,’incidente ha sbattuto la parte destra della testa,"
+ Non
+possiamo però speculare su eventuali lesioni","’incidente ha sbattuto la parte destra della testa.
+ Non
+possiamo però speculare su eventuali lesioni",testa,Non,1
+it_isdt-ud-test,43039,.,"oni permanenti o sulle sue chance di
+sopravvivenza","
+ Certo, – ha sottolineato Bergoglio – chi è inves","oni permanenti o sulle sue chance di
+sopravvivenza.
+ Certo, – ha sottolineato Bergoglio – chi è inves",sopravvivenza,Certo,1
+it_isdt-ud-test,43186,.,"a ciascuno è corresponsabile, nel bene e nel male”","
+
+Le ricerche dei bambini, quindi, sono proseguite","a ciascuno è corresponsabile, nel bene e nel male”.
+
+Le ricerche dei bambini, quindi, sono proseguite",,Le,1
+it_isdt-ud-test,43410,.,di finanza che hanno pattugliato la zona dall’alto,"
+ 
+
+Fiat acquisirà restante 41,46% di Chrysler per","di finanza che hanno pattugliato la zona dall’alto.
+ 
+
+Fiat acquisirà restante 41,46% di Chrysler per",alto,Fiat,1
+it_isdt-ud-test,43474,.,"isirà restante 41,46% di Chrysler per 3,6 miliardi","
+ Dello stesso tenore
+il commento del sindaco di T","isirà restante 41,46% di Chrysler per 3,6 miliardi.
+ Dello stesso tenore
+il commento del sindaco di T",miliardi,Dello,1
+it_isdt-ud-test,43613,.,"ei cose più
+serie per iniziare il 2014 ″, aggiunge","
+ Altri utenti, invece, si sono profusi in
+una ser","ei cose più
+serie per iniziare il 2014 ″, aggiunge.
+ Altri utenti, invece, si sono profusi in
+una ser",aggiunge,Altri,1
+it_isdt-ud-test,43708,.,na serie di apprezzamenti all’iniziativa di Grillo,"
+ 
+
+Attribuzione - Condividi allo stesso modo 2.0 ","na serie di apprezzamenti all’iniziativa di Grillo.
+ 
+
+Attribuzione - Condividi allo stesso modo 2.0 ",Grillo,Attribuzione,1
+it_isdt-ud-test,43756,.,"lo.
+ 
+
+Attribuzione - Condividi allo stesso modo 2","0 (Italia).
+ Ogni utilizzazione
+dell'opera che non","lo.
+ 
+
+Attribuzione - Condividi allo stesso modo 2.0 (Italia).
+ Ogni utilizzazione
+dell'opera che non",2,0,0
+it_isdt-ud-test,43767,.,ibuzione - Condividi allo stesso modo 2.0 (Italia),"
+ Ogni utilizzazione
+dell'opera che non sia autori","ibuzione - Condividi allo stesso modo 2.0 (Italia).
+ Ogni utilizzazione
+dell'opera che non sia autori",,Ogni,1
+it_isdt-ud-test,43889,.,"presente licenza o del diritto
+d'autore è proibita","
+ Compensi per la comunicazione al pubblico dell'o","presente licenza o del diritto
+d'autore è proibita.
+ Compensi per la comunicazione al pubblico dell'o",proibita,Compensi,1
+it_isdt-ud-test,43964,.,"cazione al pubblico dell'opera
+mediante fonogrammi","
+ Salvo che sia espressamente convenuto altrimenti","cazione al pubblico dell'opera
+mediante fonogrammi.
+ Salvo che sia espressamente convenuto altrimenti",fonogrammi,Salvo,1
+it_isdt-ud-test,44542,.," presenza di errori, siano essi accertabili o meno","
+
+Creative Commons non è parte della presente lice"," presenza di errori, siano essi accertabili o meno.
+
+Creative Commons non è parte della presente lice",meno,Creative,1
+it_isdt-ud-test,44640,.,"icenza e non dà alcuna garanzia
+connessa all'opera","
+ Secondo me, questa seconda ipotesi significhereb","icenza e non dà alcuna garanzia
+connessa all'opera.
+ Secondo me, questa seconda ipotesi significhereb",all'opera,Secondo,1
+it_isdt-ud-test,44990,.,"- e non il giorno prima, come era stato concordato","
+ Come è noto,
+ciascun presidente dispone di un nu","- e non il giorno prima, come era stato concordato.
+ Come è noto,
+ciascun presidente dispone di un nu",concordato,Come,1
+it_isdt-ud-test,45117,.,"o dei deputati
+iscritti al proprio gruppo politico","
+ Ciò significa che tutti i gruppi politici,
+ad ec","o dei deputati
+iscritti al proprio gruppo politico.
+ Ciò significa che tutti i gruppi politici,
+ad ec",politico,Ciò,1
+it_isdt-ud-test,45348,.,"procedere come proposto
+dal collega in questa sede","
+ Di recente il tema della sicurezza dei trasporti","procedere come proposto
+dal collega in questa sede.
+ Di recente il tema della sicurezza dei trasporti",sede,Di,1
+it_isdt-ud-test,45738,.,"alla petroliera Erika
+al largo della costa bretone","
+ Credo tuttavia che occorra fare tutto ciò che
+ri","alla petroliera Erika
+al largo della costa bretone.
+ Credo tuttavia che occorra fare tutto ciò che
+ri",bretone,Credo,1
+it_isdt-ud-test,45930,.,"se in tutti i paesi, siano essi di transito o meno","
+ Spero che la
+mia proposta venga presa in conside","se in tutti i paesi, siano essi di transito o meno.
+ Spero che la
+mia proposta venga presa in conside",meno,Spero,1
+it_isdt-ud-test,46024,.,considerazione nel corso della votazione di domani,"
+
+Vorrei chiedere alla vicepresidente se oggi è in","considerazione nel corso della votazione di domani.
+
+Vorrei chiedere alla vicepresidente se oggi è in",domani,Vorrei,1
+it_isdt-ud-test,46321,.,zione adottando principi il più possibile semplici,"
+ Sono
+stati inseriti numerosissimi dettagli, che ","zione adottando principi il più possibile semplici.
+ Sono
+stati inseriti numerosissimi dettagli, che ",semplici,Sono,1
+it_isdt-ud-test,46415,.,"i, che erano emersi già nelle relazioni
+precedenti","
+ si tratta di una lunga storia, che si trascina a","i, che erano emersi già nelle relazioni
+precedenti.
+ si tratta di una lunga storia, che si trascina a",precedenti,si,1
+it_isdt-ud-test,46595,.,"che ho già trattato
+questo argomento a più riprese","
+ Signor presidente, anch'io mi voglio
+complimenta","che ho già trattato
+questo argomento a più riprese.
+ Signor presidente, anch'io mi voglio
+complimenta",riprese,Signor,1
+it_isdt-ud-test,46691,.,mentare con il relatore per l'ottimo lavoro svolto,"
+ Ogni individuo ha
+diritto di lasciare qualsiasi ","mentare con il relatore per l'ottimo lavoro svolto.
+ Ogni individuo ha
+diritto di lasciare qualsiasi ",svolto,Ogni,1
+it_isdt-ud-test,46801,.,"cluso il proprio, e di ritornare nel
+proprio paese","
+ Uomini e donne in età adatta hanno il diritto di","cluso il proprio, e di ritornare nel
+proprio paese.
+ Uomini e donne in età adatta hanno il diritto di",paese,Uomini,1
+it_isdt-ud-test,46948,.,"una limitazione di razza, cittadinanza o
+religione","
+ In questo modo sono aumentate le opportunità di ","una limitazione di razza, cittadinanza o
+religione.
+ In questo modo sono aumentate le opportunità di ",religione,In,1
+it_isdt-ud-test,47071,., ha sviluppato una campagna pubblicitaria vincente,"
+ Per rivolgersi ai
+destinatari interessati, Ana h"," ha sviluppato una campagna pubblicitaria vincente.
+ Per rivolgersi ai
+destinatari interessati, Ana h",vincente,Per,1
+it_isdt-ud-test,47308,.,vi adatti a catturare l'attenzione dei destinatari,"
+ Se non vedi
+il pulsante, non puoi attivare la ri","vi adatti a catturare l'attenzione dei destinatari.
+ Se non vedi
+il pulsante, non puoi attivare la ri",destinatari,Se,1
+it_isdt-ud-test,47386,.,non puoi attivare la ricezione degli aggiornamenti,"
+ Hai già una
+Pagina Facebook?
+ ""Era sicuramente c","non puoi attivare la ricezione degli aggiornamenti.
+ Hai già una
+Pagina Facebook?
+ ""Era sicuramente c",aggiornamenti,Hai,1
+it_isdt-ud-test,47416,?," degli aggiornamenti.
+ Hai già una
+Pagina Facebook","
+ ""Era sicuramente consapevole in modo distaccato "," degli aggiornamenti.
+ Hai già una
+Pagina Facebook?
+ ""Era sicuramente consapevole in modo distaccato ",Facebook,,1
+it_isdt-ud-test,47641,.,"miglia e che il capitale proveniva dalla sua
+parte","
+ Pianificò di divenire lui stesso questo candidat","miglia e che il capitale proveniva dalla sua
+parte.
+ Pianificò di divenire lui stesso questo candidat",parte,Pianificò,1
+it_isdt-ud-test,47756,.,"ello
+soprattutto alle classi più elevate di Chinon","
+ Nonostante Balzac fosse ""talvolta
+un eremita e u","ello
+soprattutto alle classi più elevate di Chinon.
+ Nonostante Balzac fosse ""talvolta
+un eremita e u",Chinon,Nonostante,1
+it_isdt-ud-test,47915,.,"la
+società che forniva materiale per il suo lavoro","
+ La salute di lui peggiorò lungo
+il cammino, e Ew","la
+società che forniva materiale per il suo lavoro.
+ La salute di lui peggiorò lungo
+il cammino, e Ew",lavoro,La,1
+it_isdt-ud-test,48067,.,"tato di
+estrema debolezza"" e ""sudava copiosamente""","
+ Sua madre era la sola persona
+presente quando eg","tato di
+estrema debolezza"" e ""sudava copiosamente"".
+ Sua madre era la sola persona
+presente quando eg",,Sua,1
+it_isdt-ud-test,48298,.,"ota di ciò
+che aveva fatto nelle visite precedenti","
+ ""L'artista della Comédie Humaine"", egli
+scrisse,","ota di ciò
+che aveva fatto nelle visite precedenti.
+ ""L'artista della Comédie Humaine"", egli
+scrisse,",precedenti,,1
+it_isdt-ud-test,48380,.,"ine"", egli
+scrisse, ""è semi-sommerso dallo storico","
+ ""Balzac ricevette alti elogi da critici
+così div","ine"", egli
+scrisse, ""è semi-sommerso dallo storico.
+ ""Balzac ricevette alti elogi da critici
+così div",storico,,1
+it_isdt-ud-test,48473,.,così diversi come Walter Benjamin e Camille Paglia,"
+ L'epitaffio inciso sulla
+lastra di roccia che co","così diversi come Walter Benjamin e Camille Paglia.
+ L'epitaffio inciso sulla
+lastra di roccia che co",Paglia,L'epitaffio,1
+it_isdt-ud-test,48690,.,"durante i lavori di
+restauro della chiesa nel 2008","
+ Shakespeare collaborò ad altre due opere ancora
+","durante i lavori di
+restauro della chiesa nel 2008.
+ Shakespeare collaborò ad altre due opere ancora
+",2008,Shakespeare,1
+it_isdt-ud-test,48827,.," nobili congiunti, probabilmente con John
+Fletcher","
+ mamma infelice, tutti infelici.
+ Queste aziende "," nobili congiunti, probabilmente con John
+Fletcher.
+ mamma infelice, tutti infelici.
+ Queste aziende ",Fletcher,mamma,1
+it_isdt-ud-test,48860,.,"con John
+Fletcher.
+ mamma infelice, tutti infelici","
+ Queste aziende introducono infatti
+nuove importa","con John
+Fletcher.
+ mamma infelice, tutti infelici.
+ Queste aziende introducono infatti
+nuove importa",infelici,Queste,1
+it_isdt-ud-test,49094,.,"a parte il
+processo di modernizzazione industriale","
+ I farmaci, per quanto accessibili, non
+hanno alc","a parte il
+processo di modernizzazione industriale.
+ I farmaci, per quanto accessibili, non
+hanno alc",industriale,I,1
+it_isdt-ud-test,49207,., non c'è nessuno a prescriverli o a somministrarli,"
+ Feb 26,
+2014.
+ Anche in questo caso, la Germania"," non c'è nessuno a prescriverli o a somministrarli.
+ Feb 26,
+2014.
+ Anche in questo caso, la Germania",somministrarli,Feb,1
+it_isdt-ud-test,49222,.,"o a prescriverli o a somministrarli.
+ Feb 26,
+2014","
+ Anche in questo caso, la Germania dovrebbe prend","o a prescriverli o a somministrarli.
+ Feb 26,
+2014.
+ Anche in questo caso, la Germania dovrebbe prend",2014,Anche,1
+it_isdt-ud-test,49287,.,"sto caso, la Germania dovrebbe prendere il comando","
+ restando
+impantanata nella carenza di risparmio ","sto caso, la Germania dovrebbe prendere il comando.
+ restando
+impantanata nella carenza di risparmio ",comando,restando,1
+it_isdt-ud-test,49513,.,"ssi di interesse, e a un indebolimento del dollaro","
+ È
+alquanto esplicativo che la maggior parte dei ","ssi di interesse, e a un indebolimento del dollaro.
+ È
+alquanto esplicativo che la maggior parte dei ",dollaro,È,1
+it_isdt-ud-test,49769,.,"i una madre influenza il benessere
+della sua prole","
+ La sua è una storia di successo che può, e anzi ","i una madre influenza il benessere
+della sua prole.
+ La sua è una storia di successo che può, e anzi ",prole,La,1
+it_isdt-ud-test,49865,.,"anzi deve, essere
+replicata in tutto il continente","
+ In realtà, l'amministrazione ha cercato di
+rende","anzi deve, essere
+replicata in tutto il continente.
+ In realtà, l'amministrazione ha cercato di
+rende",continente,In,1
+it_isdt-ud-test,50042,.,a Camera dei rappresentanti a sostenere le riforme,"
+ La Germania apprezza
+questo ruolo, ma non è in g","a Camera dei rappresentanti a sostenere le riforme.
+ La Germania apprezza
+questo ruolo, ma non è in g",riforme,La,1
+it_isdt-ud-test,50112,.,"zza
+questo ruolo, ma non è in grado di esercitarlo","
+ La repubblica di Bulgaria e la
+Romania diventano","zza
+questo ruolo, ma non è in grado di esercitarlo.
+ La repubblica di Bulgaria e la
+Romania diventano",esercitarlo,La,1
+it_isdt-ud-test,50190,.," e la
+Romania diventano membri dell'Unione Europea","
+ Le disposizioni di tale atto
+costituiscono parte"," e la
+Romania diventano membri dell'Unione Europea.
+ Le disposizioni di tale atto
+costituiscono parte",Europea,Le,1
+it_isdt-ud-test,50274,.,stituiscono parte integrante del presente trattato,"
+ Il presente trattato è
+ratificato dalle Alte par","stituiscono parte integrante del presente trattato.
+ Il presente trattato è
+ratificato dalle Alte par",trattato,Il,1
+it_isdt-ud-test,50381,.,"traenti secondo le rispettive norme
+costituzionali","
+ Gli strumenti di ratifica sono depositati presso","traenti secondo le rispettive norme
+costituzionali.
+ Gli strumenti di ratifica sono depositati presso",costituzionali,Gli,1
+it_isdt-ud-test,50502,.,pubblica italiana al più tardi il 31 dicembre 2006,"
+ Se tale decisione è
+adottata nei confronti di un","pubblica italiana al più tardi il 31 dicembre 2006.
+ Se tale decisione è
+adottata nei confronti di un",2006,Se,1
+it_isdt-ud-test,50652,.,entra in vigore per tale stato il 1 ° gennaio 2008,"
+ Il testo del trattato che
+adotta una costituzion","entra in vigore per tale stato il 1 ° gennaio 2008.
+ Il testo del trattato che
+adotta una costituzion",2008,Il,1
+it_isdt-ud-test,50785,.,"a bulgara e rumena, è
+accluso al presente trattato","
+ Essa presenta un progetto dei protocolli al
+cons","a bulgara e rumena, è
+accluso al presente trattato.
+ Essa presenta un progetto dei protocolli al
+cons",trattato,Essa,1
+it_isdt-ud-test,50860,.,"tto dei protocolli al
+consiglio per la conclusione","
+ Il consiglio delibera all'unanimità previa
+consu","tto dei protocolli al
+consiglio per la conclusione.
+ Il consiglio delibera all'unanimità previa
+consu",conclusione,Il,1
+it_isdt-ud-test,50942,.,"nimità previa
+consultazione del parlamento europeo","
+ I contratti relativi alle azioni a titolo
+di tal","nimità previa
+consultazione del parlamento europeo.
+ I contratti relativi alle azioni a titolo
+di tal",europeo,I,1
+it_isdt-ud-test,51058,.,ranno essere assegnati entro i due anni successivi,"
+ Non è
+concessa alcuna proroga del periodo per l'","ranno essere assegnati entro i due anni successivi.
+ Non è
+concessa alcuna proroga del periodo per l'",successivi,Non,1
+it_isdt-ud-test,51135,.,oroga del periodo per l'assegnazione dei contratti,"
+ Proroghe
+limitate della durata possono essere co","oroga del periodo per l'assegnazione dei contratti.
+ Proroghe
+limitate della durata possono essere co",contratti,Proroghe,1
+it_isdt-ud-test,51278,.,via eccezionale e in casi debitamente giustificati,"
+ Non si applicano tuttavia le
+disposizioni previs","via eccezionale e in casi debitamente giustificati.
+ Non si applicano tuttavia le
+disposizioni previs",giustificati,Non,1
+it_isdt-ud-test,51432,.,"cabile
+al bilancio generale delle comunità europee","
+ Il comitato adotta il proprio
+regolamento intern","cabile
+al bilancio generale delle comunità europee.
+ Il comitato adotta il proprio
+regolamento intern",europee,Il,1
+it_isdt-ud-test,51484,.," Il comitato adotta il proprio
+regolamento interno","
+ Il primo giorno lavorativo di ciascun mese del
+c"," Il comitato adotta il proprio
+regolamento interno.
+ Il primo giorno lavorativo di ciascun mese del
+c",interno,Il,1
+it_isdt-ud-test,51641,.,"a Romania un dodicesimo
+di ciascun importo annuale","
+ Tutti i fondi inutilizzati o spesi
+ingiustificat","a Romania un dodicesimo
+di ciascun importo annuale.
+ Tutti i fondi inutilizzati o spesi
+ingiustificat",annuale,Tutti,1
+it_isdt-ud-test,51732,.,iustificatamente sono recuperati dalla commissione,"
+ La commissione può
+adottare qualsiasi provvedime","iustificatamente sono recuperati dalla commissione.
+ La commissione può
+adottare qualsiasi provvedime",commissione,La,1
+it_isdt-ud-test,51896,.,neo per i flussi di tesoreria e strumento Schengen,"
+ Nella
+scelta di tali misure si dovrà accordare l","neo per i flussi di tesoreria e strumento Schengen.
+ Nella
+scelta di tali misure si dovrà accordare l",Schengen,Nella,1
+it_isdt-ud-test,52035,.,eno possibile il funzionamento del mercato interno,"
+ Le misure non sono
+mantenute oltre il tempo stre","eno possibile il funzionamento del mercato interno.
+ Le misure non sono
+mantenute oltre il tempo stre",interno,Le,1
+it_isdt-ud-test,52189,.,e applicate una volta attuato l'impegno pertinente,"
+ Esse possono tuttavia
+essere applicate oltre il ","e applicate una volta attuato l'impegno pertinente.
+ Esse possono tuttavia
+essere applicate oltre il ",pertinente,Esse,1
+it_isdt-ud-test,52327,.,"ino a che non
+siano adempiuti i pertinenti impegni","
+ Esse possono tuttavia essere applicate
+oltre il ","ino a che non
+siano adempiuti i pertinenti impegni.
+ Esse possono tuttavia essere applicate
+oltre il ",impegni,Esse,1
+it_isdt-ud-test,52444,.,ato nel primo comma finché tali carenze persistono,"
+ Il
+parlamento europeo apporta al suo regolamento","ato nel primo comma finché tali carenze persistono.
+ Il
+parlamento europeo apporta al suo regolamento",persistono,Il,1
+it_isdt-ud-test,52548,.,"terno gli adattamenti resi
+necessari dall'adesione","
+ Un cittadino di ogni nuovo stato membro è nomina","terno gli adattamenti resi
+necessari dall'adesione.
+ Un cittadino di ogni nuovo stato membro è nomina",dall'adesione,Un,1
+it_isdt-ud-test,52661,.,lla commissione a partire dalla data dell'adesione,"
+ Questo giudice è
+estratto a sorte.
+ Il mandato d","lla commissione a partire dalla data dell'adesione.
+ Questo giudice è
+estratto a sorte.
+ Il mandato d",dell'adesione,Questo,1
+it_isdt-ud-test,52697,.," dell'adesione.
+ Questo giudice è
+estratto a sorte","
+ Il mandato dell'altro giudice scade il 6 ottobre"," dell'adesione.
+ Questo giudice è
+estratto a sorte.
+ Il mandato dell'altro giudice scade il 6 ottobre",sorte,Il,1
+it_isdt-ud-test,52753,.,mandato dell'altro giudice scade il 6 ottobre 2012,"
+ Il
+mandato dell'altro giudice scade il 31 agosto","mandato dell'altro giudice scade il 6 ottobre 2012.
+ Il
+mandato dell'altro giudice scade il 31 agosto",2012,Il,1
+it_isdt-ud-test,52809,.,mandato dell'altro giudice scade il 31 agosto 2010,"
+ Il tribunale, di concerto
+con la corte di giusti","mandato dell'altro giudice scade il 31 agosto 2010.
+ Il tribunale, di concerto
+con la corte di giusti",2010,Il,1
+it_isdt-ud-test,52949,.,"edura gli
+adattamenti resi necessari dall'adesione","
+ I regolamenti di procedura così
+adattati sono so","edura gli
+adattamenti resi necessari dall'adesione.
+ I regolamenti di procedura così
+adattati sono so",dall'adesione,I,1
+it_isdt-ud-test,53039,.,ati sono sottoposti all'approvazione del consiglio,"
+ Il mandato dei membri
+recentemente nominati scad","ati sono sottoposti all'approvazione del consiglio.
+ Il mandato dei membri
+recentemente nominati scad",consiglio,Il,1
+it_isdt-ud-test,53174,.,"membri che sono in
+carica al momento dell'adesione","
+ Le misure sono adottate in conformità delle
+rego","membri che sono in
+carica al momento dell'adesione.
+ Le misure sono adottate in conformità delle
+rego",dell'adesione,Le,1
+it_isdt-ud-test,53323,.," rispetto al quale si chiede
+una deroga temporanea","
+ Tali adattamenti, se adottati dopo l'adesione, s"," rispetto al quale si chiede
+una deroga temporanea.
+ Tali adattamenti, se adottati dopo l'adesione, s",temporanea,Tali,1
+it_isdt-ud-test,53412,.,"'adesione, sono
+applicabili dalla data di adesione","
+ Il testo del suddetto trattato, redatto in
+lingu","'adesione, sono
+applicabili dalla data di adesione.
+ Il testo del suddetto trattato, redatto in
+lingu",adesione,Il,1
+it_isdt-ud-test,53516,.,"ulgara e rumena, è allegato al presente protocollo","
+ È istituita una
+superficie di base nazionale per","ulgara e rumena, è allegato al presente protocollo.
+ È istituita una
+superficie di base nazionale per",protocollo,È,1
+it_isdt-ud-test,53600,.,ase nazionale per ciascuno stato membro produttore,"
+ Tuttavia, per
+la Francia sono istituite due supe","ase nazionale per ciascuno stato membro produttore.
+ Tuttavia, per
+la Francia sono istituite due supe",produttore,Tuttavia,1
+it_isdt-ud-test,53664,.,"er
+la Francia sono istituite due superfici di base","
+ È fissata una superficie
+massima garantita, pari","er
+la Francia sono istituite due superfici di base.
+ È fissata una superficie
+massima garantita, pari",base,È,1
+it_isdt-ud-test,53731,.,"superficie
+massima garantita, pari a 829229 ettari","
+ Se tale decisione è presa anteriormente
+alla dat","superficie
+massima garantita, pari a 829229 ettari.
+ Se tale decisione è presa anteriormente
+alla dat",ettari,Se,1
+it_isdt-ud-test,53845,.,", essa entra in vigore solo dalla data di adesione","
+ 
+",", essa entra in vigore solo dalla data di adesione.
+ 
+",adesione,,1
