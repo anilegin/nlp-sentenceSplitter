@@ -1,1036 +1,1099 @@
 doc_id,char_idx,punct,left_context,right_context,centered_context,token_before,token_after,label
+en_partut-ud-dev,73,"
+",ation is not a law firm and does not provide legal,services. The work (as defined below) is provided ,"ation is not a law firm and does not provide legal
+services. The work (as defined below) is provided ",legal,services,0
 en_partut-ud-dev,82,.,"not a law firm and does not provide legal
-services","
- The work (as defined below) is provided under th","not a law firm and does not provide legal
-services.
- The work (as defined below) is provided under th",services,The,1
-en_partut-ud-dev,202,.,"ative Commons Public License (""CCPL"" or ""License"")","
- 1. Definitions.
- 4.
-Restrictions.
- 7. Terminatio","ative Commons Public License (""CCPL"" or ""License"").
- 1. Definitions.
- 4.
-Restrictions.
- 7. Terminatio",,1,1
-en_partut-ud-dev,206,.,"e Commons Public License (""CCPL"" or ""License"").
- 1"," Definitions.
- 4.
-Restrictions.
- 7. Termination.
- ","e Commons Public License (""CCPL"" or ""License"").
- 1. Definitions.
- 4.
-Restrictions.
- 7. Termination.
- ",1,Definitions,0
-en_partut-ud-dev,219,.,"lic License (""CCPL"" or ""License"").
- 1. Definitions","
- 4.
-Restrictions.
- 7. Termination.
- You have requ","lic License (""CCPL"" or ""License"").
- 1. Definitions.
- 4.
-Restrictions.
- 7. Termination.
- You have requ",Definitions,4,1
-en_partut-ud-dev,223,.,"License (""CCPL"" or ""License"").
- 1. Definitions.
- 4","
-Restrictions.
- 7. Termination.
- You have requeste","License (""CCPL"" or ""License"").
- 1. Definitions.
- 4.
-Restrictions.
- 7. Termination.
- You have requeste",4,Restrictions,0
-en_partut-ud-dev,237,.,""" or ""License"").
- 1. Definitions.
- 4.
-Restrictions","
- 7. Termination.
- You have requested a debate on ",""" or ""License"").
- 1. Definitions.
- 4.
-Restrictions.
- 7. Termination.
- You have requested a debate on ",Restrictions,7,1
-en_partut-ud-dev,241,.," ""License"").
- 1. Definitions.
- 4.
-Restrictions.
- 7"," Termination.
- You have requested a debate on this"," ""License"").
- 1. Definitions.
- 4.
-Restrictions.
- 7. Termination.
- You have requested a debate on this",7,Termination,0
-en_partut-ud-dev,254,.," 1. Definitions.
- 4.
-Restrictions.
- 7. Termination","
- You have requested a debate on this subject in t"," 1. Definitions.
- 4.
-Restrictions.
- 7. Termination.
- You have requested a debate on this subject in t",Termination,You,1
-en_partut-ud-dev,361,.,"rse of the next few days, during this part-session","
- The Cunha report on
-multiannual guidance program","rse of the next few days, during this part-session.
- The Cunha report on
-multiannual guidance program",part-session,The,1
-en_partut-ud-dev,614,.,ail to meet their fleet reduction targets annually,"
- Mr
-Berenguer Fuster, we shall check all this.
- I","ail to meet their fleet reduction targets annually.
- Mr
-Berenguer Fuster, we shall check all this.
- I",annually,Mr,1
-en_partut-ud-dev,661,.,"lly.
- Mr
-Berenguer Fuster, we shall check all this","
- I should like to address one final
-point.
- I do ","lly.
- Mr
-Berenguer Fuster, we shall check all this.
- I should like to address one final
-point.
- I do ",this,I,1
-en_partut-ud-dev,704,.,"ll this.
- I should like to address one final
-point","
- I do realise that this is only a small step towa","ll this.
- I should like to address one final
-point.
- I do realise that this is only a small step towa",point,I,1
-en_partut-ud-dev,829,.,"safety, but I would ask you to endorse this report","
- I am speaking for the first
-time in this plenary","safety, but I would ask you to endorse this report.
- I am speaking for the first
-time in this plenary",report,I,1
-en_partut-ud-dev,1001,.,"ve, although that did last longer than two minutes","
- In many ways,
-the prerequisites differ from one ","ve, although that did last longer than two minutes.
- In many ways,
-the prerequisites differ from one ",minutes,In,1
-en_partut-ud-dev,1075,.,requisites differ from one Member State to another,"
- The reason Mr Koch
-produced his sound report was","requisites differ from one Member State to another.
- The reason Mr Koch
-produced his sound report was",another,The,1
-en_partut-ud-dev,1242,.,c Commission was proceeding none too expeditiously,"
- Mr President,
-I would once again like to congrat","c Commission was proceeding none too expeditiously.
- Mr President,
-I would once again like to congrat",expeditiously,Mr,1
-en_partut-ud-dev,1433,.," debate which we held in October on
-rail transport","
- We have to remember that rural areas represent a"," debate which we held in October on
-rail transport.
- We have to remember that rural areas represent a",transport,We,1
-en_partut-ud-dev,1540,.,"four
-fifths of the territory of the European Union","
- We are badly behind now in this
-matter.
- We oppo","four
-fifths of the territory of the European Union.
- We are badly behind now in this
-matter.
- We oppo",Union,We,1
-en_partut-ud-dev,1581,.,"ean Union.
- We are badly behind now in this
-matter","
- We oppose the excessive control the central admi","ean Union.
- We are badly behind now in this
-matter.
- We oppose the excessive control the central admi",matter,We,1
-en_partut-ud-dev,1810,.,"t in the drafting and implementation of
-programmes","
- The Structural Funds have played a key role in t","t in the drafting and implementation of
-programmes.
- The Structural Funds have played a key role in t",programmes,The,1
-en_partut-ud-dev,2016,.,"ds, water treatment and related transport networks","
- how can we ensure that
-Union policy interfaces w","ds, water treatment and related transport networks.
- how can we ensure that
-Union policy interfaces w",networks,how,1
-en_partut-ud-dev,2128,?,"sidiary national policies for regional
-development","
- as far as French planning experts are concerned,","sidiary national policies for regional
-development?
- as far as French planning experts are concerned,",development,as,1
-en_partut-ud-dev,2297,.,"chment of regional disparities
-within each country","
- In addition, if you choose to use Facebook from ","chment of regional disparities
-within each country.
- In addition, if you choose to use Facebook from ",country,In,1
-en_partut-ud-dev,2520,.,"ging as determined by your mobile service
-provider","
- To sign up for a brand new account, enter your n","ging as determined by your mobile service
-provider.
- To sign up for a brand new account, enter your n",provider,To,1
-en_partut-ud-dev,2632,.,"ay, gender,
-and email address into the form on www","facebook.com.
- Facebook Adverts.
- Deepen
-your rela","ay, gender,
-and email address into the form on www.facebook.com.
- Facebook Adverts.
- Deepen
-your rela",www,facebook,0
-en_partut-ud-dev,2641,.,"r,
-and email address into the form on www.facebook","com.
- Facebook Adverts.
- Deepen
-your relationships","r,
-and email address into the form on www.facebook.com.
- Facebook Adverts.
- Deepen
-your relationships",facebook,com,0
-en_partut-ud-dev,2645,.,nd email address into the form on www.facebook.com,"
- Facebook Adverts.
- Deepen
-your relationships.
- 1","nd email address into the form on www.facebook.com.
- Facebook Adverts.
- Deepen
-your relationships.
- 1",com,Facebook,1
-en_partut-ud-dev,2664,.,"to the form on www.facebook.com.
- Facebook Adverts","
- Deepen
-your relationships.
- 10% conversion rate ","to the form on www.facebook.com.
- Facebook Adverts.
- Deepen
-your relationships.
- 10% conversion rate ",Adverts,Deepen,1
-en_partut-ud-dev,2692,.,"com.
- Facebook Adverts.
- Deepen
-your relationships","
- 10% conversion rate from visits originating from","com.
- Facebook Adverts.
- Deepen
-your relationships.
- 10% conversion rate from visits originating from",relationships,10,1
-en_partut-ud-dev,2760,.,"rate from visits originating from Facebook
-Adverts","
- (21) EUPs complying with the ecodesign requireme","rate from visits originating from Facebook
-Adverts.
- (21) EUPs complying with the ecodesign requireme",Adverts,,1
-en_partut-ud-dev,3000,.,"o be placed on the internal
-market and move freely","
- and one of the workshops led to a proposal, by M","o be placed on the internal
-market and move freely.
- and one of the workshops led to a proposal, by M",freely,and,1
-en_partut-ud-dev,3093,.,"al, by Member
-States, for a Council recommendation","
- Whereas recognition of the inherent
-dignity and ","al, by Member
-States, for a Council recommendation.
- Whereas recognition of the inherent
-dignity and ",recommendation,Whereas,1
-en_partut-ud-dev,3321,.,"orld;
- (1)
-Everyone has the right to a nationality","
- It's that pyramid.
- And what's that?
-
-That top p","orld;
- (1)
-Everyone has the right to a nationality.
- It's that pyramid.
- And what's that?
-
-That top p",nationality,It's,1
-en_partut-ud-dev,3341,.,"has the right to a nationality.
- It's that pyramid","
- And what's that?
-
-That top predator, of course, ","has the right to a nationality.
- It's that pyramid.
- And what's that?
-
-That top predator, of course, ",pyramid,And,1
-en_partut-ud-dev,3359,?," nationality.
- It's that pyramid.
- And what's that","
-
-That top predator, of course, is us.
- I love a c"," nationality.
- It's that pyramid.
- And what's that?
-
-That top predator, of course, is us.
- I love a c",that,That,1
-en_partut-ud-dev,3397,.," what's that?
-
-That top predator, of course, is us","
- I love a challenge, and saving the Earth is
-prob"," what's that?
-
-That top predator, of course, is us.
- I love a challenge, and saving the Earth is
-prob",us,I,1
-en_partut-ud-dev,3463,.,"lenge, and saving the Earth is
-probably a good one","
- We all know the Earth is in trouble.
- We have no","lenge, and saving the Earth is
-probably a good one.
- We all know the Earth is in trouble.
- We have no",one,We,1
-en_partut-ud-dev,3501,.,"y a good one.
- We all know the Earth is in trouble","
- We have now entered in
-the 6X:
- the sixth major ","y a good one.
- We all know the Earth is in trouble.
- We have now entered in
-the 6X:
- the sixth major ",trouble,We,1
-en_partut-ud-dev,3577,.,"the 6X:
- the sixth major extinction on this planet","
- I think that vote is
-occurring right now.
- I wan","the 6X:
- the sixth major extinction on this planet.
- I think that vote is
-occurring right now.
- I wan",planet,I,1
-en_partut-ud-dev,3620,.," planet.
- I think that vote is
-occurring right now","
- I want to present to you a suite of six mycologi"," planet.
- I think that vote is
-occurring right now.
- I want to present to you a suite of six mycologi",now,I,1
-en_partut-ud-dev,3740,.,"g fungi, and these solutions are based on mycelium","
- The mycelium
-infuses all landscapes, it holds so","g fungi, and these solutions are based on mycelium.
- The mycelium
-infuses all landscapes, it holds so",mycelium,The,1
-en_partut-ud-dev,3829,.," it holds soils together, it's extremely tenacious","
- This
-holds up to 30,000 times its mass.
- They're"," it holds soils together, it's extremely tenacious.
- This
-holds up to 30,000 times its mass.
- They're",tenacious,This,1
-en_partut-ud-dev,3870,.,"tenacious.
- This
-holds up to 30,000 times its mass","
- They're the grand molecular disassemblers of
-nat","tenacious.
- This
-holds up to 30,000 times its mass.
- They're the grand molecular disassemblers of
-nat",mass,They're,1
-en_partut-ud-dev,3945,.,"cular disassemblers of
-nature - the soil magicians","
- They generate the humus soils across the landmas","cular disassemblers of
-nature - the soil magicians.
- They generate the humus soils across the landmas",magicians,They,1
-en_partut-ud-dev,4008,.,"ate the humus soils across the landmasses
-of Earth","
- Dusty and I, we like to say, on Sunday, this is ","ate the humus soils across the landmasses
-of Earth.
- Dusty and I, we like to say, on Sunday, this is ",Earth,Dusty,1
-en_partut-ud-dev,4080,.,"e to say, on Sunday, this is where we go to church","
-
-I'm in love with the old-growth forest, and I'm ","e to say, on Sunday, this is where we go to church.
-
-I'm in love with the old-growth forest, and I'm ",church,I'm,1
-en_partut-ud-dev,4173,.,"and I'm a patriotic American because we
-have those","
- Most of you are familiar with Portobello mushroo","and I'm a patriotic American because we
-have those.
- Most of you are familiar with Portobello mushroo",those,Most,1
-en_partut-ud-dev,4226,.,Most of you are familiar with Portobello mushrooms,"
- And frankly, I
-face a big obstacle.
- So, I hope ","Most of you are familiar with Portobello mushrooms.
- And frankly, I
-face a big obstacle.
- So, I hope ",mushrooms,And,1
-en_partut-ud-dev,4263,.,"llo mushrooms.
- And frankly, I
-face a big obstacle","
- So, I hope to pierce that prejudice forever with","llo mushrooms.
- And frankly, I
-face a big obstacle.
- So, I hope to pierce that prejudice forever with",obstacle,So,1
-en_partut-ud-dev,4325,.,"e to pierce that prejudice forever with this
-group","
- We call it mycophobia, the irrational fear of th","e to pierce that prejudice forever with this
-group.
- We call it mycophobia, the irrational fear of th",group,We,1
-en_partut-ud-dev,4409,.,"tional fear of the unknown, when it comes
-to fungi","
- Mushrooms are very fast in their growth.
- Mushro","tional fear of the unknown, when it comes
-to fungi.
- Mushrooms are very fast in their growth.
- Mushro",fungi,Mushrooms,1
-en_partut-ud-dev,4451,.,"to fungi.
- Mushrooms are very fast in their growth","
- Mushrooms produce strong
-antibiotics.
- In fact, ","to fungi.
- Mushrooms are very fast in their growth.
- Mushrooms produce strong
-antibiotics.
- In fact, ",growth,Mushrooms,1
-en_partut-ud-dev,4490,.,"heir growth.
- Mushrooms produce strong
-antibiotics","
- In fact, we're more closely related to fungi tha","heir growth.
- Mushrooms produce strong
-antibiotics.
- In fact, we're more closely related to fungi tha",antibiotics,In,1
-en_partut-ud-dev,4570,.," related to fungi than we are to any
-other kingdom","
- We share in common the same pathogens.
- Fungi do"," related to fungi than we are to any
-other kingdom.
- We share in common the same pathogens.
- Fungi do",kingdom,We,1
-en_partut-ud-dev,4610,.,"er kingdom.
- We share in common the same pathogens","
- Fungi don't like to rot
-from bacteria, and so ou","er kingdom.
- We share in common the same pathogens.
- Fungi don't like to rot
-from bacteria, and so ou",pathogens,Fungi,1
-en_partut-ud-dev,4695,.,"teria, and so our best antibiotics come from fungi","
- But here is a
-mushroom that's past its prime.
- A","teria, and so our best antibiotics come from fungi.
- But here is a
-mushroom that's past its prime.
- A",fungi,But,1
-en_partut-ud-dev,4742,.,"ngi.
- But here is a
-mushroom that's past its prime","
- After they sporulate, they do rot.
- But I propos","ngi.
- But here is a
-mushroom that's past its prime.
- After they sporulate, they do rot.
- But I propos",prime,After,1
-en_partut-ud-dev,4778,.,"past its prime.
- After they sporulate, they do rot","
- But I propose
-to you that the sequence of microb","past its prime.
- After they sporulate, they do rot.
- But I propose
-to you that the sequence of microb",rot,But,1
-en_partut-ud-dev,4906,.,"shrooms are
-essential for the health of the forest","
- They give rise to the trees, they create
-the deb","shrooms are
-essential for the health of the forest.
- They give rise to the trees, they create
-the deb",forest,They,1
-en_partut-ud-dev,4990,.,"ey create
-the debris fields that feed the mycelium","
- And so we see a mushroom here
-sporulating.
- And ","ey create
-the debris fields that feed the mycelium.
- And so we see a mushroom here
-sporulating.
- And ",mycelium,And,1
-en_partut-ud-dev,5034,.,"celium.
- And so we see a mushroom here
-sporulating","
- And the spores are germinating, and the mycelium","celium.
- And so we see a mushroom here
-sporulating.
- And the spores are germinating, and the mycelium",sporulating,And,1
-en_partut-ud-dev,5112,.,"ating, and the mycelium forms and goes
-underground","
- In a single cubic inch of soil, there can be mor","ating, and the mycelium forms and goes
-underground.
- In a single cubic inch of soil, there can be mor",underground,In,1
-en_partut-ud-dev,5196,.," there can be more than eight miles
-of these cells","
- My foot is covering approximately 300 miles of m"," there can be more than eight miles
-of these cells.
- My foot is covering approximately 300 miles of m",cells,My,1
-en_partut-ud-dev,5254,.,ot is covering approximately 300 miles of mycelium,"
- This is
-photomicrographs from Nick Read and Patr","ot is covering approximately 300 miles of mycelium.
- This is
-photomicrographs from Nick Read and Patr",mycelium,This,1
-en_partut-ud-dev,5315,.,photomicrographs from Nick Read and Patrick Hickey,"
- And notice that as the
-mycelium grows, it conque","photomicrographs from Nick Read and Patrick Hickey.
- And notice that as the
-mycelium grows, it conque",Hickey,And,1
-en_partut-ud-dev,5405,.,", it conquers territory and then it begins the net","
- We exhale
-carbon dioxide, so does mycelium.
- It ",", it conquers territory and then it begins the net.
- We exhale
-carbon dioxide, so does mycelium.
- It ",net,We,1
-en_partut-ud-dev,5450,.,"e net.
- We exhale
-carbon dioxide, so does mycelium","
- It inhales oxygen, just like we do.
- But these
-a","e net.
- We exhale
-carbon dioxide, so does mycelium.
- It inhales oxygen, just like we do.
- But these
-a",mycelium,It,1
-en_partut-ud-dev,5487,.,"does mycelium.
- It inhales oxygen, just like we do","
- But these
-are essentially externalized stomachs ","does mycelium.
- It inhales oxygen, just like we do.
- But these
-are essentially externalized stomachs ",do,But,1
-en_partut-ud-dev,5547,.,"se
-are essentially externalized stomachs and lungs","
- And I present to you a concept
-that these are ex","se
-are essentially externalized stomachs and lungs.
- And I present to you a concept
-that these are ex",lungs,And,1
-en_partut-ud-dev,5627,.,"ept
-that these are extended neurological membranes","
- And in these cavities, these
-micro-cavities form","ept
-that these are extended neurological membranes.
- And in these cavities, these
-micro-cavities form",membranes,And,1
-en_partut-ud-dev,5721,.,"es form, and as they fuse soils, they absorb water","
- These are little
-wells.
- And inside these wells,","es form, and as they fuse soils, they absorb water.
- These are little
-wells.
- And inside these wells,",water,These,1
-en_partut-ud-dev,5746,.," soils, they absorb water.
- These are little
-wells","
- And inside these wells, then microbial communiti"," soils, they absorb water.
- These are little
-wells.
- And inside these wells, then microbial communiti",wells,And,1
-en_partut-ud-dev,5813,.,"se wells, then microbial communities begin to form","
- I first
-proposed, in the early 1990s, that mycel","se wells, then microbial communities begin to form.
- I first
-proposed, in the early 1990s, that mycel",form,I,1
-en_partut-ud-dev,5895,.,"y 1990s, that mycelium is Earth's natural Internet","
- When
-you look at the mycelium, they're highly br","y 1990s, that mycelium is Earth's natural Internet.
- When
-you look at the mycelium, they're highly br",Internet,When,1
-en_partut-ud-dev,5952,.,"
-you look at the mycelium, they're highly branched","
- The mycelium is sentient.
- It
-knows that you are","
-you look at the mycelium, they're highly branched.
- The mycelium is sentient.
- It
-knows that you are",branched,The,1
-en_partut-ud-dev,5979,.,"they're highly branched.
- The mycelium is sentient","
- It
-knows that you are there.
- When you walk acro","they're highly branched.
- The mycelium is sentient.
- It
-knows that you are there.
- When you walk acro",sentient,It,1
-en_partut-ud-dev,6009,.,"mycelium is sentient.
- It
-knows that you are there","
- When you walk across landscapes, it leaps up in ","mycelium is sentient.
- It
-knows that you are there.
- When you walk across landscapes, it leaps up in ",there,When,1
-en_partut-ud-dev,6113,.,"
-aftermath of your footsteps trying to grab debris","
- So, I believe the invention
-of the computer Inte","
-aftermath of your footsteps trying to grab debris.
- So, I believe the invention
-of the computer Inte",debris,So,1
-en_partut-ud-dev,6251,.,"a previously proven,
-biologically successful model","
- Going way out, dark matter conforms to the same
-","a previously proven,
-biologically successful model.
- Going way out, dark matter conforms to the same
-",model,Going,1
-en_partut-ud-dev,6320,.,"ark matter conforms to the same
-mycelial archetype","
- And this is the paradigm that we see throughout ","ark matter conforms to the same
-mycelial archetype.
- And this is the paradigm that we see throughout ",archetype,And,1
-en_partut-ud-dev,6383,.,"s the paradigm that we see throughout the
-universe","
- Most of you may not know that fungi were the fir","s the paradigm that we see throughout the
-universe.
- Most of you may not know that fungi were the fir",universe,Most,1
-en_partut-ud-dev,6462,.,"hat fungi were the first organisms to come
-to land","
- They came to land 1.3 billion years ago, and pla","hat fungi were the first organisms to come
-to land.
- They came to land 1.3 billion years ago, and pla",land,They,1
-en_partut-ud-dev,6484,.,"st organisms to come
-to land.
- They came to land 1","3 billion years ago, and plants followed several
-h","st organisms to come
-to land.
- They came to land 1.3 billion years ago, and plants followed several
+services", The work (as defined below) is provided under the,"not a law firm and does not provide legal
+services. The work (as defined below) is provided under the",services,The,1
+en_partut-ud-dev,147,"
+",defined below) is provided under the terms of this,"Creative Commons Public License (""CCPL"" or ""Licens","defined below) is provided under the terms of this
+Creative Commons Public License (""CCPL"" or ""Licens",this,Creative,0
+en_partut-ud-dev,201,.,"ative Commons Public License (""CCPL"" or ""License"")"," 1. Definitions. 4.
+Restrictions. 7. Termination. ","ative Commons Public License (""CCPL"" or ""License""). 1. Definitions. 4.
+Restrictions. 7. Termination. ",,1,1
+en_partut-ud-dev,204,.,"ve Commons Public License (""CCPL"" or ""License""). 1"," Definitions. 4.
+Restrictions. 7. Termination. You","ve Commons Public License (""CCPL"" or ""License""). 1. Definitions. 4.
+Restrictions. 7. Termination. You",1,Definitions,0
+en_partut-ud-dev,217,.,"blic License (""CCPL"" or ""License""). 1. Definitions"," 4.
+Restrictions. 7. Termination. You have request","blic License (""CCPL"" or ""License""). 1. Definitions. 4.
+Restrictions. 7. Termination. You have request",Definitions,4,1
+en_partut-ud-dev,220,.,"c License (""CCPL"" or ""License""). 1. Definitions. 4","
+Restrictions. 7. Termination. You have requested ","c License (""CCPL"" or ""License""). 1. Definitions. 4.
+Restrictions. 7. Termination. You have requested ",4,Restrictions,0
+en_partut-ud-dev,221,"
+"," License (""CCPL"" or ""License""). 1. Definitions. 4.",Restrictions. 7. Termination. You have requested a," License (""CCPL"" or ""License""). 1. Definitions. 4.
+Restrictions. 7. Termination. You have requested a",,Restrictions,0
+en_partut-ud-dev,234,.,"PL"" or ""License""). 1. Definitions. 4.
+Restrictions", 7. Termination. You have requested a debate on th,"PL"" or ""License""). 1. Definitions. 4.
+Restrictions. 7. Termination. You have requested a debate on th",Restrictions,7,1
+en_partut-ud-dev,237,.," or ""License""). 1. Definitions. 4.
+Restrictions. 7", Termination. You have requested a debate on this ," or ""License""). 1. Definitions. 4.
+Restrictions. 7. Termination. You have requested a debate on this ",7,Termination,0
+en_partut-ud-dev,250,.,"). 1. Definitions. 4.
+Restrictions. 7. Termination", You have requested a debate on this subject in th,"). 1. Definitions. 4.
+Restrictions. 7. Termination. You have requested a debate on this subject in th",Termination,You,1
+en_partut-ud-dev,302,"
+",You have requested a debate on this subject in the,"course of the next few days, during this part-sess","You have requested a debate on this subject in the
+course of the next few days, during this part-sess",the,course,0
+en_partut-ud-dev,356,.,"rse of the next few days, during this part-session"," The Cunha report on
+multiannual guidance programm","rse of the next few days, during this part-session. The Cunha report on
+multiannual guidance programm",part-session,The,1
+en_partut-ud-dev,377,"
+","ays, during this part-session. The Cunha report on",multiannual guidance programmes comes before Parli,"ays, during this part-session. The Cunha report on
+multiannual guidance programmes comes before Parli",on,multiannual,0
+en_partut-ud-dev,458,"
+",s comes before Parliament on Thursday and contains,a proposal in paragraph 6 that a form of quota pen,"s comes before Parliament on Thursday and contains
+a proposal in paragraph 6 that a form of quota pen",contains,a,0
+en_partut-ud-dev,536,"
+",hat a form of quota penalties should be introduced,for countries which fail to meet their fleet reduc,"hat a form of quota penalties should be introduced
+for countries which fail to meet their fleet reduc",introduced,for,0
+en_partut-ud-dev,608,.,ail to meet their fleet reduction targets annually," Mr
+Berenguer Fuster, we shall check all this. I s","ail to meet their fleet reduction targets annually. Mr
+Berenguer Fuster, we shall check all this. I s",annually,Mr,1
+en_partut-ud-dev,612,"
+",to meet their fleet reduction targets annually. Mr,"Berenguer Fuster, we shall check all this. I shoul","to meet their fleet reduction targets annually. Mr
+Berenguer Fuster, we shall check all this. I shoul",Mr,Berenguer,0
+en_partut-ud-dev,654,.,"ally. Mr
+Berenguer Fuster, we shall check all this"," I should like to address one final
+point. I do re","ally. Mr
+Berenguer Fuster, we shall check all this. I should like to address one final
+point. I do re",this,I,1
+en_partut-ud-dev,690,"
+",check all this. I should like to address one final,point. I do realise that this is only a small step,"check all this. I should like to address one final
+point. I do realise that this is only a small step",final,point,0
+en_partut-ud-dev,696,.,"all this. I should like to address one final
+point", I do realise that this is only a small step towar,"all this. I should like to address one final
+point. I do realise that this is only a small step towar",point,I,1
+en_partut-ud-dev,769,"
+",s is only a small step towards increased transport,"safety, but I would ask you to endorse this report","s is only a small step towards increased transport
+safety, but I would ask you to endorse this report",transport,safety,0
+en_partut-ud-dev,820,.,"safety, but I would ask you to endorse this report"," I am speaking for the first
+time in this plenary ","safety, but I would ask you to endorse this report. I am speaking for the first
+time in this plenary ",report,I,1
+en_partut-ud-dev,849,"
+",o endorse this report. I am speaking for the first,"time in this plenary part-session, so this is quit","o endorse this report. I am speaking for the first
+time in this plenary part-session, so this is quit",first,time,0
+en_partut-ud-dev,927,"
+","ession, so this is quite exciting for me, a little","like first love, although that did last longer tha","ession, so this is quite exciting for me, a little
+like first love, although that did last longer tha",little,like,0
+en_partut-ud-dev,991,.,"ve, although that did last longer than two minutes"," In many ways,
+the prerequisites differ from one M","ve, although that did last longer than two minutes. In many ways,
+the prerequisites differ from one M",minutes,In,1
+en_partut-ud-dev,1006,"
+","at did last longer than two minutes. In many ways,",the prerequisites differ from one Member State to ,"at did last longer than two minutes. In many ways,
+the prerequisites differ from one Member State to ",,the,0
+en_partut-ud-dev,1064,.,requisites differ from one Member State to another," The reason Mr Koch
+produced his sound report was ","requisites differ from one Member State to another. The reason Mr Koch
+produced his sound report was ",another,The,1
+en_partut-ud-dev,1084,"
+",om one Member State to another. The reason Mr Koch,produced his sound report was because the work in ,"om one Member State to another. The reason Mr Koch
+produced his sound report was because the work in ",Koch,produced,0
+en_partut-ud-dev,1164,"
+", because the work in the CEN and within the United,Nations Economic Commission was proceeding none to," because the work in the CEN and within the United
+Nations Economic Commission was proceeding none to",United,Nations,0
+en_partut-ud-dev,1230,.,c Commission was proceeding none too expeditiously," Mr President,
+I would once again like to congratu","c Commission was proceeding none too expeditiously. Mr President,
+I would once again like to congratu",expeditiously,Mr,1
+en_partut-ud-dev,1245,"
+","s proceeding none too expeditiously. Mr President,",I would once again like to congratulate Mr Koch on,"s proceeding none too expeditiously. Mr President,
+I would once again like to congratulate Mr Koch on",,I,0
+en_partut-ud-dev,1325,"
+",ngratulate Mr Koch on his magnificent work on this,"other report, which in a way supplements the debat","ngratulate Mr Koch on his magnificent work on this
+other report, which in a way supplements the debat",this,other,0
+en_partut-ud-dev,1405,"
+",supplements the debate which we held in October on,rail transport. We have to remember that rural are,"supplements the debate which we held in October on
+rail transport. We have to remember that rural are",on,rail,0
+en_partut-ud-dev,1420,.," debate which we held in October on
+rail transport", We have to remember that rural areas represent al," debate which we held in October on
+rail transport. We have to remember that rural areas represent al",transport,We,1
+en_partut-ud-dev,1480,"
+",to remember that rural areas represent almost four,fifths of the territory of the European Union. We ,"to remember that rural areas represent almost four
+fifths of the territory of the European Union. We ",four,fifths,0
+en_partut-ud-dev,1526,.,"four
+fifths of the territory of the European Union"," We are badly behind now in this
+matter. We oppose","four
+fifths of the territory of the European Union. We are badly behind now in this
+matter. We oppose",Union,We,1
+en_partut-ud-dev,1559,"
+",he European Union. We are badly behind now in this,matter. We oppose the excessive control the centra,"he European Union. We are badly behind now in this
+matter. We oppose the excessive control the centra",this,matter,0
+en_partut-ud-dev,1566,.,"pean Union. We are badly behind now in this
+matter", We oppose the excessive control the central admin,"pean Union. We are badly behind now in this
+matter. We oppose the excessive control the central admin",matter,We,1
+en_partut-ud-dev,1639,"
+",ve control the central administration of the Union,and its Member States exercises and we are calling,"ve control the central administration of the Union
+and its Member States exercises and we are calling",Union,and,0
+en_partut-ud-dev,1713,"
+",xercises and we are calling for a reduction in the,bureaucracy that has taken root in the drafting an,"xercises and we are calling for a reduction in the
+bureaucracy that has taken root in the drafting an",the,bureaucracy,0
+en_partut-ud-dev,1783,"
+",s taken root in the drafting and implementation of,programmes. The Structural Funds have played a key,"s taken root in the drafting and implementation of
+programmes. The Structural Funds have played a key",of,programmes,0
+en_partut-ud-dev,1794,.,"t in the drafting and implementation of
+programmes", The Structural Funds have played a key role in th,"t in the drafting and implementation of
+programmes. The Structural Funds have played a key role in th",programmes,The,1
+en_partut-ud-dev,1863,"
+",nds have played a key role in the development both,"of urban and rural parts of peripheral countries, ","nds have played a key role in the development both
+of urban and rural parts of peripheral countries, ",both,of,0
+en_partut-ud-dev,1942,"
+","peripheral countries, mainly through the upgrading","of roads, water treatment and related transport ne","peripheral countries, mainly through the upgrading
+of roads, water treatment and related transport ne",upgrading,of,0
+en_partut-ud-dev,1999,.,"ds, water treatment and related transport networks"," how can we ensure that
+Union policy interfaces wi","ds, water treatment and related transport networks. how can we ensure that
+Union policy interfaces wi",networks,how,1
+en_partut-ud-dev,2023,"
+",related transport networks. how can we ensure that,Union policy interfaces with the subsidiary nation,"related transport networks. how can we ensure that
+Union policy interfaces with the subsidiary nation",that,Union,0
+en_partut-ud-dev,2098,"
+",with the subsidiary national policies for regional,development? as far as French planning experts are,"with the subsidiary national policies for regional
+development? as far as French planning experts are",regional,development,0
+en_partut-ud-dev,2110,?,"sidiary national policies for regional
+development"," as far as French planning experts are concerned, ","sidiary national policies for regional
+development? as far as French planning experts are concerned, ",development,as,1
+en_partut-ud-dev,2177,"
+","h planning experts are concerned, for example, the",most probable scenario today is that of the entren,"h planning experts are concerned, for example, the
+most probable scenario today is that of the entren",the,most,0
+en_partut-ud-dev,2258,"
+",s that of the entrenchment of regional disparities,"within each country. In addition, if you choose to","s that of the entrenchment of regional disparities
+within each country. In addition, if you choose to",disparities,within,0
+en_partut-ud-dev,2278,.,"chment of regional disparities
+within each country"," In addition, if you choose to use Facebook from y","chment of regional disparities
+within each country. In addition, if you choose to use Facebook from y",country,In,1
+en_partut-ud-dev,2339,"
+","on, if you choose to use Facebook from your mobile","device, please note that you will be responsible f","on, if you choose to use Facebook from your mobile
+device, please note that you will be responsible f",mobile,device,0
+en_partut-ud-dev,2417,"
+",u will be responsible for any fees associated with,internet usage and/or text messaging as determined,"u will be responsible for any fees associated with
+internet usage and/or text messaging as determined",with,internet,0
+en_partut-ud-dev,2491,"
+",ext messaging as determined by your mobile service,"provider. To sign up for a brand new account, ente","ext messaging as determined by your mobile service
+provider. To sign up for a brand new account, ente",service,provider,0
+en_partut-ud-dev,2500,.,"ging as determined by your mobile service
+provider"," To sign up for a brand new account, enter your na","ging as determined by your mobile service
+provider. To sign up for a brand new account, enter your na",provider,To,1
+en_partut-ud-dev,2572,"
+","nd new account, enter your name, birthday, gender,",and email address into the form on www.facebook.co,"nd new account, enter your name, birthday, gender,
+and email address into the form on www.facebook.co",,and,0
+en_partut-ud-dev,2611,.,"ay, gender,
+and email address into the form on www","facebook.com. Facebook Adverts. Deepen
+your relati","ay, gender,
+and email address into the form on www.facebook.com. Facebook Adverts. Deepen
+your relati",www,facebook,0
+en_partut-ud-dev,2620,.,"r,
+and email address into the form on www.facebook","com. Facebook Adverts. Deepen
+your relationships. ","r,
+and email address into the form on www.facebook.com. Facebook Adverts. Deepen
+your relationships. ",facebook,com,0
+en_partut-ud-dev,2624,.,nd email address into the form on www.facebook.com," Facebook Adverts. Deepen
+your relationships. 10% ","nd email address into the form on www.facebook.com. Facebook Adverts. Deepen
+your relationships. 10% ",com,Facebook,1
+en_partut-ud-dev,2642,.,nto the form on www.facebook.com. Facebook Adverts," Deepen
+your relationships. 10% conversion rate fr","nto the form on www.facebook.com. Facebook Adverts. Deepen
+your relationships. 10% conversion rate fr",Adverts,Deepen,1
+en_partut-ud-dev,2650,"
+",form on www.facebook.com. Facebook Adverts. Deepen,your relationships. 10% conversion rate from visit,"form on www.facebook.com. Facebook Adverts. Deepen
+your relationships. 10% conversion rate from visit",Deepen,your,0
+en_partut-ud-dev,2669,.,"k.com. Facebook Adverts. Deepen
+your relationships", 10% conversion rate from visits originating from ,"k.com. Facebook Adverts. Deepen
+your relationships. 10% conversion rate from visits originating from ",relationships,10,1
+en_partut-ud-dev,2728,"
+",version rate from visits originating from Facebook,Adverts. (21) EUPs complying with the ecodesign re,"version rate from visits originating from Facebook
+Adverts. (21) EUPs complying with the ecodesign re",Facebook,Adverts,0
+en_partut-ud-dev,2736,.,"rate from visits originating from Facebook
+Adverts", (21) EUPs complying with the ecodesign requiremen,"rate from visits originating from Facebook
+Adverts. (21) EUPs complying with the ecodesign requiremen",Adverts,,1
+en_partut-ud-dev,2802,"
+",lying with the ecodesign requirements laid down in,implementing measures to this Directive should bea,"lying with the ecodesign requirements laid down in
+implementing measures to this Directive should bea",in,implementing,0
+en_partut-ud-dev,2875,"
+","to this Directive should bear the ""CE"" marking and","associated information, in order to enable them to","to this Directive should bear the ""CE"" marking and
+associated information, in order to enable them to",and,associated,0
+en_partut-ud-dev,2952,"
+", order to enable them to be placed on the internal,market and move freely. and one of the workshops l," order to enable them to be placed on the internal
+market and move freely. and one of the workshops l",internal,market,0
+en_partut-ud-dev,2975,.,"o be placed on the internal
+market and move freely"," and one of the workshops led to a proposal, by Me","o be placed on the internal
+market and move freely. and one of the workshops led to a proposal, by Me",freely,and,1
+en_partut-ud-dev,3030,"
+"," one of the workshops led to a proposal, by Member","States, for a Council recommendation. Whereas reco"," one of the workshops led to a proposal, by Member
+States, for a Council recommendation. Whereas reco",Member,States,0
+en_partut-ud-dev,3067,.,"al, by Member
+States, for a Council recommendation"," Whereas recognition of the inherent
+dignity and o","al, by Member
+States, for a Council recommendation. Whereas recognition of the inherent
+dignity and o",recommendation,Whereas,1
+en_partut-ud-dev,3104,"
+",ecommendation. Whereas recognition of the inherent,dignity and of the equal and inalienable rights of,"ecommendation. Whereas recognition of the inherent
+dignity and of the equal and inalienable rights of",inherent,dignity,0
+en_partut-ud-dev,3180,"
+",and inalienable rights of all members of the human,"family is the foundation of freedom, justice and p","and inalienable rights of all members of the human
+family is the foundation of freedom, justice and p",human,family,0
+en_partut-ud-dev,3253,"
+","on of freedom, justice and peace in the world; (1)",Everyone has the right to a nationality. It's that,"on of freedom, justice and peace in the world; (1)
+Everyone has the right to a nationality. It's that",,Everyone,1
+en_partut-ud-dev,3293,.,"world; (1)
+Everyone has the right to a nationality"," It's that pyramid. And what's that?
+That top pred","world; (1)
+Everyone has the right to a nationality. It's that pyramid. And what's that?
+That top pred",nationality,It's,1
+en_partut-ud-dev,3312,., has the right to a nationality. It's that pyramid," And what's that?
+That top predator, of course, is"," has the right to a nationality. It's that pyramid. And what's that?
+That top predator, of course, is",pyramid,And,1
+en_partut-ud-dev,3329,?, a nationality. It's that pyramid. And what's that,"
+That top predator, of course, is us. I love a cha"," a nationality. It's that pyramid. And what's that?
+That top predator, of course, is us. I love a cha",that,That,1
+en_partut-ud-dev,3330,"
+",a nationality. It's that pyramid. And what's that?,"That top predator, of course, is us. I love a chal","a nationality. It's that pyramid. And what's that?
+That top predator, of course, is us. I love a chal",,That,0
+en_partut-ud-dev,3366,.,"d what's that?
+That top predator, of course, is us"," I love a challenge, and saving the Earth is
+proba","d what's that?
+That top predator, of course, is us. I love a challenge, and saving the Earth is
+proba",us,I,1
+en_partut-ud-dev,3411,"
+","is us. I love a challenge, and saving the Earth is",probably a good one. We all know the Earth is in t,"is us. I love a challenge, and saving the Earth is
+probably a good one. We all know the Earth is in t",is,probably,0
+en_partut-ud-dev,3431,.,"lenge, and saving the Earth is
+probably a good one", We all know the Earth is in trouble. We have now ,"lenge, and saving the Earth is
+probably a good one. We all know the Earth is in trouble. We have now ",one,We,1
+en_partut-ud-dev,3468,.,ly a good one. We all know the Earth is in trouble," We have now entered in
+the 6X: the sixth major ex","ly a good one. We all know the Earth is in trouble. We have now entered in
+the 6X: the sixth major ex",trouble,We,1
+en_partut-ud-dev,3492,"
+",ow the Earth is in trouble. We have now entered in,the 6X: the sixth major extinction on this planet.,"ow the Earth is in trouble. We have now entered in
+the 6X: the sixth major extinction on this planet.",in,the,0
+en_partut-ud-dev,3542,.,"
+the 6X: the sixth major extinction on this planet"," I think that vote is
+occurring right now. I want ","
+the 6X: the sixth major extinction on this planet. I think that vote is
+occurring right now. I want ",planet,I,1
+en_partut-ud-dev,3564,"
+",or extinction on this planet. I think that vote is,occurring right now. I want to present to you a su,"or extinction on this planet. I think that vote is
+occurring right now. I want to present to you a su",is,occurring,1
+en_partut-ud-dev,3584,.,"s planet. I think that vote is
+occurring right now", I want to present to you a suite of six mycologic,"s planet. I think that vote is
+occurring right now. I want to present to you a suite of six mycologic",now,I,1
+en_partut-ud-dev,3637,"
+", want to present to you a suite of six mycological,"solutions, using fungi, and these solutions are ba"," want to present to you a suite of six mycological
+solutions, using fungi, and these solutions are ba",mycological,solutions,0
+en_partut-ud-dev,3703,.,"g fungi, and these solutions are based on mycelium"," The mycelium
+infuses all landscapes, it holds soi","g fungi, and these solutions are based on mycelium. The mycelium
+infuses all landscapes, it holds soi",mycelium,The,1
+en_partut-ud-dev,3717,"
+",hese solutions are based on mycelium. The mycelium,"infuses all landscapes, it holds soils together, i","hese solutions are based on mycelium. The mycelium
+infuses all landscapes, it holds soils together, i",mycelium,infuses,0
+en_partut-ud-dev,3791,.," it holds soils together, it's extremely tenacious"," This
+holds up to 30,000 times its mass. They're t"," it holds soils together, it's extremely tenacious. This
+holds up to 30,000 times its mass. They're t",tenacious,This,1
+en_partut-ud-dev,3797,"
+","lds soils together, it's extremely tenacious. This","holds up to 30,000 times its mass. They're the gra","lds soils together, it's extremely tenacious. This
+holds up to 30,000 times its mass. They're the gra",This,holds,0
+en_partut-ud-dev,3831,.," tenacious. This
+holds up to 30,000 times its mass"," They're the grand molecular disassemblers of
+natu"," tenacious. This
+holds up to 30,000 times its mass. They're the grand molecular disassemblers of
+natu",mass,They're,1
+en_partut-ud-dev,3877,"
+",mass. They're the grand molecular disassemblers of,nature - the soil magicians. They generate the hum,"mass. They're the grand molecular disassemblers of
+nature - the soil magicians. They generate the hum",of,nature,0
+en_partut-ud-dev,3905,.,"cular disassemblers of
+nature - the soil magicians", They generate the humus soils across the landmass,"cular disassemblers of
+nature - the soil magicians. They generate the humus soils across the landmass",magicians,They,1
+en_partut-ud-dev,3958,"
+",hey generate the humus soils across the landmasses,"of Earth. Dusty and I, we like to say, on Sunday, ","hey generate the humus soils across the landmasses
+of Earth. Dusty and I, we like to say, on Sunday, ",landmasses,of,0
+en_partut-ud-dev,3967,.,"ate the humus soils across the landmasses
+of Earth"," Dusty and I, we like to say, on Sunday, this is w","ate the humus soils across the landmasses
+of Earth. Dusty and I, we like to say, on Sunday, this is w",Earth,Dusty,1
+en_partut-ud-dev,4038,.,"e to say, on Sunday, this is where we go to church","
+I'm in love with the old-growth forest, and I'm a","e to say, on Sunday, this is where we go to church.
+I'm in love with the old-growth forest, and I'm a",church,I'm,1
+en_partut-ud-dev,4039,"
+"," to say, on Sunday, this is where we go to church.","I'm in love with the old-growth forest, and I'm a "," to say, on Sunday, this is where we go to church.
+I'm in love with the old-growth forest, and I'm a ",,I'm,0
+en_partut-ud-dev,4119,"
+","th forest, and I'm a patriotic American because we",have those. Most of you are familiar with Portobel,"th forest, and I'm a patriotic American because we
+have those. Most of you are familiar with Portobel",we,have,0
+en_partut-ud-dev,4130,.,"and I'm a patriotic American because we
+have those", Most of you are familiar with Portobello mushroom,"and I'm a patriotic American because we
+have those. Most of you are familiar with Portobello mushroom",those,Most,1
+en_partut-ud-dev,4182,.,Most of you are familiar with Portobello mushrooms," And frankly, I
+face a big obstacle. So, I hope to","Most of you are familiar with Portobello mushrooms. And frankly, I
+face a big obstacle. So, I hope to",mushrooms,And,1
+en_partut-ud-dev,4198,"
+","familiar with Portobello mushrooms. And frankly, I","face a big obstacle. So, I hope to pierce that pre","familiar with Portobello mushrooms. And frankly, I
+face a big obstacle. So, I hope to pierce that pre",I,face,0
+en_partut-ud-dev,4218,.,"ello mushrooms. And frankly, I
+face a big obstacle"," So, I hope to pierce that prejudice forever with ","ello mushrooms. And frankly, I
+face a big obstacle. So, I hope to pierce that prejudice forever with ",obstacle,So,1
+en_partut-ud-dev,4273,"
+", I hope to pierce that prejudice forever with this,"group. We call it mycophobia, the irrational fear "," I hope to pierce that prejudice forever with this
+group. We call it mycophobia, the irrational fear ",this,group,0
+en_partut-ud-dev,4279,.,"e to pierce that prejudice forever with this
+group"," We call it mycophobia, the irrational fear of the","e to pierce that prejudice forever with this
+group. We call it mycophobia, the irrational fear of the",group,We,1
+en_partut-ud-dev,4353,"
+"," the irrational fear of the unknown, when it comes",to fungi. Mushrooms are very fast in their growth.," the irrational fear of the unknown, when it comes
+to fungi. Mushrooms are very fast in their growth.",comes,to,0
+en_partut-ud-dev,4362,.,"tional fear of the unknown, when it comes
+to fungi", Mushrooms are very fast in their growth. Mushroom,"tional fear of the unknown, when it comes
+to fungi. Mushrooms are very fast in their growth. Mushroom",fungi,Mushrooms,1
+en_partut-ud-dev,4403,.,"
+to fungi. Mushrooms are very fast in their growth"," Mushrooms produce strong
+antibiotics. In fact, we","
+to fungi. Mushrooms are very fast in their growth. Mushrooms produce strong
+antibiotics. In fact, we",growth,Mushrooms,1
+en_partut-ud-dev,4429,"
+",ery fast in their growth. Mushrooms produce strong,"antibiotics. In fact, we're more closely related t","ery fast in their growth. Mushrooms produce strong
+antibiotics. In fact, we're more closely related t",strong,antibiotics,0
+en_partut-ud-dev,4441,.,"their growth. Mushrooms produce strong
+antibiotics"," In fact, we're more closely related to fungi than","their growth. Mushrooms produce strong
+antibiotics. In fact, we're more closely related to fungi than",antibiotics,In,1
+en_partut-ud-dev,4506,"
+",e more closely related to fungi than we are to any,other kingdom. We share in common the same pathoge,"e more closely related to fungi than we are to any
+other kingdom. We share in common the same pathoge",any,other,0
+en_partut-ud-dev,4520,.," related to fungi than we are to any
+other kingdom", We share in common the same pathogens. Fungi don'," related to fungi than we are to any
+other kingdom. We share in common the same pathogens. Fungi don'",kingdom,We,1
+en_partut-ud-dev,4559,.,her kingdom. We share in common the same pathogens," Fungi don't like to rot
+from bacteria, and so our","her kingdom. We share in common the same pathogens. Fungi don't like to rot
+from bacteria, and so our",pathogens,Fungi,1
+en_partut-ud-dev,4584,"
+",common the same pathogens. Fungi don't like to rot,"from bacteria, and so our best antibiotics come fr","common the same pathogens. Fungi don't like to rot
+from bacteria, and so our best antibiotics come fr",rot,from,0
+en_partut-ud-dev,4643,.,"teria, and so our best antibiotics come from fungi"," But here is a
+mushroom that's past its prime. Aft","teria, and so our best antibiotics come from fungi. But here is a
+mushroom that's past its prime. Aft",fungi,But,1
+en_partut-ud-dev,4658,"
+",ur best antibiotics come from fungi. But here is a,mushroom that's past its prime. After they sporula,"ur best antibiotics come from fungi. But here is a
+mushroom that's past its prime. After they sporula",a,mushroom,0
+en_partut-ud-dev,4689,.,"ungi. But here is a
+mushroom that's past its prime"," After they sporulate, they do rot. But I propose
+","ungi. But here is a
+mushroom that's past its prime. After they sporulate, they do rot. But I propose
+",prime,After,1
+en_partut-ud-dev,4724,.," past its prime. After they sporulate, they do rot"," But I propose
+to you that the sequence of microbe"," past its prime. After they sporulate, they do rot. But I propose
+to you that the sequence of microbe",rot,But,1
+en_partut-ud-dev,4739,"
+",". After they sporulate, they do rot. But I propose",to you that the sequence of microbes that occur on,". After they sporulate, they do rot. But I propose
+to you that the sequence of microbes that occur on",propose,to,0
+en_partut-ud-dev,4812,"
+",ce of microbes that occur on rotting mushrooms are,essential for the health of the forest. They give ,"ce of microbes that occur on rotting mushrooms are
+essential for the health of the forest. They give ",are,essential,0
+en_partut-ud-dev,4851,.,"shrooms are
+essential for the health of the forest"," They give rise to the trees, they create
+the debr","shrooms are
+essential for the health of the forest. They give rise to the trees, they create
+the debr",forest,They,1
+en_partut-ud-dev,4893,"
+","e forest. They give rise to the trees, they create",the debris fields that feed the mycelium. And so w,"e forest. They give rise to the trees, they create
+the debris fields that feed the mycelium. And so w",create,the,0
+en_partut-ud-dev,4934,.,"ey create
+the debris fields that feed the mycelium"," And so we see a mushroom here
+sporulating. And th","ey create
+the debris fields that feed the mycelium. And so we see a mushroom here
+sporulating. And th",mycelium,And,1
+en_partut-ud-dev,4965,"
+",t feed the mycelium. And so we see a mushroom here,"sporulating. And the spores are germinating, and t","t feed the mycelium. And so we see a mushroom here
+sporulating. And the spores are germinating, and t",here,sporulating,0
+en_partut-ud-dev,4977,.,"ycelium. And so we see a mushroom here
+sporulating"," And the spores are germinating, and the mycelium ","ycelium. And so we see a mushroom here
+sporulating. And the spores are germinating, and the mycelium ",sporulating,And,1
+en_partut-ud-dev,5042,"
+","s are germinating, and the mycelium forms and goes","underground. In a single cubic inch of soil, there","s are germinating, and the mycelium forms and goes
+underground. In a single cubic inch of soil, there",goes,underground,0
+en_partut-ud-dev,5054,.,"ating, and the mycelium forms and goes
+underground"," In a single cubic inch of soil, there can be more","ating, and the mycelium forms and goes
+underground. In a single cubic inch of soil, there can be more",underground,In,1
+en_partut-ud-dev,5122,"
+","c inch of soil, there can be more than eight miles",of these cells. My foot is covering approximately ,"c inch of soil, there can be more than eight miles
+of these cells. My foot is covering approximately ",miles,of,0
+en_partut-ud-dev,5137,.," there can be more than eight miles
+of these cells", My foot is covering approximately 300 miles of my," there can be more than eight miles
+of these cells. My foot is covering approximately 300 miles of my",cells,My,1
+en_partut-ud-dev,5194,.,ot is covering approximately 300 miles of mycelium," This is
+photomicrographs from Nick Read and Patri","ot is covering approximately 300 miles of mycelium. This is
+photomicrographs from Nick Read and Patri",mycelium,This,1
+en_partut-ud-dev,5203,"
+",ering approximately 300 miles of mycelium. This is,photomicrographs from Nick Read and Patrick Hickey,"ering approximately 300 miles of mycelium. This is
+photomicrographs from Nick Read and Patrick Hickey",is,photomicrographs,0
+en_partut-ud-dev,5254,.,photomicrographs from Nick Read and Patrick Hickey," And notice that as the
+mycelium grows, it conquer","photomicrographs from Nick Read and Patrick Hickey. And notice that as the
+mycelium grows, it conquer",Hickey,And,1
+en_partut-ud-dev,5278,"
+",ck Read and Patrick Hickey. And notice that as the,"mycelium grows, it conquers territory and then it ","ck Read and Patrick Hickey. And notice that as the
+mycelium grows, it conquers territory and then it ",the,mycelium,0
+en_partut-ud-dev,5343,.,", it conquers territory and then it begins the net"," We exhale
+carbon dioxide, so does mycelium. It in",", it conquers territory and then it begins the net. We exhale
+carbon dioxide, so does mycelium. It in",net,We,1
+en_partut-ud-dev,5354,"
+",rs territory and then it begins the net. We exhale,"carbon dioxide, so does mycelium. It inhales oxyge","rs territory and then it begins the net. We exhale
+carbon dioxide, so does mycelium. It inhales oxyge",exhale,carbon,0
+en_partut-ud-dev,5387,.,"he net. We exhale
+carbon dioxide, so does mycelium"," It inhales oxygen, just like we do. But these
+are","he net. We exhale
+carbon dioxide, so does mycelium. It inhales oxygen, just like we do. But these
+are",mycelium,It,1
+en_partut-ud-dev,5423,.," does mycelium. It inhales oxygen, just like we do"," But these
+are essentially externalized stomachs a"," does mycelium. It inhales oxygen, just like we do. But these
+are essentially externalized stomachs a",do,But,1
+en_partut-ud-dev,5434,"
+","ium. It inhales oxygen, just like we do. But these",are essentially externalized stomachs and lungs. A,"ium. It inhales oxygen, just like we do. But these
+are essentially externalized stomachs and lungs. A",these,are,0
+en_partut-ud-dev,5482,.,"se
+are essentially externalized stomachs and lungs"," And I present to you a concept
+that these are ext","se
+are essentially externalized stomachs and lungs. And I present to you a concept
+that these are ext",lungs,And,1
+en_partut-ud-dev,5514,"
+",stomachs and lungs. And I present to you a concept,that these are extended neurological membranes. An,"stomachs and lungs. And I present to you a concept
+that these are extended neurological membranes. An",concept,that,0
+en_partut-ud-dev,5561,.,"ept
+that these are extended neurological membranes"," And in these cavities, these
+micro-cavities form,","ept
+that these are extended neurological membranes. And in these cavities, these
+micro-cavities form,",membranes,And,1
+en_partut-ud-dev,5591,"
+","urological membranes. And in these cavities, these","micro-cavities form, and as they fuse soils, they ","urological membranes. And in these cavities, these
+micro-cavities form, and as they fuse soils, they ",these,micro-cavities,0
+en_partut-ud-dev,5654,.,"es form, and as they fuse soils, they absorb water"," These are little
+wells. And inside these wells, t","es form, and as they fuse soils, they absorb water. These are little
+wells. And inside these wells, t",water,These,1
+en_partut-ud-dev,5672,"
+","ey fuse soils, they absorb water. These are little","wells. And inside these wells, then microbial comm","ey fuse soils, they absorb water. These are little
+wells. And inside these wells, then microbial comm",little,wells,0
+en_partut-ud-dev,5678,.,"e soils, they absorb water. These are little
+wells"," And inside these wells, then microbial communitie","e soils, they absorb water. These are little
+wells. And inside these wells, then microbial communitie",wells,And,1
+en_partut-ud-dev,5744,.,"se wells, then microbial communities begin to form"," I first
+proposed, in the early 1990s, that myceli","se wells, then microbial communities begin to form. I first
+proposed, in the early 1990s, that myceli",form,I,1
+en_partut-ud-dev,5753,"
+", then microbial communities begin to form. I first,"proposed, in the early 1990s, that mycelium is Ear"," then microbial communities begin to form. I first
+proposed, in the early 1990s, that mycelium is Ear",first,proposed,0
+en_partut-ud-dev,5825,.,"y 1990s, that mycelium is Earth's natural Internet"," When
+you look at the mycelium, they're highly bra","y 1990s, that mycelium is Earth's natural Internet. When
+you look at the mycelium, they're highly bra",Internet,When,1
+en_partut-ud-dev,5831,"
+","s, that mycelium is Earth's natural Internet. When","you look at the mycelium, they're highly branched.","s, that mycelium is Earth's natural Internet. When
+you look at the mycelium, they're highly branched.",When,you,0
+en_partut-ud-dev,5881,.,"
+you look at the mycelium, they're highly branched"," The mycelium is sentient. It
+knows that you are t","
+you look at the mycelium, they're highly branched. The mycelium is sentient. It
+knows that you are t",branched,The,1
+en_partut-ud-dev,5907,., they're highly branched. The mycelium is sentient," It
+knows that you are there. When you walk across"," they're highly branched. The mycelium is sentient. It
+knows that you are there. When you walk across",sentient,It,1
+en_partut-ud-dev,5911,"
+",y're highly branched. The mycelium is sentient. It,knows that you are there. When you walk across lan,"y're highly branched. The mycelium is sentient. It
+knows that you are there. When you walk across lan",It,knows,0
+en_partut-ud-dev,5936,.," mycelium is sentient. It
+knows that you are there"," When you walk across landscapes, it leaps up in t"," mycelium is sentient. It
+knows that you are there. When you walk across landscapes, it leaps up in t",there,When,1
+en_partut-ud-dev,5989,"
+","hen you walk across landscapes, it leaps up in the",aftermath of your footsteps trying to grab debris.,"hen you walk across landscapes, it leaps up in the
+aftermath of your footsteps trying to grab debris.",the,aftermath,0
+en_partut-ud-dev,6039,.,"
+aftermath of your footsteps trying to grab debris"," So, I believe the invention
+of the computer Inter","
+aftermath of your footsteps trying to grab debris. So, I believe the invention
+of the computer Inter",debris,So,1
+en_partut-ud-dev,6068,"
+","trying to grab debris. So, I believe the invention",of the computer Internet is an inevitable conseque,"trying to grab debris. So, I believe the invention
+of the computer Internet is an inevitable conseque",invention,of,0
+en_partut-ud-dev,6146,"
+"," an inevitable consequence of a previously proven,","biologically successful model. Going way out, dark"," an inevitable consequence of a previously proven,
+biologically successful model. Going way out, dark",,biologically,0
+en_partut-ud-dev,6176,.,"a previously proven,
+biologically successful model"," Going way out, dark matter conforms to the same
+m","a previously proven,
+biologically successful model. Going way out, dark matter conforms to the same
+m",model,Going,1
+en_partut-ud-dev,6225,"
+","l. Going way out, dark matter conforms to the same",mycelial archetype. And this is the paradigm that ,"l. Going way out, dark matter conforms to the same
+mycelial archetype. And this is the paradigm that ",same,mycelial,0
+en_partut-ud-dev,6244,.,"ark matter conforms to the same
+mycelial archetype", And this is the paradigm that we see throughout t,"ark matter conforms to the same
+mycelial archetype. And this is the paradigm that we see throughout t",archetype,And,1
+en_partut-ud-dev,6297,"
+",nd this is the paradigm that we see throughout the,universe. Most of you may not know that fungi were,"nd this is the paradigm that we see throughout the
+universe. Most of you may not know that fungi were",the,universe,0
+en_partut-ud-dev,6306,.,"s the paradigm that we see throughout the
+universe", Most of you may not know that fungi were the firs,"s the paradigm that we see throughout the
+universe. Most of you may not know that fungi were the firs",universe,Most,1
+en_partut-ud-dev,6376,"
+",t know that fungi were the first organisms to come,"to land. They came to land 1.3 billion years ago, ","t know that fungi were the first organisms to come
+to land. They came to land 1.3 billion years ago, ",come,to,0
+en_partut-ud-dev,6384,.,"hat fungi were the first organisms to come
+to land"," They came to land 1.3 billion years ago, and plan","hat fungi were the first organisms to come
+to land. They came to land 1.3 billion years ago, and plan",land,They,1
+en_partut-ud-dev,6405,.,"rst organisms to come
+to land. They came to land 1","3 billion years ago, and plants followed several
+h","rst organisms to come
+to land. They came to land 1.3 billion years ago, and plants followed several
 h",1,3,0
-en_partut-ud-dev,6561,.,"lants followed several
-hundred million years later","
- How is that possible?
- Makes the rocks crumble, ","lants followed several
-hundred million years later.
- How is that possible?
- Makes the rocks crumble, ",later,How,1
-en_partut-ud-dev,6584,?,"hundred million years later.
- How is that possible","
- Makes the rocks crumble, and
-the first step in t","hundred million years later.
- How is that possible?
- Makes the rocks crumble, and
-the first step in t",possible,Makes,1
-en_partut-ud-dev,6656,.,"mble, and
-the first step in the generation of soil","
- Oxalic acid is two carbon dioxide
-molecules join","mble, and
-the first step in the generation of soil.
- Oxalic acid is two carbon dioxide
-molecules join",soil,Oxalic,1
-en_partut-ud-dev,6718,.,"id is two carbon dioxide
-molecules joined together","
- So, fungi and mycelium sequester carbon dioxide ","id is two carbon dioxide
-molecules joined together.
- So, fungi and mycelium sequester carbon dioxide ",together,So,1
-en_partut-ud-dev,6800,.,"ter carbon dioxide in
-the form of calcium oxalates","
- And all sorts of other oxalates are also
-sequest","ter carbon dioxide in
-the form of calcium oxalates.
- And all sorts of other oxalates are also
-sequest",oxalates,And,1
-en_partut-ud-dev,6947,.," are being formed and taken
-out of the rock matrix","
- This was first discovered in 1859.
- This is a ph"," are being formed and taken
-out of the rock matrix.
- This was first discovered in 1859.
- This is a ph",matrix,This,1
-en_partut-ud-dev,6983,.,"he rock matrix.
- This was first discovered in 1859","
- This is a photograph
-by Franz Hueber.
- This phot","he rock matrix.
- This was first discovered in 1859.
- This is a photograph
-by Franz Hueber.
- This phot",1859,This,1
-en_partut-ud-dev,7022,.,"red in 1859.
- This is a photograph
-by Franz Hueber","
- This photograph's taken 1950s in Saudi Arabia.
- ","red in 1859.
- This is a photograph
-by Franz Hueber.
- This photograph's taken 1950s in Saudi Arabia.
- ",Hueber,This,1
-en_partut-ud-dev,7070,.,"er.
- This photograph's taken 1950s in Saudi Arabia","
- 420 million
-years ago, this organism existed.
- I","er.
- This photograph's taken 1950s in Saudi Arabia.
- 420 million
-years ago, this organism existed.
- I",Arabia,420,1
-en_partut-ud-dev,7117,.,"bia.
- 420 million
-years ago, this organism existed","
- It was called Prototaxites.
- Prototaxites,
-layin","bia.
- 420 million
-years ago, this organism existed.
- It was called Prototaxites.
- Prototaxites,
-layin",existed,It,1
-en_partut-ud-dev,7146,.,"this organism existed.
- It was called Prototaxites","
- Prototaxites,
-laying down, was about three feet ","this organism existed.
- It was called Prototaxites.
- Prototaxites,
-laying down, was about three feet ",Prototaxites,Prototaxites,1
-en_partut-ud-dev,7201,.,"ototaxites,
-laying down, was about three feet tall","
- The tallest plants on Earth at that time
-were le","ototaxites,
-laying down, was about three feet tall.
- The tallest plants on Earth at that time
-were le",tall,The,1
-en_partut-ud-dev,7268,.,"ants on Earth at that time
-were less than two feet","
- Across the landscapes of Earth were dotted these","ants on Earth at that time
-were less than two feet.
- Across the landscapes of Earth were dotted these",feet,Across,1
-en_partut-ud-dev,7335,.,"dscapes of Earth were dotted these giant
-mushrooms","
- All across most land masses.
- And these existed ","dscapes of Earth were dotted these giant
-mushrooms.
- All across most land masses.
- And these existed ",mushrooms,All,1
-en_partut-ud-dev,7365,.,"hese giant
-mushrooms.
- All across most land masses","
- And these existed for tens of millions
-of years.","hese giant
-mushrooms.
- All across most land masses.
- And these existed for tens of millions
-of years.",masses,And,1
-en_partut-ud-dev,7415,.,".
- And these existed for tens of millions
-of years","
- The Earth was struck by an asteroid, a huge amou",".
- And these existed for tens of millions
-of years.
- The Earth was struck by an asteroid, a huge amou",years,The,1
-en_partut-ud-dev,7513,.,"mount of debris was
-jettisoned into the atmosphere","
- Sunlight was cut off, and fungi inherited the
-Ea","mount of debris was
-jettisoned into the atmosphere.
- Sunlight was cut off, and fungi inherited the
-Ea",atmosphere,Sunlight,1
-en_partut-ud-dev,7567,.,"unlight was cut off, and fungi inherited the
-Earth","
- Those organisms that paired with fungi were rewa","unlight was cut off, and fungi inherited the
-Earth.
- Those organisms that paired with fungi were rewa",Earth,Those,1
-en_partut-ud-dev,7655,.,"ngi were rewarded, because fungi do
-not need light","
- So, the prospect of fungi existing on other plan","ngi were rewarded, because fungi do
-not need light.
- So, the prospect of fungi existing on other plan",light,So,1
-en_partut-ud-dev,7779,.," is a forgone conclusion;
- at least in my own mind","
- The largest organism in
-the world is in Eastern "," is a forgone conclusion;
- at least in my own mind.
- The largest organism in
-the world is in Eastern ",mind,The,1
-en_partut-ud-dev,7836,.,"largest organism in
-the world is in Eastern Oregon","
- 2,200 acres in size, 2,000 years old.
- The
-large","largest organism in
-the world is in Eastern Oregon.
- 2,200 acres in size, 2,000 years old.
- The
-large",Oregon,2,1
-en_partut-ud-dev,7875,.,"tern Oregon.
- 2,200 acres in size, 2,000 years old","
- The
-largest organism on the planet is a mycelial","tern Oregon.
- 2,200 acres in size, 2,000 years old.
- The
-largest organism on the planet is a mycelial",old,The,1
-en_partut-ud-dev,7951,.," the planet is a mycelial mat, one cell wall thick","
- The
-mycelium, in the right conditions, produces "," the planet is a mycelial mat, one cell wall thick.
- The
-mycelium, in the right conditions, produces ",thick,The,1
-en_partut-ud-dev,8077,.,"rough with
-such ferocity that it can break asphalt","
- We were involved with several
-experiments.
- I'm ","rough with
-such ferocity that it can break asphalt.
- We were involved with several
-experiments.
- I'm ",asphalt,We,1
-en_partut-ud-dev,8121,.,"sphalt.
- We were involved with several
-experiments","
- I'm going to show you six, if I can, solutions f","sphalt.
- We were involved with several
-experiments.
- I'm going to show you six, if I can, solutions f",experiments,I'm,1
-en_partut-ud-dev,8200,.," if I can, solutions for helping to save
-the world","
- Battelle Laboratories and I joined up in Belling"," if I can, solutions for helping to save
-the world.
- Battelle Laboratories and I joined up in Belling",world,Battelle,1
-en_partut-ud-dev,8266,.,"ratories and I joined up in Bellingham, Washington","
-
-Economists at Citigroup, Mckinsey, Pricewaterhou","ratories and I joined up in Bellingham, Washington.
-
-Economists at Citigroup, Mckinsey, Pricewaterhou",Washington,Economists,1
-en_partut-ud-dev,8414,., of broad and sustained growth from Asia to Africa,"
- Third,
-floating exchange rates are flawed shock "," of broad and sustained growth from Asia to Africa.
- Third,
-floating exchange rates are flawed shock ",Africa,Third,1
-en_partut-ud-dev,8474,.,floating exchange rates are flawed shock absorbers,"
- It is naïve for
-emerging-market governments to e","floating exchange rates are flawed shock absorbers.
- It is naïve for
-emerging-market governments to e",absorbers,It,1
-en_partut-ud-dev,8624,.,icies in response to economic conditions elsewhere,"
- ""But the bottom line is
-that the ideas protected","icies in response to economic conditions elsewhere.
- ""But the bottom line is
-that the ideas protected",elsewhere,,1
-en_partut-ud-dev,8758,.,"rowth for developed and
-developing countries alike","
- It is time for India's leaders to recognize the
-","rowth for developed and
-developing countries alike.
- It is time for India's leaders to recognize the
-",alike,It,1
-en_partut-ud-dev,8893,.,"fostering growth and improving citizens'
-wellbeing","
- Andy Haldane, one of the lieutenants Carney inhe","fostering growth and improving citizens'
-wellbeing.
- Andy Haldane, one of the lieutenants Carney inhe",wellbeing,Andy,1
-en_partut-ud-dev,9124,.,"apacitate large parts of the non-financial
-economy","
- The reasons for this relationship are not easy t","apacitate large parts of the non-financial
-economy.
- The reasons for this relationship are not easy t",economy,The,1
-en_partut-ud-dev,9247,.,"ly, and the authors' conclusions are controversial","
- These companies
-find it harder to recruit skille","ly, and the authors' conclusions are controversial.
- These companies
-find it harder to recruit skille",controversial,These,1
-en_partut-ud-dev,9354,.,"uates when financial firms can pay higher
-salaries","
- But if finance continues to take a disproportion","uates when financial firms can pay higher
-salaries.
- But if finance continues to take a disproportion",salaries,But,1
-en_partut-ud-dev,9544,.,"t by 2050, and
-even fewer hi-tech firms than today","
- Physicists know that subatomic phenomena
-can man","t by 2050, and
-even fewer hi-tech firms than today.
- Physicists know that subatomic phenomena
-can man",today,Physicists,1
-en_partut-ud-dev,9804,.," investing in people, infrastructure, and capacity","
- How will resources
-be allocated to care for the "," investing in people, infrastructure, and capacity.
- How will resources
-be allocated to care for the ",capacity,How,1
-en_partut-ud-dev,9990,?,"nd old-age health plans are patently
-unsustainable","
- A global carbon tax would mitigate climate risks","nd old-age health plans are patently
-unsustainable?
- A global carbon tax would mitigate climate risks",unsustainable,A,1
-en_partut-ud-dev,10083,.,"te risks while
-alleviating government debt burdens","
- But when innovation affects an automobile's
-qual","te risks while
-alleviating government debt burdens.
- But when innovation affects an automobile's
-qual",burdens,But,1
-en_partut-ud-dev,10174,.,"ile's
-quality, the task becomes far more difficult","
- Women who have completed secondary
-or tertiary e","ile's
-quality, the task becomes far more difficult.
- Women who have completed secondary
-or tertiary e",difficult,Women,1
-en_partut-ud-dev,10327,.,"labor market
-than their less educated counterparts","
- Indeed, its three-year plan for economic
-innovat","labor market
-than their less educated counterparts.
- Indeed, its three-year plan for economic
-innovat",counterparts,Indeed,1
-en_partut-ud-dev,10588,.,"expanded paid parental leave, among other measures","
- The IMF is
-founded on the premise that it repres","expanded paid parental leave, among other measures.
- The IMF is
-founded on the premise that it repres",measures,The,1
-en_partut-ud-dev,10697,.,"peration between all of the
-countries of the world","
- Next month, Ukraine's citizens will freely choos","peration between all of the
-countries of the world.
- Next month, Ukraine's citizens will freely choos",world,Next,1
-en_partut-ud-dev,10861,.,"nda about our supposed
-failure to uphold democracy","
- And there are an estimated 200,000 cases of yell","nda about our supposed
-failure to uphold democracy.
- And there are an estimated 200,000 cases of yell",democracy,And,1
-en_partut-ud-dev,10965,.,"fever annually, leading to 30,000 deaths worldwide","
- Only with pragmatic,
-fact-based Regulation can t","fever annually, leading to 30,000 deaths worldwide.
- Only with pragmatic,
-fact-based Regulation can t",worldwide,Only,1
-en_partut-ud-dev,11086,.,"etic engineering's full
-disease-fighting potential","
- He is renowned for his multifaceted characters, ","etic engineering's full
-disease-fighting potential.
- He is renowned for his multifaceted characters, ",potential,He,1
-en_partut-ud-dev,11162,.,"multifaceted characters, who
-are morally ambiguous","
- Balzac had difficulty adapting to the rote style","multifaceted characters, who
-are morally ambiguous.
- Balzac had difficulty adapting to the rote style",ambiguous,Balzac,1
-en_partut-ud-dev,11239,.,"apting to the rote style of
-learning at the school","
- The narrator says:
- Near the end of his life Bal","apting to the rote style of
-learning at the school.
- The narrator says:
- Near the end of his life Bal",school,The,1
-en_partut-ud-dev,11415,.," in Ukraine
-and transporting it for sale in France","
- ""When the idea struck, he raced to his
-sister's "," in Ukraine
-and transporting it for sale in France.
- ""When the idea struck, he raced to his
-sister's ",France,,1
-en_partut-ud-dev,11668,.,ey are the center of the book's most brutal scenes,"
- Le Cousin Pons (1847) and
-La Cousine Bette (1848","ey are the center of the book's most brutal scenes.
- Le Cousin Pons (1847) and
-La Cousine Bette (1848",scenes,Le,1
-en_partut-ud-dev,11779,.," story of Les Parents Pauvres (The Poor
-Relations)","
- Their correspondence reveals an intriguing balan"," story of Les Parents Pauvres (The Poor
-Relations).
- Their correspondence reveals an intriguing balan",,Their,1
-en_partut-ud-dev,12037,.,"ict human existence
-through the use of particulars","
- Some critics consider Balzac's writing exemplary","ict human existence
-through the use of particulars.
- Some critics consider Balzac's writing exemplary",particulars,Some,1
-en_partut-ud-dev,12238,.,avior as intrinsically linked with the environment,"
- ""At the
-same time, the characters represent a pa","avior as intrinsically linked with the environment.
- ""At the
-same time, the characters represent a pa",environment,,1
-en_partut-ud-dev,12457,.,"alzac wrote that ""books are written for everybody""","
- At the age of 18, he
-married Anne Hathaway, with","alzac wrote that ""books are written for everybody"".
- At the age of 18, he
-married Anne Hathaway, with",,At,1
-en_partut-ud-dev,12680,.,"rise to
-its present heights until the 19th century","
- His actual date of birth remains
-unknown, but is","rise to
-its present heights until the 19th century.
- His actual date of birth remains
-unknown, but is",century,His,1
-en_partut-ud-dev,12786,.,"itionally observed on 23 April, Saint George's Day","
- In 1599,
-a partnership of company members built ","itionally observed on 23 April, Saint George's Day.
- In 1599,
-a partnership of company members built ",Day,In,1
-en_partut-ud-dev,12921,.,"k of
-the River Thames, which they called the Globe","
- Records of Shakespeare's property
-purchases and ","k of
-the River Thames, which they called the Globe.
- Records of Shakespeare's property
-purchases and ",Globe,Records,1
-en_partut-ud-dev,13032,.,s indicate that the company made him a wealthy man,"
- By
-1604, he had moved north of the river again, ","s indicate that the company made him a wealthy man.
- By
-1604, he had moved north of the river again, ",man,By,1
-en_partut-ud-dev,13144,.,"north of St Paul's
-Cathedral with many fine houses","
- There he rented rooms from a French Huguenot
-nam","north of St Paul's
-Cathedral with many fine houses.
- There he rented rooms from a French Huguenot
-nam",houses,There,1
-en_partut-ud-dev,13262,.,"untjoy, a maker of ladies' wigs and other headgear","
- His last
-three plays were collaborations, probab","untjoy, a maker of ladies' wigs and other headgear.
- His last
-three plays were collaborations, probab",headgear,His,1
-en_partut-ud-dev,13396,.,"ded him
-as the house playwright for the King's Men","
- that is the question"".
- In 1613, Sir
-Henry Wotto","ded him
-as the house playwright for the King's Men.
- that is the question"".
- In 1613, Sir
-Henry Wotto",Men,that,1
-en_partut-ud-dev,13420,.,"ywright for the King's Men.
- that is the question""","
- In 1613, Sir
-Henry Wotton recorded that Henry VI","ywright for the King's Men.
- that is the question"".
- In 1613, Sir
-Henry Wotton recorded that Henry VI",,In,1
-en_partut-ud-dev,13548,.," extraordinary
-circumstances of pomp and ceremony""","
- It contained 36 texts, including 18 printed
-for "," extraordinary
-circumstances of pomp and ceremony"".
- It contained 36 texts, including 18 printed
-for ",,It,1
-en_partut-ud-dev,13613,.," 36 texts, including 18 printed
-for the first time","
- He dedicated them to Henry Wriothesley, Earl of "," 36 texts, including 18 printed
-for the first time.
- He dedicated them to Henry Wriothesley, Earl of ",time,He,1
-en_partut-ud-dev,13675,.,"ted them to Henry Wriothesley, Earl of Southampton","
-
-These include two operas by Giuseppe Verdi, Otel","ted them to Henry Wriothesley, Earl of Southampton.
-
-These include two operas by Giuseppe Verdi, Otel",Southampton,These,1
-en_partut-ud-dev,13805,.,"al
-standing compares with that of the source plays","
- In Shakespeare's day, English
-grammar, spelling ","al
-standing compares with that of the source plays.
- In Shakespeare's day, English
-grammar, spelling ",plays,In,1
-en_partut-ud-dev,13967,.,nd his use of language helped shape modern English,"
- In the 1950s, a wave of new
-critical approaches ","nd his use of language helped shape modern English.
- In the 1950s, a wave of new
-critical approaches ",English,In,1
-en_partut-ud-dev,14095,.,"d the way for ""post-modern""
-studies of Shakespeare","
- At 18, he married the 26-year-old Anne Hathaway,","d the way for ""post-modern""
-studies of Shakespeare.
- At 18, he married the 26-year-old Anne Hathaway,",Shakespeare,At,1
-en_partut-ud-dev,14163,.,"ed the 26-year-old Anne Hathaway, who was
-pregnant","
- In the late 19th century, Edward Dowden classifi","ed the 26-year-old Anne Hathaway, who was
-pregnant.
- In the late 19th century, Edward Dowden classifi",pregnant,In,1
-en_partut-ud-dev,14338,.,"to call them
-tragicomedies, his term is often used","
- 
+en_partut-ud-dev,6454,"
+","1.3 billion years ago, and plants followed several",hundred million years later. How is that possible?,"1.3 billion years ago, and plants followed several
+hundred million years later. How is that possible?",several,hundred,0
+en_partut-ud-dev,6482,.,"lants followed several
+hundred million years later"," How is that possible? Makes the rocks crumble, an","lants followed several
+hundred million years later. How is that possible? Makes the rocks crumble, an",later,How,1
+en_partut-ud-dev,6504,?,"
+hundred million years later. How is that possible"," Makes the rocks crumble, and
+the first step in th","
+hundred million years later. How is that possible? Makes the rocks crumble, and
+the first step in th",possible,Makes,1
+en_partut-ud-dev,6534,"
+","How is that possible? Makes the rocks crumble, and",the first step in the generation of soil. Oxalic a,"How is that possible? Makes the rocks crumble, and
+the first step in the generation of soil. Oxalic a",and,the,0
+en_partut-ud-dev,6575,.,"mble, and
+the first step in the generation of soil"," Oxalic acid is two carbon dioxide
+molecules joine","mble, and
+the first step in the generation of soil. Oxalic acid is two carbon dioxide
+molecules joine",soil,Oxalic,1
+en_partut-ud-dev,6610,"
+",eration of soil. Oxalic acid is two carbon dioxide,"molecules joined together. So, fungi and mycelium ","eration of soil. Oxalic acid is two carbon dioxide
+molecules joined together. So, fungi and mycelium ",dioxide,molecules,0
+en_partut-ud-dev,6636,.,"id is two carbon dioxide
+molecules joined together"," So, fungi and mycelium sequester carbon dioxide i","id is two carbon dioxide
+molecules joined together. So, fungi and mycelium sequester carbon dioxide i",together,So,1
+en_partut-ud-dev,6688,"
+","So, fungi and mycelium sequester carbon dioxide in",the form of calcium oxalates. And all sorts of oth,"So, fungi and mycelium sequester carbon dioxide in
+the form of calcium oxalates. And all sorts of oth",in,the,0
+en_partut-ud-dev,6717,.,"ter carbon dioxide in
+the form of calcium oxalates"," And all sorts of other oxalates are also
+sequeste","ter carbon dioxide in
+the form of calcium oxalates. And all sorts of other oxalates are also
+sequeste",oxalates,And,1
+en_partut-ud-dev,6759,"
+",oxalates. And all sorts of other oxalates are also,sequestering carbon dioxide through the minerals t,"oxalates. And all sorts of other oxalates are also
+sequestering carbon dioxide through the minerals t",also,sequestering,0
+en_partut-ud-dev,6840,"
+",rough the minerals that are being formed and taken,out of the rock matrix. This was first discovered ,"rough the minerals that are being formed and taken
+out of the rock matrix. This was first discovered ",taken,out,0
+en_partut-ud-dev,6863,.," are being formed and taken
+out of the rock matrix", This was first discovered in 1859. This is a phot," are being formed and taken
+out of the rock matrix. This was first discovered in 1859. This is a phot",matrix,This,1
+en_partut-ud-dev,6898,.,the rock matrix. This was first discovered in 1859," This is a photograph
+by Franz Hueber. This photog","the rock matrix. This was first discovered in 1859. This is a photograph
+by Franz Hueber. This photog",1859,This,1
+en_partut-ud-dev,6920,"
+",was first discovered in 1859. This is a photograph,by Franz Hueber. This photograph's taken 1950s in ,"was first discovered in 1859. This is a photograph
+by Franz Hueber. This photograph's taken 1950s in ",photograph,by,0
+en_partut-ud-dev,6936,.,"ered in 1859. This is a photograph
+by Franz Hueber", This photograph's taken 1950s in Saudi Arabia. 42,"ered in 1859. This is a photograph
+by Franz Hueber. This photograph's taken 1950s in Saudi Arabia. 42",Hueber,This,1
+en_partut-ud-dev,6983,.,ber. This photograph's taken 1950s in Saudi Arabia," 420 million
+years ago, this organism existed. It ","ber. This photograph's taken 1950s in Saudi Arabia. 420 million
+years ago, this organism existed. It ",Arabia,420,1
+en_partut-ud-dev,6996,"
+",tograph's taken 1950s in Saudi Arabia. 420 million,"years ago, this organism existed. It was called Pr","tograph's taken 1950s in Saudi Arabia. 420 million
+years ago, this organism existed. It was called Pr",million,years,0
+en_partut-ud-dev,7029,.,"abia. 420 million
+years ago, this organism existed"," It was called Prototaxites. Prototaxites,
+laying ","abia. 420 million
+years ago, this organism existed. It was called Prototaxites. Prototaxites,
+laying ",existed,It,1
+en_partut-ud-dev,7057,., this organism existed. It was called Prototaxites," Prototaxites,
+laying down, was about three feet t"," this organism existed. It was called Prototaxites. Prototaxites,
+laying down, was about three feet t",Prototaxites,Prototaxites,1
+en_partut-ud-dev,7072,"
+","existed. It was called Prototaxites. Prototaxites,","laying down, was about three feet tall. The talles","existed. It was called Prototaxites. Prototaxites,
+laying down, was about three feet tall. The talles",,laying,0
+en_partut-ud-dev,7111,.,"ototaxites,
+laying down, was about three feet tall"," The tallest plants on Earth at that time
+were les","ototaxites,
+laying down, was about three feet tall. The tallest plants on Earth at that time
+were les",tall,The,1
+en_partut-ud-dev,7153,"
+",eet tall. The tallest plants on Earth at that time,were less than two feet. Across the landscapes of ,"eet tall. The tallest plants on Earth at that time
+were less than two feet. Across the landscapes of ",time,were,0
+en_partut-ud-dev,7177,.,"ants on Earth at that time
+were less than two feet", Across the landscapes of Earth were dotted these ,"ants on Earth at that time
+were less than two feet. Across the landscapes of Earth were dotted these ",feet,Across,1
+en_partut-ud-dev,7233,"
+",ss the landscapes of Earth were dotted these giant,mushrooms. All across most land masses. And these ,"ss the landscapes of Earth were dotted these giant
+mushrooms. All across most land masses. And these ",giant,mushrooms,0
+en_partut-ud-dev,7243,.,"dscapes of Earth were dotted these giant
+mushrooms", All across most land masses. And these existed fo,"dscapes of Earth were dotted these giant
+mushrooms. All across most land masses. And these existed fo",mushrooms,All,1
+en_partut-ud-dev,7272,.,"these giant
+mushrooms. All across most land masses"," And these existed for tens of millions
+of years. ","these giant
+mushrooms. All across most land masses. And these existed for tens of millions
+of years. ",masses,And,1
+en_partut-ud-dev,7312,"
+",and masses. And these existed for tens of millions,"of years. The Earth was struck by an asteroid, a h","and masses. And these existed for tens of millions
+of years. The Earth was struck by an asteroid, a h",millions,of,0
+en_partut-ud-dev,7321,.,"s. And these existed for tens of millions
+of years"," The Earth was struck by an asteroid, a huge amoun","s. And these existed for tens of millions
+of years. The Earth was struck by an asteroid, a huge amoun",years,The,1
+en_partut-ud-dev,7387,"
+","struck by an asteroid, a huge amount of debris was",jettisoned into the atmosphere. Sunlight was cut o,"struck by an asteroid, a huge amount of debris was
+jettisoned into the atmosphere. Sunlight was cut o",was,jettisoned,0
+en_partut-ud-dev,7418,.,"mount of debris was
+jettisoned into the atmosphere"," Sunlight was cut off, and fungi inherited the
+Ear","mount of debris was
+jettisoned into the atmosphere. Sunlight was cut off, and fungi inherited the
+Ear",atmosphere,Sunlight,1
+en_partut-ud-dev,7465,"
+","ere. Sunlight was cut off, and fungi inherited the",Earth. Those organisms that paired with fungi were,"ere. Sunlight was cut off, and fungi inherited the
+Earth. Those organisms that paired with fungi were",the,Earth,0
+en_partut-ud-dev,7471,.,"unlight was cut off, and fungi inherited the
+Earth", Those organisms that paired with fungi were rewar,"unlight was cut off, and fungi inherited the
+Earth. Those organisms that paired with fungi were rewar",Earth,Those,1
+en_partut-ud-dev,7543,"
+"," paired with fungi were rewarded, because fungi do","not need light. So, the prospect of fungi existing"," paired with fungi were rewarded, because fungi do
+not need light. So, the prospect of fungi existing",do,not,0
+en_partut-ud-dev,7558,.,"ngi were rewarded, because fungi do
+not need light"," So, the prospect of fungi existing on other plane","ngi were rewarded, because fungi do
+not need light. So, the prospect of fungi existing on other plane",light,So,1
+en_partut-ud-dev,7624,"
+","ct of fungi existing on other planets elsewhere, I","think, is a forgone conclusion; at least in my own","ct of fungi existing on other planets elsewhere, I
+think, is a forgone conclusion; at least in my own",I,think,0
+en_partut-ud-dev,7680,.,", is a forgone conclusion; at least in my own mind"," The largest organism in
+the world is in Eastern O",", is a forgone conclusion; at least in my own mind. The largest organism in
+the world is in Eastern O",mind,The,1
+en_partut-ud-dev,7705,"
+",; at least in my own mind. The largest organism in,"the world is in Eastern Oregon. 2,200 acres in siz","; at least in my own mind. The largest organism in
+the world is in Eastern Oregon. 2,200 acres in siz",in,the,1
+en_partut-ud-dev,7736,.,"largest organism in
+the world is in Eastern Oregon"," 2,200 acres in size, 2,000 years old. The
+largest","largest organism in
+the world is in Eastern Oregon. 2,200 acres in size, 2,000 years old. The
+largest",Oregon,2,1
+en_partut-ud-dev,7774,.,"stern Oregon. 2,200 acres in size, 2,000 years old"," The
+largest organism on the planet is a mycelial ","stern Oregon. 2,200 acres in size, 2,000 years old. The
+largest organism on the planet is a mycelial ",old,The,1
+en_partut-ud-dev,7779,"
+"," Oregon. 2,200 acres in size, 2,000 years old. The","largest organism on the planet is a mycelial mat, "," Oregon. 2,200 acres in size, 2,000 years old. The
+largest organism on the planet is a mycelial mat, ",The,largest,0
+en_partut-ud-dev,7849,.," the planet is a mycelial mat, one cell wall thick"," The
+mycelium, in the right conditions, produces a"," the planet is a mycelial mat, one cell wall thick. The
+mycelium, in the right conditions, produces a",thick,The,1
+en_partut-ud-dev,7854,"
+","planet is a mycelial mat, one cell wall thick. The","mycelium, in the right conditions, produces a mush","planet is a mycelial mat, one cell wall thick. The
+mycelium, in the right conditions, produces a mush",The,mycelium,0
+en_partut-ud-dev,7934,"
+","ions, produces a mushroom - it bursts through with",such ferocity that it can break asphalt. We were i,"ions, produces a mushroom - it bursts through with
+such ferocity that it can break asphalt. We were i",with,such,0
+en_partut-ud-dev,7974,.,"rough with
+such ferocity that it can break asphalt"," We were involved with several
+experiments. I'm go","rough with
+such ferocity that it can break asphalt. We were involved with several
+experiments. I'm go",asphalt,We,1
+en_partut-ud-dev,8005,"
+",t can break asphalt. We were involved with several,"experiments. I'm going to show you six, if I can, ","t can break asphalt. We were involved with several
+experiments. I'm going to show you six, if I can, ",several,experiments,0
+en_partut-ud-dev,8017,.,"asphalt. We were involved with several
+experiments"," I'm going to show you six, if I can, solutions fo","asphalt. We were involved with several
+experiments. I'm going to show you six, if I can, solutions fo",experiments,I'm,1
+en_partut-ud-dev,8085,"
+","w you six, if I can, solutions for helping to save",the world. Battelle Laboratories and I joined up i,"w you six, if I can, solutions for helping to save
+the world. Battelle Laboratories and I joined up i",save,the,0
+en_partut-ud-dev,8095,.," if I can, solutions for helping to save
+the world", Battelle Laboratories and I joined up in Bellingh," if I can, solutions for helping to save
+the world. Battelle Laboratories and I joined up in Bellingh",world,Battelle,1
+en_partut-ud-dev,8160,.,"ratories and I joined up in Bellingham, Washington","
+Economists at Citigroup, Mckinsey, Pricewaterhous","ratories and I joined up in Bellingham, Washington.
+Economists at Citigroup, Mckinsey, Pricewaterhous",Washington,Economists,1
+en_partut-ud-dev,8161,"
+","atories and I joined up in Bellingham, Washington.","Economists at Citigroup, Mckinsey, Pricewaterhouse","atories and I joined up in Bellingham, Washington.
+Economists at Citigroup, Mckinsey, Pricewaterhouse",,Economists,0
+en_partut-ud-dev,8239,"
+","kinsey, Pricewaterhousecoopers, and elsewhere were",predicting an era of broad and sustained growth fr,"kinsey, Pricewaterhousecoopers, and elsewhere were
+predicting an era of broad and sustained growth fr",were,predicting,0
+en_partut-ud-dev,8307,., of broad and sustained growth from Asia to Africa," Third,
+floating exchange rates are flawed shock a"," of broad and sustained growth from Asia to Africa. Third,
+floating exchange rates are flawed shock a",Africa,Third,1
+en_partut-ud-dev,8315,"
+","d and sustained growth from Asia to Africa. Third,",floating exchange rates are flawed shock absorbers,"d and sustained growth from Asia to Africa. Third,
+floating exchange rates are flawed shock absorbers",,floating,0
+en_partut-ud-dev,8366,.,floating exchange rates are flawed shock absorbers," It is naïve for
+emerging-market governments to ex","floating exchange rates are flawed shock absorbers. It is naïve for
+emerging-market governments to ex",absorbers,It,1
+en_partut-ud-dev,8383,"
+", rates are flawed shock absorbers. It is naïve for,emerging-market governments to expect major financ," rates are flawed shock absorbers. It is naïve for
+emerging-market governments to expect major financ",for,emerging-market,0
+en_partut-ud-dev,8461,"
+", to expect major financial centers to adjust their,policies in response to economic conditions elsewh," to expect major financial centers to adjust their
+policies in response to economic conditions elsewh",their,policies,0
+en_partut-ud-dev,8515,.,icies in response to economic conditions elsewhere," ""But the bottom line is
+that the ideas protected ","icies in response to economic conditions elsewhere. ""But the bottom line is
+that the ideas protected ",elsewhere,,1
+en_partut-ud-dev,8540,"
+","omic conditions elsewhere. ""But the bottom line is",that the ideas protected by IP rights are the dyna,"omic conditions elsewhere. ""But the bottom line is
+that the ideas protected by IP rights are the dyna",is,that,0
+en_partut-ud-dev,8621,"
+", rights are the dynamo of growth for developed and,developing countries alike. It is time for India's," rights are the dynamo of growth for developed and
+developing countries alike. It is time for India's",and,developing,0
+en_partut-ud-dev,8648,.,"rowth for developed and
+developing countries alike"," It is time for India's leaders to recognize the
+p","rowth for developed and
+developing countries alike. It is time for India's leaders to recognize the
+p",alike,It,1
+en_partut-ud-dev,8697,"
+",e. It is time for India's leaders to recognize the,positive role that IP can play in fostering growth,"e. It is time for India's leaders to recognize the
+positive role that IP can play in fostering growth",the,positive,0
+en_partut-ud-dev,8772,"
+",n play in fostering growth and improving citizens',"wellbeing. Andy Haldane, one of the lieutenants Ca","n play in fostering growth and improving citizens'
+wellbeing. Andy Haldane, one of the lieutenants Ca",citizens',wellbeing,0
+en_partut-ud-dev,8782,.,"fostering growth and improving citizens'
+wellbeing"," Andy Haldane, one of the lieutenants Carney inher","fostering growth and improving citizens'
+wellbeing. Andy Haldane, one of the lieutenants Carney inher",wellbeing,Andy,1
+en_partut-ud-dev,8853,"
+","f the lieutenants Carney inherited at the BoE, has",questioned the financial sector's economic contrib,"f the lieutenants Carney inherited at the BoE, has
+questioned the financial sector's economic contrib",has,questioned,0
+en_partut-ud-dev,8927,"
+","l sector's economic contribution, pointing to ""its",ability to both invigorate and incapacitate large ,"l sector's economic contribution, pointing to ""its
+ability to both invigorate and incapacitate large ",its,ability,0
+en_partut-ud-dev,9004,"
+", and incapacitate large parts of the non-financial,economy. The reasons for this relationship are not," and incapacitate large parts of the non-financial
+economy. The reasons for this relationship are not",non-financial,economy,0
+en_partut-ud-dev,9012,.,"apacitate large parts of the non-financial
+economy", The reasons for this relationship are not easy to,"apacitate large parts of the non-financial
+economy. The reasons for this relationship are not easy to",economy,The,1
+en_partut-ud-dev,9073,"
+",ns for this relationship are not easy to establish,"definitively, and the authors' conclusions are con","ns for this relationship are not easy to establish
+definitively, and the authors' conclusions are con",establish,definitively,0
+en_partut-ud-dev,9134,.,"ly, and the authors' conclusions are controversial"," These companies
+find it harder to recruit skilled","ly, and the authors' conclusions are controversial. These companies
+find it harder to recruit skilled",controversial,These,1
+en_partut-ud-dev,9151,"
+",rs' conclusions are controversial. These companies,find it harder to recruit skilled graduates when f,"rs' conclusions are controversial. These companies
+find it harder to recruit skilled graduates when f",companies,find,0
+en_partut-ud-dev,9231,"
+",lled graduates when financial firms can pay higher,salaries. But if finance continues to take a dispr,"lled graduates when financial firms can pay higher
+salaries. But if finance continues to take a dispr",higher,salaries,0
+en_partut-ud-dev,9240,.,"uates when financial firms can pay higher
+salaries", But if finance continues to take a disproportiona,"uates when financial firms can pay higher
+salaries. But if finance continues to take a disproportiona",salaries,But,1
+en_partut-ud-dev,9312,"
+",nues to take a disproportionate number of the best,"and the brightest, there could be little British m","nues to take a disproportionate number of the best
+and the brightest, there could be little British m",best,and,0
+en_partut-ud-dev,9393,"
+"," be little British manufacturing left by 2050, and",even fewer hi-tech firms than today. Physicists kn," be little British manufacturing left by 2050, and
+even fewer hi-tech firms than today. Physicists kn",and,even,0
+en_partut-ud-dev,9429,.,"t by 2050, and
+even fewer hi-tech firms than today"," Physicists know that subatomic phenomena
+can mani","t by 2050, and
+even fewer hi-tech firms than today. Physicists know that subatomic phenomena
+can mani",today,Physicists,1
+en_partut-ud-dev,9471,"
+",an today. Physicists know that subatomic phenomena,can manifest themselves as both particles and wave,"an today. Physicists know that subatomic phenomena
+can manifest themselves as both particles and wave",phenomena,can,0
+en_partut-ud-dev,9548,"
+", both particles and waves; America can adopt a new,growth strategy – moving away from excess consumpt," both particles and waves; America can adopt a new
+growth strategy – moving away from excess consumpt",new,growth,1
+en_partut-ud-dev,9626,"
+",ay from excess consumption toward a model based on,"saving and investing in people, infrastructure, an","ay from excess consumption toward a model based on
+saving and investing in people, infrastructure, an",on,saving,0
+en_partut-ud-dev,9687,.," investing in people, infrastructure, and capacity"," How will resources
+be allocated to care for the e"," investing in people, infrastructure, and capacity. How will resources
+be allocated to care for the e",capacity,How,1
+en_partut-ud-dev,9707,"
+",", infrastructure, and capacity. How will resources","be allocated to care for the elderly, especially i",", infrastructure, and capacity. How will resources
+be allocated to care for the elderly, especially i",resources,be,0
+en_partut-ud-dev,9788,"
+","lderly, especially in slow-growing economies where",existing public pension schemes and old-age health,"lderly, especially in slow-growing economies where
+existing public pension schemes and old-age health",where,existing,0
+en_partut-ud-dev,9858,"
+",sion schemes and old-age health plans are patently,unsustainable? A global carbon tax would mitigate ,"sion schemes and old-age health plans are patently
+unsustainable? A global carbon tax would mitigate ",patently,unsustainable,0
+en_partut-ud-dev,9872,?,"nd old-age health plans are patently
+unsustainable", A global carbon tax would mitigate climate risks ,"nd old-age health plans are patently
+unsustainable? A global carbon tax would mitigate climate risks ",unsustainable,A,1
+en_partut-ud-dev,9928,"
+",obal carbon tax would mitigate climate risks while,alleviating government debt burdens. But when inno,"obal carbon tax would mitigate climate risks while
+alleviating government debt burdens. But when inno",while,alleviating,0
+en_partut-ud-dev,9964,.,"te risks while
+alleviating government debt burdens"," But when innovation affects an automobile's
+quali","te risks while
+alleviating government debt burdens. But when innovation affects an automobile's
+quali",burdens,But,1
+en_partut-ud-dev,10009,"
+",rdens. But when innovation affects an automobile's,"quality, the task becomes far more difficult. Wome","rdens. But when innovation affects an automobile's
+quality, the task becomes far more difficult. Wome",automobile's,quality,0
+en_partut-ud-dev,10054,.,"ile's
+quality, the task becomes far more difficult"," Women who have completed secondary
+or tertiary ed","ile's
+quality, the task becomes far more difficult. Women who have completed secondary
+or tertiary ed",difficult,Women,1
+en_partut-ud-dev,10090,"
+",more difficult. Women who have completed secondary,or tertiary education are more likely to enter and,"more difficult. Women who have completed secondary
+or tertiary education are more likely to enter and",secondary,or,0
+en_partut-ud-dev,10168,"
+",ore likely to enter and remain in the labor market,"than their less educated counterparts. Indeed, its","ore likely to enter and remain in the labor market
+than their less educated counterparts. Indeed, its",market,than,0
+en_partut-ud-dev,10206,.,"labor market
+than their less educated counterparts"," Indeed, its three-year plan for economic
+innovati","labor market
+than their less educated counterparts. Indeed, its three-year plan for economic
+innovati",counterparts,Indeed,1
+en_partut-ud-dev,10248,"
+","terparts. Indeed, its three-year plan for economic","innovation, announced in February, aims to raise t","terparts. Indeed, its three-year plan for economic
+innovation, announced in February, aims to raise t",economic,innovation,0
+en_partut-ud-dev,10327,"
+","ruary, aims to raise the female employment rate to","62% by 2017, through the provision of affordable, ","ruary, aims to raise the female employment rate to
+62% by 2017, through the provision of affordable, ",to,62,0
+en_partut-ud-dev,10400,"
+","he provision of affordable, high-quality childcare","facilities and expanded paid parental leave, among","he provision of affordable, high-quality childcare
+facilities and expanded paid parental leave, among",childcare,facilities,0
+en_partut-ud-dev,10466,.,"expanded paid parental leave, among other measures"," The IMF is
+founded on the premise that it represe","expanded paid parental leave, among other measures. The IMF is
+founded on the premise that it represe",measures,The,1
+en_partut-ud-dev,10478,"
+","d parental leave, among other measures. The IMF is",founded on the premise that it represents cooperat,"d parental leave, among other measures. The IMF is
+founded on the premise that it represents cooperat",is,founded,0
+en_partut-ud-dev,10551,"
+", that it represents cooperation between all of the,"countries of the world. Next month, Ukraine's citi"," that it represents cooperation between all of the
+countries of the world. Next month, Ukraine's citi",the,countries,0
+en_partut-ud-dev,10574,.,"peration between all of the
+countries of the world"," Next month, Ukraine's citizens will freely choose","peration between all of the
+countries of the world. Next month, Ukraine's citizens will freely choose",world,Next,1
+en_partut-ud-dev,10631,"
+","month, Ukraine's citizens will freely choose a new",President – the best rebuke possible to Russian pr,"month, Ukraine's citizens will freely choose a new
+President – the best rebuke possible to Russian pr",new,President,0
+en_partut-ud-dev,10709,"
+", possible to Russian propaganda about our supposed,failure to uphold democracy. And there are an esti," possible to Russian propaganda about our supposed
+failure to uphold democracy. And there are an esti",supposed,failure,0
+en_partut-ud-dev,10737,.,"nda about our supposed
+failure to uphold democracy"," And there are an estimated 200,000 cases of yello","nda about our supposed
+failure to uphold democracy. And there are an estimated 200,000 cases of yello",democracy,And,1
+en_partut-ud-dev,10789,"
+","And there are an estimated 200,000 cases of yellow","fever annually, leading to 30,000 deaths worldwide","And there are an estimated 200,000 cases of yellow
+fever annually, leading to 30,000 deaths worldwide",yellow,fever,0
+en_partut-ud-dev,10840,.,"fever annually, leading to 30,000 deaths worldwide"," Only with pragmatic,
+fact-based Regulation can th","fever annually, leading to 30,000 deaths worldwide. Only with pragmatic,
+fact-based Regulation can th",worldwide,Only,1
+en_partut-ud-dev,10862,"
+","g to 30,000 deaths worldwide. Only with pragmatic,",fact-based Regulation can the world realize geneti,"g to 30,000 deaths worldwide. Only with pragmatic,
+fact-based Regulation can the world realize geneti",,fact-based,0
+en_partut-ud-dev,10933,"
+",n can the world realize genetic engineering's full,disease-fighting potential. He is renowned for his,"n can the world realize genetic engineering's full
+disease-fighting potential. He is renowned for his",full,disease-fighting,0
+en_partut-ud-dev,10960,.,"etic engineering's full
+disease-fighting potential"," He is renowned for his multifaceted characters, w","etic engineering's full
+disease-fighting potential. He is renowned for his multifaceted characters, w",potential,He,1
+en_partut-ud-dev,11013,"
+","e is renowned for his multifaceted characters, who",are morally ambiguous. Balzac had difficulty adapt,"e is renowned for his multifaceted characters, who
+are morally ambiguous. Balzac had difficulty adapt",who,are,0
+en_partut-ud-dev,11035,.,"multifaceted characters, who
+are morally ambiguous", Balzac had difficulty adapting to the rote style ,"multifaceted characters, who
+are morally ambiguous. Balzac had difficulty adapting to the rote style ",ambiguous,Balzac,1
+en_partut-ud-dev,11088,"
+",alzac had difficulty adapting to the rote style of,learning at the school. The narrator says: Near th,"alzac had difficulty adapting to the rote style of
+learning at the school. The narrator says: Near th",of,learning,0
+en_partut-ud-dev,11111,.,"apting to the rote style of
+learning at the school", The narrator says: Near the end of his life Balza,"apting to the rote style of
+learning at the school. The narrator says: Near the end of his life Balza",school,The,1
+en_partut-ud-dev,11167,"
+",narrator says: Near the end of his life Balzac was,"captivated by the idea of cutting 20,000 acres (81","narrator says: Near the end of his life Balzac was
+captivated by the idea of cutting 20,000 acres (81",was,captivated,1
+en_partut-ud-dev,11246,"
+","tting 20,000 acres (81 Km2) of oak wood in Ukraine","and transporting it for sale in France. ""When the ","tting 20,000 acres (81 Km2) of oak wood in Ukraine
+and transporting it for sale in France. ""When the ",Ukraine,and,0
+en_partut-ud-dev,11285,.," in Ukraine
+and transporting it for sale in France"," ""When the idea struck, he raced to his
+sister's a"," in Ukraine
+and transporting it for sale in France. ""When the idea struck, he raced to his
+sister's a",France,,1
+en_partut-ud-dev,11325,"
+"," in France. ""When the idea struck, he raced to his",sister's apartment and proclaimed: Although Balzac," in France. ""When the idea struck, he raced to his
+sister's apartment and proclaimed: Although Balzac",his,sister's,0
+en_partut-ud-dev,11406,"
+","med: Although Balzac was a supporter of the crown,",Balzac paints the counter-revolutionaries in a sym,"med: Although Balzac was a supporter of the crown,
+Balzac paints the counter-revolutionaries in a sym",,Balzac,1
+en_partut-ud-dev,11483,"
+",revolutionaries in a sympathetic light-even though,they are the center of the book's most brutal scen,"revolutionaries in a sympathetic light-even though
+they are the center of the book's most brutal scen",though,they,0
+en_partut-ud-dev,11536,.,ey are the center of the book's most brutal scenes," Le Cousin Pons (1847) and
+La Cousine Bette (1848)","ey are the center of the book's most brutal scenes. Le Cousin Pons (1847) and
+La Cousine Bette (1848)",scenes,Le,1
+en_partut-ud-dev,11563,"
+",ok's most brutal scenes. Le Cousin Pons (1847) and,La Cousine Bette (1848) tell the story of Les Pare,"ok's most brutal scenes. Le Cousin Pons (1847) and
+La Cousine Bette (1848) tell the story of Les Pare",and,La,0
+en_partut-ud-dev,11635,"
+",8) tell the story of Les Parents Pauvres (The Poor,Relations). Their correspondence reveals an intrig,"8) tell the story of Les Parents Pauvres (The Poor
+Relations). Their correspondence reveals an intrig",Poor,Relations,0
+en_partut-ud-dev,11646,.," story of Les Parents Pauvres (The Poor
+Relations)", Their correspondence reveals an intriguing balanc," story of Les Parents Pauvres (The Poor
+Relations). Their correspondence reveals an intriguing balanc",,Their,1
+en_partut-ud-dev,11710,"
+","pondence reveals an intriguing balance of passion,",propriety and patience; While he admired and drew ,"pondence reveals an intriguing balance of passion,
+propriety and patience; While he admired and drew ",,propriety,0
+en_partut-ud-dev,11790,"
+", he admired and drew inspiration from the Romantic,"style of Scottish novelist Walter Scott, Balzac so"," he admired and drew inspiration from the Romantic
+style of Scottish novelist Walter Scott, Balzac so",Romantic,style,1
+en_partut-ud-dev,11871,"
+","ter Scott, Balzac sought to depict human existence",through the use of particulars. Some critics consi,"ter Scott, Balzac sought to depict human existence
+through the use of particulars. Some critics consi",existence,through,0
+en_partut-ud-dev,11902,.,"ict human existence
+through the use of particulars"," Some critics consider Balzac's writing exemplary
+","ict human existence
+through the use of particulars. Some critics consider Balzac's writing exemplary
+",particulars,Some,1
+en_partut-ud-dev,11952,"
+",. Some critics consider Balzac's writing exemplary,of naturalism - a more pessimistic and analytical ,". Some critics consider Balzac's writing exemplary
+of naturalism - a more pessimistic and analytical ",exemplary,of,0
+en_partut-ud-dev,12031,"
+","mistic and analytical form of realism, which seeks",to explain human behavior as intrinsically linked ,"mistic and analytical form of realism, which seeks
+to explain human behavior as intrinsically linked ",seeks,to,0
+en_partut-ud-dev,12102,.,avior as intrinsically linked with the environment," ""At the
+same time, the characters represent a par","avior as intrinsically linked with the environment. ""At the
+same time, the characters represent a par",environment,,1
+en_partut-ud-dev,12111,"
+","intrinsically linked with the environment. ""At the","same time, the characters represent a particular r","intrinsically linked with the environment. ""At the
+same time, the characters represent a particular r",the,same,0
+en_partut-ud-dev,12191,"
+",resent a particular range of social types: As part,"of the 19th-century evolution of the novel as a ""d","resent a particular range of social types: As part
+of the 19th-century evolution of the novel as a ""d",part,of,1
+en_partut-ud-dev,12267,"
+","tion of the novel as a ""democratic literary form"",","Balzac wrote that ""books are written for everybody","tion of the novel as a ""democratic literary form"",
+Balzac wrote that ""books are written for everybody",,Balzac,0
+en_partut-ud-dev,12319,.,"alzac wrote that ""books are written for everybody"""," At the age of 18, he
+married Anne Hathaway, with ","alzac wrote that ""books are written for everybody"". At the age of 18, he
+married Anne Hathaway, with ",,At,1
+en_partut-ud-dev,12341,"
+","s are written for everybody"". At the age of 18, he","married Anne Hathaway, with whom he had three chil","s are written for everybody"". At the age of 18, he
+married Anne Hathaway, with whom he had three chil",he,married,0
+en_partut-ud-dev,12416,"
+","ith whom he had three children: ""Shakespeare was a","respected poet and playwright in his own day, but ","ith whom he had three children: ""Shakespeare was a
+respected poet and playwright in his own day, but ",a,respected,1
+en_partut-ud-dev,12497,"
+","in his own day, but his reputation did not rise to",its present heights until the 19th century. His ac,"in his own day, but his reputation did not rise to
+its present heights until the 19th century. His ac",to,its,0
+en_partut-ud-dev,12540,.,"rise to
+its present heights until the 19th century"," His actual date of birth remains
+unknown, but is ","rise to
+its present heights until the 19th century. His actual date of birth remains
+unknown, but is ",century,His,1
+en_partut-ud-dev,12574,"
+",the 19th century. His actual date of birth remains,"unknown, but is traditionally observed on 23 April","the 19th century. His actual date of birth remains
+unknown, but is traditionally observed on 23 April",remains,unknown,0
+en_partut-ud-dev,12645,.,"itionally observed on 23 April, Saint George's Day"," In 1599,
+a partnership of company members built t","itionally observed on 23 April, Saint George's Day. In 1599,
+a partnership of company members built t",Day,In,1
+en_partut-ud-dev,12655,"
+","observed on 23 April, Saint George's Day. In 1599,",a partnership of company members built their own t,"observed on 23 April, Saint George's Day. In 1599,
+a partnership of company members built their own t",,a,0
+en_partut-ud-dev,12733,"
+",mbers built their own theatre on the south bank of,"the River Thames, which they called the Globe. Rec","mbers built their own theatre on the south bank of
+the River Thames, which they called the Globe. Rec",of,the,0
+en_partut-ud-dev,12779,.,"k of
+the River Thames, which they called the Globe"," Records of Shakespeare's property
+purchases and i","k of
+the River Thames, which they called the Globe. Records of Shakespeare's property
+purchases and i",Globe,Records,1
+en_partut-ud-dev,12814,"
+",alled the Globe. Records of Shakespeare's property,purchases and investments indicate that the compan,"alled the Globe. Records of Shakespeare's property
+purchases and investments indicate that the compan",property,purchases,0
+en_partut-ud-dev,12889,.,s indicate that the company made him a wealthy man," By
+1604, he had moved north of the river again, t","s indicate that the company made him a wealthy man. By
+1604, he had moved north of the river again, t",man,By,1
+en_partut-ud-dev,12893,"
+",dicate that the company made him a wealthy man. By,"1604, he had moved north of the river again, to an","dicate that the company made him a wealthy man. By
+1604, he had moved north of the river again, to an",By,1604,0
+en_partut-ud-dev,12968,"
+"," of the river again, to an area north of St Paul's",Cathedral with many fine houses. There he rented r," of the river again, to an area north of St Paul's
+Cathedral with many fine houses. There he rented r",Paul's,Cathedral,0
+en_partut-ud-dev,13000,.,"north of St Paul's
+Cathedral with many fine houses"," There he rented rooms from a French Huguenot
+name","north of St Paul's
+Cathedral with many fine houses. There he rented rooms from a French Huguenot
+name",houses,There,1
+en_partut-ud-dev,13046,"
+",uses. There he rented rooms from a French Huguenot,"named Christopher Mountjoy, a maker of ladies' wig","uses. There he rented rooms from a French Huguenot
+named Christopher Mountjoy, a maker of ladies' wig",Huguenot,named,0
+en_partut-ud-dev,13117,.,"untjoy, a maker of ladies' wigs and other headgear"," His last
+three plays were collaborations, probabl","untjoy, a maker of ladies' wigs and other headgear. His last
+three plays were collaborations, probabl",headgear,His,1
+en_partut-ud-dev,13127,"
+",maker of ladies' wigs and other headgear. His last,"three plays were collaborations, probably with Joh","maker of ladies' wigs and other headgear. His last
+three plays were collaborations, probably with Joh",last,three,0
+en_partut-ud-dev,13207,"
+","ns, probably with John Fletcher, who succeeded him",as the house playwright for the King's Men. that i,"ns, probably with John Fletcher, who succeeded him
+as the house playwright for the King's Men. that i",him,as,0
+en_partut-ud-dev,13250,.,"ded him
+as the house playwright for the King's Men"," that is the question"". In 1613, Sir
+Henry Wotton ","ded him
+as the house playwright for the King's Men. that is the question"". In 1613, Sir
+Henry Wotton ",Men,that,1
+en_partut-ud-dev,13273,.,"aywright for the King's Men. that is the question"""," In 1613, Sir
+Henry Wotton recorded that Henry VII","aywright for the King's Men. that is the question"". In 1613, Sir
+Henry Wotton recorded that Henry VII",,In,1
+en_partut-ud-dev,13287,"
+","he King's Men. that is the question"". In 1613, Sir","Henry Wotton recorded that Henry VIII ""was set for","he King's Men. that is the question"". In 1613, Sir
+Henry Wotton recorded that Henry VIII ""was set for",Sir,Henry,0
+en_partut-ud-dev,13364,"
+"," Henry VIII ""was set forth with many extraordinary","circumstances of pomp and ceremony"". It contained "," Henry VIII ""was set forth with many extraordinary
+circumstances of pomp and ceremony"". It contained ",extraordinary,circumstances,0
+en_partut-ud-dev,13400,.," extraordinary
+circumstances of pomp and ceremony"""," It contained 36 texts, including 18 printed
+for t"," extraordinary
+circumstances of pomp and ceremony"". It contained 36 texts, including 18 printed
+for t",,It,1
+en_partut-ud-dev,13445,"
+","mony"". It contained 36 texts, including 18 printed",for the first time. He dedicated them to Henry Wri,"mony"". It contained 36 texts, including 18 printed
+for the first time. He dedicated them to Henry Wri",printed,for,0
+en_partut-ud-dev,13464,.," 36 texts, including 18 printed
+for the first time"," He dedicated them to Henry Wriothesley, Earl of S"," 36 texts, including 18 printed
+for the first time. He dedicated them to Henry Wriothesley, Earl of S",time,He,1
+en_partut-ud-dev,13525,.,"ted them to Henry Wriothesley, Earl of Southampton","
+These include two operas by Giuseppe Verdi, Otell","ted them to Henry Wriothesley, Earl of Southampton.
+These include two operas by Giuseppe Verdi, Otell",Southampton,These,1
+en_partut-ud-dev,13526,"
+","ed them to Henry Wriothesley, Earl of Southampton.","These include two operas by Giuseppe Verdi, Otello","ed them to Henry Wriothesley, Earl of Southampton.
+These include two operas by Giuseppe Verdi, Otello",,These,0
+en_partut-ud-dev,13606,"
+","iuseppe Verdi, Otello and Falstaff, whose critical",standing compares with that of the source plays. I,"iuseppe Verdi, Otello and Falstaff, whose critical
+standing compares with that of the source plays. I",critical,standing,0
+en_partut-ud-dev,13654,.,"al
+standing compares with that of the source plays"," In Shakespeare's day, English
+grammar, spelling a","al
+standing compares with that of the source plays. In Shakespeare's day, English
+grammar, spelling a",plays,In,1
+en_partut-ud-dev,13685,"
+","of the source plays. In Shakespeare's day, English","grammar, spelling and pronunciation were less stan","of the source plays. In Shakespeare's day, English
+grammar, spelling and pronunciation were less stan",English,grammar,0
+en_partut-ud-dev,13763,"
+","nciation were less standardised than they are now,",and his use of language helped shape modern Englis,"nciation were less standardised than they are now,
+and his use of language helped shape modern Englis",,and,0
+en_partut-ud-dev,13815,.,nd his use of language helped shape modern English," In the 1950s, a wave of new
+critical approaches r","nd his use of language helped shape modern English. In the 1950s, a wave of new
+critical approaches r",English,In,1
+en_partut-ud-dev,13844,"
+"," shape modern English. In the 1950s, a wave of new",critical approaches replaced modernism and paved t," shape modern English. In the 1950s, a wave of new
+critical approaches replaced modernism and paved t",new,critical,0
+en_partut-ud-dev,13919,"
+","aced modernism and paved the way for ""post-modern""","studies of Shakespeare. At 18, he married the 26-y","aced modernism and paved the way for ""post-modern""
+studies of Shakespeare. At 18, he married the 26-y",,studies,0
+en_partut-ud-dev,13942,.,"d the way for ""post-modern""
+studies of Shakespeare"," At 18, he married the 26-year-old Anne Hathaway, ","d the way for ""post-modern""
+studies of Shakespeare. At 18, he married the 26-year-old Anne Hathaway, ",Shakespeare,At,1
+en_partut-ud-dev,14000,"
+"," he married the 26-year-old Anne Hathaway, who was","pregnant. In the late 19th century, Edward Dowden "," he married the 26-year-old Anne Hathaway, who was
+pregnant. In the late 19th century, Edward Dowden ",was,pregnant,0
+en_partut-ud-dev,14009,.,"ed the 26-year-old Anne Hathaway, who was
+pregnant"," In the late 19th century, Edward Dowden classifie","ed the 26-year-old Anne Hathaway, who was
+pregnant. In the late 19th century, Edward Dowden classifie",pregnant,In,1
+en_partut-ud-dev,14078,"
+","century, Edward Dowden classified four of the late","comedies as romances, and though many scholars pre","century, Edward Dowden classified four of the late
+comedies as romances, and though many scholars pre",late,comedies,0
+en_partut-ud-dev,14145,"
+","nces, and though many scholars prefer to call them","tragicomedies, his term is often used. 
+","nces, and though many scholars prefer to call them
+tragicomedies, his term is often used. 
+",them,tragicomedies,0
+en_partut-ud-dev,14183,.,"to call them
+tragicomedies, his term is often used"," 
 ","to call them
-tragicomedies, his term is often used.
- 
+tragicomedies, his term is often used. 
 ",used,,1
+en_partut-ud-dev,14185,"
+"," call them
+tragicomedies, his term is often used. ",," call them
+tragicomedies, his term is often used. 
+",,,0

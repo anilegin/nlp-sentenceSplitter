@@ -1,894 +1,1343 @@
 doc_id,char_idx,punct,left_context,right_context,centered_context,token_before,token_after,label
-it_partut-ud-test,41,.,Attribuzione-Condividi allo stesso modo 2,"0 (Italia).
- Ogni utilizzazione
-dell'opera che non","Attribuzione-Condividi allo stesso modo 2.0 (Italia).
- Ogni utilizzazione
-dell'opera che non",2,0,0
-it_partut-ud-test,52,.,tribuzione-Condividi allo stesso modo 2.0 (Italia),"
- Ogni utilizzazione
-dell'opera che non sia autori","tribuzione-Condividi allo stesso modo 2.0 (Italia).
- Ogni utilizzazione
-dell'opera che non sia autori",,Ogni,1
-it_partut-ud-test,174,.,"presente licenza o del diritto
-d'autore è proibita","
- Salvo che sia espressamente convenuto altrimenti","presente licenza o del diritto
-d'autore è proibita.
- Salvo che sia espressamente convenuto altrimenti",proibita,Salvo,1
-it_partut-ud-test,752,.," presenza di errori, siano essi accertabili o meno","
-
-Creative Commons non è parte della presente lice"," presenza di errori, siano essi accertabili o meno.
-
-Creative Commons non è parte della presente lice",meno,Creative,1
-it_partut-ud-test,850,.,"icenza e non dà alcuna garanzia
-connessa all'opera","
- Sì, onorevole Evans, ritengo che un'iniziativa d","icenza e non dà alcuna garanzia
-connessa all'opera.
- Sì, onorevole Evans, ritengo che un'iniziativa d",all'opera,Sì,1
-it_partut-ud-test,952,.,"l tipo che
-lei propone sia assolutamente opportuna","
- Chiedo che venga riesaminata tale
-decisione, in ","l tipo che
-lei propone sia assolutamente opportuna.
- Chiedo che venga riesaminata tale
-decisione, in ",opportuna,Chiedo,1
-it_partut-ud-test,1020,.,"a riesaminata tale
-decisione, in quanto non è così","
- Di recente il tema della sicurezza dei
-trasporti","a riesaminata tale
-decisione, in quanto non è così.
- Di recente il tema della sicurezza dei
-trasporti",così,Di,1
-it_partut-ud-test,1410,.,"alla
-petroliera Erika al largo della costa bretone","
- L'importanza della sicurezza dei
-trasporti strad","alla
-petroliera Erika al largo della costa bretone.
- L'importanza della sicurezza dei
-trasporti strad",bretone,L'importanza,1
-it_partut-ud-test,1713,.,"zzati, come, ad
-esempio, per il prossimo nuovo ADR","
- Ciò non va imputato soltanto alla
-commissione ma","zzati, come, ad
-esempio, per il prossimo nuovo ADR.
- Ciò non va imputato soltanto alla
-commissione ma",ADR,Ciò,1
-it_partut-ud-test,1865,.,"iungere a
-un'armonizzazione anche in questo ambito","
- Posso anche accettare queste norme
-minime, ma es","iungere a
-un'armonizzazione anche in questo ambito.
- Posso anche accettare queste norme
-minime, ma es",ambito,Posso,1
-it_partut-ud-test,1972,.,a commissione a esercitare un'attenta sorveglianza,"
- Credo
-tuttavia che occorra fare tutto ciò che ri","a commissione a esercitare un'attenta sorveglianza.
- Credo
-tuttavia che occorra fare tutto ciò che ri",sorveglianza,Credo,1
-it_partut-ud-test,2164,.,"se in tutti i paesi,
-siano essi di transito o meno","
- Spero che la mia proposta venga presa in
-conside","se in tutti i paesi,
-siano essi di transito o meno.
- Spero che la mia proposta venga presa in
-conside",meno,Spero,1
-it_partut-ud-test,2258,.,considerazione nel corso della votazione di domani,"
- Vorrei chiedere alla
-vicepresidente se oggi è in","considerazione nel corso della votazione di domani.
- Vorrei chiedere alla
-vicepresidente se oggi è in",domani,Vorrei,1
-it_partut-ud-test,2558,.,"ione adottando
-principi il più possibile semplici ","
- Signor presidente, i miei più vivi
-ringraziament","ione adottando
-principi il più possibile semplici .
- Signor presidente, i miei più vivi
-ringraziament",,Signor,1
-it_partut-ud-test,2657,.,nti alla onorevole Schroedter per il lavoro svolto,"
- La mancanza di
-linee direttrici specifiche qui s","nti alla onorevole Schroedter per il lavoro svolto.
- La mancanza di
-linee direttrici specifiche qui s",svolto,La,1
-it_partut-ud-test,2920,.,"lta durante il periodo di
-programmazione 2000-2006","
- La verità è che siamo convinti, e ciò si riflett","lta durante il periodo di
-programmazione 2000-2006.
- La verità è che siamo convinti, e ciò si riflett",2000-2006,La,1
-it_partut-ud-test,3158,.,"la revisione delle linee
-direttrici a metà periodo","
- Signor presidente, signor commissario, onorevoli","la revisione delle linee
-direttrici a metà periodo.
- Signor presidente, signor commissario, onorevoli",periodo,Signor,1
-it_partut-ud-test,3302,.,"are la onorevole Schroedter per
-l'ottima relazione","
- Ha svolto un'analisi dettagliata di questo argom","are la onorevole Schroedter per
-l'ottima relazione.
- Ha svolto un'analisi dettagliata di questo argom",relazione,Ha,1
-it_partut-ud-test,3421,., molti emendamenti proposti in sede di commissione,"
- Sono stati inseriti
-numerosissimi dettagli, che "," molti emendamenti proposti in sede di commissione.
- Sono stati inseriti
-numerosissimi dettagli, che ",commissione,Sono,1
-it_partut-ud-test,3515,.,"i, che erano emersi già nelle relazioni precedenti","
- si
-tratta di una lunga storia, che si trascina a","i, che erano emersi già nelle relazioni precedenti.
- si
-tratta di una lunga storia, che si trascina a",precedenti,si,1
-it_partut-ud-test,3693,.,"che ho già trattato questo argomento
-a più riprese","
- Mi pare, pertanto, che la relazione debba invece","che ho già trattato questo argomento
-a più riprese.
- Mi pare, pertanto, che la relazione debba invece",riprese,Mi,1
-it_partut-ud-test,3902,., seconda fase di programmazione successiva al 2003,"
- realizzarlo
-comporterebbe indubbiamente estender"," seconda fase di programmazione successiva al 2003.
- realizzarlo
-comporterebbe indubbiamente estender",2003,realizzarlo,1
-it_partut-ud-test,4036,.,"e delle
-risorse, quali appunto i fondi strutturali","
- Signor presidente, anch'io mi voglio
-complimenta","e delle
-risorse, quali appunto i fondi strutturali.
- Signor presidente, anch'io mi voglio
-complimenta",strutturali,Signor,1
-it_partut-ud-test,4132,.,mentare con il relatore per l'ottimo lavoro svolto,"
- Concludo, signor
-presidente, dicendo che è piutt","mentare con il relatore per l'ottimo lavoro svolto.
- Concludo, signor
-presidente, dicendo che è piutt",svolto,Concludo,1
-it_partut-ud-test,4378,.,di lotta alla disoccupazione femminile e giovanile,"
-
-Per rivolgersi ai destinatari interessati, ANA h","di lotta alla disoccupazione femminile e giovanile.
-
-Per rivolgersi ai destinatari interessati, ANA h",giovanile,Per,1
-it_partut-ud-test,4615,.,"vi adatti a catturare l'attenzione dei
-destinatari","
- Ora puoi visualizzare gli aggiornamenti pubblica","vi adatti a catturare l'attenzione dei
-destinatari.
- Ora puoi visualizzare gli aggiornamenti pubblica",destinatari,Ora,1
-it_partut-ud-test,4726,.,"ersone
-che ti interessano anche se non siete amici","
- Se non vedi il pulsante, non puoi
-attivare la ri","ersone
-che ti interessano anche se non siete amici.
- Se non vedi il pulsante, non puoi
-attivare la ri",amici,Se,1
-it_partut-ud-test,4804,.,"non puoi
-attivare la ricezione degli aggiornamenti","
- Hai già una Pagina Facebook?
- (14)
-Come principi","non puoi
-attivare la ricezione degli aggiornamenti.
- Hai già una Pagina Facebook?
- (14)
-Come principi",aggiornamenti,Hai,1
-it_partut-ud-test,4834,?," degli aggiornamenti.
- Hai già una Pagina Facebook","
- (14)
-Come principio generale, il consumo energet"," degli aggiornamenti.
- Hai già una Pagina Facebook?
- (14)
-Come principio generale, il consumo energet",Facebook,,1
-it_partut-ud-test,5041,.,"nimo
-necessario per il loro adeguato funzionamento","
- - Il programma deve essere
-prorogato di almeno 4","nimo
-necessario per il loro adeguato funzionamento.
- - Il programma deve essere
-prorogato di almeno 4",funzionamento,-,1
-it_partut-ud-test,5212,.,ur all'anno) e gli stessi interventi e destinatari,"
- Ogni individuo
-ha diritto di lasciare qualsiasi ","ur all'anno) e gli stessi interventi e destinatari.
- Ogni individuo
-ha diritto di lasciare qualsiasi ",destinatari,Ogni,1
-it_partut-ud-test,5322,.,"cluso il proprio, e di ritornare nel
-proprio paese","
- Uomini e donne in età adatta hanno il diritto di","cluso il proprio, e di ritornare nel
-proprio paese.
- Uomini e donne in età adatta hanno il diritto di",paese,Uomini,1
-it_partut-ud-test,5469,.,"una limitazione di razza, cittadinanza o
-religione","
- Ogni individuo ha diritto di accedere in condizi","una limitazione di razza, cittadinanza o
-religione.
- Ogni individuo ha diritto di accedere in condizi",religione,Ogni,1
-it_partut-ud-test,5577,.,"eguaglianza ai
-pubblici impieghi del proprio paese","
- Ogni individuo che lavora ha diritto ad una
-remu","eguaglianza ai
-pubblici impieghi del proprio paese.
- Ogni individuo che lavora ha diritto ad una
-remu",paese,Ogni,1
-it_partut-ud-test,5812,.,"e necessario, da altri
-mezzi di protezione sociale","
- mamma infelice, tutti infelici.
- La repubblica d","e necessario, da altri
-mezzi di protezione sociale.
- mamma infelice, tutti infelici.
- La repubblica d",sociale,mamma,1
-it_partut-ud-test,5845,.,"rotezione sociale.
- mamma infelice, tutti infelici","
- La repubblica di
-Bulgaria e la Romania diventano","rotezione sociale.
- mamma infelice, tutti infelici.
- La repubblica di
-Bulgaria e la Romania diventano",infelici,La,1
-it_partut-ud-test,5923,., e la Romania diventano membri dell'Unione Europea,"
- Le condizioni e le
-modalità di ammissione sono c"," e la Romania diventano membri dell'Unione Europea.
- Le condizioni e le
-modalità di ammissione sono c",Europea,Le,1
-it_partut-ud-test,6027,.,"enute nel protocollo allegato al presente
-trattato","
- Le disposizioni di tale protocollo costituiscono","enute nel protocollo allegato al presente
-trattato.
- Le disposizioni di tale protocollo costituiscono",trattato,Le,1
-it_partut-ud-test,6117,.,"stituiscono parte integrante del
-presente trattato","
- Le disposizioni di tale atto costituiscono parte","stituiscono parte integrante del
-presente trattato.
- Le disposizioni di tale atto costituiscono parte",trattato,Le,1
-it_partut-ud-test,6201,.,"stituiscono parte integrante
-del presente trattato","
- Il presente trattato è ratificato dalle Alte par","stituiscono parte integrante
-del presente trattato.
- Il presente trattato è ratificato dalle Alte par",trattato,Il,1
-it_partut-ud-test,6308,.,traenti secondo le rispettive norme costituzionali,"
- Gli strumenti di ratifica
-sono depositati presso","traenti secondo le rispettive norme costituzionali.
- Gli strumenti di ratifica
-sono depositati presso",costituzionali,Gli,1
-it_partut-ud-test,6429,.,"pubblica italiana al più tardi il 31
-dicembre 2006","
- Il presente trattato entra in vigore il 1° genna","pubblica italiana al più tardi il 31
-dicembre 2006.
- Il presente trattato entra in vigore il 1° genna",2006,Il,1
-it_partut-ud-test,6579,.,"ratifica siano stati depositati prima di
-tale data","
- Se tale decisione è adottata nei confronti di un","ratifica siano stati depositati prima di
-tale data.
- Se tale decisione è adottata nei confronti di un",data,Se,1
-it_partut-ud-test,6728,., entra in vigore per tale stato il 1° gennaio 2008,"
-
-Queste misure prendono effetto con riserva dell'"," entra in vigore per tale stato il 1° gennaio 2008.
-
-Queste misure prendono effetto con riserva dell'",2008,Queste,1
-it_partut-ud-test,6846,.," del presente
-trattato 5 alla data di quest'ultima","
- Il testo del trattato che adotta una
-costituzion"," del presente
-trattato 5 alla data di quest'ultima.
- Il testo del trattato che adotta una
-costituzion",quest'ultima,Il,1
-it_partut-ud-test,6979,.,"a bulgara e rumena, è accluso al
-presente trattato","
- Protocollo relativo alle condizioni e modalità d","a bulgara e rumena, è accluso al
-presente trattato.
- Protocollo relativo alle condizioni e modalità d",trattato,Protocollo,1
-it_partut-ud-test,7105,.,ica di Bulgaria e della Romania all'Unione Europea,"
- La Bulgaria e
-la Romania aderiscono alle decisio","ica di Bulgaria e della Romania all'Unione Europea.
- La Bulgaria e
-la Romania aderiscono alle decisio",Europea,La,1
-it_partut-ud-test,7262,.,ni degli stati membri riuniti in sede di Consiglio,"
- Gli strumenti
-specifici di cui al presente artic","ni degli stati membri riuniti in sede di Consiglio.
- Gli strumenti
-specifici di cui al presente artic",Consiglio,Gli,1
-it_partut-ud-test,7380,.,"lli citati nell'articolo
-Iv-438 della costituzione","
- Essa presenta un progetto dei protocolli al cons","lli citati nell'articolo
-Iv-438 della costituzione.
- Essa presenta un progetto dei protocolli al cons",costituzione,Essa,1
-it_partut-ud-test,7455,.,"tto dei protocolli al consiglio
-per la conclusione","
- Il consiglio delibera all'unanimità previa consu","tto dei protocolli al consiglio
-per la conclusione.
- Il consiglio delibera all'unanimità previa consu",conclusione,Il,1
-it_partut-ud-test,7537,.,"nimità previa consultazione del
-parlamento europeo","
- L'applicazione della costituzione e degli atti a","nimità previa consultazione del
-parlamento europeo.
- L'applicazione della costituzione e degli atti a",europeo,L'applicazione,1
-it_partut-ud-test,7693,.,"rio, alle deroghe previste dal
-presente protocollo","
- In deroga a quanto precede, le procedure relativ","rio, alle deroghe previste dal
-presente protocollo.
- In deroga a quanto precede, le procedure relativ",protocollo,In,1
-it_partut-ud-test,7860,.,"nformità delle
-pertinenti disposizioni dell'unione","
- L'ultima programmazione per l'assistenza di
-prea","nformità delle
-pertinenti disposizioni dell'unione.
- L'ultima programmazione per l'assistenza di
-prea",dell'unione,L'ultima,1
-it_partut-ud-test,8008,.,"'ultimo anno civile completo
-precedente l'adesione","
- I contratti relativi alle azioni a titolo di tal","'ultimo anno civile completo
-precedente l'adesione.
- I contratti relativi alle azioni a titolo di tal",l'adesione,I,1
-it_partut-ud-test,8124,.,ranno essere assegnati entro i due anni successivi,"
- Non è concessa
-alcuna proroga del periodo per l'","ranno essere assegnati entro i due anni successivi.
- Non è concessa
-alcuna proroga del periodo per l'",successivi,Non,1
-it_partut-ud-test,8201,.,oroga del periodo per l'assegnazione dei contratti,"
- Proroghe limitate
-della durata possono essere co","oroga del periodo per l'assegnazione dei contratti.
- Proroghe limitate
-della durata possono essere co",contratti,Proroghe,1
-it_partut-ud-test,8344,.,"via
-eccezionale e in casi debitamente giustificati","
- Per i costi relativi alle
-revisioni contabili e ","via
-eccezionale e in casi debitamente giustificati.
- Per i costi relativi alle
-revisioni contabili e ",giustificati,Per,1
-it_partut-ud-test,8495,.,"ssere
-impegnati fino a cinque anni dopo l'adesione","
- Non si applicano tuttavia le
-disposizioni previs","ssere
-impegnati fino a cinque anni dopo l'adesione.
- Non si applicano tuttavia le
-disposizioni previs",l'adesione,Non,1
-it_partut-ud-test,8649,.,"cabile
-al bilancio generale delle comunità europee","
- La commissione può adottare
-disposizioni relativ","cabile
-al bilancio generale delle comunità europee.
- La commissione può adottare
-disposizioni relativ",europee,La,1
-it_partut-ud-test,8754,.,l'attuazione dell'assistenza di cui al paragrafo 2,"
- A
-tal fine, la commissione è assistita da un com","l'attuazione dell'assistenza di cui al paragrafo 2.
- A
-tal fine, la commissione è assistita da un com",2,A,1
-it_partut-ud-test,8810,.,"al fine, la commissione è assistita da un comitato","
- Il comitato adotta il
-proprio regolamento intern","al fine, la commissione è assistita da un comitato.
- Il comitato adotta il
-proprio regolamento intern",comitato,Il,1
-it_partut-ud-test,8862,.," Il comitato adotta il
-proprio regolamento interno","
- L'assistenza è volta a finanziare progetti di
-co"," Il comitato adotta il
-proprio regolamento interno.
- L'assistenza è volta a finanziare progetti di
-co",interno,L'assistenza,1
-it_partut-ud-test,8987,.,e piccoli investimenti limitati accessori a questi,"
-
-Gli stanziamenti sono autorizzati dall'autorità ","e piccoli investimenti limitati accessori a questi.
-
-Gli stanziamenti sono autorizzati dall'autorità ",questi,Gli,1
-it_partut-ud-test,9090,.," bilancio nei limiti delle
-prospettive finanziarie","
- Il primo giorno lavorativo di ciascun mese del
-c"," bilancio nei limiti delle
-prospettive finanziarie.
- Il primo giorno lavorativo di ciascun mese del
-c",finanziarie,Il,1
-it_partut-ud-test,9247,.,"a Romania un dodicesimo
-di ciascun importo annuale","
- I pagamenti forfettari sono utilizzati entro tre","a Romania un dodicesimo
-di ciascun importo annuale.
- I pagamenti forfettari sono utilizzati entro tre",annuale,I,1
-it_partut-ud-test,9323,.,"sono utilizzati entro tre
-anni dal primo pagamento","
- Tutti i fondi inutilizzati o spesi ingiustificat","sono utilizzati entro tre
-anni dal primo pagamento.
- Tutti i fondi inutilizzati o spesi ingiustificat",pagamento,Tutti,1
-it_partut-ud-test,9414,.,"iustificatamente
-sono recuperati dalla commissione","
- La commissione può adottare qualsiasi
-provvedime","iustificatamente
-sono recuperati dalla commissione.
- La commissione può adottare qualsiasi
-provvedime",commissione,La,1
-it_partut-ud-test,9578,.,"neo per
-i flussi di tesoreria e strumento Schengen","
- Le misure così decise sono
-applicabili immediata","neo per
-i flussi di tesoreria e strumento Schengen.
- Le misure così decise sono
-applicabili immediata",Schengen,Le,1
-it_partut-ud-test,9737,.,eressate e non comportano controlli alle frontiere,"
- Nella scelta di tali
-misure si dovrà accordare l","eressate e non comportano controlli alle frontiere.
- Nella scelta di tali
-misure si dovrà accordare l",frontiere,Nella,1
-it_partut-ud-test,9876,.,"eno possibile
-il funzionamento del mercato interno","
- Tali misure di salvaguardia non possono
-essere i","eno possibile
-il funzionamento del mercato interno.
- Tali misure di salvaguardia non possono
-essere i",interno,Tali,1
-it_partut-ud-test,10033,.,"strizione
-dissimulata agli scambi tra stati membri","
- Le misure non sono mantenute oltre il
-tempo stre","strizione
-dissimulata agli scambi tra stati membri.
- Le misure non sono mantenute oltre il
-tempo stre",membri,Le,1
-it_partut-ud-test,10187,.,"e applicate una
-volta attuato l'impegno pertinente","
- Esse possono tuttavia essere applicate oltre
-il ","e applicate una
-volta attuato l'impegno pertinente.
- Esse possono tuttavia essere applicate oltre
-il ",pertinente,Esse,1
-it_partut-ud-test,10325,.,"ino a che non siano adempiuti i
-pertinenti impegni","
- In risposta ai progressi compiuti dal nuovo stat","ino a che non siano adempiuti i
-pertinenti impegni.
- In risposta ai progressi compiuti dal nuovo stat",impegni,In,1
-it_partut-ud-test,10486,.," commissione può adeguare
-opportunamente le misure","
- Le misure non sono mantenute oltre il tempo
-stre"," commissione può adeguare
-opportunamente le misure.
- Le misure non sono mantenute oltre il tempo
-stre",misure,Le,1
-it_partut-ud-test,10638,.,"ere applicate una volta
-posto rimedio alle carenze","
- Esse possono tuttavia essere applicate oltre il
-","ere applicate una volta
-posto rimedio alle carenze.
- Esse possono tuttavia essere applicate oltre il
-",carenze,Esse,1
-it_partut-ud-test,10755,.,ato nel primo comma finché tali carenze persistono,"
- Tale periodo
-può essere prorogato da una legge e","ato nel primo comma finché tali carenze persistono.
- Tale periodo
-può essere prorogato da una legge e",persistono,Tale,1
-it_partut-ud-test,10826,.,ssere prorogato da una legge europea del consiglio,"
- Tali misure sono
-adottate per un periodo di tre ","ssere prorogato da una legge europea del consiglio.
- Tali misure sono
-adottate per un periodo di tre ",consiglio,Tali,1
-it_partut-ud-test,10965,.,"e e la loro
-applicazione è limitata a tale periodo","
- Il parlamento europeo apporta al suo
-regolamento","e e la loro
-applicazione è limitata a tale periodo.
- Il parlamento europeo apporta al suo
-regolamento",periodo,Il,1
-it_partut-ud-test,11069,.,terno gli adattamenti resi necessari dall'adesione,"
- Il consiglio
-apporta al suo regolamento interno ","terno gli adattamenti resi necessari dall'adesione.
- Il consiglio
-apporta al suo regolamento interno ",dall'adesione,Il,1
-it_partut-ud-test,11164,.,terno gli adattamenti resi necessari dall'adesione,"
-
-Un cittadino di ogni nuovo stato membro è nomina","terno gli adattamenti resi necessari dall'adesione.
-
-Un cittadino di ogni nuovo stato membro è nomina",dall'adesione,Un,1
-it_partut-ud-test,11277,.,"lla commissione a
-partire dalla data dell'adesione","
- Il mandato dei membri così nominati scade
-contem","lla commissione a
-partire dalla data dell'adesione.
- Il mandato dei membri così nominati scade
-contem",dell'adesione,Il,1
-it_partut-ud-test,11404,.,"membri che sono in carica al momento
-dell'adesione","
- Due giudici sono nominati alla corte di giustizi","membri che sono in carica al momento
-dell'adesione.
- Due giudici sono nominati alla corte di giustizi",dell'adesione,Due,1
-it_partut-ud-test,11497,.,"giustizia e due giudici
-sono nominati al tribunale","
- Il mandato di uno dei giudici della corte di
-giu","giustizia e due giudici
-sono nominati al tribunale.
- Il mandato di uno dei giudici della corte di
-giu",tribunale,Il,1
-it_partut-ud-test,11616,.,nformemente al paragrafo 1 scade il 6 ottobre 2009,"
- Questo
-giudice è estratto a sorte.
- Il mandato d","nformemente al paragrafo 1 scade il 6 ottobre 2009.
- Questo
-giudice è estratto a sorte.
- Il mandato d",2009,Questo,1
-it_partut-ud-test,11652,.,"6 ottobre 2009.
- Questo
-giudice è estratto a sorte","
- Il mandato dell'altro giudice scade il 6 ottobre","6 ottobre 2009.
- Questo
-giudice è estratto a sorte.
- Il mandato dell'altro giudice scade il 6 ottobre",sorte,Il,1
-it_partut-ud-test,11708,.,"mandato dell'altro giudice scade il 6 ottobre
-2012","
- Il mandato di uno dei giudici del tribunale nomi","mandato dell'altro giudice scade il 6 ottobre
-2012.
- Il mandato di uno dei giudici del tribunale nomi",2012,Il,1
-it_partut-ud-test,11816,.,"nformemente al
-paragrafo 1 scade il 31 agosto 2007","
- Il mandato dell'altro giudice scade il 31
-agosto","nformemente al
-paragrafo 1 scade il 31 agosto 2007.
- Il mandato dell'altro giudice scade il 31
-agosto",2007,Il,1
-it_partut-ud-test,11872,.,"mandato dell'altro giudice scade il 31
-agosto 2010","
- La corte di giustizia apporta al suo regolamento","mandato dell'altro giudice scade il 31
-agosto 2010.
- La corte di giustizia apporta al suo regolamento",2010,La,1
-it_partut-ud-test,11981,.,"edura gli
-adattamenti resi necessari dall'adesione","
- Il tribunale, di concerto con la corte
-di giusti","edura gli
-adattamenti resi necessari dall'adesione.
- Il tribunale, di concerto con la corte
-di giusti",dall'adesione,Il,1
-it_partut-ud-test,12121,.,"edura gli adattamenti resi
-necessari dall'adesione","
- I regolamenti di procedura così adattati sono
-so","edura gli adattamenti resi
-necessari dall'adesione.
- I regolamenti di procedura così adattati sono
-so",dall'adesione,I,1
-it_partut-ud-test,12211,.,"ati sono
-sottoposti all'approvazione del consiglio","
- Un cittadino di ogni nuovo stato
-membro è nomina","ati sono
-sottoposti all'approvazione del consiglio.
- Un cittadino di ogni nuovo stato
-membro è nomina",consiglio,Un,1
-it_partut-ud-test,12345,.," dalla data di adesione per un
-periodo di sei anni","
- Il mandato dei membri così nominati scade
-contem"," dalla data di adesione per un
-periodo di sei anni.
- Il mandato dei membri così nominati scade
-contem",anni,Il,1
-it_partut-ud-test,12472,.,"membri che sono in carica al momento
-dell'adesione","
- Il mandato dei membri recentemente nominati scad","membri che sono in carica al momento
-dell'adesione.
- Il mandato dei membri recentemente nominati scad",dell'adesione,Il,1
-it_partut-ud-test,12607,.,"membri che sono in carica al momento
-dell'adesione","
- Essi comunicano tali misure alla commissione ent","membri che sono in carica al momento
-dell'adesione.
- Essi comunicano tali misure alla commissione ent",dell'adesione,Essi,1
-it_partut-ud-test,12747,.,"ne previsto dal presente protocollo, se successivo","
- Le
-misure sono adottate in conformità delle rego","ne previsto dal presente protocollo, se successivo.
- Le
-misure sono adottate in conformità delle rego",successivo,Le,1
-it_partut-ud-test,12896,., rispetto al quale si chiede una deroga temporanea,"
- Tali
-deroghe, se adottate dopo l'adesione, sono "," rispetto al quale si chiede una deroga temporanea.
- Tali
-deroghe, se adottate dopo l'adesione, sono ",temporanea,Tali,1
-it_partut-ud-test,12981,.,"'adesione, sono applicabili dalla data di adesione","
-
-Tali adattamenti, se adottati dopo l'adesione, s","'adesione, sono applicabili dalla data di adesione.
-
-Tali adattamenti, se adottati dopo l'adesione, s",adesione,Tali,1
-it_partut-ud-test,13070,.,"'adesione, sono applicabili dalla data di
-adesione","
- Essi sono pubblicati nella gazzetta ufficiale de","'adesione, sono applicabili dalla data di
-adesione.
- Essi sono pubblicati nella gazzetta ufficiale de",adesione,Essi,1
-it_partut-ud-test,13224,.,"uali siano stati oggetto di una tale
-pubblicazione","
- Gli allegati I e IX e le relative appendici cost","uali siano stati oggetto di una tale
-pubblicazione.
- Gli allegati I e IX e le relative appendici cost",pubblicazione,Gli,1
-it_partut-ud-test,13325,.,"ituiscono parte
-integrante del presente protocollo","
- Il testo del suddetto trattato, redatto in
-lingu","ituiscono parte
-integrante del presente protocollo.
- Il testo del suddetto trattato, redatto in
-lingu",protocollo,Il,1
-it_partut-ud-test,13429,.,"ulgara e rumena, è allegato al presente protocollo","
- Tali testi fanno
-fede alle stesse condizioni dei","ulgara e rumena, è allegato al presente protocollo.
- Tali testi fanno
-fede alle stesse condizioni dei",protocollo,Tali,1
-it_partut-ud-test,13550,.,"di cui al primo comma redatti
-nelle lingue attuali","
- Nella misura in cui l'accordo non sia ancora con","di cui al primo comma redatti
-nelle lingue attuali.
- Nella misura in cui l'accordo non sia ancora con",attuali,Nella,1
-it_partut-ud-test,13641,.,"ancora concluso e si
-applichi a titolo provvisorio","
- È istituita una superficie di base nazionale per","ancora concluso e si
-applichi a titolo provvisorio.
- È istituita una superficie di base nazionale per",provvisorio,È,1
-it_partut-ud-test,13725,.,"ase nazionale per
-ciascuno stato membro produttore","
- Tuttavia, per la Francia sono istituite due
-supe","ase nazionale per
-ciascuno stato membro produttore.
- Tuttavia, per la Francia sono istituite due
-supe",produttore,Tuttavia,1
-it_partut-ud-test,13789,.,"er la Francia sono istituite due
-superfici di base","
- È fissata una superficie massima garantita, pari","er la Francia sono istituite due
-superfici di base.
- È fissata una superficie massima garantita, pari",base,È,1
-it_partut-ud-test,13856,.,"superficie massima garantita, pari a 829229
-ettari","
- Se tale decisione è presa anteriormente alla dat","superficie massima garantita, pari a 829229
-ettari.
- Se tale decisione è presa anteriormente alla dat",ettari,Se,1
-it_partut-ud-test,13970,.,", essa
-entra in vigore solo dalla data di adesione","
- le misure di aiuto sono comunicate
-alla commissi",", essa
-entra in vigore solo dalla data di adesione.
- le misure di aiuto sono comunicate
-alla commissi",adesione,le,1
-it_partut-ud-test,14066,.,missione entro quattro mesi dalla data di adesione,"
- Tale comunicazione
-include le informazioni relat","missione entro quattro mesi dalla data di adesione.
- Tale comunicazione
-include le informazioni relat",adesione,Tale,1
-it_partut-ud-test,14159,.,ni relative alla base giuridica di ciascuna misura,"
- Dopo
-tale data, qualsiasi aiuto giudicato incomp","ni relative alla base giuridica di ciascuna misura.
- Dopo
-tale data, qualsiasi aiuto giudicato incomp",misura,Dopo,1
-it_partut-ud-test,14266,.,"e con detti orientamenti è
-considerato nuovo aiuto","
- Le scorte di cui al paragrafo 1 sono detratte da","e con detti orientamenti è
-considerato nuovo aiuto.
- Le scorte di cui al paragrafo 1 sono detratte da",aiuto,Le,1
-it_partut-ud-test,14369,.,"a
-quantità che supera le scorte normali di riporto","
- Queste aziende introducono
-infatti nuove importa","a
-quantità che supera le scorte normali di riporto.
- Queste aziende introducono
-infatti nuove importa",riporto,Queste,1
-it_partut-ud-test,14603,.,"a parte
-il processo di modernizzazione industriale","
- I farmaci, per quanto accessibili,
-non hanno alc","a parte
-il processo di modernizzazione industriale.
- I farmaci, per quanto accessibili,
-non hanno alc",industriale,I,1
-it_partut-ud-test,14716,., non c'è nessuno a prescriverli o a somministrarli,"
-
-Anche in questo caso, la Germania dovrebbe prend"," non c'è nessuno a prescriverli o a somministrarli.
-
-Anche in questo caso, la Germania dovrebbe prend",somministrarli,Anche,1
-it_partut-ud-test,14781,.,"sto caso, la Germania dovrebbe prendere il comando","
- E, dal canto
-suo, la Cina si è affidata al dolla","sto caso, la Germania dovrebbe prendere il comando.
- E, dal canto
-suo, la Cina si è affidata al dolla",comando,E,1
-it_partut-ud-test,14928,.,diventando così più competitiva nelle esportazioni,"
- Alla fine, però, questa
-codipendenza si è rivela","diventando così più competitiva nelle esportazioni.
- Alla fine, però, questa
-codipendenza si è rivela",esportazioni,Alla,1
-it_partut-ud-test,15026,.,elata un matrimonio di convenienza più che d'amore,"
-
-restando impantanata nella carenza di risparmio ","elata un matrimonio di convenienza più che d'amore.
-
-restando impantanata nella carenza di risparmio ",d'amore,restando,1
-it_partut-ud-test,15252,.,"ssi di interesse, e a un indebolimento del dollaro","
-
-Sebbene la risposta probabile sia sì, i rischi a","ssi di interesse, e a un indebolimento del dollaro.
-
-Sebbene la risposta probabile sia sì, i rischi a",dollaro,Sebbene,1
-it_partut-ud-test,15370,.,"o più alti di
-quanto non fossero alcuni decenni fa","
- Tutti questi problemi hanno soluzioni,
-almeno ne","o più alti di
-quanto non fossero alcuni decenni fa.
- Tutti questi problemi hanno soluzioni,
-almeno ne",fa,Tutti,1
-it_partut-ud-test,15444,.," hanno soluzioni,
-almeno nel breve e medio termine","
- O forse questa innovazione è meno
-significativa "," hanno soluzioni,
-almeno nel breve e medio termine.
- O forse questa innovazione è meno
-significativa ",termine,O,1
-it_partut-ud-test,15527,.,"eno
-significativa di quanto credano gli entusiasti","
- È alquanto esplicativo che la
-maggior parte dei ","eno
-significativa di quanto credano gli entusiasti.
- È alquanto esplicativo che la
-maggior parte dei ",entusiasti,È,1
-it_partut-ud-test,15784,., una madre influenza il benessere della sua prole ,"
- Ciò
-riflette una incapacità fondamentale della c"," una madre influenza il benessere della sua prole .
- Ciò
-riflette una incapacità fondamentale della c",,Ciò,1
-it_partut-ud-test,15915,.,"ere
-dati significativi ai responsabili decisionali","
- In Corea del sud, Giappone e
-altrove, sviluppare","ere
-dati significativi ai responsabili decisionali.
- In Corea del sud, Giappone e
-altrove, sviluppare",decisionali,In,1
-it_partut-ud-test,16163,.,soprattutto sul versante dei servizi dell'economia,"
- Nell'ambito
-dell'economia internazionale, essere","soprattutto sul versante dei servizi dell'economia.
- Nell'ambito
-dell'economia internazionale, essere",dell'economia,Nell'ambito,1
-it_partut-ud-test,16360,.,"i decisioni senza controlli
-rilevanti dall'esterno","
- Niente di buono sarebbe mai accaduto - e di cert","i decisioni senza controlli
-rilevanti dall'esterno.
- Niente di buono sarebbe mai accaduto - e di cert",dall'esterno,Niente,1
-it_partut-ud-test,16432,.,"ebbe mai accaduto - e di certo non
-per merito loro","
- L'importanza economica e finanziaria globale di ","ebbe mai accaduto - e di certo non
-per merito loro.
- L'importanza economica e finanziaria globale di ",loro,L'importanza,1
-it_partut-ud-test,16594,.,"tivamente poco rappresentati
-all'interno del fondo","
- È stato concordato un pacchetto di riforme.
- In ","tivamente poco rappresentati
-all'interno del fondo.
- È stato concordato un pacchetto di riforme.
- In ",fondo,È,1
-it_partut-ud-test,16639,.,"fondo.
- È stato concordato un pacchetto di riforme","
- In realtà,
-l'amministrazione ha cercato di rende","fondo.
- È stato concordato un pacchetto di riforme.
- In realtà,
-l'amministrazione ha cercato di rende",riforme,In,1
-it_partut-ud-test,16816,.,"a Camera dei rappresentanti a sostenere le
-riforme","
- Le ultime indicazioni sono che i repubblicani no","a Camera dei rappresentanti a sostenere le
-riforme.
- Le ultime indicazioni sono che i repubblicani no",riforme,Le,1
-it_partut-ud-test,16894,.,"o che i repubblicani non ne saranno tanto
-persuasi","
- Non un centimetro.
- Eppure, mentre gli ucraini l","o che i repubblicani non ne saranno tanto
-persuasi.
- Non un centimetro.
- Eppure, mentre gli ucraini l",persuasi,Non,1
-it_partut-ud-test,16914,.," non ne saranno tanto
-persuasi.
- Non un centimetro","
- Eppure, mentre gli ucraini lavorano per ricostru"," non ne saranno tanto
-persuasi.
- Non un centimetro.
- Eppure, mentre gli ucraini lavorano per ricostru",centimetro,Eppure,1
-it_partut-ud-test,17199,.,tica ideata per minare le decisioni dell'occidente,"
- Se non
-c'è alcuna oppressione degli abitanti di ","tica ideata per minare le decisioni dell'occidente.
- Se non
-c'è alcuna oppressione degli abitanti di ",dell'occidente,Se,1
-it_partut-ud-test,17339,.,motivo di cambiare la struttura politica del paese,"
- Tuttavia, quando si tratta
-di ingegneria genetic","motivo di cambiare la struttura politica del paese.
- Tuttavia, quando si tratta
-di ingegneria genetic",paese,Tuttavia,1
-it_partut-ud-test,17454,.,"sembra avere un peso minore rispetto alla
-politica","
- Dopotutto, creare una vera unione fiscale richie","sembra avere un peso minore rispetto alla
-politica.
- Dopotutto, creare una vera unione fiscale richie",politica,Dopotutto,1
-it_partut-ud-test,17570,.,"e
-impegno politico e un notevole lavoro di ricerca","
- Il suo periodo a Vendôme è
-riflesso in Louis Lam","e
-impegno politico e un notevole lavoro di ricerca.
- Il suo periodo a Vendôme è
-riflesso in Louis Lam",ricerca,Il,1
-it_partut-ud-test,17722,.,"e della
-scuola di grammatica oratoriana di Vendôme","
- come spiega Robb:
- Una eredità
-simbolica.
- Alla ","e della
-scuola di grammatica oratoriana di Vendôme.
- come spiega Robb:
- Una eredità
-simbolica.
- Alla ",Vendôme,come,1
-it_partut-ud-test,17765,.,"Vendôme.
- come spiega Robb:
- Una eredità
-simbolica","
- Alla fine, perse la sanità di mente e cadde nell","Vendôme.
- come spiega Robb:
- Una eredità
-simbolica.
- Alla fine, perse la sanità di mente e cadde nell",simbolica,Alla,1
-it_partut-ud-test,17824,.,"ine, perse la sanità di mente e cadde nella follia","
- La loro
-lunghezza non era prestabilita.
- Il suo ","ine, perse la sanità di mente e cadde nella follia.
- La loro
-lunghezza non era prestabilita.
- Il suo ",follia,La,1
-it_partut-ud-test,17865,.,"la follia.
- La loro
-lunghezza non era prestabilita","
- Il suo metodo di lavoro preferito era mangiare
-u","la follia.
- La loro
-lunghezza non era prestabilita.
- Il suo metodo di lavoro preferito era mangiare
-u",prestabilita,Il,1
-it_partut-ud-test,18001,.,"sei del pomeriggio e poi dormire fino a
-mezzanotte","
- Nonostante Balzac fosse ""talvolta un eremita e u","sei del pomeriggio e poi dormire fino a
-mezzanotte.
- Nonostante Balzac fosse ""talvolta un eremita e u",mezzanotte,Nonostante,1
-it_partut-ud-test,18160,.,"la società che forniva materiale per
-il suo lavoro","
- La salute di lui peggiorò lungo il cammino, e Ew","la società che forniva materiale per
-il suo lavoro.
- La salute di lui peggiorò lungo il cammino, e Ew",lavoro,La,1
-it_partut-ud-test,18312,.,"tato di estrema debolezza"" e ""sudava
-copiosamente""","
- Balzac cercava di presentare i suoi personaggi c","tato di estrema debolezza"" e ""sudava
-copiosamente"".
- Balzac cercava di presentare i suoi personaggi c",,Balzac,1
-it_partut-ud-test,18439,.,"po buone né troppo cattive, ma completamente umane","
- Come fece con
-la gente attorno a sè, Balzac stud","po buone né troppo cattive, ma completamente umane.
- Come fece con
-la gente attorno a sè, Balzac stud",umane,Come,1
-it_partut-ud-test,18611,.,ota di ciò che aveva fatto nelle visite precedenti,"
-
-""L'artista della Comédie Humaine"", egli scrisse,","ota di ciò che aveva fatto nelle visite precedenti.
-
-""L'artista della Comédie Humaine"", egli scrisse,",precedenti,,1
-it_partut-ud-test,18693,.,"ine"", egli scrisse, ""è semi-sommerso dallo storico","
-
-""Balzac ricevette alti elogi da critici così div","ine"", egli scrisse, ""è semi-sommerso dallo storico.
-
-""Balzac ricevette alti elogi da critici così div",storico,,1
-it_partut-ud-test,18786,.,"così diversi come Walter Benjamin e
-Camille Paglia","
- Non si sa con esattezza quando Shakespeare inizi","così diversi come Walter Benjamin e
-Camille Paglia.
- Non si sa con esattezza quando Shakespeare inizi",Paglia,Non,1
-it_partut-ud-test,18999,.,o messe in scena sui palchi londinesi già dal 1592,"
- Shakespeare
-fu sepolto nel presbiterio della chi","o messe in scena sui palchi londinesi già dal 1592.
- Shakespeare
-fu sepolto nel presbiterio della chi",1592,Shakespeare,1
-it_partut-ud-test,19102,.,"a della santa trinità due giorni dopo la
-sua morte","
- L'epitaffio inciso sulla lastra di roccia che co","a della santa trinità due giorni dopo la
-sua morte.
- L'epitaffio inciso sulla lastra di roccia che co",morte,L'epitaffio,1
-it_partut-ud-test,19319,.,durante i lavori di restauro della chiesa nel 2008,"
-
-Shakespeare collaborò ad altre due opere ancora ","durante i lavori di restauro della chiesa nel 2008.
-
-Shakespeare collaborò ad altre due opere ancora ",2008,Shakespeare,1
-it_partut-ud-test,19456,.," nobili congiunti, probabilmente con John Fletcher","
- Dopo Amleto, Shakespeare
-modificò ulteriormente "," nobili congiunti, probabilmente con John Fletcher.
- Dopo Amleto, Shakespeare
-modificò ulteriormente ",Fletcher,Dopo,1
-it_partut-ud-test,19593,.," nei passaggi più
-commoventi delle ultime tragedie","
- Negli ultimi romance di Shakespeare, egli è
-deli"," nei passaggi più
-commoventi delle ultime tragedie.
- Negli ultimi romance di Shakespeare, egli è
-deli",tragedie,Negli,1
-it_partut-ud-test,19732,.,"rtificiale, che enfatizzava
-l'illusione del teatro","
- Nel corso del diciottesimo e diciannovesimo seco","rtificiale, che enfatizzava
-l'illusione del teatro.
- Nel corso del diciottesimo e diciannovesimo seco",teatro,Nel,1
-it_partut-ud-test,19835,.,", la
-sua reputazione si è diffusa anche all'estero","
- Solo una piccola minoranza di
-ricercatori crede ",", la
-sua reputazione si è diffusa anche all'estero.
- Solo una piccola minoranza di
-ricercatori crede ",all'estero,Solo,1
-it_partut-ud-test,20089,.,"tà shakespeariana, continua nel ventunesimo secolo","
- 
-","tà shakespeariana, continua nel ventunesimo secolo.
- 
+it_partut-ud-test,41,.,Attribuzione-Condividi allo stesso modo 2,"0 (Italia). Ogni utilizzazione
+dell'opera che non ","Attribuzione-Condividi allo stesso modo 2.0 (Italia). Ogni utilizzazione
+dell'opera che non ",2,0,0
+it_partut-ud-test,52,.,tribuzione-Condividi allo stesso modo 2.0 (Italia)," Ogni utilizzazione
+dell'opera che non sia autoriz","tribuzione-Condividi allo stesso modo 2.0 (Italia). Ogni utilizzazione
+dell'opera che non sia autoriz",,Ogni,1
+it_partut-ud-test,72,"
+", allo stesso modo 2.0 (Italia). Ogni utilizzazione,dell'opera che non sia autorizzata ai sensi della ," allo stesso modo 2.0 (Italia). Ogni utilizzazione
+dell'opera che non sia autorizzata ai sensi della ",utilizzazione,dell'opera,0
+it_partut-ud-test,153,"
+",zata ai sensi della presente licenza o del diritto,d'autore è proibita. Salvo che sia espressamente c,"zata ai sensi della presente licenza o del diritto
+d'autore è proibita. Salvo che sia espressamente c",diritto,d'autore,0
+it_partut-ud-test,173,.,"presente licenza o del diritto
+d'autore è proibita", Salvo che sia espressamente convenuto altrimenti ,"presente licenza o del diritto
+d'autore è proibita. Salvo che sia espressamente convenuto altrimenti ",proibita,Salvo,1
+it_partut-ud-test,227,"
+",lvo che sia espressamente convenuto altrimenti per,"iscritto fra le parti, il Licenziante offre l'oper","lvo che sia espressamente convenuto altrimenti per
+iscritto fra le parti, il Licenziante offre l'oper",per,iscritto,0
+it_partut-ud-test,305,"
+","icenziante offre l'opera in licenza ""così com'è"" e",non fornisce alcuna dichiarazione o garanzia di qu,"icenziante offre l'opera in licenza ""così com'è"" e
+non fornisce alcuna dichiarazione o garanzia di qu",e,non,0
+it_partut-ud-test,381,"
+",arazione o garanzia di qualsiasi tipo con riguardo,"all'opera, sia essa espressa od implicita, di font","arazione o garanzia di qualsiasi tipo con riguardo
+all'opera, sia essa espressa od implicita, di font",riguardo,all'opera,0
+it_partut-ud-test,457,"
+","ssa od implicita, di fonte legale o di altro tipo,","essendo quindi escluse, fra le altre, le garanzie ","ssa od implicita, di fonte legale o di altro tipo,
+essendo quindi escluse, fra le altre, le garanzie ",,essendo,0
+it_partut-ud-test,532,"
+","fra le altre, le garanzie relative al titolo, alla","commerciabilità, all'idoneità per un fine specific","fra le altre, le garanzie relative al titolo, alla
+commerciabilità, all'idoneità per un fine specific",alla,commerciabilità,0
+it_partut-ud-test,609,"
+",ità per un fine specifico e alla non violazione di,diritti di terzi o alla mancanza di difetti latent,"ità per un fine specifico e alla non violazione di
+diritti di terzi o alla mancanza di difetti latent",di,diritti,0
+it_partut-ud-test,678,"
+"," alla mancanza di difetti latenti o di altro tipo,","all'esattezza od alla presenza di errori, siano es"," alla mancanza di difetti latenti o di altro tipo,
+all'esattezza od alla presenza di errori, siano es",,all'esattezza,0
+it_partut-ud-test,750,.," presenza di errori, siano essi accertabili o meno","
+Creative Commons non è parte della presente licen"," presenza di errori, siano essi accertabili o meno.
+Creative Commons non è parte della presente licen",meno,Creative,1
+it_partut-ud-test,751,"
+","presenza di errori, siano essi accertabili o meno.",Creative Commons non è parte della presente licenz,"presenza di errori, siano essi accertabili o meno.
+Creative Commons non è parte della presente licenz",,Creative,0
+it_partut-ud-test,828,"
+",te della presente licenza e non dà alcuna garanzia,"connessa all'opera. Sì, onorevole Evans, ritengo c","te della presente licenza e non dà alcuna garanzia
+connessa all'opera. Sì, onorevole Evans, ritengo c",garanzia,connessa,0
+it_partut-ud-test,847,.,"icenza e non dà alcuna garanzia
+connessa all'opera"," Sì, onorevole Evans, ritengo che un'iniziativa de","icenza e non dà alcuna garanzia
+connessa all'opera. Sì, onorevole Evans, ritengo che un'iniziativa de",all'opera,Sì,1
+it_partut-ud-test,908,"
+","vole Evans, ritengo che un'iniziativa del tipo che",lei propone sia assolutamente opportuna. Chiedo ch,"vole Evans, ritengo che un'iniziativa del tipo che
+lei propone sia assolutamente opportuna. Chiedo ch",che,lei,0
+it_partut-ud-test,948,.,"l tipo che
+lei propone sia assolutamente opportuna"," Chiedo che venga riesaminata tale
+decisione, in q","l tipo che
+lei propone sia assolutamente opportuna. Chiedo che venga riesaminata tale
+decisione, in q",opportuna,Chiedo,1
+it_partut-ud-test,983,"
+",mente opportuna. Chiedo che venga riesaminata tale,"decisione, in quanto non è così. Di recente il tem","mente opportuna. Chiedo che venga riesaminata tale
+decisione, in quanto non è così. Di recente il tem",tale,decisione,0
+it_partut-ud-test,1015,.,"a riesaminata tale
+decisione, in quanto non è così"," Di recente il tema della sicurezza dei
+trasporti ","a riesaminata tale
+decisione, in quanto non è così. Di recente il tema della sicurezza dei
+trasporti ",così,Di,1
+it_partut-ud-test,1055,"
+",non è così. Di recente il tema della sicurezza dei,trasporti è stato tristemente al centro dell'atten,"non è così. Di recente il tema della sicurezza dei
+trasporti è stato tristemente al centro dell'atten",dei,trasporti,0
+it_partut-ud-test,1130,"
+",mente al centro dell'attenzione dei mass media con,l'incidente ferroviario alla stazione di Paddingto,"mente al centro dell'attenzione dei mass media con
+l'incidente ferroviario alla stazione di Paddingto",con,l'incidente,0
+it_partut-ud-test,1205,"
+","alla stazione di Paddington a Londra, il terribile","incidente ferroviario in Norvegia, i due incidenti","alla stazione di Paddington a Londra, il terribile
+incidente ferroviario in Norvegia, i due incidenti",terribile,incidente,0
+it_partut-ud-test,1284,"
+","vegia, i due incidenti aerei in cui hanno perso la",vita alcuni cittadini dell'Unione e il disastro ec,"vegia, i due incidenti aerei in cui hanno perso la
+vita alcuni cittadini dell'Unione e il disastro ec",la,vita,0
+it_partut-ud-test,1358,"
+",ell'Unione e il disastro ecologico provocato dalla,petroliera Erika al largo della costa bretone. L'i,"ell'Unione e il disastro ecologico provocato dalla
+petroliera Erika al largo della costa bretone. L'i",dalla,petroliera,0
+it_partut-ud-test,1404,.,"alla
+petroliera Erika al largo della costa bretone"," L'importanza della sicurezza dei
+trasporti strada","alla
+petroliera Erika al largo della costa bretone. L'importanza della sicurezza dei
+trasporti strada",bretone,L'importanza,1
+it_partut-ud-test,1438,"
+",la costa bretone. L'importanza della sicurezza dei,"trasporti stradali, ferroviari e per vie navigabil","la costa bretone. L'importanza della sicurezza dei
+trasporti stradali, ferroviari e per vie navigabil",dei,trasporti,0
+it_partut-ud-test,1519,"
+", e per vie navigabili interne è indubbia e dato il,carattere internazionale di questo tipo di traspor," e per vie navigabili interne è indubbia e dato il
+carattere internazionale di questo tipo di traspor",il,carattere,0
+it_partut-ud-test,1590,"
+","nale di questo tipo di trasporti, anche i corsi di",formazione per i consulenti per la sicurezza devon,"nale di questo tipo di trasporti, anche i corsi di
+formazione per i consulenti per la sicurezza devon",di,formazione,0
+it_partut-ud-test,1671,"
+","r la sicurezza devono essere armonizzati, come, ad","esempio, per il prossimo nuovo ADR. Ciò non va imp","r la sicurezza devono essere armonizzati, come, ad
+esempio, per il prossimo nuovo ADR. Ciò non va imp",ad,esempio,0
+it_partut-ud-test,1706,.,"zzati, come, ad
+esempio, per il prossimo nuovo ADR"," Ciò non va imputato soltanto alla
+commissione ma ","zzati, come, ad
+esempio, per il prossimo nuovo ADR. Ciò non va imputato soltanto alla
+commissione ma ",ADR,Ciò,1
+it_partut-ud-test,1741,"
+",ssimo nuovo ADR. Ciò non va imputato soltanto alla,commissione ma credo che dobbiamo attivarci più ra,"ssimo nuovo ADR. Ciò non va imputato soltanto alla
+commissione ma credo che dobbiamo attivarci più ra",alla,commissione,0
+it_partut-ud-test,1816,"
+", dobbiamo attivarci più rapidamente per giungere a,un'armonizzazione anche in questo ambito. Posso an," dobbiamo attivarci più rapidamente per giungere a
+un'armonizzazione anche in questo ambito. Posso an",a,un'armonizzazione,0
+it_partut-ud-test,1857,.,"iungere a
+un'armonizzazione anche in questo ambito"," Posso anche accettare queste norme
+minime, ma eso","iungere a
+un'armonizzazione anche in questo ambito. Posso anche accettare queste norme
+minime, ma eso",ambito,Posso,1
+it_partut-ud-test,1893,"
+", questo ambito. Posso anche accettare queste norme,"minime, ma esorto la commissione a esercitare un'a"," questo ambito. Posso anche accettare queste norme
+minime, ma esorto la commissione a esercitare un'a",norme,minime,0
+it_partut-ud-test,1963,.,a commissione a esercitare un'attenta sorveglianza," Credo
+tuttavia che occorra fare tutto ciò che rie","a commissione a esercitare un'attenta sorveglianza. Credo
+tuttavia che occorra fare tutto ciò che rie",sorveglianza,Credo,1
+it_partut-ud-test,1970,"
+",ssione a esercitare un'attenta sorveglianza. Credo,tuttavia che occorra fare tutto ciò che rientra ne,"ssione a esercitare un'attenta sorveglianza. Credo
+tuttavia che occorra fare tutto ciò che rientra ne",Credo,tuttavia,0
+it_partut-ud-test,2047,"
+",tutto ciò che rientra nelle nostre possibilità per,limitare il più possibile il trasporto di merci pe,"tutto ciò che rientra nelle nostre possibilità per
+limitare il più possibile il trasporto di merci pe",per,limitare,0
+it_partut-ud-test,2124,"
+","il trasporto di merci pericolose in tutti i paesi,",siano essi di transito o meno. Spero che la mia pr,"il trasporto di merci pericolose in tutti i paesi,
+siano essi di transito o meno. Spero che la mia pr",,siano,0
+it_partut-ud-test,2154,.,"se in tutti i paesi,
+siano essi di transito o meno"," Spero che la mia proposta venga presa in
+consider","se in tutti i paesi,
+siano essi di transito o meno. Spero che la mia proposta venga presa in
+consider",meno,Spero,1
+it_partut-ud-test,2196,"
+",o o meno. Spero che la mia proposta venga presa in,considerazione nel corso della votazione di domani,"o o meno. Spero che la mia proposta venga presa in
+considerazione nel corso della votazione di domani",in,considerazione,0
+it_partut-ud-test,2247,.,considerazione nel corso della votazione di domani," Vorrei chiedere alla
+vicepresidente se oggi è in ","considerazione nel corso della votazione di domani. Vorrei chiedere alla
+vicepresidente se oggi è in ",domani,Vorrei,1
+it_partut-ud-test,2269,"
+",so della votazione di domani. Vorrei chiedere alla,vicepresidente se oggi è in grado di dirci qualcos,"so della votazione di domani. Vorrei chiedere alla
+vicepresidente se oggi è in grado di dirci qualcos",alla,vicepresidente,0
+it_partut-ud-test,2348,"
+",grado di dirci qualcosa sullo stato di avanzamento,degli sforzi di armonizzazione da parte delle due ,"grado di dirci qualcosa sullo stato di avanzamento
+degli sforzi di armonizzazione da parte delle due ",avanzamento,degli,0
+it_partut-ud-test,2429,"
+", da parte delle due organizzazioni summenzionate e,se l' Unione Europea ha la possibilità di accelera," da parte delle due organizzazioni summenzionate e
+se l' Unione Europea ha la possibilità di accelera",e,se,0
+it_partut-ud-test,2510,"
+",sibilità di accelerare l' armonizzazione adottando,principi il più possibile semplici . Signor presid,"sibilità di accelerare l' armonizzazione adottando
+principi il più possibile semplici . Signor presid",adottando,principi,0
+it_partut-ud-test,2546,.,"ione adottando
+principi il più possibile semplici "," Signor presidente, i miei più vivi
+ringraziamenti","ione adottando
+principi il più possibile semplici . Signor presidente, i miei più vivi
+ringraziamenti",,Signor,1
+it_partut-ud-test,2582,"
+","bile semplici . Signor presidente, i miei più vivi",ringraziamenti alla onorevole Schroedter per il la,"bile semplici . Signor presidente, i miei più vivi
+ringraziamenti alla onorevole Schroedter per il la",vivi,ringraziamenti,0
+it_partut-ud-test,2644,.,nti alla onorevole Schroedter per il lavoro svolto," La mancanza di
+linee direttrici specifiche qui si","nti alla onorevole Schroedter per il lavoro svolto. La mancanza di
+linee direttrici specifiche qui si",svolto,La,1
+it_partut-ud-test,2660,"
+",le Schroedter per il lavoro svolto. La mancanza di,linee direttrici specifiche qui si fa sentire con ,"le Schroedter per il lavoro svolto. La mancanza di
+linee direttrici specifiche qui si fa sentire con ",di,linee,0
+it_partut-ud-test,2738,"
+"," qui si fa sentire con particolare intensità, dato",che l'idea di collegare gli aiuti del fondo social," qui si fa sentire con particolare intensità, dato
+che l'idea di collegare gli aiuti del fondo social",dato,che,0
+it_partut-ud-test,2809,"
+",are gli aiuti del fondo sociale alla strategia per,l'occupazione verrà realizzata per la prima volta ,"are gli aiuti del fondo sociale alla strategia per
+l'occupazione verrà realizzata per la prima volta ",per,l'occupazione,0
+it_partut-ud-test,2881,"
+",ealizzata per la prima volta durante il periodo di,programmazione 2000-2006. La verità è che siamo co,"ealizzata per la prima volta durante il periodo di
+programmazione 2000-2006. La verità è che siamo co",di,programmazione,0
+it_partut-ud-test,2906,.,"lta durante il periodo di
+programmazione 2000-2006"," La verità è che siamo convinti, e ciò si riflette","lta durante il periodo di
+programmazione 2000-2006. La verità è che siamo convinti, e ciò si riflette",2000-2006,La,1
+it_partut-ud-test,2957,"
+"," La verità è che siamo convinti, e ciò si riflette","anche nel testo delle conclusioni, che la commissi"," La verità è che siamo convinti, e ciò si riflette
+anche nel testo delle conclusioni, che la commissi",riflette,anche,0
+it_partut-ud-test,3036,"
+","sioni, che la commissione debba tenere conto delle","decisioni di questo parlamento, soprattutto in vis","sioni, che la commissione debba tenere conto delle
+decisioni di questo parlamento, soprattutto in vis",delle,decisioni,0
+it_partut-ud-test,3117,"
+",", soprattutto in vista della revisione delle linee","direttrici a metà periodo. Signor presidente, sign",", soprattutto in vista della revisione delle linee
+direttrici a metà periodo. Signor presidente, sign",linee,direttrici,0
+it_partut-ud-test,3143,.,"la revisione delle linee
+direttrici a metà periodo"," Signor presidente, signor commissario, onorevoli
+","la revisione delle linee
+direttrici a metà periodo. Signor presidente, signor commissario, onorevoli
+",periodo,Signor,1
+it_partut-ud-test,3193,"
+",". Signor presidente, signor commissario, onorevoli","colleghi, desidero prima di tutto ringraziare la o",". Signor presidente, signor commissario, onorevoli
+colleghi, desidero prima di tutto ringraziare la o",onorevoli,colleghi,0
+it_partut-ud-test,3267,"
+",a di tutto ringraziare la onorevole Schroedter per,l'ottima relazione. Ha svolto un'analisi dettaglia,"a di tutto ringraziare la onorevole Schroedter per
+l'ottima relazione. Ha svolto un'analisi dettaglia",per,l'ottima,0
+it_partut-ud-test,3286,.,"are la onorevole Schroedter per
+l'ottima relazione", Ha svolto un'analisi dettagliata di questo argome,"are la onorevole Schroedter per
+l'ottima relazione. Ha svolto un'analisi dettagliata di questo argome",relazione,Ha,1
+it_partut-ud-test,3345,"
+",to un'analisi dettagliata di questo argomento e ha,inserito molti emendamenti proposti in sede di com,"to un'analisi dettagliata di questo argomento e ha
+inserito molti emendamenti proposti in sede di com",ha,inserito,0
+it_partut-ud-test,3404,., molti emendamenti proposti in sede di commissione," Sono stati inseriti
+numerosissimi dettagli, che e"," molti emendamenti proposti in sede di commissione. Sono stati inseriti
+numerosissimi dettagli, che e",commissione,Sono,1
+it_partut-ud-test,3425,"
+",oposti in sede di commissione. Sono stati inseriti,"numerosissimi dettagli, che erano emersi già nelle","oposti in sede di commissione. Sono stati inseriti
+numerosissimi dettagli, che erano emersi già nelle",inseriti,numerosissimi,0
+it_partut-ud-test,3497,.,"i, che erano emersi già nelle relazioni precedenti"," si
+tratta di una lunga storia, che si trascina al","i, che erano emersi già nelle relazioni precedenti. si
+tratta di una lunga storia, che si trascina al",precedenti,si,1
+it_partut-ud-test,3501,"
+",he erano emersi già nelle relazioni precedenti. si,"tratta di una lunga storia, che si trascina almeno","he erano emersi già nelle relazioni precedenti. si
+tratta di una lunga storia, che si trascina almeno",si,tratta,0
+it_partut-ud-test,3580,"
+",che si trascina almeno da quando sono stato eletto,"al parlamento, cinque anni fa, tant'è vero che ho ","che si trascina almeno da quando sono stato eletto
+al parlamento, cinque anni fa, tant'è vero che ho ",eletto,al,0
+it_partut-ud-test,3660,"
+",", tant'è vero che ho già trattato questo argomento","a più riprese. Mi pare, pertanto, che la relazione",", tant'è vero che ho già trattato questo argomento
+a più riprese. Mi pare, pertanto, che la relazione",argomento,a,0
+it_partut-ud-test,3674,.,"che ho già trattato questo argomento
+a più riprese"," Mi pare, pertanto, che la relazione debba invece ","che ho già trattato questo argomento
+a più riprese. Mi pare, pertanto, che la relazione debba invece ",riprese,Mi,1
+it_partut-ud-test,3737,"
+","rtanto, che la relazione debba invece anticipare e",delineare le linee direttrici della revisione inte,"rtanto, che la relazione debba invece anticipare e
+delineare le linee direttrici della revisione inte",e,delineare,0
+it_partut-ud-test,3817,"
+", della revisione intermedia del 2003 e addirittura,influenzare la seconda fase di programmazione succ," della revisione intermedia del 2003 e addirittura
+influenzare la seconda fase di programmazione succ",addirittura,influenzare,0
+it_partut-ud-test,3882,., seconda fase di programmazione successiva al 2003," realizzarlo
+comporterebbe indubbiamente estendere"," seconda fase di programmazione successiva al 2003. realizzarlo
+comporterebbe indubbiamente estendere",2003,realizzarlo,1
+it_partut-ud-test,3895,"
+", di programmazione successiva al 2003. realizzarlo,comporterebbe indubbiamente estendere gli strument," di programmazione successiva al 2003. realizzarlo
+comporterebbe indubbiamente estendere gli strument",realizzarlo,comporterebbe,0
+it_partut-ud-test,3972,"
+",e estendere gli strumenti di ridistribuzione delle,"risorse, quali appunto i fondi strutturali. Signor","e estendere gli strumenti di ridistribuzione delle
+risorse, quali appunto i fondi strutturali. Signor",delle,risorse,0
+it_partut-ud-test,4015,.,"e delle
+risorse, quali appunto i fondi strutturali"," Signor presidente, anch'io mi voglio
+complimentar","e delle
+risorse, quali appunto i fondi strutturali. Signor presidente, anch'io mi voglio
+complimentar",strutturali,Signor,1
+it_partut-ud-test,4053,"
+"," strutturali. Signor presidente, anch'io mi voglio",complimentare con il relatore per l'ottimo lavoro ," strutturali. Signor presidente, anch'io mi voglio
+complimentare con il relatore per l'ottimo lavoro ",voglio,complimentare,0
+it_partut-ud-test,4110,.,mentare con il relatore per l'ottimo lavoro svolto," Concludo, signor
+presidente, dicendo che è piutto","mentare con il relatore per l'ottimo lavoro svolto. Concludo, signor
+presidente, dicendo che è piutto",svolto,Concludo,1
+it_partut-ud-test,4128,"
+","atore per l'ottimo lavoro svolto. Concludo, signor","presidente, dicendo che è piuttosto grave che nell","atore per l'ottimo lavoro svolto. Concludo, signor
+presidente, dicendo che è piuttosto grave che nell",signor,presidente,0
+it_partut-ud-test,4200,"
+",he è piuttosto grave che nella comunicazione della,commissione sia stata riservata una scarsa attenzi,"he è piuttosto grave che nella comunicazione della
+commissione sia stata riservata una scarsa attenzi",della,commissione,0
+it_partut-ud-test,4278,"
+",vata una scarsa attenzione ai patti territoriali e,soprattutto alle modalità di lotta alla disoccupaz,"vata una scarsa attenzione ai patti territoriali e
+soprattutto alle modalità di lotta alla disoccupaz",e,soprattutto,0
+it_partut-ud-test,4355,.,di lotta alla disoccupazione femminile e giovanile,"
+Per rivolgersi ai destinatari interessati, ANA ha","di lotta alla disoccupazione femminile e giovanile.
+Per rivolgersi ai destinatari interessati, ANA ha",giovanile,Per,1
+it_partut-ud-test,4356,"
+",i lotta alla disoccupazione femminile e giovanile.,"Per rivolgersi ai destinatari interessati, ANA ha ","i lotta alla disoccupazione femminile e giovanile.
+Per rivolgersi ai destinatari interessati, ANA ha ",,Per,0
+it_partut-ud-test,4433,"
+","ari interessati, ANA ha usato un insieme di parole",chiave che si rivolgeva agli amanti dei viaggi e d,"ari interessati, ANA ha usato un insieme di parole
+chiave che si rivolgeva agli amanti dei viaggi e d",parole,chiave,0
+it_partut-ud-test,4508,"
+","agli amanti dei viaggi e della cultura giapponese,",sviluppando poi contenuti creativi adatti a cattur,"agli amanti dei viaggi e della cultura giapponese,
+sviluppando poi contenuti creativi adatti a cattur",,sviluppando,0
+it_partut-ud-test,4579,"
+",enuti creativi adatti a catturare l'attenzione dei,destinatari. Ora puoi visualizzare gli aggiornamen,"enuti creativi adatti a catturare l'attenzione dei
+destinatari. Ora puoi visualizzare gli aggiornamen",dei,destinatari,0
+it_partut-ud-test,4591,.,"vi adatti a catturare l'attenzione dei
+destinatari", Ora puoi visualizzare gli aggiornamenti pubblicat,"vi adatti a catturare l'attenzione dei
+destinatari. Ora puoi visualizzare gli aggiornamenti pubblicat",destinatari,Ora,1
+it_partut-ud-test,4657,"
+",lizzare gli aggiornamenti pubblicati dalle persone,che ti interessano anche se non siete amici. Se no,"lizzare gli aggiornamenti pubblicati dalle persone
+che ti interessano anche se non siete amici. Se no",persone,che,0
+it_partut-ud-test,4701,.,"ersone
+che ti interessano anche se non siete amici"," Se non vedi il pulsante, non puoi
+attivare la ric","ersone
+che ti interessano anche se non siete amici. Se non vedi il pulsante, non puoi
+attivare la ric",amici,Se,1
+it_partut-ud-test,4736,"
+","non siete amici. Se non vedi il pulsante, non puoi",attivare la ricezione degli aggiornamenti. Hai già,"non siete amici. Se non vedi il pulsante, non puoi
+attivare la ricezione degli aggiornamenti. Hai già",puoi,attivare,0
+it_partut-ud-test,4778,.,"non puoi
+attivare la ricezione degli aggiornamenti"," Hai già una Pagina Facebook? (14)
+Come principio ","non puoi
+attivare la ricezione degli aggiornamenti. Hai già una Pagina Facebook? (14)
+Come principio ",aggiornamenti,Hai,1
+it_partut-ud-test,4807,?,e degli aggiornamenti. Hai già una Pagina Facebook," (14)
+Come principio generale, il consumo energeti","e degli aggiornamenti. Hai già una Pagina Facebook? (14)
+Come principio generale, il consumo energeti",Facebook,,1
+it_partut-ud-test,4813,"
+",i aggiornamenti. Hai già una Pagina Facebook? (14),"Come principio generale, il consumo energetico dei","i aggiornamenti. Hai già una Pagina Facebook? (14)
+Come principio generale, il consumo energetico dei",,Come,0
+it_partut-ud-test,4887,"
+",", il consumo energetico dei prodotti che consumano",energia in stand-by o quando sono disattivati dovr,", il consumo energetico dei prodotti che consumano
+energia in stand-by o quando sono disattivati dovr",consumano,energia,0
+it_partut-ud-test,4967,"
+",sono disattivati dovrebbe essere ridotto al minimo,necessario per il loro adeguato funzionamento. - I,"sono disattivati dovrebbe essere ridotto al minimo
+necessario per il loro adeguato funzionamento. - I",minimo,necessario,0
+it_partut-ud-test,5013,.,"nimo
+necessario per il loro adeguato funzionamento"," - Il programma deve essere
+prorogato di almeno 4 ","nimo
+necessario per il loro adeguato funzionamento. - Il programma deve essere
+prorogato di almeno 4 ",funzionamento,-,1
+it_partut-ud-test,5041,"
+",adeguato funzionamento. - Il programma deve essere,prorogato di almeno 4 anni con lo stesso importo d,"adeguato funzionamento. - Il programma deve essere
+prorogato di almeno 4 anni con lo stesso importo d",essere,prorogato,0
+it_partut-ud-test,5120,"
+",on lo stesso importo di riferimento finanziario (1,milione di Eur all'anno) e gli stessi interventi e,"on lo stesso importo di riferimento finanziario (1
+milione di Eur all'anno) e gli stessi interventi e",1,milione,0
+it_partut-ud-test,5183,.,ur all'anno) e gli stessi interventi e destinatari," Ogni individuo
+ha diritto di lasciare qualsiasi p","ur all'anno) e gli stessi interventi e destinatari. Ogni individuo
+ha diritto di lasciare qualsiasi p",destinatari,Ogni,1
+it_partut-ud-test,5199,"
+",li stessi interventi e destinatari. Ogni individuo,"ha diritto di lasciare qualsiasi paese, incluso il","li stessi interventi e destinatari. Ogni individuo
+ha diritto di lasciare qualsiasi paese, incluso il",individuo,ha,0
+it_partut-ud-test,5278,"
+","iasi paese, incluso il proprio, e di ritornare nel",proprio paese. Uomini e donne in età adatta hanno ,"iasi paese, incluso il proprio, e di ritornare nel
+proprio paese. Uomini e donne in età adatta hanno ",nel,proprio,0
+it_partut-ud-test,5292,.,"cluso il proprio, e di ritornare nel
+proprio paese", Uomini e donne in età adatta hanno il diritto di ,"cluso il proprio, e di ritornare nel
+proprio paese. Uomini e donne in età adatta hanno il diritto di ",paese,Uomini,1
+it_partut-ud-test,5356,"
+",ne in età adatta hanno il diritto di sposarsi e di,"fondare una famiglia, senza alcuna limitazione di ","ne in età adatta hanno il diritto di sposarsi e di
+fondare una famiglia, senza alcuna limitazione di ",di,fondare,0
+it_partut-ud-test,5428,"
+"," senza alcuna limitazione di razza, cittadinanza o",religione. Ogni individuo ha diritto di accedere i," senza alcuna limitazione di razza, cittadinanza o
+religione. Ogni individuo ha diritto di accedere i",o,religione,0
+it_partut-ud-test,5438,.,"una limitazione di razza, cittadinanza o
+religione", Ogni individuo ha diritto di accedere in condizio,"una limitazione di razza, cittadinanza o
+religione. Ogni individuo ha diritto di accedere in condizio",religione,Ogni,1
+it_partut-ud-test,5509,"
+",iritto di accedere in condizioni di eguaglianza ai,pubblici impieghi del proprio paese. Ogni individu,"iritto di accedere in condizioni di eguaglianza ai
+pubblici impieghi del proprio paese. Ogni individu",ai,pubblici,0
+it_partut-ud-test,5545,.,"eguaglianza ai
+pubblici impieghi del proprio paese"," Ogni individuo che lavora ha diritto ad una
+remun","eguaglianza ai
+pubblici impieghi del proprio paese. Ogni individuo che lavora ha diritto ad una
+remun",paese,Ogni,1
+it_partut-ud-test,5590,"
+",paese. Ogni individuo che lavora ha diritto ad una,remunerazione equa e soddisfacente che assicuri a ,"paese. Ogni individuo che lavora ha diritto ad una
+remunerazione equa e soddisfacente che assicuri a ",una,remunerazione,0
+it_partut-ud-test,5671,"
+",ente che assicuri a lui stesso e alla sua famiglia,una esistenza conforme alla dignità umana ed integ,"ente che assicuri a lui stesso e alla sua famiglia
+una esistenza conforme alla dignità umana ed integ",famiglia,una,0
+it_partut-ud-test,5751,"
+","ignità umana ed integrata, se necessario, da altri","mezzi di protezione sociale. mamma infelice, tutti","ignità umana ed integrata, se necessario, da altri
+mezzi di protezione sociale. mamma infelice, tutti",altri,mezzi,0
+it_partut-ud-test,5779,.,"e necessario, da altri
+mezzi di protezione sociale"," mamma infelice, tutti infelici. La repubblica di
+","e necessario, da altri
+mezzi di protezione sociale. mamma infelice, tutti infelici. La repubblica di
+",sociale,mamma,1
+it_partut-ud-test,5811,.,"protezione sociale. mamma infelice, tutti infelici"," La repubblica di
+Bulgaria e la Romania diventano ","protezione sociale. mamma infelice, tutti infelici. La repubblica di
+Bulgaria e la Romania diventano ",infelici,La,1
+it_partut-ud-test,5829,"
+",". mamma infelice, tutti infelici. La repubblica di",Bulgaria e la Romania diventano membri dell'Unione,". mamma infelice, tutti infelici. La repubblica di
+Bulgaria e la Romania diventano membri dell'Unione",di,Bulgaria,0
+it_partut-ud-test,5888,., e la Romania diventano membri dell'Unione Europea," Le condizioni e le
+modalità di ammissione sono co"," e la Romania diventano membri dell'Unione Europea. Le condizioni e le
+modalità di ammissione sono co",Europea,Le,1
+it_partut-ud-test,5908,"
+",ano membri dell'Unione Europea. Le condizioni e le,modalità di ammissione sono contenute nel protocol,"ano membri dell'Unione Europea. Le condizioni e le
+modalità di ammissione sono contenute nel protocol",le,modalità,0
+it_partut-ud-test,5982,"
+",sono contenute nel protocollo allegato al presente,trattato. Le disposizioni di tale protocollo costi,"sono contenute nel protocollo allegato al presente
+trattato. Le disposizioni di tale protocollo costi",presente,trattato,0
+it_partut-ud-test,5991,.,"enute nel protocollo allegato al presente
+trattato", Le disposizioni di tale protocollo costituiscono ,"enute nel protocollo allegato al presente
+trattato. Le disposizioni di tale protocollo costituiscono ",trattato,Le,1
+it_partut-ud-test,6062,"
+",tale protocollo costituiscono parte integrante del,presente trattato. Le disposizioni di tale atto co,"tale protocollo costituiscono parte integrante del
+presente trattato. Le disposizioni di tale atto co",del,presente,0
+it_partut-ud-test,6080,.,"stituiscono parte integrante del
+presente trattato", Le disposizioni di tale atto costituiscono parte ,"stituiscono parte integrante del
+presente trattato. Le disposizioni di tale atto costituiscono parte ",trattato,Le,1
+it_partut-ud-test,6141,"
+",izioni di tale atto costituiscono parte integrante,del presente trattato. Il presente trattato è rati,"izioni di tale atto costituiscono parte integrante
+del presente trattato. Il presente trattato è rati",integrante,del,0
+it_partut-ud-test,6163,.,"stituiscono parte integrante
+del presente trattato", Il presente trattato è ratificato dalle Alte part,"stituiscono parte integrante
+del presente trattato. Il presente trattato è ratificato dalle Alte part",trattato,Il,1
+it_partut-ud-test,6215,"
+",Il presente trattato è ratificato dalle Alte parti,contraenti secondo le rispettive norme costituzion,"Il presente trattato è ratificato dalle Alte parti
+contraenti secondo le rispettive norme costituzion",parti,contraenti,0
+it_partut-ud-test,6269,.,traenti secondo le rispettive norme costituzionali," Gli strumenti di ratifica
+sono depositati presso ","traenti secondo le rispettive norme costituzionali. Gli strumenti di ratifica
+sono depositati presso ",costituzionali,Gli,1
+it_partut-ud-test,6296,"
+",ve norme costituzionali. Gli strumenti di ratifica,sono depositati presso il governo della Repubblica,"ve norme costituzionali. Gli strumenti di ratifica
+sono depositati presso il governo della Repubblica",ratifica,sono,0
+it_partut-ud-test,6375,"
+",verno della Repubblica italiana al più tardi il 31,dicembre 2006. Il presente trattato entra in vigor,"verno della Repubblica italiana al più tardi il 31
+dicembre 2006. Il presente trattato entra in vigor",31,dicembre,0
+it_partut-ud-test,6389,.,"pubblica italiana al più tardi il 31
+dicembre 2006", Il presente trattato entra in vigore il 1° gennai,"pubblica italiana al più tardi il 31
+dicembre 2006. Il presente trattato entra in vigore il 1° gennai",2006,Il,1
+it_partut-ud-test,6449,"
+","nte trattato entra in vigore il 1° gennaio 2007, a",condizione che tutti gli strumenti di ratifica sia,"nte trattato entra in vigore il 1° gennaio 2007, a
+condizione che tutti gli strumenti di ratifica sia",a,condizione,0
+it_partut-ud-test,6528,"
+",umenti di ratifica siano stati depositati prima di,tale data. Se tale decisione è adottata nei confro,"umenti di ratifica siano stati depositati prima di
+tale data. Se tale decisione è adottata nei confro",di,tale,0
+it_partut-ud-test,6538,.,"ratifica siano stati depositati prima di
+tale data", Se tale decisione è adottata nei confronti di uno,"ratifica siano stati depositati prima di
+tale data. Se tale decisione è adottata nei confronti di uno",data,Se,1
+it_partut-ud-test,6606,"
+",e è adottata nei confronti di uno solo degli stati,aderenti il presente trattato entra in vigore per ,"e è adottata nei confronti di uno solo degli stati
+aderenti il presente trattato entra in vigore per ",stati,aderenti,0
+it_partut-ud-test,6686,., entra in vigore per tale stato il 1° gennaio 2008,"
+Queste misure prendono effetto con riserva dell'e"," entra in vigore per tale stato il 1° gennaio 2008.
+Queste misure prendono effetto con riserva dell'e",2008,Queste,1
+it_partut-ud-test,6687,"
+",entra in vigore per tale stato il 1° gennaio 2008.,Queste misure prendono effetto con riserva dell'en,"entra in vigore per tale stato il 1° gennaio 2008.
+Queste misure prendono effetto con riserva dell'en",,Queste,0
+it_partut-ud-test,6766,"
+",to con riserva dell'entrata in vigore del presente,trattato 5 alla data di quest'ultima. Il testo del,"to con riserva dell'entrata in vigore del presente
+trattato 5 alla data di quest'ultima. Il testo del",presente,trattato,0
+it_partut-ud-test,6803,.," del presente
+trattato 5 alla data di quest'ultima"," Il testo del trattato che adotta una
+costituzione"," del presente
+trattato 5 alla data di quest'ultima. Il testo del trattato che adotta una
+costituzione",quest'ultima,Il,1
+it_partut-ud-test,6841,"
+",quest'ultima. Il testo del trattato che adotta una,"costituzione per l'Europa, redatto in lingua bulga","quest'ultima. Il testo del trattato che adotta una
+costituzione per l'Europa, redatto in lingua bulga",una,costituzione,0
+it_partut-ud-test,6917,"
+",", redatto in lingua bulgara e rumena, è accluso al",presente trattato. Protocollo relativo alle condiz,", redatto in lingua bulgara e rumena, è accluso al
+presente trattato. Protocollo relativo alle condiz",al,presente,0
+it_partut-ud-test,6935,.,"a bulgara e rumena, è accluso al
+presente trattato", Protocollo relativo alle condizioni e modalità d',"a bulgara e rumena, è accluso al
+presente trattato. Protocollo relativo alle condizioni e modalità d'",trattato,Protocollo,1
+it_partut-ud-test,6996,"
+",o relativo alle condizioni e modalità d'ammissione,della repubblica di Bulgaria e della Romania all'U,"o relativo alle condizioni e modalità d'ammissione
+della repubblica di Bulgaria e della Romania all'U",d'ammissione,della,0
+it_partut-ud-test,7060,.,ica di Bulgaria e della Romania all'Unione Europea," La Bulgaria e
+la Romania aderiscono alle decision","ica di Bulgaria e della Romania all'Unione Europea. La Bulgaria e
+la Romania aderiscono alle decision",Europea,La,1
+it_partut-ud-test,7075,"
+", e della Romania all'Unione Europea. La Bulgaria e,la Romania aderiscono alle decisioni ed agli accor," e della Romania all'Unione Europea. La Bulgaria e
+la Romania aderiscono alle decisioni ed agli accor",e,la,0
+it_partut-ud-test,7156,"
+",isioni ed agli accordi adottati dai rappresentanti,dei governi degli stati membri riuniti in sede di ,"isioni ed agli accordi adottati dai rappresentanti
+dei governi degli stati membri riuniti in sede di ",rappresentanti,dei,0
+it_partut-ud-test,7216,.,ni degli stati membri riuniti in sede di Consiglio," Gli strumenti
+specifici di cui al presente artico","ni degli stati membri riuniti in sede di Consiglio. Gli strumenti
+specifici di cui al presente artico",Consiglio,Gli,1
+it_partut-ud-test,7231,"
+",membri riuniti in sede di Consiglio. Gli strumenti,specifici di cui al presente articolo includono qu,"membri riuniti in sede di Consiglio. Gli strumenti
+specifici di cui al presente articolo includono qu",strumenti,specifici,0
+it_partut-ud-test,7307,"
+",nte articolo includono quelli citati nell'articolo,Iv-438 della costituzione. Essa presenta un proget,"nte articolo includono quelli citati nell'articolo
+Iv-438 della costituzione. Essa presenta un proget",nell'articolo,Iv-438,0
+it_partut-ud-test,7333,.,"lli citati nell'articolo
+Iv-438 della costituzione", Essa presenta un progetto dei protocolli al consi,"lli citati nell'articolo
+Iv-438 della costituzione. Essa presenta un progetto dei protocolli al consi",costituzione,Essa,1
+it_partut-ud-test,7388,"
+",a presenta un progetto dei protocolli al consiglio,per la conclusione. Il consiglio delibera all'unan,"a presenta un progetto dei protocolli al consiglio
+per la conclusione. Il consiglio delibera all'unan",consiglio,per,0
+it_partut-ud-test,7407,.,"tto dei protocolli al consiglio
+per la conclusione", Il consiglio delibera all'unanimità previa consul,"tto dei protocolli al consiglio
+per la conclusione. Il consiglio delibera all'unanimità previa consul",conclusione,Il,1
+it_partut-ud-test,7469,"
+",io delibera all'unanimità previa consultazione del,parlamento europeo. L'applicazione della costituzi,"io delibera all'unanimità previa consultazione del
+parlamento europeo. L'applicazione della costituzi",del,parlamento,0
+it_partut-ud-test,7488,.,"nimità previa consultazione del
+parlamento europeo", L'applicazione della costituzione e degli atti ad,"nimità previa consultazione del
+parlamento europeo. L'applicazione della costituzione e degli atti ad",europeo,L'applicazione,1
+it_partut-ud-test,7545,"
+",licazione della costituzione e degli atti adottati,"dalle istituzioni è soggetta, a titolo transitorio","licazione della costituzione e degli atti adottati
+dalle istituzioni è soggetta, a titolo transitorio",adottati,dalle,0
+it_partut-ud-test,7623,"
+","a, a titolo transitorio, alle deroghe previste dal","presente protocollo. In deroga a quanto precede, l","a, a titolo transitorio, alle deroghe previste dal
+presente protocollo. In deroga a quanto precede, l",dal,presente,0
+it_partut-ud-test,7643,.,"rio, alle deroghe previste dal
+presente protocollo"," In deroga a quanto precede, le procedure relative","rio, alle deroghe previste dal
+presente protocollo. In deroga a quanto precede, le procedure relative",protocollo,In,1
+it_partut-ud-test,7697,"
+"," deroga a quanto precede, le procedure relative ad",appalti pubblici avviate dopo l'adesione sono espl," deroga a quanto precede, le procedure relative ad
+appalti pubblici avviate dopo l'adesione sono espl",ad,appalti,0
+it_partut-ud-test,7773,"
+",dopo l'adesione sono espletate in conformità delle,pertinenti disposizioni dell'unione. L'ultima prog,"dopo l'adesione sono espletate in conformità delle
+pertinenti disposizioni dell'unione. L'ultima prog",delle,pertinenti,0
+it_partut-ud-test,7809,.,"nformità delle
+pertinenti disposizioni dell'unione"," L'ultima programmazione per l'assistenza di
+pread","nformità delle
+pertinenti disposizioni dell'unione. L'ultima programmazione per l'assistenza di
+pread",dell'unione,L'ultima,1
+it_partut-ud-test,7854,"
+",nione. L'ultima programmazione per l'assistenza di,preadesione di cui al paragrafo 1 è effettuata nel,"nione. L'ultima programmazione per l'assistenza di
+preadesione di cui al paragrafo 1 è effettuata nel",di,preadesione,0
+it_partut-ud-test,7934,"
+",fo 1 è effettuata nell'ultimo anno civile completo,precedente l'adesione. I contratti relativi alle a,"fo 1 è effettuata nell'ultimo anno civile completo
+precedente l'adesione. I contratti relativi alle a",completo,precedente,0
+it_partut-ud-test,7956,.,"'ultimo anno civile completo
+precedente l'adesione", I contratti relativi alle azioni a titolo di tali,"'ultimo anno civile completo
+precedente l'adesione. I contratti relativi alle azioni a titolo di tali",l'adesione,I,1
+it_partut-ud-test,8007,"
+", I contratti relativi alle azioni a titolo di tali,programmi dovranno essere assegnati entro i due an," I contratti relativi alle azioni a titolo di tali
+programmi dovranno essere assegnati entro i due an",tali,programmi,0
+it_partut-ud-test,8071,.,ranno essere assegnati entro i due anni successivi," Non è concessa
+alcuna proroga del periodo per l'a","ranno essere assegnati entro i due anni successivi. Non è concessa
+alcuna proroga del periodo per l'a",successivi,Non,1
+it_partut-ud-test,8087,"
+",egnati entro i due anni successivi. Non è concessa,alcuna proroga del periodo per l'assegnazione dei ,"egnati entro i due anni successivi. Non è concessa
+alcuna proroga del periodo per l'assegnazione dei ",concessa,alcuna,0
+it_partut-ud-test,8147,.,oroga del periodo per l'assegnazione dei contratti," Proroghe limitate
+della durata possono essere con","oroga del periodo per l'assegnazione dei contratti. Proroghe limitate
+della durata possono essere con",contratti,Proroghe,1
+it_partut-ud-test,8166,"
+",er l'assegnazione dei contratti. Proroghe limitate,della durata possono essere concesse per l'esecuzi,"er l'assegnazione dei contratti. Proroghe limitate
+della durata possono essere concesse per l'esecuzi",limitate,della,0
+it_partut-ud-test,8242,"
+","re concesse per l'esecuzione dei contratti, in via",eccezionale e in casi debitamente giustificati. Pe,"re concesse per l'esecuzione dei contratti, in via
+eccezionale e in casi debitamente giustificati. Pe",via,eccezionale,0
+it_partut-ud-test,8289,.,"via
+eccezionale e in casi debitamente giustificati"," Per i costi relativi alle
+revisioni contabili e a","via
+eccezionale e in casi debitamente giustificati. Per i costi relativi alle
+revisioni contabili e a",giustificati,Per,1
+it_partut-ud-test,8316,"
+",ebitamente giustificati. Per i costi relativi alle,"revisioni contabili e alle valutazioni, i fondi di","ebitamente giustificati. Per i costi relativi alle
+revisioni contabili e alle valutazioni, i fondi di",alle,revisioni,0
+it_partut-ud-test,8394,"
+","valutazioni, i fondi di preadesione possono essere",impegnati fino a cinque anni dopo l'adesione. Non ,"valutazioni, i fondi di preadesione possono essere
+impegnati fino a cinque anni dopo l'adesione. Non ",essere,impegnati,0
+it_partut-ud-test,8439,.,"ssere
+impegnati fino a cinque anni dopo l'adesione"," Non si applicano tuttavia le
+disposizioni previst","ssere
+impegnati fino a cinque anni dopo l'adesione. Non si applicano tuttavia le
+disposizioni previst",l'adesione,Non,1
+it_partut-ud-test,8469,"
+",anni dopo l'adesione. Non si applicano tuttavia le,disposizioni previste all'articolo 165 del regolam,"anni dopo l'adesione. Non si applicano tuttavia le
+disposizioni previste all'articolo 165 del regolam",le,disposizioni,0
+it_partut-ud-test,8548,"
+",ticolo 165 del regolamento finanziario applicabile,al bilancio generale delle comunità europee. La co,"ticolo 165 del regolamento finanziario applicabile
+al bilancio generale delle comunità europee. La co",applicabile,al,0
+it_partut-ud-test,8592,.,"cabile
+al bilancio generale delle comunità europee"," La commissione può adottare
+disposizioni relative","cabile
+al bilancio generale delle comunità europee. La commissione può adottare
+disposizioni relative",europee,La,1
+it_partut-ud-test,8621,"
+",elle comunità europee. La commissione può adottare,disposizioni relative all'attuazione dell'assisten,"elle comunità europee. La commissione può adottare
+disposizioni relative all'attuazione dell'assisten",adottare,disposizioni,0
+it_partut-ud-test,8696,.,l'attuazione dell'assistenza di cui al paragrafo 2," A
+tal fine, la commissione è assistita da un comi","l'attuazione dell'assistenza di cui al paragrafo 2. A
+tal fine, la commissione è assistita da un comi",2,A,1
+it_partut-ud-test,8699,"
+",ttuazione dell'assistenza di cui al paragrafo 2. A,"tal fine, la commissione è assistita da un comitat","ttuazione dell'assistenza di cui al paragrafo 2. A
+tal fine, la commissione è assistita da un comitat",A,tal,0
+it_partut-ud-test,8751,.,"al fine, la commissione è assistita da un comitato"," Il comitato adotta il
+proprio regolamento interno","al fine, la commissione è assistita da un comitato. Il comitato adotta il
+proprio regolamento interno",comitato,Il,1
+it_partut-ud-test,8774,"
+", è assistita da un comitato. Il comitato adotta il,proprio regolamento interno. L'assistenza è volta ," è assistita da un comitato. Il comitato adotta il
+proprio regolamento interno. L'assistenza è volta ",il,proprio,0
+it_partut-ud-test,8802,.," Il comitato adotta il
+proprio regolamento interno"," L'assistenza è volta a finanziare progetti di
+cos"," Il comitato adotta il
+proprio regolamento interno. L'assistenza è volta a finanziare progetti di
+cos",interno,L'assistenza,1
+it_partut-ud-test,8849,"
+",rno. L'assistenza è volta a finanziare progetti di,costruzione istituzionale e piccoli investimenti l,"rno. L'assistenza è volta a finanziare progetti di
+costruzione istituzionale e piccoli investimenti l",di,costruzione,0
+it_partut-ud-test,8926,.,e piccoli investimenti limitati accessori a questi,"
+Gli stanziamenti sono autorizzati dall'autorità d","e piccoli investimenti limitati accessori a questi.
+Gli stanziamenti sono autorizzati dall'autorità d",questi,Gli,1
+it_partut-ud-test,8927,"
+", piccoli investimenti limitati accessori a questi.,Gli stanziamenti sono autorizzati dall'autorità di," piccoli investimenti limitati accessori a questi.
+Gli stanziamenti sono autorizzati dall'autorità di",,Gli,0
+it_partut-ud-test,9004,"
+",rizzati dall'autorità di bilancio nei limiti delle,prospettive finanziarie. Il primo giorno lavorativ,"rizzati dall'autorità di bilancio nei limiti delle
+prospettive finanziarie. Il primo giorno lavorativ",delle,prospettive,0
+it_partut-ud-test,9028,.," bilancio nei limiti delle
+prospettive finanziarie"," Il primo giorno lavorativo di ciascun mese del
+co"," bilancio nei limiti delle
+prospettive finanziarie. Il primo giorno lavorativo di ciascun mese del
+co",finanziarie,Il,1
+it_partut-ud-test,9076,"
+",ie. Il primo giorno lavorativo di ciascun mese del,corrispondente anno viene corrisposto alla Bulgari,"ie. Il primo giorno lavorativo di ciascun mese del
+corrispondente anno viene corrisposto alla Bulgari",del,corrispondente,0
+it_partut-ud-test,9157,"
+",isposto alla Bulgaria e alla Romania un dodicesimo,di ciascun importo annuale. I pagamenti forfettari,"isposto alla Bulgaria e alla Romania un dodicesimo
+di ciascun importo annuale. I pagamenti forfettari",dodicesimo,di,0
+it_partut-ud-test,9184,.,"a Romania un dodicesimo
+di ciascun importo annuale"," I pagamenti forfettari sono utilizzati entro tre
+","a Romania un dodicesimo
+di ciascun importo annuale. I pagamenti forfettari sono utilizzati entro tre
+",annuale,I,1
+it_partut-ud-test,9234,"
+",. I pagamenti forfettari sono utilizzati entro tre,anni dal primo pagamento. Tutti i fondi inutilizza,". I pagamenti forfettari sono utilizzati entro tre
+anni dal primo pagamento. Tutti i fondi inutilizza",tre,anni,0
+it_partut-ud-test,9259,.,"sono utilizzati entro tre
+anni dal primo pagamento", Tutti i fondi inutilizzati o spesi ingiustificata,"sono utilizzati entro tre
+anni dal primo pagamento. Tutti i fondi inutilizzati o spesi ingiustificata",pagamento,Tutti,1
+it_partut-ud-test,9315,"
+",i i fondi inutilizzati o spesi ingiustificatamente,sono recuperati dalla commissione. La commissione ,"i i fondi inutilizzati o spesi ingiustificatamente
+sono recuperati dalla commissione. La commissione ",ingiustificatamente,sono,0
+it_partut-ud-test,9349,.,"iustificatamente
+sono recuperati dalla commissione"," La commissione può adottare qualsiasi
+provvedimen","iustificatamente
+sono recuperati dalla commissione. La commissione può adottare qualsiasi
+provvedimen",commissione,La,1
+it_partut-ud-test,9388,"
+",commissione. La commissione può adottare qualsiasi,provvedimento tecnico necessario al funzionamento ,"commissione. La commissione può adottare qualsiasi
+provvedimento tecnico necessario al funzionamento ",qualsiasi,provvedimento,0
+it_partut-ud-test,9469,"
+",io al funzionamento dello strumento temporaneo per,i flussi di tesoreria e strumento Schengen. Le mis,"io al funzionamento dello strumento temporaneo per
+i flussi di tesoreria e strumento Schengen. Le mis",per,i,0
+it_partut-ud-test,9512,.,"neo per
+i flussi di tesoreria e strumento Schengen"," Le misure così decise sono
+applicabili immediatam","neo per
+i flussi di tesoreria e strumento Schengen. Le misure così decise sono
+applicabili immediatam",Schengen,Le,1
+it_partut-ud-test,9540,"
+",a e strumento Schengen. Le misure così decise sono,"applicabili immediatamente, tengono conto degli in","a e strumento Schengen. Le misure così decise sono
+applicabili immediatamente, tengono conto degli in",sono,applicabili,0
+it_partut-ud-test,9616,"
+","e, tengono conto degli interessi di tutte le parti",interessate e non comportano controlli alle fronti,"e, tengono conto degli interessi di tutte le parti
+interessate e non comportano controlli alle fronti",parti,interessate,0
+it_partut-ud-test,9670,.,eressate e non comportano controlli alle frontiere," Nella scelta di tali
+misure si dovrà accordare la","eressate e non comportano controlli alle frontiere. Nella scelta di tali
+misure si dovrà accordare la",frontiere,Nella,1
+it_partut-ud-test,9692,"
+",ano controlli alle frontiere. Nella scelta di tali,misure si dovrà accordare la precedenza a quelle c,"ano controlli alle frontiere. Nella scelta di tali
+misure si dovrà accordare la precedenza a quelle c",tali,misure,0
+it_partut-ud-test,9771,"
+", precedenza a quelle che turbino il meno possibile,il funzionamento del mercato interno. Tali misure ," precedenza a quelle che turbino il meno possibile
+il funzionamento del mercato interno. Tali misure ",possibile,il,0
+it_partut-ud-test,9808,.,"eno possibile
+il funzionamento del mercato interno"," Tali misure di salvaguardia non possono
+essere in","eno possibile
+il funzionamento del mercato interno. Tali misure di salvaguardia non possono
+essere in",interno,Tali,1
+it_partut-ud-test,9849,"
+",o interno. Tali misure di salvaguardia non possono,essere invocate come mezzo di discriminazione arbi,"o interno. Tali misure di salvaguardia non possono
+essere invocate come mezzo di discriminazione arbi",possono,essere,0
+it_partut-ud-test,9923,"
+",zzo di discriminazione arbitraria o di restrizione,dissimulata agli scambi tra stati membri. Le misur,"zzo di discriminazione arbitraria o di restrizione
+dissimulata agli scambi tra stati membri. Le misur",restrizione,dissimulata,0
+it_partut-ud-test,9964,.,"strizione
+dissimulata agli scambi tra stati membri"," Le misure non sono mantenute oltre il
+tempo stret","strizione
+dissimulata agli scambi tra stati membri. Le misure non sono mantenute oltre il
+tempo stret",membri,Le,1
+it_partut-ud-test,10003,"
+",tati membri. Le misure non sono mantenute oltre il,"tempo strettamente necessario e, in ogni caso, ces","tati membri. Le misure non sono mantenute oltre il
+tempo strettamente necessario e, in ogni caso, ces",il,tempo,0
+it_partut-ud-test,10082,"
+","o e, in ogni caso, cessano di essere applicate una",volta attuato l'impegno pertinente. Esse possono t,"o e, in ogni caso, cessano di essere applicate una
+volta attuato l'impegno pertinente. Esse possono t",una,volta,0
+it_partut-ud-test,10117,.,"e applicate una
+volta attuato l'impegno pertinente"," Esse possono tuttavia essere applicate oltre
+il p","e applicate una
+volta attuato l'impegno pertinente. Esse possono tuttavia essere applicate oltre
+il p",pertinente,Esse,1
+it_partut-ud-test,10163,"
+",ente. Esse possono tuttavia essere applicate oltre,il periodo specificato nel primo comma fino a che ,"ente. Esse possono tuttavia essere applicate oltre
+il periodo specificato nel primo comma fino a che ",oltre,il,0
+it_partut-ud-test,10235,"
+",o nel primo comma fino a che non siano adempiuti i,pertinenti impegni. In risposta ai progressi compi,"o nel primo comma fino a che non siano adempiuti i
+pertinenti impegni. In risposta ai progressi compi",i,pertinenti,0
+it_partut-ud-test,10254,.,"ino a che non siano adempiuti i
+pertinenti impegni", In risposta ai progressi compiuti dal nuovo stato,"ino a che non siano adempiuti i
+pertinenti impegni. In risposta ai progressi compiuti dal nuovo stato",impegni,In,1
+it_partut-ud-test,10312,"
+",posta ai progressi compiuti dal nuovo stato membro,"interessato nell'adempimento dei propri impegni, l","posta ai progressi compiuti dal nuovo stato membro
+interessato nell'adempimento dei propri impegni, l",membro,interessato,0
+it_partut-ud-test,10389,"
+","to dei propri impegni, la commissione può adeguare",opportunamente le misure. Le misure non sono mante,"to dei propri impegni, la commissione può adeguare
+opportunamente le misure. Le misure non sono mante",adeguare,opportunamente,0
+it_partut-ud-test,10414,.," commissione può adeguare
+opportunamente le misure"," Le misure non sono mantenute oltre il tempo
+stret"," commissione può adeguare
+opportunamente le misure. Le misure non sono mantenute oltre il tempo
+stret",misure,Le,1
+it_partut-ud-test,10459,"
+",isure. Le misure non sono mantenute oltre il tempo,"strettamente necessario e, in ogni caso, cessano d","isure. Le misure non sono mantenute oltre il tempo
+strettamente necessario e, in ogni caso, cessano d",tempo,strettamente,0
+it_partut-ud-test,10538,"
+","n ogni caso, cessano di essere applicate una volta",posto rimedio alle carenze. Esse possono tuttavia ,"n ogni caso, cessano di essere applicate una volta
+posto rimedio alle carenze. Esse possono tuttavia ",volta,posto,0
+it_partut-ud-test,10565,.,"ere applicate una volta
+posto rimedio alle carenze"," Esse possono tuttavia essere applicate oltre il
+p","ere applicate una volta
+posto rimedio alle carenze. Esse possono tuttavia essere applicate oltre il
+p",carenze,Esse,1
+it_partut-ud-test,10614,"
+",e. Esse possono tuttavia essere applicate oltre il,periodo specificato nel primo comma finché tali ca,"e. Esse possono tuttavia essere applicate oltre il
+periodo specificato nel primo comma finché tali ca",il,periodo,0
+it_partut-ud-test,10681,.,ato nel primo comma finché tali carenze persistono," Tale periodo
+può essere prorogato da una legge eu","ato nel primo comma finché tali carenze persistono. Tale periodo
+può essere prorogato da una legge eu",persistono,Tale,1
+it_partut-ud-test,10695,"
+",comma finché tali carenze persistono. Tale periodo,può essere prorogato da una legge europea del cons,"comma finché tali carenze persistono. Tale periodo
+può essere prorogato da una legge europea del cons",periodo,può,0
+it_partut-ud-test,10751,.,ssere prorogato da una legge europea del consiglio," Tali misure sono
+adottate per un periodo di tre a","ssere prorogato da una legge europea del consiglio. Tali misure sono
+adottate per un periodo di tre a",consiglio,Tali,1
+it_partut-ud-test,10769,"
+", una legge europea del consiglio. Tali misure sono,adottate per un periodo di tre anni a decorrere da," una legge europea del consiglio. Tali misure sono
+adottate per un periodo di tre anni a decorrere da",sono,adottate,0
+it_partut-ud-test,10850,"
+", anni a decorrere dalla data di adesione e la loro,applicazione è limitata a tale periodo. Il parlame," anni a decorrere dalla data di adesione e la loro
+applicazione è limitata a tale periodo. Il parlame",loro,applicazione,0
+it_partut-ud-test,10889,.,"e e la loro
+applicazione è limitata a tale periodo"," Il parlamento europeo apporta al suo
+regolamento ","e e la loro
+applicazione è limitata a tale periodo. Il parlamento europeo apporta al suo
+regolamento ",periodo,Il,1
+it_partut-ud-test,10927,"
+",tale periodo. Il parlamento europeo apporta al suo,regolamento interno gli adattamenti resi necessari,"tale periodo. Il parlamento europeo apporta al suo
+regolamento interno gli adattamenti resi necessari",suo,regolamento,0
+it_partut-ud-test,10992,.,terno gli adattamenti resi necessari dall'adesione," Il consiglio
+apporta al suo regolamento interno g","terno gli adattamenti resi necessari dall'adesione. Il consiglio
+apporta al suo regolamento interno g",dall'adesione,Il,1
+it_partut-ud-test,11006,"
+",tamenti resi necessari dall'adesione. Il consiglio,apporta al suo regolamento interno gli adattamenti,"tamenti resi necessari dall'adesione. Il consiglio
+apporta al suo regolamento interno gli adattamenti",consiglio,apporta,0
+it_partut-ud-test,11086,.,terno gli adattamenti resi necessari dall'adesione,"
+Un cittadino di ogni nuovo stato membro è nominat","terno gli adattamenti resi necessari dall'adesione.
+Un cittadino di ogni nuovo stato membro è nominat",dall'adesione,Un,1
+it_partut-ud-test,11087,"
+",erno gli adattamenti resi necessari dall'adesione.,Un cittadino di ogni nuovo stato membro è nominato,"erno gli adattamenti resi necessari dall'adesione.
+Un cittadino di ogni nuovo stato membro è nominato",,Un,0
+it_partut-ud-test,11165,"
+",stato membro è nominato membro della commissione a,partire dalla data dell'adesione. Il mandato dei m,"stato membro è nominato membro della commissione a
+partire dalla data dell'adesione. Il mandato dei m",a,partire,0
+it_partut-ud-test,11198,.,"lla commissione a
+partire dalla data dell'adesione"," Il mandato dei membri così nominati scade
+contemp","lla commissione a
+partire dalla data dell'adesione. Il mandato dei membri così nominati scade
+contemp",dell'adesione,Il,1
+it_partut-ud-test,11241,"
+",desione. Il mandato dei membri così nominati scade,contemporaneamente a quello dei membri che sono in,"desione. Il mandato dei membri così nominati scade
+contemporaneamente a quello dei membri che sono in",scade,contemporaneamente,0
+it_partut-ud-test,11310,"
+", a quello dei membri che sono in carica al momento,dell'adesione. Due giudici sono nominati alla cort," a quello dei membri che sono in carica al momento
+dell'adesione. Due giudici sono nominati alla cort",momento,dell'adesione,0
+it_partut-ud-test,11324,.,"membri che sono in carica al momento
+dell'adesione", Due giudici sono nominati alla corte di giustizia,"membri che sono in carica al momento
+dell'adesione. Due giudici sono nominati alla corte di giustizia",dell'adesione,Due,1
+it_partut-ud-test,11389,"
+",ono nominati alla corte di giustizia e due giudici,sono nominati al tribunale. Il mandato di uno dei ,"ono nominati alla corte di giustizia e due giudici
+sono nominati al tribunale. Il mandato di uno dei ",giudici,sono,0
+it_partut-ud-test,11416,.,"giustizia e due giudici
+sono nominati al tribunale"," Il mandato di uno dei giudici della corte di
+gius","giustizia e due giudici
+sono nominati al tribunale. Il mandato di uno dei giudici della corte di
+gius",tribunale,Il,1
+it_partut-ud-test,11462,"
+",nale. Il mandato di uno dei giudici della corte di,giustizia nominati conformemente al paragrafo 1 sc,"nale. Il mandato di uno dei giudici della corte di
+giustizia nominati conformemente al paragrafo 1 sc",di,giustizia,0
+it_partut-ud-test,11534,.,nformemente al paragrafo 1 scade il 6 ottobre 2009," Questo
+giudice è estratto a sorte. Il mandato del","nformemente al paragrafo 1 scade il 6 ottobre 2009. Questo
+giudice è estratto a sorte. Il mandato del",2009,Questo,1
+it_partut-ud-test,11542,"
+",nte al paragrafo 1 scade il 6 ottobre 2009. Questo,giudice è estratto a sorte. Il mandato dell'altro ,"nte al paragrafo 1 scade il 6 ottobre 2009. Questo
+giudice è estratto a sorte. Il mandato dell'altro ",Questo,giudice,0
+it_partut-ud-test,11569,.," 6 ottobre 2009. Questo
+giudice è estratto a sorte"," Il mandato dell'altro giudice scade il 6 ottobre
+"," 6 ottobre 2009. Questo
+giudice è estratto a sorte. Il mandato dell'altro giudice scade il 6 ottobre
+",sorte,Il,1
+it_partut-ud-test,11619,"
+",. Il mandato dell'altro giudice scade il 6 ottobre,2012. Il mandato di uno dei giudici del tribunale ,". Il mandato dell'altro giudice scade il 6 ottobre
+2012. Il mandato di uno dei giudici del tribunale ",ottobre,2012,0
+it_partut-ud-test,11624,.,"mandato dell'altro giudice scade il 6 ottobre
+2012", Il mandato di uno dei giudici del tribunale nomin,"mandato dell'altro giudice scade il 6 ottobre
+2012. Il mandato di uno dei giudici del tribunale nomin",2012,Il,1
+it_partut-ud-test,11695,"
+",ei giudici del tribunale nominati conformemente al,paragrafo 1 scade il 31 agosto 2007. Il mandato de,"ei giudici del tribunale nominati conformemente al
+paragrafo 1 scade il 31 agosto 2007. Il mandato de",al,paragrafo,0
+it_partut-ud-test,11731,.,"nformemente al
+paragrafo 1 scade il 31 agosto 2007"," Il mandato dell'altro giudice scade il 31
+agosto ","nformemente al
+paragrafo 1 scade il 31 agosto 2007. Il mandato dell'altro giudice scade il 31
+agosto ",2007,Il,1
+it_partut-ud-test,11774,"
+",to 2007. Il mandato dell'altro giudice scade il 31,agosto 2010. La corte di giustizia apporta al suo ,"to 2007. Il mandato dell'altro giudice scade il 31
+agosto 2010. La corte di giustizia apporta al suo ",31,agosto,0
+it_partut-ud-test,11786,.,"mandato dell'altro giudice scade il 31
+agosto 2010", La corte di giustizia apporta al suo regolamento ,"mandato dell'altro giudice scade il 31
+agosto 2010. La corte di giustizia apporta al suo regolamento ",2010,La,1
+it_partut-ud-test,11853,"
+",stizia apporta al suo regolamento di procedura gli,adattamenti resi necessari dall'adesione. Il tribu,"stizia apporta al suo regolamento di procedura gli
+adattamenti resi necessari dall'adesione. Il tribu",gli,adattamenti,0
+it_partut-ud-test,11894,.,"edura gli
+adattamenti resi necessari dall'adesione"," Il tribunale, di concerto con la corte
+di giustiz","edura gli
+adattamenti resi necessari dall'adesione. Il tribunale, di concerto con la corte
+di giustiz",dall'adesione,Il,1
+it_partut-ud-test,11934,"
+","l'adesione. Il tribunale, di concerto con la corte","di giustizia, apporta al suo regolamento di proced","l'adesione. Il tribunale, di concerto con la corte
+di giustizia, apporta al suo regolamento di proced",corte,di,0
+it_partut-ud-test,12009,"
+", suo regolamento di procedura gli adattamenti resi,necessari dall'adesione. I regolamenti di procedur," suo regolamento di procedura gli adattamenti resi
+necessari dall'adesione. I regolamenti di procedur",resi,necessari,0
+it_partut-ud-test,12033,.,"edura gli adattamenti resi
+necessari dall'adesione"," I regolamenti di procedura così adattati sono
+sot","edura gli adattamenti resi
+necessari dall'adesione. I regolamenti di procedura così adattati sono
+sot",dall'adesione,I,1
+it_partut-ud-test,12080,"
+",one. I regolamenti di procedura così adattati sono,sottoposti all'approvazione del consiglio. Un citt,"one. I regolamenti di procedura così adattati sono
+sottoposti all'approvazione del consiglio. Un citt",sono,sottoposti,0
+it_partut-ud-test,12122,.,"ati sono
+sottoposti all'approvazione del consiglio"," Un cittadino di ogni nuovo stato
+membro è nominat","ati sono
+sottoposti all'approvazione del consiglio. Un cittadino di ogni nuovo stato
+membro è nominat",consiglio,Un,1
+it_partut-ud-test,12156,"
+",ne del consiglio. Un cittadino di ogni nuovo stato,membro è nominato alla corte dei conti a partire d,"ne del consiglio. Un cittadino di ogni nuovo stato
+membro è nominato alla corte dei conti a partire d",stato,membro,0
+it_partut-ud-test,12235,"
+", dei conti a partire dalla data di adesione per un,periodo di sei anni. Il mandato dei membri così no," dei conti a partire dalla data di adesione per un
+periodo di sei anni. Il mandato dei membri così no",un,periodo,0
+it_partut-ud-test,12255,.," dalla data di adesione per un
+periodo di sei anni"," Il mandato dei membri così nominati scade
+contemp"," dalla data di adesione per un
+periodo di sei anni. Il mandato dei membri così nominati scade
+contemp",anni,Il,1
+it_partut-ud-test,12298,"
+",ei anni. Il mandato dei membri così nominati scade,contemporaneamente a quello dei membri che sono in,"ei anni. Il mandato dei membri così nominati scade
+contemporaneamente a quello dei membri che sono in",scade,contemporaneamente,0
+it_partut-ud-test,12367,"
+", a quello dei membri che sono in carica al momento,dell'adesione. Il mandato dei membri recentemente ," a quello dei membri che sono in carica al momento
+dell'adesione. Il mandato dei membri recentemente ",momento,dell'adesione,0
+it_partut-ud-test,12381,.,"membri che sono in carica al momento
+dell'adesione", Il mandato dei membri recentemente nominati scade,"membri che sono in carica al momento
+dell'adesione. Il mandato dei membri recentemente nominati scade",dell'adesione,Il,1
+it_partut-ud-test,12432,"
+", Il mandato dei membri recentemente nominati scade,contemporaneamente a quello dei membri che sono in," Il mandato dei membri recentemente nominati scade
+contemporaneamente a quello dei membri che sono in",scade,contemporaneamente,0
+it_partut-ud-test,12501,"
+", a quello dei membri che sono in carica al momento,dell'adesione. Essi comunicano tali misure alla co," a quello dei membri che sono in carica al momento
+dell'adesione. Essi comunicano tali misure alla co",momento,dell'adesione,0
+it_partut-ud-test,12515,.,"membri che sono in carica al momento
+dell'adesione", Essi comunicano tali misure alla commissione entr,"membri che sono in carica al momento
+dell'adesione. Essi comunicano tali misure alla commissione entr",dell'adesione,Essi,1
+it_partut-ud-test,12578,"
+",cano tali misure alla commissione entro la data di,adesione o entro il termine previsto dal presente ,"cano tali misure alla commissione entro la data di
+adesione o entro il termine previsto dal presente ",di,adesione,0
+it_partut-ud-test,12654,.,"ne previsto dal presente protocollo, se successivo"," Le
+misure sono adottate in conformità delle regol","ne previsto dal presente protocollo, se successivo. Le
+misure sono adottate in conformità delle regol",successivo,Le,1
+it_partut-ud-test,12658,"
+","revisto dal presente protocollo, se successivo. Le",misure sono adottate in conformità delle regole di,"revisto dal presente protocollo, se successivo. Le
+misure sono adottate in conformità delle regole di",Le,misure,0
+it_partut-ud-test,12731,"
+",n conformità delle regole di voto che disciplinano,l'adozione dell'atto rispetto al quale si chiede u,"n conformità delle regole di voto che disciplinano
+l'adozione dell'atto rispetto al quale si chiede u",disciplinano,l'adozione,0
+it_partut-ud-test,12802,., rispetto al quale si chiede una deroga temporanea," Tali
+deroghe, se adottate dopo l'adesione, sono a"," rispetto al quale si chiede una deroga temporanea. Tali
+deroghe, se adottate dopo l'adesione, sono a",temporanea,Tali,1
+it_partut-ud-test,12808,"
+",tto al quale si chiede una deroga temporanea. Tali,"deroghe, se adottate dopo l'adesione, sono applica","tto al quale si chiede una deroga temporanea. Tali
+deroghe, se adottate dopo l'adesione, sono applica",Tali,deroghe,0
+it_partut-ud-test,12886,.,"'adesione, sono applicabili dalla data di adesione","
+Tali adattamenti, se adottati dopo l'adesione, so","'adesione, sono applicabili dalla data di adesione.
+Tali adattamenti, se adottati dopo l'adesione, so",adesione,Tali,1
+it_partut-ud-test,12887,"
+","adesione, sono applicabili dalla data di adesione.","Tali adattamenti, se adottati dopo l'adesione, son","adesione, sono applicabili dalla data di adesione.
+Tali adattamenti, se adottati dopo l'adesione, son",,Tali,0
+it_partut-ud-test,12965,"
+","ti dopo l'adesione, sono applicabili dalla data di",adesione. Essi sono pubblicati nella gazzetta uffi,"ti dopo l'adesione, sono applicabili dalla data di
+adesione. Essi sono pubblicati nella gazzetta uffi",di,adesione,0
+it_partut-ud-test,12974,.,"'adesione, sono applicabili dalla data di
+adesione", Essi sono pubblicati nella gazzetta ufficiale del,"'adesione, sono applicabili dalla data di
+adesione. Essi sono pubblicati nella gazzetta ufficiale del",adesione,Essi,1
+it_partut-ud-test,13044,"
+",ti nella gazzetta ufficiale delle comunità europee,qualora i testi nelle lingue attuali siano stati o,"ti nella gazzetta ufficiale delle comunità europee
+qualora i testi nelle lingue attuali siano stati o",europee,qualora,0
+it_partut-ud-test,13113,"
+",lle lingue attuali siano stati oggetto di una tale,pubblicazione. Gli allegati I e IX e le relative a,"lle lingue attuali siano stati oggetto di una tale
+pubblicazione. Gli allegati I e IX e le relative a",tale,pubblicazione,0
+it_partut-ud-test,13127,.,"uali siano stati oggetto di una tale
+pubblicazione", Gli allegati I e IX e le relative appendici costi,"uali siano stati oggetto di una tale
+pubblicazione. Gli allegati I e IX e le relative appendici costi",pubblicazione,Gli,1
+it_partut-ud-test,13192,"
+",I e IX e le relative appendici costituiscono parte,integrante del presente protocollo. Il testo del s,"I e IX e le relative appendici costituiscono parte
+integrante del presente protocollo. Il testo del s",parte,integrante,0
+it_partut-ud-test,13227,.,"ituiscono parte
+integrante del presente protocollo"," Il testo del suddetto trattato, redatto in
+lingua","ituiscono parte
+integrante del presente protocollo. Il testo del suddetto trattato, redatto in
+lingua",protocollo,Il,1
+it_partut-ud-test,13271,"
+","ocollo. Il testo del suddetto trattato, redatto in","lingua bulgara e rumena, è allegato al presente pr","ocollo. Il testo del suddetto trattato, redatto in
+lingua bulgara e rumena, è allegato al presente pr",in,lingua,0
+it_partut-ud-test,13330,.,"ulgara e rumena, è allegato al presente protocollo"," Tali testi fanno
+fede alle stesse condizioni dei ","ulgara e rumena, è allegato al presente protocollo. Tali testi fanno
+fede alle stesse condizioni dei ",protocollo,Tali,1
+it_partut-ud-test,13348,"
+", allegato al presente protocollo. Tali testi fanno,fede alle stesse condizioni dei testi dei trattati," allegato al presente protocollo. Tali testi fanno
+fede alle stesse condizioni dei testi dei trattati",fanno,fede,0
+it_partut-ud-test,13429,"
+",i testi dei trattati di cui al primo comma redatti,nelle lingue attuali. Nella misura in cui l'accord,"i testi dei trattati di cui al primo comma redatti
+nelle lingue attuali. Nella misura in cui l'accord",redatti,nelle,0
+it_partut-ud-test,13450,.,"di cui al primo comma redatti
+nelle lingue attuali", Nella misura in cui l'accordo non sia ancora conc,"di cui al primo comma redatti
+nelle lingue attuali. Nella misura in cui l'accordo non sia ancora conc",attuali,Nella,1
+it_partut-ud-test,13510,"
+",sura in cui l'accordo non sia ancora concluso e si,applichi a titolo provvisorio. È istituita una sup,"sura in cui l'accordo non sia ancora concluso e si
+applichi a titolo provvisorio. È istituita una sup",si,applichi,0
+it_partut-ud-test,13540,.,"ancora concluso e si
+applichi a titolo provvisorio"," È istituita una superficie di base nazionale per
+","ancora concluso e si
+applichi a titolo provvisorio. È istituita una superficie di base nazionale per
+",provvisorio,È,1
+it_partut-ud-test,13590,"
+",. È istituita una superficie di base nazionale per,"ciascuno stato membro produttore. Tuttavia, per la",". È istituita una superficie di base nazionale per
+ciascuno stato membro produttore. Tuttavia, per la",per,ciascuno,0
+it_partut-ud-test,13623,.,"ase nazionale per
+ciascuno stato membro produttore"," Tuttavia, per la Francia sono istituite due
+super","ase nazionale per
+ciascuno stato membro produttore. Tuttavia, per la Francia sono istituite due
+super",produttore,Tuttavia,1
+it_partut-ud-test,13668,"
+","ttore. Tuttavia, per la Francia sono istituite due",superfici di base. È fissata una superficie massim,"ttore. Tuttavia, per la Francia sono istituite due
+superfici di base. È fissata una superficie massim",due,superfici,0
+it_partut-ud-test,13686,.,"er la Francia sono istituite due
+superfici di base"," È fissata una superficie massima garantita, pari ","er la Francia sono istituite due
+superfici di base. È fissata una superficie massima garantita, pari ",base,È,1
+it_partut-ud-test,13745,"
+","ta una superficie massima garantita, pari a 829229",ettari. Se tale decisione è presa anteriormente al,"ta una superficie massima garantita, pari a 829229
+ettari. Se tale decisione è presa anteriormente al",829229,ettari,0
+it_partut-ud-test,13752,.,"superficie massima garantita, pari a 829229
+ettari", Se tale decisione è presa anteriormente alla data,"superficie massima garantita, pari a 829229
+ettari. Se tale decisione è presa anteriormente alla data",ettari,Se,1
+it_partut-ud-test,13821,"
+"," è presa anteriormente alla data di adesione, essa",entra in vigore solo dalla data di adesione. le mi," è presa anteriormente alla data di adesione, essa
+entra in vigore solo dalla data di adesione. le mi",essa,entra,0
+it_partut-ud-test,13865,.,", essa
+entra in vigore solo dalla data di adesione"," le misure di aiuto sono comunicate
+alla commissio",", essa
+entra in vigore solo dalla data di adesione. le misure di aiuto sono comunicate
+alla commissio",adesione,le,1
+it_partut-ud-test,13901,"
+",ta di adesione. le misure di aiuto sono comunicate,alla commissione entro quattro mesi dalla data di ,"ta di adesione. le misure di aiuto sono comunicate
+alla commissione entro quattro mesi dalla data di ",comunicate,alla,0
+it_partut-ud-test,13960,.,missione entro quattro mesi dalla data di adesione," Tale comunicazione
+include le informazioni relati","missione entro quattro mesi dalla data di adesione. Tale comunicazione
+include le informazioni relati",adesione,Tale,1
+it_partut-ud-test,13980,"
+",ro mesi dalla data di adesione. Tale comunicazione,include le informazioni relative alla base giuridi,"ro mesi dalla data di adesione. Tale comunicazione
+include le informazioni relative alla base giuridi",comunicazione,include,0
+it_partut-ud-test,14052,.,ni relative alla base giuridica di ciascuna misura," Dopo
+tale data, qualsiasi aiuto giudicato incompa","ni relative alla base giuridica di ciascuna misura. Dopo
+tale data, qualsiasi aiuto giudicato incompa",misura,Dopo,1
+it_partut-ud-test,14058,"
+",ative alla base giuridica di ciascuna misura. Dopo,"tale data, qualsiasi aiuto giudicato incompatibile","ative alla base giuridica di ciascuna misura. Dopo
+tale data, qualsiasi aiuto giudicato incompatibile",Dopo,tale,0
+it_partut-ud-test,14134,"
+",o giudicato incompatibile con detti orientamenti è,considerato nuovo aiuto. Le scorte di cui al parag,"o giudicato incompatibile con detti orientamenti è
+considerato nuovo aiuto. Le scorte di cui al parag",è,considerato,0
+it_partut-ud-test,14158,.,"e con detti orientamenti è
+considerato nuovo aiuto", Le scorte di cui al paragrafo 1 sono detratte dal,"e con detti orientamenti è
+considerato nuovo aiuto. Le scorte di cui al paragrafo 1 sono detratte dal",aiuto,Le,1
+it_partut-ud-test,14211,"
+",e scorte di cui al paragrafo 1 sono detratte dalla,quantità che supera le scorte normali di riporto. ,"e scorte di cui al paragrafo 1 sono detratte dalla
+quantità che supera le scorte normali di riporto. ",dalla,quantità,0
+it_partut-ud-test,14260,.,"a
+quantità che supera le scorte normali di riporto"," Queste aziende introducono
+infatti nuove importaz","a
+quantità che supera le scorte normali di riporto. Queste aziende introducono
+infatti nuove importaz",riporto,Queste,1
+it_partut-ud-test,14288,"
+",rte normali di riporto. Queste aziende introducono,infatti nuove importazioni tecnologicamente avanza,"rte normali di riporto. Queste aziende introducono
+infatti nuove importazioni tecnologicamente avanza",introducono,infatti,0
+it_partut-ud-test,14369,"
+",nologicamente avanzate e nuove tecniche gestionali,che incoraggiano la crescita delle aziende naziona,"nologicamente avanzate e nuove tecniche gestionali
+che incoraggiano la crescita delle aziende naziona",gestionali,che,0
+it_partut-ud-test,14450,"
+","elle aziende nazionali, esortando dall'altra parte",il processo di modernizzazione industriale. I farm,"elle aziende nazionali, esortando dall'altra parte
+il processo di modernizzazione industriale. I farm",parte,il,0
+it_partut-ud-test,14493,.,"a parte
+il processo di modernizzazione industriale"," I farmaci, per quanto accessibili,
+non hanno alcu","a parte
+il processo di modernizzazione industriale. I farmaci, per quanto accessibili,
+non hanno alcu",industriale,I,1
+it_partut-ud-test,14529,"
+","ne industriale. I farmaci, per quanto accessibili,",non hanno alcun valore se non c'è nessuno a prescr,"ne industriale. I farmaci, per quanto accessibili,
+non hanno alcun valore se non c'è nessuno a prescr",,non,0
+it_partut-ud-test,14605,., non c'è nessuno a prescriverli o a somministrarli,"
+Anche in questo caso, la Germania dovrebbe prende"," non c'è nessuno a prescriverli o a somministrarli.
+Anche in questo caso, la Germania dovrebbe prende",somministrarli,Anche,1
+it_partut-ud-test,14606,"
+",non c'è nessuno a prescriverli o a somministrarli.,"Anche in questo caso, la Germania dovrebbe prender","non c'è nessuno a prescriverli o a somministrarli.
+Anche in questo caso, la Germania dovrebbe prender",,Anche,0
+it_partut-ud-test,14669,.,"sto caso, la Germania dovrebbe prendere il comando"," E, dal canto
+suo, la Cina si è affidata al dollar","sto caso, la Germania dovrebbe prendere il comando. E, dal canto
+suo, la Cina si è affidata al dollar",comando,E,1
+it_partut-ud-test,14683,"
+","ermania dovrebbe prendere il comando. E, dal canto","suo, la Cina si è affidata al dollaro per ancorare","ermania dovrebbe prendere il comando. E, dal canto
+suo, la Cina si è affidata al dollaro per ancorare",canto,suo,0
+it_partut-ud-test,14764,"
+","dollaro per ancorare la propria moneta deprezzata,",diventando così più competitiva nelle esportazioni,"dollaro per ancorare la propria moneta deprezzata,
+diventando così più competitiva nelle esportazioni",,diventando,0
+it_partut-ud-test,14815,.,diventando così più competitiva nelle esportazioni," Alla fine, però, questa
+codipendenza si è rivelat","diventando così più competitiva nelle esportazioni. Alla fine, però, questa
+codipendenza si è rivelat",esportazioni,Alla,1
+it_partut-ud-test,14840,"
+","titiva nelle esportazioni. Alla fine, però, questa",codipendenza si è rivelata un matrimonio di conven,"titiva nelle esportazioni. Alla fine, però, questa
+codipendenza si è rivelata un matrimonio di conven",questa,codipendenza,0
+it_partut-ud-test,14912,.,elata un matrimonio di convenienza più che d'amore,"
+restando impantanata nella carenza di risparmio m","elata un matrimonio di convenienza più che d'amore.
+restando impantanata nella carenza di risparmio m",d'amore,restando,1
+it_partut-ud-test,14913,"
+",lata un matrimonio di convenienza più che d'amore.,restando impantanata nella carenza di risparmio ma,"lata un matrimonio di convenienza più che d'amore.
+restando impantanata nella carenza di risparmio ma",,restando,0
+it_partut-ud-test,14992,"
+",arenza di risparmio ma ritrovandosi senza prodotti,"né capitali cinesi, l'America rischia di andare in","arenza di risparmio ma ritrovandosi senza prodotti
+né capitali cinesi, l'America rischia di andare in",prodotti,né,0
+it_partut-ud-test,15062,"
+", l'America rischia di andare incontro a un aumento,"dell'inflazione e dei tassi di interesse, e a un i"," l'America rischia di andare incontro a un aumento
+dell'inflazione e dei tassi di interesse, e a un i",aumento,dell'inflazione,0
+it_partut-ud-test,15137,.,"ssi di interesse, e a un indebolimento del dollaro","
+Sebbene la risposta probabile sia sì, i rischi al","ssi di interesse, e a un indebolimento del dollaro.
+Sebbene la risposta probabile sia sì, i rischi al",dollaro,Sebbene,1
+it_partut-ud-test,15138,"
+","si di interesse, e a un indebolimento del dollaro.","Sebbene la risposta probabile sia sì, i rischi al ","si di interesse, e a un indebolimento del dollaro.
+Sebbene la risposta probabile sia sì, i rischi al ",,Sebbene,0
+it_partut-ud-test,15217,"
+","e sia sì, i rischi al ribasso sembrano più alti di",quanto non fossero alcuni decenni fa. Tutti questi,"e sia sì, i rischi al ribasso sembrano più alti di
+quanto non fossero alcuni decenni fa. Tutti questi",di,quanto,0
+it_partut-ud-test,15254,.,"o più alti di
+quanto non fossero alcuni decenni fa"," Tutti questi problemi hanno soluzioni,
+almeno nel","o più alti di
+quanto non fossero alcuni decenni fa. Tutti questi problemi hanno soluzioni,
+almeno nel",fa,Tutti,1
+it_partut-ud-test,15294,"
+","decenni fa. Tutti questi problemi hanno soluzioni,",almeno nel breve e medio termine. O forse questa i,"decenni fa. Tutti questi problemi hanno soluzioni,
+almeno nel breve e medio termine. O forse questa i",,almeno,0
+it_partut-ud-test,15327,.," hanno soluzioni,
+almeno nel breve e medio termine"," O forse questa innovazione è meno
+significativa d"," hanno soluzioni,
+almeno nel breve e medio termine. O forse questa innovazione è meno
+significativa d",termine,O,1
+it_partut-ud-test,15362,"
+",e medio termine. O forse questa innovazione è meno,significativa di quanto credano gli entusiasti. È ,"e medio termine. O forse questa innovazione è meno
+significativa di quanto credano gli entusiasti. È ",meno,significativa,0
+it_partut-ud-test,15409,.,"eno
+significativa di quanto credano gli entusiasti"," È alquanto esplicativo che la
+maggior parte dei 4","eno
+significativa di quanto credano gli entusiasti. È alquanto esplicativo che la
+maggior parte dei 4",entusiasti,È,1
+it_partut-ud-test,15440,"
+",dano gli entusiasti. È alquanto esplicativo che la,maggior parte dei 47 partecipanti al simposio - in,"dano gli entusiasti. È alquanto esplicativo che la
+maggior parte dei 47 partecipanti al simposio - in",la,maggior,0
+it_partut-ud-test,15517,"
+",cipanti al simposio - influenti figure del settore,pubblico e privato di tutto il mondo - non erano a,"cipanti al simposio - influenti figure del settore
+pubblico e privato di tutto il mondo - non erano a",settore,pubblico,0
+it_partut-ud-test,15596,"
+",il mondo - non erano a conoscenza del grado in cui,l'alimentazione di una madre influenza il benesser,"il mondo - non erano a conoscenza del grado in cui
+l'alimentazione di una madre influenza il benesser",cui,l'alimentazione,0
+it_partut-ud-test,15665,., una madre influenza il benessere della sua prole ," Ciò
+riflette una incapacità fondamentale della co"," una madre influenza il benessere della sua prole . Ciò
+riflette una incapacità fondamentale della co",,Ciò,1
+it_partut-ud-test,15670,"
+",madre influenza il benessere della sua prole . Ciò,riflette una incapacità fondamentale della comunit,"madre influenza il benessere della sua prole . Ciò
+riflette una incapacità fondamentale della comunit",Ciò,riflette,0
+it_partut-ud-test,15748,"
+",damentale della comunità scientifica a trasmettere,dati significativi ai responsabili decisionali. In,"damentale della comunità scientifica a trasmettere
+dati significativi ai responsabili decisionali. In",trasmettere,dati,0
+it_partut-ud-test,15795,.,"ere
+dati significativi ai responsabili decisionali"," In Corea del sud, Giappone e
+altrove, sviluppare ","ere
+dati significativi ai responsabili decisionali. In Corea del sud, Giappone e
+altrove, sviluppare ",decisionali,In,1
+it_partut-ud-test,15825,"
+","onsabili decisionali. In Corea del sud, Giappone e","altrove, sviluppare e massimizzare il potenziale d","onsabili decisionali. In Corea del sud, Giappone e
+altrove, sviluppare e massimizzare il potenziale d",e,altrove,0
+it_partut-ud-test,15905,"
+",zzare il potenziale delle donne richiederà riforme,"del sistema educativo e del mercato del lavoro, co","zzare il potenziale delle donne richiederà riforme
+del sistema educativo e del mercato del lavoro, co",riforme,del,0
+it_partut-ud-test,15978,"
+","e del mercato del lavoro, così come un cambiamento","strutturale, soprattutto sul versante dei servizi ","e del mercato del lavoro, così come un cambiamento
+strutturale, soprattutto sul versante dei servizi ",cambiamento,strutturale,0
+it_partut-ud-test,16042,.,soprattutto sul versante dei servizi dell'economia," Nell'ambito
+dell'economia internazionale, essere ","soprattutto sul versante dei servizi dell'economia. Nell'ambito
+dell'economia internazionale, essere ",dell'economia,Nell'ambito,1
+it_partut-ud-test,16055,"
+",ul versante dei servizi dell'economia. Nell'ambito,"dell'economia internazionale, essere percepiti com","ul versante dei servizi dell'economia. Nell'ambito
+dell'economia internazionale, essere percepiti com",Nell'ambito,dell'economia,0
+it_partut-ud-test,16135,"
+", essere percepiti come noiosi conferisce potere in,quanto consente la possibilità di prendere importa," essere percepiti come noiosi conferisce potere in
+quanto consente la possibilità di prendere importa",in,quanto,0
+it_partut-ud-test,16215,"
+",à di prendere importanti decisioni senza controlli,rilevanti dall'esterno. Niente di buono sarebbe ma,"à di prendere importanti decisioni senza controlli
+rilevanti dall'esterno. Niente di buono sarebbe ma",controlli,rilevanti,0
+it_partut-ud-test,16238,.,"i decisioni senza controlli
+rilevanti dall'esterno", Niente di buono sarebbe mai accaduto - e di certo,"i decisioni senza controlli
+rilevanti dall'esterno. Niente di buono sarebbe mai accaduto - e di certo",dall'esterno,Niente,1
+it_partut-ud-test,16293,"
+",nte di buono sarebbe mai accaduto - e di certo non,per merito loro. L'importanza economica e finanzia,"nte di buono sarebbe mai accaduto - e di certo non
+per merito loro. L'importanza economica e finanzia",non,per,0
+it_partut-ud-test,16309,.,"ebbe mai accaduto - e di certo non
+per merito loro", L'importanza economica e finanziaria globale di q,"ebbe mai accaduto - e di certo non
+per merito loro. L'importanza economica e finanziaria globale di q",loro,L'importanza,1
+it_partut-ud-test,16373,"
+", economica e finanziaria globale di questi paesi è,"cresciuta rapidamente, tuttavia essi sono relativa"," economica e finanziaria globale di questi paesi è
+cresciuta rapidamente, tuttavia essi sono relativa",è,cresciuta,0
+it_partut-ud-test,16448,"
+",uttavia essi sono relativamente poco rappresentati,all'interno del fondo. È stato concordato un pacch,"uttavia essi sono relativamente poco rappresentati
+all'interno del fondo. È stato concordato un pacch",rappresentati,all'interno,0
+it_partut-ud-test,16470,.,"tivamente poco rappresentati
+all'interno del fondo", È stato concordato un pacchetto di riforme. In re,"tivamente poco rappresentati
+all'interno del fondo. È stato concordato un pacchetto di riforme. In re",fondo,È,1
+it_partut-ud-test,16514,., fondo. È stato concordato un pacchetto di riforme," In realtà,
+l'amministrazione ha cercato di render"," fondo. È stato concordato un pacchetto di riforme. In realtà,
+l'amministrazione ha cercato di render",riforme,In,1
+it_partut-ud-test,16526,"
+","ato concordato un pacchetto di riforme. In realtà,",l'amministrazione ha cercato di rendere il FMI più,"ato concordato un pacchetto di riforme. In realtà,
+l'amministrazione ha cercato di rendere il FMI più",,l'amministrazione,0
+it_partut-ud-test,16607,"
+","i rendere il FMI più interessante, soprattutto per",incoraggiare i repubblicani della Camera dei rappr,"i rendere il FMI più interessante, soprattutto per
+incoraggiare i repubblicani della Camera dei rappr",per,incoraggiare,0
+it_partut-ud-test,16682,"
+",ani della Camera dei rappresentanti a sostenere le,riforme. Le ultime indicazioni sono che i repubbli,"ani della Camera dei rappresentanti a sostenere le
+riforme. Le ultime indicazioni sono che i repubbli",le,riforme,0
+it_partut-ud-test,16690,.,"a Camera dei rappresentanti a sostenere le
+riforme", Le ultime indicazioni sono che i repubblicani non,"a Camera dei rappresentanti a sostenere le
+riforme. Le ultime indicazioni sono che i repubblicani non",riforme,Le,1
+it_partut-ud-test,16758,"
+",zioni sono che i repubblicani non ne saranno tanto,"persuasi. Non un centimetro. Eppure, mentre gli uc","zioni sono che i repubblicani non ne saranno tanto
+persuasi. Non un centimetro. Eppure, mentre gli uc",tanto,persuasi,0
+it_partut-ud-test,16767,.,"o che i repubblicani non ne saranno tanto
+persuasi"," Non un centimetro. Eppure, mentre gli ucraini lav","o che i repubblicani non ne saranno tanto
+persuasi. Non un centimetro. Eppure, mentre gli ucraini lav",persuasi,Non,1
+it_partut-ud-test,16786,.,"i non ne saranno tanto
+persuasi. Non un centimetro"," Eppure, mentre gli ucraini lavorano per ricostrui","i non ne saranno tanto
+persuasi. Non un centimetro. Eppure, mentre gli ucraini lavorano per ricostrui",centimetro,Eppure,1
+it_partut-ud-test,16839,"
+","ppure, mentre gli ucraini lavorano per ricostruire",il nostro paese dopo il governo predatorio di Vikt,"ppure, mentre gli ucraini lavorano per ricostruire
+il nostro paese dopo il governo predatorio di Vikt",ricostruire,il,0
+it_partut-ud-test,16920,"
+","o predatorio di Viktor Yanukovych, affrontiamo una","nuova minaccia, sotto - forma di ""offensiva di pac","o predatorio di Viktor Yanukovych, affrontiamo una
+nuova minaccia, sotto - forma di ""offensiva di pac",una,nuova,0
+it_partut-ud-test,16997,"
+","rma di ""offensiva di pace"" - un vecchio fondamento",della diplomazia sovietica ideata per minare le de,"rma di ""offensiva di pace"" - un vecchio fondamento
+della diplomazia sovietica ideata per minare le de",fondamento,della,0
+it_partut-ud-test,17070,.,tica ideata per minare le decisioni dell'occidente," Se non
+c'è alcuna oppressione degli abitanti di l","tica ideata per minare le decisioni dell'occidente. Se non
+c'è alcuna oppressione degli abitanti di l",dell'occidente,Se,1
+it_partut-ud-test,17078,"
+",ata per minare le decisioni dell'occidente. Se non,c'è alcuna oppressione degli abitanti di lingua ru,"ata per minare le decisioni dell'occidente. Se non
+c'è alcuna oppressione degli abitanti di lingua ru",non,c'è,0
+it_partut-ud-test,17158,"
+","abitanti di lingua russa in Ucraina, non c'è alcun",motivo di cambiare la struttura politica del paese,"abitanti di lingua russa in Ucraina, non c'è alcun
+motivo di cambiare la struttura politica del paese",alcun,motivo,0
+it_partut-ud-test,17209,.,motivo di cambiare la struttura politica del paese," Tuttavia, quando si tratta
+di ingegneria genetica","motivo di cambiare la struttura politica del paese. Tuttavia, quando si tratta
+di ingegneria genetica",paese,Tuttavia,1
+it_partut-ud-test,17237,"
+","ura politica del paese. Tuttavia, quando si tratta","di ingegneria genetica, la scienza sembra avere un","ura politica del paese. Tuttavia, quando si tratta
+di ingegneria genetica, la scienza sembra avere un",tratta,di,0
+it_partut-ud-test,17314,"
+", scienza sembra avere un peso minore rispetto alla,"politica. Dopotutto, creare una vera unione fiscal"," scienza sembra avere un peso minore rispetto alla
+politica. Dopotutto, creare una vera unione fiscal",alla,politica,0
+it_partut-ud-test,17323,.,"sembra avere un peso minore rispetto alla
+politica"," Dopotutto, creare una vera unione fiscale richied","sembra avere un peso minore rispetto alla
+politica. Dopotutto, creare una vera unione fiscale richied",politica,Dopotutto,1
+it_partut-ud-test,17389,"
+",are una vera unione fiscale richiederebbe un forte,impegno politico e un notevole lavoro di ricerca. ,"are una vera unione fiscale richiederebbe un forte
+impegno politico e un notevole lavoro di ricerca. ",forte,impegno,0
+it_partut-ud-test,17438,.,"e
+impegno politico e un notevole lavoro di ricerca"," Il suo periodo a Vendôme è
+riflesso in Louis Lamb","e
+impegno politico e un notevole lavoro di ricerca. Il suo periodo a Vendôme è
+riflesso in Louis Lamb",ricerca,Il,1
+it_partut-ud-test,17466,"
+",vole lavoro di ricerca. Il suo periodo a Vendôme è,"riflesso in Louis Lambert, il suo romanzo del 1832","vole lavoro di ricerca. Il suo periodo a Vendôme è
+riflesso in Louis Lambert, il suo romanzo del 1832",è,riflesso,0
+it_partut-ud-test,17546,"
+", suo romanzo del 1832 su un giovane studente della,scuola di grammatica oratoriana di Vendôme. come s," suo romanzo del 1832 su un giovane studente della
+scuola di grammatica oratoriana di Vendôme. come s",della,scuola,0
+it_partut-ud-test,17589,.,"e della
+scuola di grammatica oratoriana di Vendôme"," come spiega Robb: Una eredità
+simbolica. Alla fin","e della
+scuola di grammatica oratoriana di Vendôme. come spiega Robb: Una eredità
+simbolica. Alla fin",Vendôme,come,1
+it_partut-ud-test,17620,"
+",atoriana di Vendôme. come spiega Robb: Una eredità,"simbolica. Alla fine, perse la sanità di mente e c","atoriana di Vendôme. come spiega Robb: Una eredità
+simbolica. Alla fine, perse la sanità di mente e c",eredità,simbolica,1
+it_partut-ud-test,17630,.,"i Vendôme. come spiega Robb: Una eredità
+simbolica"," Alla fine, perse la sanità di mente e cadde nella","i Vendôme. come spiega Robb: Una eredità
+simbolica. Alla fine, perse la sanità di mente e cadde nella",simbolica,Alla,1
+it_partut-ud-test,17688,.,"ine, perse la sanità di mente e cadde nella follia"," La loro
+lunghezza non era prestabilita. Il suo me","ine, perse la sanità di mente e cadde nella follia. La loro
+lunghezza non era prestabilita. Il suo me",follia,La,1
+it_partut-ud-test,17697,"
+",e la sanità di mente e cadde nella follia. La loro,lunghezza non era prestabilita. Il suo metodo di l,"e la sanità di mente e cadde nella follia. La loro
+lunghezza non era prestabilita. Il suo metodo di l",loro,lunghezza,0
+it_partut-ud-test,17728,.,"lla follia. La loro
+lunghezza non era prestabilita"," Il suo metodo di lavoro preferito era mangiare
+un","lla follia. La loro
+lunghezza non era prestabilita. Il suo metodo di lavoro preferito era mangiare
+un",prestabilita,Il,1
+it_partut-ud-test,17776,"
+",ta. Il suo metodo di lavoro preferito era mangiare,un pasto leggero alle cinque o alle sei del pomeri,"ta. Il suo metodo di lavoro preferito era mangiare
+un pasto leggero alle cinque o alle sei del pomeri",mangiare,un,0
+it_partut-ud-test,17852,"
+",que o alle sei del pomeriggio e poi dormire fino a,"mezzanotte. Nonostante Balzac fosse ""talvolta un e","que o alle sei del pomeriggio e poi dormire fino a
+mezzanotte. Nonostante Balzac fosse ""talvolta un e",a,mezzanotte,0
+it_partut-ud-test,17863,.,"sei del pomeriggio e poi dormire fino a
+mezzanotte"," Nonostante Balzac fosse ""talvolta un eremita e un","sei del pomeriggio e poi dormire fino a
+mezzanotte. Nonostante Balzac fosse ""talvolta un eremita e un",mezzanotte,Nonostante,1
+it_partut-ud-test,17928,"
+","lzac fosse ""talvolta un eremita e un girovago"", ha",sempre provato a rimanere in contatto con la socie,"lzac fosse ""talvolta un eremita e un girovago"", ha
+sempre provato a rimanere in contatto con la socie",ha,sempre,0
+it_partut-ud-test,18007,"
+", contatto con la società che forniva materiale per,il suo lavoro. La salute di lui peggiorò lungo il ," contatto con la società che forniva materiale per
+il suo lavoro. La salute di lui peggiorò lungo il ",per,il,0
+it_partut-ud-test,18021,.,"la società che forniva materiale per
+il suo lavoro"," La salute di lui peggiorò lungo il cammino, e Ewe","la società che forniva materiale per
+il suo lavoro. La salute di lui peggiorò lungo il cammino, e Ewe",lavoro,La,1
+it_partut-ud-test,18086,"
+","lui peggiorò lungo il cammino, e Ewelina scrisse a","sua figlia che Balzac era ""in uno stato di estrema","lui peggiorò lungo il cammino, e Ewelina scrisse a
+sua figlia che Balzac era ""in uno stato di estrema",a,sua,0
+it_partut-ud-test,18158,"
+"," era ""in uno stato di estrema debolezza"" e ""sudava","copiosamente"". Balzac cercava di presentare i suoi"," era ""in uno stato di estrema debolezza"" e ""sudava
+copiosamente"". Balzac cercava di presentare i suoi",sudava,copiosamente,0
+it_partut-ud-test,18172,.,"tato di estrema debolezza"" e ""sudava
+copiosamente""", Balzac cercava di presentare i suoi personaggi co,"tato di estrema debolezza"" e ""sudava
+copiosamente"". Balzac cercava di presentare i suoi personaggi co",,Balzac,1
+it_partut-ud-test,18233,"
+",rcava di presentare i suoi personaggi come persone,"reali, né troppo buone né troppo cattive, ma compl","rcava di presentare i suoi personaggi come persone
+reali, né troppo buone né troppo cattive, ma compl",persone,reali,0
+it_partut-ud-test,18298,.,"po buone né troppo cattive, ma completamente umane"," Come fece con
+la gente attorno a sè, Balzac studi","po buone né troppo cattive, ma completamente umane. Come fece con
+la gente attorno a sè, Balzac studi",umane,Come,1
+it_partut-ud-test,18313,"
+","ppo cattive, ma completamente umane. Come fece con","la gente attorno a sè, Balzac studiò in profondità","ppo cattive, ma completamente umane. Come fece con
+la gente attorno a sè, Balzac studiò in profondità",con,la,0
+it_partut-ud-test,18391,"
+","ac studiò in profondità quei luoghi, viaggiando in",luoghi remoti e prendendo nota di ciò che aveva fa,"ac studiò in profondità quei luoghi, viaggiando in
+luoghi remoti e prendendo nota di ciò che aveva fa",in,luoghi,0
+it_partut-ud-test,18469,.,ota di ciò che aveva fatto nelle visite precedenti,"
+""L'artista della Comédie Humaine"", egli scrisse, ","ota di ciò che aveva fatto nelle visite precedenti.
+""L'artista della Comédie Humaine"", egli scrisse, ",precedenti,,1
+it_partut-ud-test,18470,"
+",ta di ciò che aveva fatto nelle visite precedenti.,"""L'artista della Comédie Humaine"", egli scrisse, ""","ta di ciò che aveva fatto nelle visite precedenti.
+""L'artista della Comédie Humaine"", egli scrisse, """,,,0
+it_partut-ud-test,18550,.,"ine"", egli scrisse, ""è semi-sommerso dallo storico","
+""Balzac ricevette alti elogi da critici così dive","ine"", egli scrisse, ""è semi-sommerso dallo storico.
+""Balzac ricevette alti elogi da critici così dive",storico,,1
+it_partut-ud-test,18551,"
+","ne"", egli scrisse, ""è semi-sommerso dallo storico.","""Balzac ricevette alti elogi da critici così diver","ne"", egli scrisse, ""è semi-sommerso dallo storico.
+""Balzac ricevette alti elogi da critici così diver",,,0
+it_partut-ud-test,18627,"
+",ogi da critici così diversi come Walter Benjamin e,Camille Paglia. Non si sa con esattezza quando Sha,"ogi da critici così diversi come Walter Benjamin e
+Camille Paglia. Non si sa con esattezza quando Sha",e,Camille,0
+it_partut-ud-test,18642,.,"così diversi come Walter Benjamin e
+Camille Paglia", Non si sa con esattezza quando Shakespeare iniziò,"così diversi come Walter Benjamin e
+Camille Paglia. Non si sa con esattezza quando Shakespeare iniziò",Paglia,Non,1
+it_partut-ud-test,18708,"
+","esattezza quando Shakespeare iniziò a scrivere, ma",teorie contemporanee e gli archivi delle performan,"esattezza quando Shakespeare iniziò a scrivere, ma
+teorie contemporanee e gli archivi delle performan",ma,teorie,0
+it_partut-ud-test,18786,"
+",archivi delle performance mostrano che molte delle,sue opere venivano messe in scena sui palchi londi,"archivi delle performance mostrano che molte delle
+sue opere venivano messe in scena sui palchi londi",delle,sue,0
+it_partut-ud-test,18854,.,o messe in scena sui palchi londinesi già dal 1592," Shakespeare
+fu sepolto nel presbiterio della chie","o messe in scena sui palchi londinesi già dal 1592. Shakespeare
+fu sepolto nel presbiterio della chie",1592,Shakespeare,1
+it_partut-ud-test,18867,"
+",ena sui palchi londinesi già dal 1592. Shakespeare,fu sepolto nel presbiterio della chiesa della sant,"ena sui palchi londinesi già dal 1592. Shakespeare
+fu sepolto nel presbiterio della chiesa della sant",Shakespeare,fu,0
+it_partut-ud-test,18946,"
+",ella chiesa della santa trinità due giorni dopo la,sua morte. L'epitaffio inciso sulla lastra di rocc,"ella chiesa della santa trinità due giorni dopo la
+sua morte. L'epitaffio inciso sulla lastra di rocc",la,sua,0
+it_partut-ud-test,18956,.,"a della santa trinità due giorni dopo la
+sua morte", L'epitaffio inciso sulla lastra di roccia che cop,"a della santa trinità due giorni dopo la
+sua morte. L'epitaffio inciso sulla lastra di roccia che cop",morte,L'epitaffio,1
+it_partut-ud-test,19018,"
+",o inciso sulla lastra di roccia che copre la tomba,racchiude una maledizione su chiunque oserà sposta,"o inciso sulla lastra di roccia che copre la tomba
+racchiude una maledizione su chiunque oserà sposta",tomba,racchiude,0
+it_partut-ud-test,19099,"
+","hiunque oserà spostare le sue ossa, cosa che venne",accuratamente evitata durante i lavori di restauro,"hiunque oserà spostare le sue ossa, cosa che venne
+accuratamente evitata durante i lavori di restauro",venne,accuratamente,0
+it_partut-ud-test,19172,.,durante i lavori di restauro della chiesa nel 2008,"
+Shakespeare collaborò ad altre due opere ancora o","durante i lavori di restauro della chiesa nel 2008.
+Shakespeare collaborò ad altre due opere ancora o",2008,Shakespeare,1
+it_partut-ud-test,19173,"
+",urante i lavori di restauro della chiesa nel 2008.,Shakespeare collaborò ad altre due opere ancora og,"urante i lavori di restauro della chiesa nel 2008.
+Shakespeare collaborò ad altre due opere ancora og",,Shakespeare,0
+it_partut-ud-test,19254,"
+"," due opere ancora oggi conosciute, Enrico VIII e I","due nobili congiunti, probabilmente con John Fletc"," due opere ancora oggi conosciute, Enrico VIII e I
+due nobili congiunti, probabilmente con John Fletc",I,due,0
+it_partut-ud-test,19308,.," nobili congiunti, probabilmente con John Fletcher"," Dopo Amleto, Shakespeare
+modificò ulteriormente i"," nobili congiunti, probabilmente con John Fletcher. Dopo Amleto, Shakespeare
+modificò ulteriormente i",Fletcher,Dopo,1
+it_partut-ud-test,19334,"
+","lmente con John Fletcher. Dopo Amleto, Shakespeare","modificò ulteriormente il suo stile poetico, in pa","lmente con John Fletcher. Dopo Amleto, Shakespeare
+modificò ulteriormente il suo stile poetico, in pa",Shakespeare,modificò,0
+it_partut-ud-test,19411,"
+","suo stile poetico, in particolare nei passaggi più",commoventi delle ultime tragedie. Negli ultimi rom,"suo stile poetico, in particolare nei passaggi più
+commoventi delle ultime tragedie. Negli ultimi rom",più,commoventi,0
+it_partut-ud-test,19444,.," nei passaggi più
+commoventi delle ultime tragedie"," Negli ultimi romance di Shakespeare, egli è
+delib"," nei passaggi più
+commoventi delle ultime tragedie. Negli ultimi romance di Shakespeare, egli è
+delib",tragedie,Negli,1
+it_partut-ud-test,19489,"
+","gedie. Negli ultimi romance di Shakespeare, egli è",deliberatamente tornato ad uno stile più artificia,"gedie. Negli ultimi romance di Shakespeare, egli è
+deliberatamente tornato ad uno stile più artificia",è,deliberatamente,0
+it_partut-ud-test,19559,"
+","nato ad uno stile più artificiale, che enfatizzava",l'illusione del teatro. Nel corso del diciottesimo,"nato ad uno stile più artificiale, che enfatizzava
+l'illusione del teatro. Nel corso del diciottesimo",enfatizzava,l'illusione,0
+it_partut-ud-test,19582,.,"rtificiale, che enfatizzava
+l'illusione del teatro", Nel corso del diciottesimo e diciannovesimo secol,"rtificiale, che enfatizzava
+l'illusione del teatro. Nel corso del diciottesimo e diciannovesimo secol",teatro,Nel,1
+it_partut-ud-test,19638,"
+","corso del diciottesimo e diciannovesimo secolo, la",sua reputazione si è diffusa anche all'estero. Sol,"corso del diciottesimo e diciannovesimo secolo, la
+sua reputazione si è diffusa anche all'estero. Sol",la,sua,0
+it_partut-ud-test,19684,.,", la
+sua reputazione si è diffusa anche all'estero"," Solo una piccola minoranza di
+ricercatori crede c",", la
+sua reputazione si è diffusa anche all'estero. Solo una piccola minoranza di
+ricercatori crede c",all'estero,Solo,1
+it_partut-ud-test,19715,"
+",sa anche all'estero. Solo una piccola minoranza di,ricercatori crede che ci sia motivo di mettere in ,"sa anche all'estero. Solo una piccola minoranza di
+ricercatori crede che ci sia motivo di mettere in ",di,ricercatori,0
+it_partut-ud-test,19792,"
+",ia motivo di mettere in discussione l'attribuzione,"tradizionale delle opere, ma tale interesse, in pa","ia motivo di mettere in discussione l'attribuzione
+tradizionale delle opere, ma tale interesse, in pa",l'attribuzione,tradizionale,0
+it_partut-ud-test,19873,"
+","ale interesse, in particolare la teoria oxfordiana","sulla paternità shakespeariana, continua nel ventu","ale interesse, in particolare la teoria oxfordiana
+sulla paternità shakespeariana, continua nel ventu",oxfordiana,sulla,0
+it_partut-ud-test,19937,.,"tà shakespeariana, continua nel ventunesimo secolo"," 
+","tà shakespeariana, continua nel ventunesimo secolo. 
 ",secolo,,1
+it_partut-ud-test,19939,"
+"," shakespeariana, continua nel ventunesimo secolo. ",," shakespeariana, continua nel ventunesimo secolo. 
+",,,0

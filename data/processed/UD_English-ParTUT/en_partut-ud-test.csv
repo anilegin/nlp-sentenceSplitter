@@ -1,883 +1,1259 @@
 doc_id,char_idx,punct,left_context,right_context,centered_context,token_before,token_after,label
-en_partut-ud-test,24,.,Attribution-ShareAlike 2,"0.
- Any use of the work other than as authorized u","Attribution-ShareAlike 2.0.
- Any use of the work other than as authorized u",2,0,0
-en_partut-ud-test,26,.,Attribution-ShareAlike 2.0,"
- Any use of the work other than as authorized und","Attribution-ShareAlike 2.0.
- Any use of the work other than as authorized und",0,Any,1
-en_partut-ud-test,123,.," under
-this license or copyright law is prohibited","
- UNLESS OTHERWISE AGREED TO BY THE
-PARTIES IN WRI"," under
-this license or copyright law is prohibited.
- UNLESS OTHERWISE AGREED TO BY THE
-PARTIES IN WRI",prohibited,UNLESS,1
-en_partut-ud-test,572,.," OF ABSENCE OF
-ERRORS, WHETHER OR not DISCOVERABLE","
- Creative Commons is not a party to this
-License,"," OF ABSENCE OF
-ERRORS, WHETHER OR not DISCOVERABLE.
- Creative Commons is not a party to this
-License,",DISCOVERABLE,Creative,1
-en_partut-ud-test,684,.,no warranty whatsoever in connection with the Work,"
- Yes, Mr
-Evans, I feel an initiative of the type ","no warranty whatsoever in connection with the Work.
- Yes, Mr
-Evans, I feel an initiative of the type ",Work,Yes,1
-en_partut-ud-test,788,.," have just suggested would be
-entirely appropriate","
- I would ask that they reconsider, since this is "," have just suggested would be
-entirely appropriate.
- I would ask that they reconsider, since this is ",appropriate,I,1
-en_partut-ud-test,851,.,"k that they reconsider, since this is not the
-case","
- Transport safety has sadly been in the news rece","k that they reconsider, since this is not the
-case.
- Transport safety has sadly been in the news rece",case,Transport,1
-en_partut-ud-test,1201,.,"ts of
-the new ADR, for example, which is under way","
- This is not just the fault of the
-Commission, bu","ts of
-the new ADR, for example, which is under way.
- This is not just the fault of the
-Commission, bu",way,This,1
-en_partut-ud-test,1356,.,"o as to
-achieve harmonisation in this area as well","
- I can live with these minimum
-standards, but I w","o as to
-achieve harmonisation in this area as well.
- I can live with these minimum
-standards, but I w",well,I,1
-en_partut-ud-test,1470,.,"Commission to monitor the situation very
-carefully","
- But I believe that we should do all we can to ke","Commission to monitor the situation very
-carefully.
- But I believe that we should do all we can to ke",carefully,But,1
-en_partut-ud-test,1630,.,"untries, whether they are transit
-countries or not","
- I hope my proposal will be taken into considerat","untries, whether they are transit
-countries or not.
- I hope my proposal will be taken into considerat",not,I,1
-en_partut-ud-test,1703,.,"ill be taken into consideration in
-tomorrow's vote","
- I would like to ask the Vice-President if she is","ill be taken into consideration in
-tomorrow's vote.
- I would like to ask the Vice-President if she is",vote,I,1
-en_partut-ud-test,2035,.,"nce with principles
-that are as simple as possible","
- Mr President, I would very much like to thank
-Mr","nce with principles
-that are as simple as possible.
- Mr President, I would very much like to thank
-Mr",possible,Mr,1
-en_partut-ud-test,2309,.,nt and Social Affairs but who is unfortunately ill,"
- But the
-lack of specific guidelines here is part","nt and Social Affairs but who is unfortunately ill.
- But the
-lack of specific guidelines here is part",ill,But,1
-en_partut-ud-test,2532,., for the first time during the 2000-2006 programme,"
- The truth of the
-matter though is that we believ"," for the first time during the 2000-2006 programme.
- The truth of the
-matter though is that we believ",programme,The,1
-en_partut-ud-test,2801,.,"he face of an interim revision of
-these Directives","
- Mr President, Commissioner, I would like to than","he face of an interim revision of
-these Directives.
- Mr President, Commissioner, I would like to than",Directives,Mr,1
-en_partut-ud-test,2892,.,"ke to thank Mrs
-Schroedter for an excellent report","
- She has gone into the issue in some depth
-and in","ke to thank Mrs
-Schroedter for an excellent report.
- She has gone into the issue in some depth
-and in",report,She,1
-en_partut-ud-test,3051,.,"dments that have
-been tabled regarding this report","
- It contained details and issues that had
-already","dments that have
-been tabled regarding this report.
- It contained details and issues that had
-already",report,It,1
-en_partut-ud-test,3134,.,"s that had
-already been raised in previous reports","
- This has been an ongoing concern for
-the five ye","s that had
-already been raised in previous reports.
- This has been an ongoing concern for
-the five ye",reports,This,1
-en_partut-ud-test,3282,.,"t, and I have raised
-the issue time and time again","
- Consequently, I feel we must look to the future
-","t, and I have raised
-the issue time and time again.
- Consequently, I feel we must look to the future
-",again,Consequently,1
-en_partut-ud-test,3471,.,the second phase of programming set to follow 2003,"
- Its
-implementation would certainly require exten","the second phase of programming set to follow 2003.
- Its
-implementation would certainly require exten",2003,Its,1
-en_partut-ud-test,3595,.,"tribution
-instruments such as the Structural Funds","
- Mr President, I too would like to
-congratulate t","tribution
-instruments such as the Structural Funds.
- Mr President, I too would like to
-congratulate t",Funds,Mr,1
-en_partut-ud-test,3681,.,"
-congratulate the rapporteur on her excellent work","
- I will conclude, Mr
-President, by saying that th","
-congratulate the rapporteur on her excellent work.
- I will conclude, Mr
-President, by saying that th",work,I,1
-en_partut-ud-test,3915,.,"men and young people, is cause for serious concern","
- ANA used a creative
-grouping of keywords to targ","men and young people, is cause for serious concern.
- ANA used a creative
-grouping of keywords to targ",concern,ANA,1
-en_partut-ud-test,4112,.,"advert creative that resonated with
-their audience","
- Now you can hear from people you're interested i","advert creative that resonated with
-their audience.
- Now you can hear from people you're interested i",audience,Now,1
-en_partut-ud-test,4192,.,"e you're interested in, even if
-you're not friends","
- If you don't see the button, you can't subscribe","e you're interested in, even if
-you're not friends.
- If you don't see the button, you can't subscribe",friends,If,1
-en_partut-ud-test,4243,.,"
- If you don't see the button, you can't subscribe","
- Do you
-have a Facebook Page?
- (14) As a general ","
- If you don't see the button, you can't subscribe.
- Do you
-have a Facebook Page?
- (14) As a general ",subscribe,Do,1
-en_partut-ud-test,4273,?," you can't subscribe.
- Do you
-have a Facebook Page","
- (14) As a general principle, the energy consumpt"," you can't subscribe.
- Do you
-have a Facebook Page?
- (14) As a general principle, the energy consumpt",Page,,1
-en_partut-ud-test,4431,.,"the minimum necessary for
-their proper functioning","
- - The programme should continue for a further 4 ","the minimum necessary for
-their proper functioning.
- - The programme should continue for a further 4 ",functioning,-,1
-en_partut-ud-test,4588,.,"year) and with the same
-measures and target groups","
- (2) Everyone has the right to leave any country,","year) and with the same
-measures and target groups.
- (2) Everyone has the right to leave any country,",groups,,1
-en_partut-ud-test,4687,.,"y,
-including his own, and to return to his country","
- (1) Men and women of full age,
-without any limit","y,
-including his own, and to return to his country.
- (1) Men and women of full age,
-without any limit",country,,1
-en_partut-ud-test,4827,.,"ion, have the right to
-marry and to found a family","
- (2) Everyone has the right of equal access to
-pu","ion, have the right to
-marry and to found a family.
- (2) Everyone has the right of equal access to
-pu",family,,1
-en_partut-ud-test,4905,.,"t of equal access to
-public service in his country","
- (3) Everyone who works has the right to just and","t of equal access to
-public service in his country.
- (3) Everyone who works has the right to just and",country,,1
-en_partut-ud-test,5122,.," if necessary, by other means of social
-protection","
- If momma ain't happy, nobody ain't happy.
- The R"," if necessary, by other means of social
-protection.
- If momma ain't happy, nobody ain't happy.
- The R",protection,If,1
-en_partut-ud-test,5165,.,"tection.
- If momma ain't happy, nobody ain't happy","
- The Republic of Bulgaria
-and Romania hereby beco","tection.
- If momma ain't happy, nobody ain't happy.
- The Republic of Bulgaria
-and Romania hereby beco",happy,The,1
-en_partut-ud-test,5248,.,omania hereby become members of the European Union,"
- The conditions and
-arrangements for admission ar","omania hereby become members of the European Union.
- The conditions and
-arrangements for admission ar",Union,The,1
-en_partut-ud-test,5347,.,are set out in the Protocol annexed to this Treaty,"
-
-The provisions of that Protocol shall form an in","are set out in the Protocol annexed to this Treaty.
-
-The provisions of that Protocol shall form an in",Treaty,The,1
-en_partut-ud-test,5424,.,rotocol shall form an integral part of this Treaty,"
- The
-provisions of that Act shall form an integra","rotocol shall form an integral part of this Treaty.
- The
-provisions of that Act shall form an integra",Treaty,The,1
-en_partut-ud-test,5496,.,hat Act shall form an integral part of this Treaty,"
- This Treaty
-shall be ratified by the High Contra","hat Act shall form an integral part of this Treaty.
- This Treaty
-shall be ratified by the High Contra",Treaty,This,1
-en_partut-ud-test,5624,.," with their
-respective constitutional requirements","
- The instruments of ratification shall be
-deposit"," with their
-respective constitutional requirements.
- The instruments of ratification shall be
-deposit",requirements,The,1
-en_partut-ud-test,5755,.,"Italian Republic by 31 December 2006 at the
-latest","
- This Treaty shall enter into force on 1 January ","Italian Republic by 31 December 2006 at the
-latest.
- This Treaty shall enter into force on 1 January ",latest,This,1
-en_partut-ud-test,5897,., ratification have been deposited before that date,"
- If such a
-decision is taken with respect to only"," ratification have been deposited before that date.
- If such a
-decision is taken with respect to only",date,If,1
-en_partut-ud-test,6043,., enter into force for that State on 1 January 2008,"
- These measures shall
-enter into force only subje"," enter into force for that State on 1 January 2008.
- These measures shall
-enter into force only subje",2008,These,1
-en_partut-ud-test,6154,.,"on the date of the entry into force of this
-Treaty","
- The text of the Treaty establishing a Constituti","on the date of the entry into force of this
-Treaty.
- The text of the Treaty establishing a Constituti",Treaty,The,1
-en_partut-ud-test,6299,.,Romanian languages shall be annexed to this Treaty,"
-
-Protocol Concerning the conditions and arrangeme","Romanian languages shall be annexed to this Treaty.
-
-Protocol Concerning the conditions and arrangeme",Treaty,Protocol,1
-en_partut-ud-test,6429,.,blic of Bulgaria and Romania to the European Union,"
- Bulgaria and Romania
-accede to the decisions and","blic of Bulgaria and Romania to the European Union.
- Bulgaria and Romania
-accede to the decisions and",Union,Bulgaria,1
-en_partut-ud-test,6589,.,ts of the Member States meeting within the Council,"
- The particular
-instruments mentioned in this Art","ts of the Member States meeting within the Council.
- The particular
-instruments mentioned in this Art",Council,The,1
-en_partut-ud-test,6708,.," referred to in Article
-IV-438 of the Constitution","
- It shall submit a draft of the protocols for
-con"," referred to in Article
-IV-438 of the Constitution.
- It shall submit a draft of the protocols for
-con",Constitution,It,1
-en_partut-ud-test,6781,.,"aft of the protocols for
-conclusion to the Council","
- The Council shall act unanimously after consulti","aft of the protocols for
-conclusion to the Council.
- The Council shall act unanimously after consulti",Council,The,1
-en_partut-ud-test,6858,.,"animously after consulting
-the European Parliament","
- The application of the Constitution and acts ado","animously after consulting
-the European Parliament.
- The application of the Constitution and acts ado",Parliament,The,1
-en_partut-ud-test,7027,.,"t to the derogations
-provided for in this Protocol","
- Notwithstanding this, public procurement
-procedu","t to the derogations
-provided for in this Protocol.
- Notwithstanding this, public procurement
-procedu",Protocol,Notwithstanding,1
-en_partut-ud-test,7177,.,"t in accordance with the
-relevant Union provisions","
- The last programming exercise for the pre-access","t in accordance with the
-relevant Union provisions.
- The last programming exercise for the pre-access",provisions,The,1
-en_partut-ud-test,7323,.,"ll take place in the last year
-preceding accession","
- Actions under these programmes will have to be c","ll take place in the last year
-preceding accession.
- Actions under these programmes will have to be c",accession,Actions,1
-en_partut-ud-test,7414,.,"ve to be contracted
-within the following two years","
- No extensions shall be granted for the
-contracti","ve to be contracted
-within the following two years.
- No extensions shall be granted for the
-contracti",years,No,1
-en_partut-ud-test,7474,.,"nsions shall be granted for the
-contracting period","
- Exceptionally and in duly justified cases, limit","nsions shall be granted for the
-contracting period.
- Exceptionally and in duly justified cases, limit",period,Exceptionally,1
-en_partut-ud-test,7601,.,duration may be granted for execution of contracts,"
- For
-audit and evaluation costs, pre-accession fu","duration may be granted for execution of contracts.
- For
-audit and evaluation costs, pre-accession fu",contracts,For,1
-en_partut-ud-test,7705,.," may be committed up to five
-years after accession","
- However, the provisions contained in Article 165"," may be committed up to five
-years after accession.
- However, the provisions contained in Article 165",accession,However,1
-en_partut-ud-test,7861,.,"budget of the European
-Communities shall not apply","
- The Commission may adopt rules for implementatio","budget of the European
-Communities shall not apply.
- The Commission may adopt rules for implementatio",apply,The,1
-en_partut-ud-test,7958,.,"ation
-of the assistance referred to in paragraph 2","
- To this end, the Commission shall
-be assisted by","ation
-of the assistance referred to in paragraph 2.
- To this end, the Commission shall
-be assisted by",2,To,1
-en_partut-ud-test,8021,.,"d, the Commission shall
-be assisted by a committee","
- The committee shall adopt its rules of procedure","d, the Commission shall
-be assisted by a committee.
- The committee shall adopt its rules of procedure",committee,The,1
-en_partut-ud-test,8072,.,"
- The committee shall adopt its rules of procedure","
-
-This assistance shall fund institution-building ","
- The committee shall adopt its rules of procedure.
-
-This assistance shall fund institution-building ",procedure,This,1
-en_partut-ud-test,8185,.," limited small-scale
-investments ancillary thereto","
- The appropriations shall be authorised by the
-bu"," limited small-scale
-investments ancillary thereto.
- The appropriations shall be authorised by the
-bu",thereto,The,1
-en_partut-ud-test,8300,.,ity within the limits of the financial perspective,"
- One twelfth
-of each annual amount shall be payab","ity within the limits of the financial perspective.
- One twelfth
-of each annual amount shall be payab",perspective,One,1
-en_partut-ud-test,8442,.,orking day of each month in the corresponding year,"
- The lump-sum payments shall
-be used within three","orking day of each month in the corresponding year.
- The lump-sum payments shall
-be used within three",year,The,1
-en_partut-ud-test,8522,.,"
-be used within three years from the first payment","
- Any unused or unjustifiably
-spent funds shall be","
-be used within three years from the first payment.
- Any unused or unjustifiably
-spent funds shall be",payment,Any,1
-en_partut-ud-test,8601,.,"y
-spent funds shall be recovered by the Commission","
- The Commission may adopt any
-technical provision","y
-spent funds shall be recovered by the Commission.
- The Commission may adopt any
-technical provision",Commission,The,1
-en_partut-ud-test,8730,.,"n of the temporary Cash-flow and
-Schengen Facility","
- The measures thus decided on shall be applicable","n of the temporary Cash-flow and
-Schengen Facility.
- The measures thus decided on shall be applicable",Facility,The,1
-en_partut-ud-test,8891,.,"s concerned and shall not entail
-frontier controls","
- Priority shall be given to such measures as will","s concerned and shall not entail
-frontier controls.
- Priority shall be given to such measures as will",controls,Priority,1
-en_partut-ud-test,8995,.,"ast
-disturb the functioning of the internal market","
- Such safeguard measures shall
-not be invoked as ","ast
-disturb the functioning of the internal market.
- Such safeguard measures shall
-not be invoked as ",market,Such,1
-en_partut-ud-test,9139,.,"sguised restriction
-on trade between Member States","
- The measures shall be maintained no longer than
-","sguised restriction
-on trade between Member States.
- The measures shall be maintained no longer than
-",States,The,1
-en_partut-ud-test,9286,.,"lifted when the relevant
-commitment is implemented","
- They may however be applied beyond the period
-sp","lifted when the relevant
-commitment is implemented.
- They may however be applied beyond the period
-sp",implemented,They,1
-en_partut-ud-test,9427,.,"s the relevant commitments have not
-been fulfilled","
- In response to progress made by the new Member S","s the relevant commitments have not
-been fulfilled.
- In response to progress made by the new Member S",fulfilled,In,1
-en_partut-ud-test,9576,.,"e Commission may adapt the measures as
-appropriate","
- The measures shall be maintained no longer than ","e Commission may adapt the measures as
-appropriate.
- The measures shall be maintained no longer than ",appropriate,The,1
-en_partut-ud-test,9714,.,shall be lifted when the shortcomings are remedied,"
- They may
-however be applied beyond the period sp","shall be lifted when the shortcomings are remedied.
- They may
-however be applied beyond the period sp",remedied,They,1
-en_partut-ud-test,9833,.,"st paragraph as long as
-these shortcomings persist","
- A European law of the Council may extend this
-pe","st paragraph as long as
-these shortcomings persist.
- A European law of the Council may extend this
-pe",persist,A,1
-en_partut-ud-test,9888,.,"European law of the Council may extend this
-period","
- These measures shall be taken during a period of","European law of the Council may extend this
-period.
- These measures shall be taken during a period of",period,These,1
-en_partut-ud-test,10037,., their application shall be limited to that period,"
- The
-European Parliament shall make such adaptati"," their application shall be limited to that period.
- The
-European Parliament shall make such adaptati",period,The,1
-en_partut-ud-test,10156,.,"f Procedure as are
-rendered necessary by accession","
- The Council shall make such adaptations to its
-R","f Procedure as are
-rendered necessary by accession.
- The Council shall make such adaptations to its
-R",accession,The,1
-en_partut-ud-test,10263,.,f Procedure as are rendered necessary by accession,"
- A national of each
-new Member State shall be app","f Procedure as are rendered necessary by accession.
- A national of each
-new Member State shall be app",accession,A,1
-en_partut-ud-test,10368,.,"ed to the Commission as from the date of
-accession","
- The terms of office of the Members thus appointe","ed to the Commission as from the date of
-accession.
- The terms of office of the Members thus appointe",accession,The,1
-en_partut-ud-test,10509,., of the Members in office at the time of accession,"
- Two Judges
-shall be appointed to the Court of Ju"," of the Members in office at the time of accession.
- Two Judges
-shall be appointed to the Court of Ju",accession,Two,1
-en_partut-ud-test,10620,.,"two Judges shall be appointed to
-the General Court","
- The term of office of one of the Judges of the C","two Judges shall be appointed to
-the General Court.
- The term of office of one of the Judges of the C",Court,The,1
-en_partut-ud-test,10758,.,ce with paragraph 1 shall expire on 6 October 2009,"
-
-This Judge shall be chosen by lot.
- The term of ","ce with paragraph 1 shall expire on 6 October 2009.
-
-This Judge shall be chosen by lot.
- The term of ",2009,This,1
-en_partut-ud-test,10794,.,"6 October 2009.
-
-This Judge shall be chosen by lot","
- The term of office of the other Judge shall
-expi","6 October 2009.
-
-This Judge shall be chosen by lot.
- The term of office of the other Judge shall
-expi",lot,The,1
-en_partut-ud-test,10865,.," of the other Judge shall
-expire on 6 October 2012","
- The term of office of one of the Judges of the G"," of the other Judge shall
-expire on 6 October 2012.
- The term of office of one of the Judges of the G",2012,The,1
-en_partut-ud-test,11000,.,ce with paragraph 1 shall expire on 31 August 2007,"
-
-The term of office of the other Judge shall expi","ce with paragraph 1 shall expire on 31 August 2007.
-
-The term of office of the other Judge shall expi",2007,The,1
-en_partut-ud-test,11071,., of the other Judge shall expire on 31 August 2010,"
- The Court
-of Justice shall make such adaptations"," of the other Judge shall expire on 31 August 2010.
- The Court
-of Justice shall make such adaptations",2010,The,1
-en_partut-ud-test,11187,.,"f Procedure as are rendered
-necessary by accession","
- The General Court, in agreement with the Court o","f Procedure as are rendered
-necessary by accession.
- The General Court, in agreement with the Court o",accession,The,1
-en_partut-ud-test,11341,.,"f Procedure as are rendered
-necessary by accession","
- The Rules of Procedure as adapted shall require ","f Procedure as are rendered
-necessary by accession.
- The Rules of Procedure as adapted shall require ",accession,The,1
-en_partut-ud-test,11418,.,"s adapted shall require the
-consent of the Council","
- A national of each new Member State shall be app","s adapted shall require the
-consent of the Council.
- A national of each new Member State shall be app",Council,A,1
-en_partut-ud-test,11564,.,"ate of accession for a term of office of
-six years","
- The terms of office of the members thus appointe","ate of accession for a term of office of
-six years.
- The terms of office of the members thus appointe",years,The,1
-en_partut-ud-test,11705,., of the members in office at the time of accession,"
- The terms
-of office of the newly appointed membe"," of the members in office at the time of accession.
- The terms
-of office of the newly appointed membe",accession,The,1
-en_partut-ud-test,11847,.,"
-of the members in office at the time of accession","
- They shall communicate those
-measures to the Com","
-of the members in office at the time of accession.
- They shall communicate those
-measures to the Com",accession,They,1
-en_partut-ud-test,11995,.,"r, by the time
-limit provided for in this Protocol","
- The measures shall be adopted according to
-the v","r, by the time
-limit provided for in this Protocol.
- The measures shall be adopted according to
-the v",Protocol,The,1
-en_partut-ud-test,12135,.,"he act from which a temporary
-derogation is sought","
- Where these derogations are adopted after access","he act from which a temporary
-derogation is sought.
- Where these derogations are adopted after access",sought,Where,1
-en_partut-ud-test,12239,.," they
-may be applied as from the date of accession","
- Where these adaptations are
-adopted after access"," they
-may be applied as from the date of accession.
- Where these adaptations are
-adopted after access",accession,Where,1
-en_partut-ud-test,12343,., they may be applied as from the date of accession,"
- They
-shall be published in the Official Journal "," they may be applied as from the date of accession.
- They
-shall be published in the Official Journal ",accession,They,1
-en_partut-ud-test,12471,.,"e texts in
-the present languages were so published","
- Annexes I to IX and the Appendices
-thereto shall","e texts in
-the present languages were so published.
- Annexes I to IX and the Appendices
-thereto shall",published,Annexes,1
-en_partut-ud-test,12561,.,ereto shall form an integral part of this Protocol,"
- The text of that Treaty,
-drawn up in the Bulgari","ereto shall form an integral part of this Protocol.
- The text of that Treaty,
-drawn up in the Bulgari",Protocol,The,1
-en_partut-ud-test,12672,.,"anian languages, shall be annexed to this
-Protocol","
- Those texts shall be authentic under the same co","anian languages, shall be annexed to this
-Protocol.
- Those texts shall be authentic under the same co",Protocol,Those,1
-en_partut-ud-test,12828,.,"first paragraph, drawn up in the present
-languages","
- As long as this Agreement is not yet concluded, ","first paragraph, drawn up in the present
-languages.
- As long as this Agreement is not yet concluded, ",languages,As,1
-en_partut-ud-test,12914,.,"yet concluded, insofar as it applies
-provisionally","
- A national base area for each producing Member S","yet concluded, insofar as it applies
-provisionally.
- A national base area for each producing Member S",provisionally,A,1
-en_partut-ud-test,12991,.," each producing Member State is hereby
-established","
- However, for France two base areas are establish"," each producing Member State is hereby
-established.
- However, for France two base areas are establish",established,However,1
-en_partut-ud-test,13044,.,"However, for France two base areas are established","
- A maximum
-guaranteed area of 829229 ha is hereby","However, for France two base areas are established.
- A maximum
-guaranteed area of 829229 ha is hereby",established,A,1
-en_partut-ud-test,13107,.,guaranteed area of 829229 ha is hereby established,"
- If such a decision is taken
-before the date of a","guaranteed area of 829229 ha is hereby established.
- If such a decision is taken
-before the date of a",established,If,1
-en_partut-ud-test,13234,.,"l only come into effect upon the
-date of accession","
- the aid measures shall be communicated to the Co","l only come into effect upon the
-date of accession.
- the aid measures shall be communicated to the Co",accession,the,1
-en_partut-ud-test,13337,.,"ission
-within four months of the date of accession","
- This communication shall include
-information on ","ission
-within four months of the date of accession.
- This communication shall include
-information on ",accession,This,1
-en_partut-ud-test,13420,.,"de
-information on the legal basis for each measure","
- After that date, any aid found
-to be incompatibl","de
-information on the legal basis for each measure.
- After that date, any aid found
-to be incompatibl",measure,After,1
-en_partut-ud-test,13525,.,th those guidelines shall be considered as new aid,"
- The
-stocks referred to in paragraph 1 shall be d","th those guidelines shall be considered as new aid.
- The
-stocks referred to in paragraph 1 shall be d",aid,The,1
-en_partut-ud-test,13642,.," quantity exceeding
-the normal carryover of stocks","
- Such companies bring technologically advanced
-im"," quantity exceeding
-the normal carryover of stocks.
- Such companies bring technologically advanced
-im",stocks,Such,1
-en_partut-ud-test,13806,.,"tic firms,
-while spurring industrial modernization","
- Medicine, however affordable, is of no
-value if ","tic firms,
-while spurring industrial modernization.
- Medicine, however affordable, is of no
-value if ",modernization,Medicine,1
-en_partut-ud-test,13906,., no one is available to prescribe or administer it,"
- Here, too, Germany
-should take the lead.
- And Ch"," no one is available to prescribe or administer it.
- Here, too, Germany
-should take the lead.
- And Ch",it,Here,1
-en_partut-ud-test,13948,.,"ister it.
- Here, too, Germany
-should take the lead","
- And China relied heavily on the US dollar to anc","ister it.
- Here, too, Germany
-should take the lead.
- And China relied heavily on the US dollar to anc",lead,And,1
-en_partut-ud-test,14076,.,"y, allowing it to boost its export competitiveness","
- In the
-end, however, this codependency was a mar","y, allowing it to boost its export competitiveness.
- In the
-end, however, this codependency was a mar",competitiveness,In,1
-en_partut-ud-test,14160,.,"endency was a marriage of convenience, not of love","
- If
-America remains stuck in its under-saving way","endency was a marriage of convenience, not of love.
- If
-America remains stuck in its under-saving way",love,If,1
-en_partut-ud-test,14340,.,"lation, rising interest rates, and a
-weaker dollar","
- Though the likely answer is yes, the downside ri","lation, rising interest rates, and a
-weaker dollar.
- Though the likely answer is yes, the downside ri",dollar,Though,1
-en_partut-ud-test,14438,.," risks seem higher
-than they did a few decades ago","
- All of these problems have solutions, at least
-i"," risks seem higher
-than they did a few decades ago.
- All of these problems have solutions, at least
-i",ago,All,1
-en_partut-ud-test,14514,.,"ave solutions, at least
-in the short to medium run","
- Or perhaps this innovation is less significant t","ave solutions, at least
-in the short to medium run.
- Or perhaps this innovation is less significant t",run,Or,1
-en_partut-ud-test,14592,.,"n is less significant than
-its enthusiasts believe","
- It is telling that most of the symposium's 47
-pa","n is less significant than
-its enthusiasts believe.
- It is telling that most of the symposium's 47
-pa",believe,It,1
-en_partut-ud-test,14817,.,"ther's nutrition affects her
-offspring's wellbeing","
- This reflects a fundamental failing on the part ","ther's nutrition affects her
-offspring's wellbeing.
- This reflects a fundamental failing on the part ",wellbeing,This,1
-en_partut-ud-test,14937,.,ommunity to relay relevant data to decision-makers,"
- In South Korea,
-Japan, and elsewhere, developing","ommunity to relay relevant data to decision-makers.
- In South Korea,
-Japan, and elsewhere, developing",decision-makers,In,1
-en_partut-ud-test,15163,.,",
-particularly on the services side of the economy","
- In the realm of international
-economics, being p",",
-particularly on the services side of the economy.
- In the realm of international
-economics, being p",economy,In,1
-en_partut-ud-test,15344,., be made without a great deal of external scrutiny,"
- Nothing
-good would ever happen – and certainly n"," be made without a great deal of external scrutiny.
- Nothing
-good would ever happen – and certainly n",scrutiny,Nothing,1
-en_partut-ud-test,15408,.,d would ever happen – and certainly not for the US,"
- These countries' global
-economic and financial s","d would ever happen – and certainly not for the US.
- These countries' global
-economic and financial s",US,These,1
-en_partut-ud-test,15548,.," have relatively
-little representation at the Fund","
- A package of reforms has been agreed.
- In
-effect"," have relatively
-little representation at the Fund.
- A package of reforms has been agreed.
- In
-effect",Fund,A,1
-en_partut-ud-test,15587,.,"at the Fund.
- A package of reforms has been agreed","
- In
-effect, the administration tried to make the ","at the Fund.
- A package of reforms has been agreed.
- In
-effect, the administration tried to make the ",agreed,In,1
-en_partut-ud-test,15752,.,he House of Representatives to support the reforms,"
-
-The latest indications are that the Republicans ","he House of Representatives to support the reforms.
-
-The latest indications are that the Republicans ",reforms,The,1
-en_partut-ud-test,15825,.,ns are that the Republicans will not be so enticed,"
- Not an
-inch.
- And yet, as Ukrainians work to reb","ns are that the Republicans will not be so enticed.
- Not an
-inch.
- And yet, as Ukrainians work to reb",enticed,Not,1
-en_partut-ud-test,15839,.,"e Republicans will not be so enticed.
- Not an
-inch","
- And yet, as Ukrainians work to rebuild our count","e Republicans will not be so enticed.
- Not an
-inch.
- And yet, as Ukrainians work to rebuild our count",inch,And,1
-en_partut-ud-test,16073,.,"et diplomacy designed to undermine Western
-resolve","
- If there is no oppression of Russian speakers in","et diplomacy designed to undermine Western
-resolve.
- If there is no oppression of Russian speakers in",resolve,If,1
-en_partut-ud-test,16196,.,reason to change the country's political structure,"
- When it comes to genetic
-engineering, however, s","reason to change the country's political structure.
- When it comes to genetic
-engineering, however, s",structure,When,1
-en_partut-ud-test,16288,.,"owever, science seems to matter less than politics","
- After all,
-establishing a genuine fiscal union w","owever, science seems to matter less than politics.
- After all,
-establishing a genuine fiscal union w",politics,After,1
-en_partut-ud-test,16406,.,"ng political commitment –
-and considerable legwork","
- His time at Vendôme is reflected in Louis Lamber","ng political commitment –
-and considerable legwork.
- His time at Vendôme is reflected in Louis Lamber",legwork,His,1
-en_partut-ud-test,16543,.,studying at an Oratorian grammar school at Vendôme,"
-
-as Robb explained:
- A symbolic inheritance.
- In ","studying at an Oratorian grammar school at Vendôme.
-
-as Robb explained:
- A symbolic inheritance.
- In ",Vendôme,as,1
-en_partut-ud-test,16588,.,"ndôme.
-
-as Robb explained:
- A symbolic inheritance","
- In the end, his health fails and he
-is consumed ","ndôme.
-
-as Robb explained:
- A symbolic inheritance.
- In the end, his health fails and he
-is consumed ",inheritance,In,1
-en_partut-ud-test,16659,.,"alth fails and he
-is consumed by his own confusion","
- Their length was not predetermined.
- His
-preferr","alth fails and he
-is consumed by his own confusion.
- Their length was not predetermined.
- His
-preferr",confusion,Their,1
-en_partut-ud-test,16696,.,"own confusion.
- Their length was not predetermined","
- His
-preferred method was to eat a light meal at ","own confusion.
- Their length was not predetermined.
- His
-preferred method was to eat a light meal at ",predetermined,His,1
-en_partut-ud-test,16802,.,"or six in the afternoon, then
-sleep until midnight","
- Although Balzac was ""by turns a hermit and a vag","or six in the afternoon, then
-sleep until midnight.
- Although Balzac was ""by turns a hermit and a vag",midnight,Although,1
-en_partut-ud-test,16936,.,ed to the social world which nourished his writing,"
- His
-health deteriorated on the way, and Ewelina ","ed to the social world which nourished his writing.
- His
-health deteriorated on the way, and Ewelina ",writing,His,1
-en_partut-ud-test,17085,.,"tate of extreme weakness"" and ""sweating profusely""","
- Balzac sought
-to present his characters as real ","tate of extreme weakness"" and ""sweating profusely"".
- Balzac sought
-to present his characters as real ",,Balzac,1
-en_partut-ud-test,17194,.,"neither fully good nor fully evil, but
-fully human","
- As he did with the people around him, Balzac stu","neither fully good nor fully evil, but
-fully human.
- As he did with the people around him, Balzac stu",human,As,1
-en_partut-ud-test,17358,.,"urveying notes that he had made on
-previous visits","
- ""The artist of the Comédie Humaine,"" he wrote, ""","urveying notes that he had made on
-previous visits.
- ""The artist of the Comédie Humaine,"" he wrote, """,visits,,1
-en_partut-ud-test,17443,.,"ne,"" he wrote, ""is half
-smothered by the historian","
- ""Balzac has received high praise from critics as","ne,"" he wrote, ""is half
-smothered by the historian.
- ""Balzac has received high praise from critics as",historian,,1
-en_partut-ud-test,17540,.,"s as
-diverse as Walter Benjamin and Camille Paglia","
- It is not known exactly when
-Shakespeare began w","s as
-diverse as Walter Benjamin and Camille Paglia.
- It is not known exactly when
-Shakespeare began w",Paglia,It,1
-en_partut-ud-test,17717,.,eral of his plays were on the London stage by 1592,"
-
-Shakespeare was buried in the chancel of the Hol","eral of his plays were on the London stage by 1592.
-
-Shakespeare was buried in the chancel of the Hol",1592,Shakespeare,1
-en_partut-ud-test,17809,.,"f the Holy Trinity Church two days after
-his death","
- The epitaph carved into the stone slab covering ","f the Holy Trinity Church two days after
-his death.
- The epitaph carved into the stone slab covering ",death,The,1
-en_partut-ud-test,17981,.,"y avoided during restoration
-of the church in 2008","
- Shakespeare collaborated on two further survivin","y avoided during restoration
-of the church in 2008.
- Shakespeare collaborated on two further survivin",2008,Shakespeare,1
-en_partut-ud-test,18106,.,"The Two Noble Kinsmen, probably with John Fletcher","
- After Hamlet,
-Shakespeare varied his poetic styl","The Two Noble Kinsmen, probably with John Fletcher.
- After Hamlet,
-Shakespeare varied his poetic styl",Fletcher,After,1
-en_partut-ud-test,18233,.," the more emotional
-passages of the late tragedies","
- In Shakespeare's late romances, he deliberately
-"," the more emotional
-passages of the late tragedies.
- In Shakespeare's late romances, he deliberately
-",tragedies,In,1
-en_partut-ud-test,18361,.,"al style, which emphasised the illusion of theatre","
-
-In the 18th and 19th centuries, his reputation a","al style, which emphasised the illusion of theatre.
-
-In the 18th and 19th centuries, his reputation a",theatre,In,1
-en_partut-ud-test,18429,.," 19th centuries, his reputation also spread abroad","
- Only a small
-minority of academics believe there"," 19th centuries, his reputation also spread abroad.
- Only a small
-minority of academics believe there",abroad,Only,1
-en_partut-ud-test,18653,.,"speare authorship, continues into the 21st century","
- 
-","speare authorship, continues into the 21st century.
- 
+en_partut-ud-test,24,.,Attribution-ShareAlike 2,0. Any use of the work other than as authorized un,Attribution-ShareAlike 2.0. Any use of the work other than as authorized un,2,0,0
+en_partut-ud-test,26,.,Attribution-ShareAlike 2.0, Any use of the work other than as authorized unde,Attribution-ShareAlike 2.0. Any use of the work other than as authorized unde,0,Any,1
+en_partut-ud-test,78,"
+",Any use of the work other than as authorized under,this license or copyright law is prohibited. UNLES,"Any use of the work other than as authorized under
+this license or copyright law is prohibited. UNLES",under,this,0
+en_partut-ud-test,122,.," under
+this license or copyright law is prohibited"," UNLESS OTHERWISE AGREED TO BY THE
+PARTIES IN WRIT"," under
+this license or copyright law is prohibited. UNLESS OTHERWISE AGREED TO BY THE
+PARTIES IN WRIT",prohibited,UNLESS,1
+en_partut-ud-test,157,"
+",w is prohibited. UNLESS OTHERWISE AGREED TO BY THE,"PARTIES IN WRITING, LICENSOR OFFERS THE WORK AS-IS","w is prohibited. UNLESS OTHERWISE AGREED TO BY THE
+PARTIES IN WRITING, LICENSOR OFFERS THE WORK AS-IS",THE,PARTIES,0
+en_partut-ud-test,237,"
+",OFFERS THE WORK AS-IS AND MAKES NO REPRESENTATIONS,OR WARRANTIES OF ANY KIND CONCERNING THE MATERIALS,"OFFERS THE WORK AS-IS AND MAKES NO REPRESENTATIONS
+OR WARRANTIES OF ANY KIND CONCERNING THE MATERIALS",REPRESENTATIONS,OR,0
+en_partut-ud-test,317,"
+","CERNING THE MATERIALS, EXPRESS, IMPLIED, STATUTORY","OR OTHERWISE, INCLUDING, WITHOUT LIMITATION, WARRA","CERNING THE MATERIALS, EXPRESS, IMPLIED, STATUTORY
+OR OTHERWISE, INCLUDING, WITHOUT LIMITATION, WARRA",STATUTORY,OR,0
+en_partut-ud-test,383,"
+","NCLUDING, WITHOUT LIMITATION, WARRANTIES OF TITLE,","MERCHANTIBILITY, FITNESS FOR A PARTICULAR PURPOSE,","NCLUDING, WITHOUT LIMITATION, WARRANTIES OF TITLE,
+MERCHANTIBILITY, FITNESS FOR A PARTICULAR PURPOSE,",,MERCHANTIBILITY,0
+en_partut-ud-test,458,"
+"," FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, OR THE","ABSENCE OF LATENT OR OTHER DEFECTS, ACCURACY, OR T"," FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, OR THE
+ABSENCE OF LATENT OR OTHER DEFECTS, ACCURACY, OR T",THE,ABSENCE,0
+en_partut-ud-test,534,"
+","R DEFECTS, ACCURACY, OR THE PRESENCE OF ABSENCE OF","ERRORS, WHETHER OR not DISCOVERABLE. Creative Comm","R DEFECTS, ACCURACY, OR THE PRESENCE OF ABSENCE OF
+ERRORS, WHETHER OR not DISCOVERABLE. Creative Comm",OF,ERRORS,0
+en_partut-ud-test,570,.," OF ABSENCE OF
+ERRORS, WHETHER OR not DISCOVERABLE"," Creative Commons is not a party to this
+License, "," OF ABSENCE OF
+ERRORS, WHETHER OR not DISCOVERABLE. Creative Commons is not a party to this
+License, ",DISCOVERABLE,Creative,1
+en_partut-ud-test,611,"
+",COVERABLE. Creative Commons is not a party to this,"License, and makes no warranty whatsoever in conne","COVERABLE. Creative Commons is not a party to this
+License, and makes no warranty whatsoever in conne",this,License,0
+en_partut-ud-test,681,.,no warranty whatsoever in connection with the Work," Yes, Mr
+Evans, I feel an initiative of the type y","no warranty whatsoever in connection with the Work. Yes, Mr
+Evans, I feel an initiative of the type y",Work,Yes,1
+en_partut-ud-test,690,"
+","ty whatsoever in connection with the Work. Yes, Mr","Evans, I feel an initiative of the type you have j","ty whatsoever in connection with the Work. Yes, Mr
+Evans, I feel an initiative of the type you have j",Mr,Evans,0
+en_partut-ud-test,763,"
+",ative of the type you have just suggested would be,entirely appropriate. I would ask that they recons,"ative of the type you have just suggested would be
+entirely appropriate. I would ask that they recons",be,entirely,0
+en_partut-ud-test,784,.," have just suggested would be
+entirely appropriate"," I would ask that they reconsider, since this is n"," have just suggested would be
+entirely appropriate. I would ask that they reconsider, since this is n",appropriate,I,1
+en_partut-ud-test,841,"
+","ld ask that they reconsider, since this is not the",case. Transport safety has sadly been in the news ,"ld ask that they reconsider, since this is not the
+case. Transport safety has sadly been in the news ",the,case,0
+en_partut-ud-test,846,.,"k that they reconsider, since this is not the
+case", Transport safety has sadly been in the news recen,"k that they reconsider, since this is not the
+case. Transport safety has sadly been in the news recen",case,Transport,1
+en_partut-ud-test,918,"
+"," sadly been in the news recently: Needless to say,","safety on roads, railways and inland waterways is "," sadly been in the news recently: Needless to say,
+safety on roads, railways and inland waterways is ",,safety,1
+en_partut-ud-test,997,"
+","d inland waterways is of key importance and, given",the international nature of these types of transpo,"d inland waterways is of key importance and, given
+the international nature of these types of transpo",given,the,0
+en_partut-ud-test,1071,"
+","e of these types of transport, training for safety","advisors should also be harmonised, therefore, as ","e of these types of transport, training for safety
+advisors should also be harmonised, therefore, as ",safety,advisors,0
+en_partut-ud-test,1149,"
+","monised, therefore, as well as the requirements of","the new ADR, for example, which is under way. This","monised, therefore, as well as the requirements of
+the new ADR, for example, which is under way. This",of,the,0
+en_partut-ud-test,1194,.,"ts of
+the new ADR, for example, which is under way"," This is not just the fault of the
+Commission, but","ts of
+the new ADR, for example, which is under way. This is not just the fault of the
+Commission, but",way,This,1
+en_partut-ud-test,1229,"
+",ch is under way. This is not just the fault of the,"Commission, but I believe that we need to take act","ch is under way. This is not just the fault of the
+Commission, but I believe that we need to take act",the,Commission,0
+en_partut-ud-test,1305,"
+", that we need to take action more quickly so as to,achieve harmonisation in this area as well. I can ," that we need to take action more quickly so as to
+achieve harmonisation in this area as well. I can ",to,achieve,0
+en_partut-ud-test,1348,.,"o as to
+achieve harmonisation in this area as well"," I can live with these minimum
+standards, but I wo","o as to
+achieve harmonisation in this area as well. I can live with these minimum
+standards, but I wo",well,I,1
+en_partut-ud-test,1379,"
+",n this area as well. I can live with these minimum,"standards, but I would ask the Commission to monit","n this area as well. I can live with these minimum
+standards, but I would ask the Commission to monit",minimum,standards,0
+en_partut-ud-test,1451,"
+",d ask the Commission to monitor the situation very,carefully. But I believe that we should do all we ,"d ask the Commission to monitor the situation very
+carefully. But I believe that we should do all we ",very,carefully,0
+en_partut-ud-test,1461,.,"Commission to monitor the situation very
+carefully", But I believe that we should do all we can to kee,"Commission to monitor the situation very
+carefully. But I believe that we should do all we can to kee",carefully,But,1
+en_partut-ud-test,1530,"
+",t we should do all we can to keep the transport of,"dangerous goods to a minimum, in all countries, wh","t we should do all we can to keep the transport of
+dangerous goods to a minimum, in all countries, wh",of,dangerous,0
+en_partut-ud-test,1603,"
+","inimum, in all countries, whether they are transit",countries or not. I hope my proposal will be taken,"inimum, in all countries, whether they are transit
+countries or not. I hope my proposal will be taken",transit,countries,0
+en_partut-ud-test,1620,.,"untries, whether they are transit
+countries or not", I hope my proposal will be taken into considerati,"untries, whether they are transit
+countries or not. I hope my proposal will be taken into considerati",not,I,1
+en_partut-ud-test,1676,"
+",pe my proposal will be taken into consideration in,tomorrow's vote. I would like to ask the Vice-Pres,"pe my proposal will be taken into consideration in
+tomorrow's vote. I would like to ask the Vice-Pres",in,tomorrow's,0
+en_partut-ud-test,1692,.,"ill be taken into consideration in
+tomorrow's vote", I would like to ask the Vice-President if she is ,"ill be taken into consideration in
+tomorrow's vote. I would like to ask the Vice-President if she is ",vote,I,1
+en_partut-ud-test,1756,"
+", to ask the Vice-President if she is in a position,to tell us today what the state of play is with re," to ask the Vice-President if she is in a position
+to tell us today what the state of play is with re",position,to,0
+en_partut-ud-test,1834,"
+",tate of play is with regard to the efforts towards,harmonisation being made by these two organisation,"tate of play is with regard to the efforts towards
+harmonisation being made by these two organisation",towards,harmonisation,0
+en_partut-ud-test,1914,"
+","hese two organisations, and whether the EU is in a","position to hasten these harmonisation efforts, in","hese two organisations, and whether the EU is in a
+position to hasten these harmonisation efforts, in",a,position,0
+en_partut-ud-test,1992,"
+","rmonisation efforts, in accordance with principles","that are as simple as possible. Mr President, I wo","rmonisation efforts, in accordance with principles
+that are as simple as possible. Mr President, I wo",principles,that,0
+en_partut-ud-test,2023,.,"nce with principles
+that are as simple as possible"," Mr President, I would very much like to thank
+Mrs","nce with principles
+that are as simple as possible. Mr President, I would very much like to thank
+Mrs",possible,Mr,1
+en_partut-ud-test,2070,"
+","ble. Mr President, I would very much like to thank",Mrs Schroedter for the work she has done on this a,"ble. Mr President, I would very much like to thank
+Mrs Schroedter for the work she has done on this a",thank,Mrs,0
+en_partut-ud-test,2148,"
+", she has done on this and to explain to colleagues,"that I am speaking for my colleague, Mrs Flautre, "," she has done on this and to explain to colleagues
+that I am speaking for my colleague, Mrs Flautre, ",colleagues,that,0
+en_partut-ud-test,2224,"
+"," colleague, Mrs Flautre, who followed this for the",Committee on Employment and Social Affairs but who," colleague, Mrs Flautre, who followed this for the
+Committee on Employment and Social Affairs but who",the,Committee,0
+en_partut-ud-test,2296,.,nt and Social Affairs but who is unfortunately ill," But the
+lack of specific guidelines here is parti","nt and Social Affairs but who is unfortunately ill. But the
+lack of specific guidelines here is parti",ill,But,1
+en_partut-ud-test,2305,"
+",cial Affairs but who is unfortunately ill. But the,lack of specific guidelines here is particularly t,"cial Affairs but who is unfortunately ill. But the
+lack of specific guidelines here is particularly t",the,lack,0
+en_partut-ud-test,2386,"
+","re is particularly to be regretted, as the idea of",linking Social Fund assistance to the employment s,"re is particularly to be regretted, as the idea of
+linking Social Fund assistance to the employment s",of,linking,0
+en_partut-ud-test,2461,"
+",stance to the employment strategy will be put into,effect for the first time during the 2000-2006 pro,"stance to the employment strategy will be put into
+effect for the first time during the 2000-2006 pro",into,effect,0
+en_partut-ud-test,2518,., for the first time during the 2000-2006 programme," The truth of the
+matter though is that we believe"," for the first time during the 2000-2006 programme. The truth of the
+matter though is that we believe",programme,The,1
+en_partut-ud-test,2536,"
+",e during the 2000-2006 programme. The truth of the,matter though is that we believe - and this is als,"e during the 2000-2006 programme. The truth of the
+matter though is that we believe - and this is als",the,matter,0
+en_partut-ud-test,2609,"
+",we believe - and this is also shown in the way the,conclusions have been drafted - that the Commissio,"we believe - and this is also shown in the way the
+conclusions have been drafted - that the Commissio",the,conclusions,0
+en_partut-ud-test,2690,"
+",- that the Commission must take account of what is,"adopted by this Parliament, particularly in the fa","- that the Commission must take account of what is
+adopted by this Parliament, particularly in the fa",is,adopted,0
+en_partut-ud-test,2769,"
+",particularly in the face of an interim revision of,"these Directives. Mr President, Commissioner, I wo","particularly in the face of an interim revision of
+these Directives. Mr President, Commissioner, I wo",of,these,0
+en_partut-ud-test,2786,.,"he face of an interim revision of
+these Directives"," Mr President, Commissioner, I would like to thank","he face of an interim revision of
+these Directives. Mr President, Commissioner, I would like to thank",Directives,Mr,1
+en_partut-ud-test,2841,"
+","President, Commissioner, I would like to thank Mrs",Schroedter for an excellent report. She has gone i,"President, Commissioner, I would like to thank Mrs
+Schroedter for an excellent report. She has gone i",Mrs,Schroedter,0
+en_partut-ud-test,2876,.,"ke to thank Mrs
+Schroedter for an excellent report"," She has gone into the issue in some depth
+and in ","ke to thank Mrs
+Schroedter for an excellent report. She has gone into the issue in some depth
+and in ",report,She,1
+en_partut-ud-test,2919,"
+", report. She has gone into the issue in some depth,and in the committee debate she took account of ma," report. She has gone into the issue in some depth
+and in the committee debate she took account of ma",depth,and,0
+en_partut-ud-test,3000,"
+",e took account of many of the amendments that have,been tabled regarding this report. It contained de,"e took account of many of the amendments that have
+been tabled regarding this report. It contained de",have,been,0
+en_partut-ud-test,3034,.,"dments that have
+been tabled regarding this report"," It contained details and issues that had
+already ","dments that have
+been tabled regarding this report. It contained details and issues that had
+already ",report,It,1
+en_partut-ud-test,3076,"
+",s report. It contained details and issues that had,already been raised in previous reports. This has ,"s report. It contained details and issues that had
+already been raised in previous reports. This has ",had,already,0
+en_partut-ud-test,3116,.,"s that had
+already been raised in previous reports"," This has been an ongoing concern for
+the five yea","s that had
+already been raised in previous reports. This has been an ongoing concern for
+the five yea",reports,This,1
+en_partut-ud-test,3154,"
+",ious reports. This has been an ongoing concern for,the five years that I have been a Member of this P,"ious reports. This has been an ongoing concern for
+the five years that I have been a Member of this P",for,the,0
+en_partut-ud-test,3233,"
+","een a Member of this Parliament, and I have raised","the issue time and time again. Consequently, I fee","een a Member of this Parliament, and I have raised
+the issue time and time again. Consequently, I fee",raised,the,0
+en_partut-ud-test,3263,.,"t, and I have raised
+the issue time and time again"," Consequently, I feel we must look to the future
+a","t, and I have raised
+the issue time and time again. Consequently, I feel we must look to the future
+a",again,Consequently,1
+en_partut-ud-test,3312,"
+","n. Consequently, I feel we must look to the future",and establish guidelines for the mid-term review i,"n. Consequently, I feel we must look to the future
+and establish guidelines for the mid-term review i",future,and,0
+en_partut-ud-test,3387,"
+"," for the mid-term review in 2003, and thus have an",influence on the second phase of programming set t," for the mid-term review in 2003, and thus have an
+influence on the second phase of programming set t",an,influence,0
+en_partut-ud-test,3451,.,the second phase of programming set to follow 2003," Its
+implementation would certainly require extend","the second phase of programming set to follow 2003. Its
+implementation would certainly require extend",2003,Its,1
+en_partut-ud-test,3456,"
+",econd phase of programming set to follow 2003. Its,implementation would certainly require extending t,"econd phase of programming set to follow 2003. Its
+implementation would certainly require extending t",Its,implementation,0
+en_partut-ud-test,3533,"
+",inly require extending the scope of redistribution,instruments such as the Structural Funds. Mr Presi,"inly require extending the scope of redistribution
+instruments such as the Structural Funds. Mr Presi",redistribution,instruments,0
+en_partut-ud-test,3574,.,"tribution
+instruments such as the Structural Funds"," Mr President, I too would like to
+congratulate th","tribution
+instruments such as the Structural Funds. Mr President, I too would like to
+congratulate th",Funds,Mr,1
+en_partut-ud-test,3609,"
+","tructural Funds. Mr President, I too would like to",congratulate the rapporteur on her excellent work.,"tructural Funds. Mr President, I too would like to
+congratulate the rapporteur on her excellent work.",to,congratulate,0
+en_partut-ud-test,3659,.,"
+congratulate the rapporteur on her excellent work"," I will conclude, Mr
+President, by saying that the","
+congratulate the rapporteur on her excellent work. I will conclude, Mr
+President, by saying that the",work,I,1
+en_partut-ud-test,3680,"
+","porteur on her excellent work. I will conclude, Mr","President, by saying that the failure of the Commi","porteur on her excellent work. I will conclude, Mr
+President, by saying that the failure of the Commi",Mr,President,0
+en_partut-ud-test,3761,"
+",failure of the Commission's communication to focus,"on territorial pacts and, especially, methods of c","failure of the Commission's communication to focus
+on territorial pacts and, especially, methods of c",focus,on,0
+en_partut-ud-test,3839,"
+","specially, methods of combating unemployment among","women and young people, is cause for serious conce","specially, methods of combating unemployment among
+women and young people, is cause for serious conce",among,women,0
+en_partut-ud-test,3892,.,"men and young people, is cause for serious concern"," ANA used a creative
+grouping of keywords to targe","men and young people, is cause for serious concern. ANA used a creative
+grouping of keywords to targe",concern,ANA,1
+en_partut-ud-test,3913,"
+", is cause for serious concern. ANA used a creative,grouping of keywords to target advertising to user," is cause for serious concern. ANA used a creative
+grouping of keywords to target advertising to user",creative,grouping,0
+en_partut-ud-test,3992,"
+",et advertising to users specifically interested in,traveling and Japanese culture and developed adver,"et advertising to users specifically interested in
+traveling and Japanese culture and developed adver",in,traveling,0
+en_partut-ud-test,4073,"
+", and developed advert creative that resonated with,their audience. Now you can hear from people you'r," and developed advert creative that resonated with
+their audience. Now you can hear from people you'r",with,their,0
+en_partut-ud-test,4088,.,"advert creative that resonated with
+their audience", Now you can hear from people you're interested in,"advert creative that resonated with
+their audience. Now you can hear from people you're interested in",audience,Now,1
+en_partut-ud-test,4148,"
+","can hear from people you're interested in, even if","you're not friends. If you don't see the button, y","can hear from people you're interested in, even if
+you're not friends. If you don't see the button, y",if,you're,0
+en_partut-ud-test,4167,.,"e you're interested in, even if
+you're not friends"," If you don't see the button, you can't subscribe.","e you're interested in, even if
+you're not friends. If you don't see the button, you can't subscribe.",friends,If,1
+en_partut-ud-test,4217,.,". If you don't see the button, you can't subscribe"," Do you
+have a Facebook Page? (14) As a general pr",". If you don't see the button, you can't subscribe. Do you
+have a Facebook Page? (14) As a general pr",subscribe,Do,1
+en_partut-ud-test,4225,"
+"," don't see the button, you can't subscribe. Do you","have a Facebook Page? (14) As a general principle,"," don't see the button, you can't subscribe. Do you
+have a Facebook Page? (14) As a general principle,",you,have,0
+en_partut-ud-test,4246,?,", you can't subscribe. Do you
+have a Facebook Page"," (14) As a general principle, the energy consumpti",", you can't subscribe. Do you
+have a Facebook Page? (14) As a general principle, the energy consumpti",Page,,1
+en_partut-ud-test,4302,"
+"," As a general principle, the energy consumption of",EUPs in stand-by or off-mode should be reduced to ," As a general principle, the energy consumption of
+EUPs in stand-by or off-mode should be reduced to ",of,EUPs,0
+en_partut-ud-test,4378,"
+",ode should be reduced to the minimum necessary for,their proper functioning. - The programme should c,"ode should be reduced to the minimum necessary for
+their proper functioning. - The programme should c",for,their,0
+en_partut-ud-test,4403,.,"the minimum necessary for
+their proper functioning", - The programme should continue for a further 4 y,"the minimum necessary for
+their proper functioning. - The programme should continue for a further 4 y",functioning,-,1
+en_partut-ud-test,4458,"
+",he programme should continue for a further 4 years,at least with the same budget (1 million euro per ,"he programme should continue for a further 4 years
+at least with the same budget (1 million euro per ",years,at,0
+en_partut-ud-test,4532,"
+",budget (1 million euro per year) and with the same,measures and target groups. (2) Everyone has the r,"budget (1 million euro per year) and with the same
+measures and target groups. (2) Everyone has the r",same,measures,0
+en_partut-ud-test,4559,.,"year) and with the same
+measures and target groups"," (2) Everyone has the right to leave any country,
+","year) and with the same
+measures and target groups. (2) Everyone has the right to leave any country,
+",groups,,1
+en_partut-ud-test,4609,"
+",". (2) Everyone has the right to leave any country,","including his own, and to return to his country. (",". (2) Everyone has the right to leave any country,
+including his own, and to return to his country. (",,including,0
+en_partut-ud-test,4657,.,"y,
+including his own, and to return to his country"," (1) Men and women of full age,
+without any limita","y,
+including his own, and to return to his country. (1) Men and women of full age,
+without any limita",country,,1
+en_partut-ud-test,4689,"
+","urn to his country. (1) Men and women of full age,","without any limitation due to race, nationality or","urn to his country. (1) Men and women of full age,
+without any limitation due to race, nationality or",,without,0
+en_partut-ud-test,4768,"
+","o race, nationality or religion, have the right to",marry and to found a family. (2) Everyone has the ,"o race, nationality or religion, have the right to
+marry and to found a family. (2) Everyone has the ",to,marry,0
+en_partut-ud-test,4796,.,"ion, have the right to
+marry and to found a family"," (2) Everyone has the right of equal access to
+pub","ion, have the right to
+marry and to found a family. (2) Everyone has the right of equal access to
+pub",family,,1
+en_partut-ud-test,4843,"
+",ily. (2) Everyone has the right of equal access to,public service in his country. (3) Everyone who wo,"ily. (2) Everyone has the right of equal access to
+public service in his country. (3) Everyone who wo",to,public,0
+en_partut-ud-test,4873,.,"t of equal access to
+public service in his country"," (3) Everyone who works has the right to just and
+","t of equal access to
+public service in his country. (3) Everyone who works has the right to just and
+",country,,1
+en_partut-ud-test,4923,"
+",. (3) Everyone who works has the right to just and,favourable remuneration ensuring for himself and h,". (3) Everyone who works has the right to just and
+favourable remuneration ensuring for himself and h",and,favourable,0
+en_partut-ud-test,5003,"
+",ing for himself and his family an existence worthy,"of human dignity, and supplemented, if necessary, ","ing for himself and his family an existence worthy
+of human dignity, and supplemented, if necessary, ",worthy,of,0
+en_partut-ud-test,5078,"
+","pplemented, if necessary, by other means of social","protection. If momma ain't happy, nobody ain't hap","pplemented, if necessary, by other means of social
+protection. If momma ain't happy, nobody ain't hap",social,protection,0
+en_partut-ud-test,5089,.," if necessary, by other means of social
+protection"," If momma ain't happy, nobody ain't happy. The Rep"," if necessary, by other means of social
+protection. If momma ain't happy, nobody ain't happy. The Rep",protection,If,1
+en_partut-ud-test,5131,.,"otection. If momma ain't happy, nobody ain't happy"," The Republic of Bulgaria
+and Romania hereby becom","otection. If momma ain't happy, nobody ain't happy. The Republic of Bulgaria
+and Romania hereby becom",happy,The,1
+en_partut-ud-test,5157,"
+","appy, nobody ain't happy. The Republic of Bulgaria",and Romania hereby become members of the European ,"appy, nobody ain't happy. The Republic of Bulgaria
+and Romania hereby become members of the European ",Bulgaria,and,0
+en_partut-ud-test,5213,.,omania hereby become members of the European Union," The conditions and
+arrangements for admission are","omania hereby become members of the European Union. The conditions and
+arrangements for admission are",Union,The,1
+en_partut-ud-test,5233,"
+", members of the European Union. The conditions and,arrangements for admission are set out in the Prot," members of the European Union. The conditions and
+arrangements for admission are set out in the Prot",and,arrangements,0
+en_partut-ud-test,5311,.,are set out in the Protocol annexed to this Treaty,"
+The provisions of that Protocol shall form an int","are set out in the Protocol annexed to this Treaty.
+The provisions of that Protocol shall form an int",Treaty,The,1
+en_partut-ud-test,5312,"
+",re set out in the Protocol annexed to this Treaty.,The provisions of that Protocol shall form an inte,"re set out in the Protocol annexed to this Treaty.
+The provisions of that Protocol shall form an inte",,The,0
+en_partut-ud-test,5387,.,rotocol shall form an integral part of this Treaty," The
+provisions of that Act shall form an integral","rotocol shall form an integral part of this Treaty. The
+provisions of that Act shall form an integral",Treaty,The,1
+en_partut-ud-test,5392,"
+",ol shall form an integral part of this Treaty. The,provisions of that Act shall form an integral part,"ol shall form an integral part of this Treaty. The
+provisions of that Act shall form an integral part",The,provisions,0
+en_partut-ud-test,5458,.,hat Act shall form an integral part of this Treaty," This Treaty
+shall be ratified by the High Contrac","hat Act shall form an integral part of this Treaty. This Treaty
+shall be ratified by the High Contrac",Treaty,This,1
+en_partut-ud-test,5471,"
+", form an integral part of this Treaty. This Treaty,shall be ratified by the High Contracting Parties ," form an integral part of this Treaty. This Treaty
+shall be ratified by the High Contracting Parties ",Treaty,shall,0
+en_partut-ud-test,5546,"
+", High Contracting Parties in accordance with their,respective constitutional requirements. The instru," High Contracting Parties in accordance with their
+respective constitutional requirements. The instru",their,respective,0
+en_partut-ud-test,5585,.," with their
+respective constitutional requirements"," The instruments of ratification shall be
+deposite"," with their
+respective constitutional requirements. The instruments of ratification shall be
+deposite",requirements,The,1
+en_partut-ud-test,5627,"
+",irements. The instruments of ratification shall be,deposited with the Government of the Italian Repub,"irements. The instruments of ratification shall be
+deposited with the Government of the Italian Repub",be,deposited,0
+en_partut-ud-test,5708,"
+",of the Italian Republic by 31 December 2006 at the,latest. This Treaty shall enter into force on 1 Ja,"of the Italian Republic by 31 December 2006 at the
+latest. This Treaty shall enter into force on 1 Ja",the,latest,0
+en_partut-ud-test,5715,.,"Italian Republic by 31 December 2006 at the
+latest", This Treaty shall enter into force on 1 January 2,"Italian Republic by 31 December 2006 at the
+latest. This Treaty shall enter into force on 1 January 2",latest,This,1
+en_partut-ud-test,5787,"
+",ter into force on 1 January 2007 provided that all,the instruments of ratification have been deposite,"ter into force on 1 January 2007 provided that all
+the instruments of ratification have been deposite",all,the,0
+en_partut-ud-test,5856,., ratification have been deposited before that date," If such a
+decision is taken with respect to only "," ratification have been deposited before that date. If such a
+decision is taken with respect to only ",date,If,1
+en_partut-ud-test,5867,"
+",on have been deposited before that date. If such a,decision is taken with respect to only one of the ,"on have been deposited before that date. If such a
+decision is taken with respect to only one of the ",a,decision,0
+en_partut-ud-test,5945,"
+",ect to only one of the acceding States this Treaty,shall enter into force for that State on 1 January,"ect to only one of the acceding States this Treaty
+shall enter into force for that State on 1 January",Treaty,shall,0
+en_partut-ud-test,6001,., enter into force for that State on 1 January 2008," These measures shall
+enter into force only subjec"," enter into force for that State on 1 January 2008. These measures shall
+enter into force only subjec",2008,These,1
+en_partut-ud-test,6023,"
+",that State on 1 January 2008. These measures shall,enter into force only subject to and on the date o,"that State on 1 January 2008. These measures shall
+enter into force only subject to and on the date o",shall,enter,0
+en_partut-ud-test,6104,"
+",to and on the date of the entry into force of this,Treaty. The text of the Treaty establishing a Cons,"to and on the date of the entry into force of this
+Treaty. The text of the Treaty establishing a Cons",this,Treaty,0
+en_partut-ud-test,6111,.,"on the date of the entry into force of this
+Treaty", The text of the Treaty establishing a Constitutio,"on the date of the entry into force of this
+Treaty. The text of the Treaty establishing a Constitutio",Treaty,The,1
+en_partut-ud-test,6183,"
+",ty establishing a Constitution for Europe drawn up,in the Bulgarian and Romanian languages shall be a,"ty establishing a Constitution for Europe drawn up
+in the Bulgarian and Romanian languages shall be a",up,in,0
+en_partut-ud-test,6255,.,Romanian languages shall be annexed to this Treaty,"
+Protocol Concerning the conditions and arrangemen","Romanian languages shall be annexed to this Treaty.
+Protocol Concerning the conditions and arrangemen",Treaty,Protocol,1
+en_partut-ud-test,6256,"
+",omanian languages shall be annexed to this Treaty.,Protocol Concerning the conditions and arrangement,"omanian languages shall be annexed to this Treaty.
+Protocol Concerning the conditions and arrangement",,Protocol,0
+en_partut-ud-test,6329,"
+",e conditions and arrangements for admission of the,republic of Bulgaria and Romania to the European U,"e conditions and arrangements for admission of the
+republic of Bulgaria and Romania to the European U",the,republic,0
+en_partut-ud-test,6384,.,blic of Bulgaria and Romania to the European Union," Bulgaria and Romania
+accede to the decisions and ","blic of Bulgaria and Romania to the European Union. Bulgaria and Romania
+accede to the decisions and ",Union,Bulgaria,1
+en_partut-ud-test,6406,"
+",omania to the European Union. Bulgaria and Romania,accede to the decisions and agreements adopted by ,"omania to the European Union. Bulgaria and Romania
+accede to the decisions and agreements adopted by ",Romania,accede,0
+en_partut-ud-test,6483,"
+",d agreements adopted by the Representatives of the,Governments of the Member States meeting within th,"d agreements adopted by the Representatives of the
+Governments of the Member States meeting within th",the,Governments,0
+en_partut-ud-test,6543,.,ts of the Member States meeting within the Council," The particular
+instruments mentioned in this Arti","ts of the Member States meeting within the Council. The particular
+instruments mentioned in this Arti",Council,The,1
+en_partut-ud-test,6559,"
+", States meeting within the Council. The particular,instruments mentioned in this Article include thos," States meeting within the Council. The particular
+instruments mentioned in this Article include thos",particular,instruments,0
+en_partut-ud-test,6634,"
+", this Article include those referred to in Article,IV-438 of the Constitution. It shall submit a draf," this Article include those referred to in Article
+IV-438 of the Constitution. It shall submit a draf",Article,IV-438,0
+en_partut-ud-test,6661,.," referred to in Article
+IV-438 of the Constitution"," It shall submit a draft of the protocols for
+conc"," referred to in Article
+IV-438 of the Constitution. It shall submit a draft of the protocols for
+conc",Constitution,It,1
+en_partut-ud-test,6707,"
+",tion. It shall submit a draft of the protocols for,conclusion to the Council. The Council shall act u,"tion. It shall submit a draft of the protocols for
+conclusion to the Council. The Council shall act u",for,conclusion,0
+en_partut-ud-test,6733,.,"aft of the protocols for
+conclusion to the Council", The Council shall act unanimously after consultin,"aft of the protocols for
+conclusion to the Council. The Council shall act unanimously after consultin",Council,The,1
+en_partut-ud-test,6785,"
+",The Council shall act unanimously after consulting,the European Parliament. The application of the Co,"The Council shall act unanimously after consulting
+the European Parliament. The application of the Co",consulting,the,0
+en_partut-ud-test,6809,.,"animously after consulting
+the European Parliament", The application of the Constitution and acts adop,"animously after consulting
+the European Parliament. The application of the Constitution and acts adop",Parliament,The,1
+en_partut-ud-test,6866,"
+",pplication of the Constitution and acts adopted by,"the institutions shall, as a transitional measure,","pplication of the Constitution and acts adopted by
+the institutions shall, as a transitional measure,",by,the,0
+en_partut-ud-test,6947,"
+","ransitional measure, be subject to the derogations",provided for in this Protocol. Notwithstanding thi,"ransitional measure, be subject to the derogations
+provided for in this Protocol. Notwithstanding thi",derogations,provided,0
+en_partut-ud-test,6977,.,"t to the derogations
+provided for in this Protocol"," Notwithstanding this, public procurement
+procedur","t to the derogations
+provided for in this Protocol. Notwithstanding this, public procurement
+procedur",Protocol,Notwithstanding,1
+en_partut-ud-test,7019,"
+","Protocol. Notwithstanding this, public procurement",procedures initiated after accession shall be carr,"Protocol. Notwithstanding this, public procurement
+procedures initiated after accession shall be carr",procurement,procedures,0
+en_partut-ud-test,7100,"
+",ession shall be carried out in accordance with the,relevant Union provisions. The last programming ex,"ession shall be carried out in accordance with the
+relevant Union provisions. The last programming ex",the,relevant,0
+en_partut-ud-test,7126,.,"t in accordance with the
+relevant Union provisions", The last programming exercise for the pre-accessi,"t in accordance with the
+relevant Union provisions. The last programming exercise for the pre-accessi",provisions,The,1
+en_partut-ud-test,7179,"
+",he last programming exercise for the pre-accession,assistance referred to in paragraph 1 shall take p,"he last programming exercise for the pre-accession
+assistance referred to in paragraph 1 shall take p",pre-accession,assistance,0
+en_partut-ud-test,7251,"
+",o in paragraph 1 shall take place in the last year,preceding accession. Actions under these programme,"o in paragraph 1 shall take place in the last year
+preceding accession. Actions under these programme",year,preceding,0
+en_partut-ud-test,7271,.,"ll take place in the last year
+preceding accession", Actions under these programmes will have to be co,"ll take place in the last year
+preceding accession. Actions under these programmes will have to be co",accession,Actions,1
+en_partut-ud-test,7330,"
+", under these programmes will have to be contracted,within the following two years. No extensions shal," under these programmes will have to be contracted
+within the following two years. No extensions shal",contracted,within,0
+en_partut-ud-test,7361,.,"ve to be contracted
+within the following two years"," No extensions shall be granted for the
+contractin","ve to be contracted
+within the following two years. No extensions shall be granted for the
+contractin",years,No,1
+en_partut-ud-test,7401,"
+", two years. No extensions shall be granted for the,contracting period. Exceptionally and in duly just," two years. No extensions shall be granted for the
+contracting period. Exceptionally and in duly just",the,contracting,0
+en_partut-ud-test,7420,.,"nsions shall be granted for the
+contracting period"," Exceptionally and in duly justified cases, limite","nsions shall be granted for the
+contracting period. Exceptionally and in duly justified cases, limite",period,Exceptionally,1
+en_partut-ud-test,7472,"
+","Exceptionally and in duly justified cases, limited",extensions in terms of duration may be granted for,"Exceptionally and in duly justified cases, limited
+extensions in terms of duration may be granted for",limited,extensions,0
+en_partut-ud-test,7546,.,duration may be granted for execution of contracts," For
+audit and evaluation costs, pre-accession fun","duration may be granted for execution of contracts. For
+audit and evaluation costs, pre-accession fun",contracts,For,1
+en_partut-ud-test,7551,"
+",ion may be granted for execution of contracts. For,"audit and evaluation costs, pre-accession funds ma","ion may be granted for execution of contracts. For
+audit and evaluation costs, pre-accession funds ma",For,audit,0
+en_partut-ud-test,7627,"
+","s, pre-accession funds may be committed up to five","years after accession. However, the provisions con","s, pre-accession funds may be committed up to five
+years after accession. However, the provisions con",five,years,0
+en_partut-ud-test,7649,.," may be committed up to five
+years after accession"," However, the provisions contained in Article 165 "," may be committed up to five
+years after accession. However, the provisions contained in Article 165 ",accession,However,1
+en_partut-ud-test,7706,"
+","er, the provisions contained in Article 165 of the",Financial Regulation applicable to the general bud,"er, the provisions contained in Article 165 of the
+Financial Regulation applicable to the general bud",the,Financial,0
+en_partut-ud-test,7776,"
+",n applicable to the general budget of the European,Communities shall not apply. The Commission may ad,"n applicable to the general budget of the European
+Communities shall not apply. The Commission may ad",European,Communities,0
+en_partut-ud-test,7804,.,"budget of the European
+Communities shall not apply", The Commission may adopt rules for implementation,"budget of the European
+Communities shall not apply. The Commission may adopt rules for implementation",apply,The,1
+en_partut-ud-test,7855,"
+", The Commission may adopt rules for implementation,of the assistance referred to in paragraph 2. To t," The Commission may adopt rules for implementation
+of the assistance referred to in paragraph 2. To t",implementation,of,0
+en_partut-ud-test,7900,.,"ation
+of the assistance referred to in paragraph 2"," To this end, the Commission shall
+be assisted by ","ation
+of the assistance referred to in paragraph 2. To this end, the Commission shall
+be assisted by ",2,To,1
+en_partut-ud-test,7935,"
+"," in paragraph 2. To this end, the Commission shall",be assisted by a committee. The committee shall ad," in paragraph 2. To this end, the Commission shall
+be assisted by a committee. The committee shall ad",shall,be,0
+en_partut-ud-test,7962,.,"d, the Commission shall
+be assisted by a committee", The committee shall adopt its rules of procedure.,"d, the Commission shall
+be assisted by a committee. The committee shall adopt its rules of procedure.",committee,The,1
+en_partut-ud-test,8012,.,. The committee shall adopt its rules of procedure,"
+This assistance shall fund institution-building p",". The committee shall adopt its rules of procedure.
+This assistance shall fund institution-building p",procedure,This,1
+en_partut-ud-test,8013,"
+", The committee shall adopt its rules of procedure.,This assistance shall fund institution-building pr," The committee shall adopt its rules of procedure.
+This assistance shall fund institution-building pr",,This,0
+en_partut-ud-test,8094,"
+",titution-building projects and limited small-scale,investments ancillary thereto. The appropriations ,"titution-building projects and limited small-scale
+investments ancillary thereto. The appropriations ",small-scale,investments,0
+en_partut-ud-test,8124,.," limited small-scale
+investments ancillary thereto"," The appropriations shall be authorised by the
+bud"," limited small-scale
+investments ancillary thereto. The appropriations shall be authorised by the
+bud",thereto,The,1
+en_partut-ud-test,8171,"
+",eto. The appropriations shall be authorised by the,budgetary authority within the limits of the finan,"eto. The appropriations shall be authorised by the
+budgetary authority within the limits of the finan",the,budgetary,0
+en_partut-ud-test,8238,.,ity within the limits of the financial perspective," One twelfth
+of each annual amount shall be payabl","ity within the limits of the financial perspective. One twelfth
+of each annual amount shall be payabl",perspective,One,1
+en_partut-ud-test,8251,"
+",e limits of the financial perspective. One twelfth,of each annual amount shall be payable to Bulgaria,"e limits of the financial perspective. One twelfth
+of each annual amount shall be payable to Bulgaria",twelfth,of,0
+en_partut-ud-test,8327,"
+",ll be payable to Bulgaria and Romania on the first,working day of each month in the corresponding yea,"ll be payable to Bulgaria and Romania on the first
+working day of each month in the corresponding yea",first,working,0
+en_partut-ud-test,8379,.,orking day of each month in the corresponding year," The lump-sum payments shall
+be used within three ","orking day of each month in the corresponding year. The lump-sum payments shall
+be used within three ",year,The,1
+en_partut-ud-test,8408,"
+",he corresponding year. The lump-sum payments shall,be used within three years from the first payment.,"he corresponding year. The lump-sum payments shall
+be used within three years from the first payment.",shall,be,0
+en_partut-ud-test,8458,.,"
+be used within three years from the first payment"," Any unused or unjustifiably
+spent funds shall be ","
+be used within three years from the first payment. Any unused or unjustifiably
+spent funds shall be ",payment,Any,1
+en_partut-ud-test,8487,"
+",rom the first payment. Any unused or unjustifiably,spent funds shall be recovered by the Commission. ,"rom the first payment. Any unused or unjustifiably
+spent funds shall be recovered by the Commission. ",unjustifiably,spent,0
+en_partut-ud-test,8536,.,"y
+spent funds shall be recovered by the Commission"," The Commission may adopt any
+technical provisions","y
+spent funds shall be recovered by the Commission. The Commission may adopt any
+technical provisions",Commission,The,1
+en_partut-ud-test,8566,"
+",ed by the Commission. The Commission may adopt any,technical provisions necessary for the operation o,"ed by the Commission. The Commission may adopt any
+technical provisions necessary for the operation o",any,technical,0
+en_partut-ud-test,8646,"
+",y for the operation of the temporary Cash-flow and,Schengen Facility. The measures thus decided on sh,"y for the operation of the temporary Cash-flow and
+Schengen Facility. The measures thus decided on sh",and,Schengen,0
+en_partut-ud-test,8664,.,"n of the temporary Cash-flow and
+Schengen Facility", The measures thus decided on shall be applicable ,"n of the temporary Cash-flow and
+Schengen Facility. The measures thus decided on shall be applicable ",Facility,The,1
+en_partut-ud-test,8725,"
+","res thus decided on shall be applicable forthwith,",shall take account of the interest of all parties ,"res thus decided on shall be applicable forthwith,
+shall take account of the interest of all parties ",,shall,0
+en_partut-ud-test,8806,"
+",rest of all parties concerned and shall not entail,frontier controls. Priority shall be given to such,"rest of all parties concerned and shall not entail
+frontier controls. Priority shall be given to such",entail,frontier,0
+en_partut-ud-test,8824,.,"s concerned and shall not entail
+frontier controls", Priority shall be given to such measures as will ,"s concerned and shall not entail
+frontier controls. Priority shall be given to such measures as will ",controls,Priority,1
+en_partut-ud-test,8880,"
+",rity shall be given to such measures as will least,disturb the functioning of the internal market. Su,"rity shall be given to such measures as will least
+disturb the functioning of the internal market. Su",least,disturb,0
+en_partut-ud-test,8927,.,"ast
+disturb the functioning of the internal market"," Such safeguard measures shall
+not be invoked as a","ast
+disturb the functioning of the internal market. Such safeguard measures shall
+not be invoked as a",market,Such,1
+en_partut-ud-test,8958,"
+",the internal market. Such safeguard measures shall,not be invoked as a means of arbitrary discriminat,"the internal market. Such safeguard measures shall
+not be invoked as a means of arbitrary discriminat",shall,not,0
+en_partut-ud-test,9039,"
+",rbitrary discrimination or a disguised restriction,on trade between Member States. The measures shall,"rbitrary discrimination or a disguised restriction
+on trade between Member States. The measures shall",restriction,on,0
+en_partut-ud-test,9070,.,"sguised restriction
+on trade between Member States"," The measures shall be maintained no longer than
+s","sguised restriction
+on trade between Member States. The measures shall be maintained no longer than
+s",States,The,1
+en_partut-ud-test,9119,"
+",s. The measures shall be maintained no longer than,"strictly necessary and, in any case, shall be lift","s. The measures shall be maintained no longer than
+strictly necessary and, in any case, shall be lift",than,strictly,0
+en_partut-ud-test,9190,"
+","nd, in any case, shall be lifted when the relevant",commitment is implemented. They may however be app,"nd, in any case, shall be lifted when the relevant
+commitment is implemented. They may however be app",relevant,commitment,0
+en_partut-ud-test,9216,.,"lifted when the relevant
+commitment is implemented"," They may however be applied beyond the period
+spe","lifted when the relevant
+commitment is implemented. They may however be applied beyond the period
+spe",implemented,They,1
+en_partut-ud-test,9263,"
+",ted. They may however be applied beyond the period,specified in the first paragraph as long as the re,"ted. They may however be applied beyond the period
+specified in the first paragraph as long as the re",period,specified,0
+en_partut-ud-test,9341,"
+",graph as long as the relevant commitments have not,been fulfilled. In response to progress made by th,"graph as long as the relevant commitments have not
+been fulfilled. In response to progress made by th",not,been,0
+en_partut-ud-test,9356,.,"s the relevant commitments have not
+been fulfilled", In response to progress made by the new Member St,"s the relevant commitments have not
+been fulfilled. In response to progress made by the new Member St",fulfilled,In,1
+en_partut-ud-test,9420,"
+",to progress made by the new Member State concerned,"in fulfilling its commitments, the Commission may ","to progress made by the new Member State concerned
+in fulfilling its commitments, the Commission may ",concerned,in,0
+en_partut-ud-test,9492,"
+","mitments, the Commission may adapt the measures as",appropriate. The measures shall be maintained no l,"mitments, the Commission may adapt the measures as
+appropriate. The measures shall be maintained no l",as,appropriate,0
+en_partut-ud-test,9504,.,"e Commission may adapt the measures as
+appropriate", The measures shall be maintained no longer than s,"e Commission may adapt the measures as
+appropriate. The measures shall be maintained no longer than s",appropriate,The,1
+en_partut-ud-test,9572,"
+",ll be maintained no longer than strictly necessary,"and, in any case, shall be lifted when the shortco","ll be maintained no longer than strictly necessary
+and, in any case, shall be lifted when the shortco",necessary,and,0
+en_partut-ud-test,9641,.,shall be lifted when the shortcomings are remedied," They may
+however be applied beyond the period spe","shall be lifted when the shortcomings are remedied. They may
+however be applied beyond the period spe",remedied,They,1
+en_partut-ud-test,9651,"
+",ifted when the shortcomings are remedied. They may,however be applied beyond the period specified in ,"ifted when the shortcomings are remedied. They may
+however be applied beyond the period specified in ",may,however,0
+en_partut-ud-test,9732,"
+",period specified in the first paragraph as long as,these shortcomings persist. A European law of the ,"period specified in the first paragraph as long as
+these shortcomings persist. A European law of the ",as,these,0
+en_partut-ud-test,9759,.,"st paragraph as long as
+these shortcomings persist"," A European law of the Council may extend this
+per","st paragraph as long as
+these shortcomings persist. A European law of the Council may extend this
+per",persist,A,1
+en_partut-ud-test,9806,"
+",ist. A European law of the Council may extend this,period. These measures shall be taken during a per,"ist. A European law of the Council may extend this
+period. These measures shall be taken during a per",this,period,0
+en_partut-ud-test,9813,.,"European law of the Council may extend this
+period", These measures shall be taken during a period of ,"European law of the Council may extend this
+period. These measures shall be taken during a period of ",period,These,1
+en_partut-ud-test,9885,"
+", be taken during a period of three years following,the date of accession and their application shall ," be taken during a period of three years following
+the date of accession and their application shall ",following,the,0
+en_partut-ud-test,9961,., their application shall be limited to that period," The
+European Parliament shall make such adaptatio"," their application shall be limited to that period. The
+European Parliament shall make such adaptatio",period,The,1
+en_partut-ud-test,9966,"
+",r application shall be limited to that period. The,European Parliament shall make such adaptations to,"r application shall be limited to that period. The
+European Parliament shall make such adaptations to",The,European,0
+en_partut-ud-test,10047,"
+", such adaptations to its Rules of Procedure as are,rendered necessary by accession. The Council shall," such adaptations to its Rules of Procedure as are
+rendered necessary by accession. The Council shall",are,rendered,0
+en_partut-ud-test,10079,.,"f Procedure as are
+rendered necessary by accession"," The Council shall make such adaptations to its
+Ru","f Procedure as are
+rendered necessary by accession. The Council shall make such adaptations to its
+Ru",accession,The,1
+en_partut-ud-test,10127,"
+",on. The Council shall make such adaptations to its,Rules of Procedure as are rendered necessary by ac,"on. The Council shall make such adaptations to its
+Rules of Procedure as are rendered necessary by ac",its,Rules,0
+en_partut-ud-test,10185,.,f Procedure as are rendered necessary by accession," A national of each
+new Member State shall be appo","f Procedure as are rendered necessary by accession. A national of each
+new Member State shall be appo",accession,A,1
+en_partut-ud-test,10205,"
+",endered necessary by accession. A national of each,new Member State shall be appointed to the Commiss,"endered necessary by accession. A national of each
+new Member State shall be appointed to the Commiss",each,new,0
+en_partut-ud-test,10279,"
+",be appointed to the Commission as from the date of,accession. The terms of office of the Members thus,"be appointed to the Commission as from the date of
+accession. The terms of office of the Members thus",of,accession,0
+en_partut-ud-test,10289,.,"ed to the Commission as from the date of
+accession", The terms of office of the Members thus appointed,"ed to the Commission as from the date of
+accession. The terms of office of the Members thus appointed",accession,The,1
+en_partut-ud-test,10360,"
+", of the Members thus appointed shall expire at the,same time as those of the Members in office at the," of the Members thus appointed shall expire at the
+same time as those of the Members in office at the",the,same,0
+en_partut-ud-test,10429,., of the Members in office at the time of accession," Two Judges
+shall be appointed to the Court of Jus"," of the Members in office at the time of accession. Two Judges
+shall be appointed to the Court of Jus",accession,Two,1
+en_partut-ud-test,10441,"
+",ers in office at the time of accession. Two Judges,shall be appointed to the Court of Justice and two,"ers in office at the time of accession. Two Judges
+shall be appointed to the Court of Justice and two",Judges,shall,0
+en_partut-ud-test,10521,"
+",rt of Justice and two Judges shall be appointed to,the General Court. The term of office of one of th,"rt of Justice and two Judges shall be appointed to
+the General Court. The term of office of one of th",to,the,0
+en_partut-ud-test,10539,.,"two Judges shall be appointed to
+the General Court", The term of office of one of the Judges of the Co,"two Judges shall be appointed to
+the General Court. The term of office of one of the Judges of the Co",Court,The,1
+en_partut-ud-test,10596,"
+",erm of office of one of the Judges of the Court of,Justice appointed in accordance with paragraph 1 s,"erm of office of one of the Judges of the Court of
+Justice appointed in accordance with paragraph 1 s",of,Justice,0
+en_partut-ud-test,10676,.,ce with paragraph 1 shall expire on 6 October 2009,"
+This Judge shall be chosen by lot. The term of of","ce with paragraph 1 shall expire on 6 October 2009.
+This Judge shall be chosen by lot. The term of of",2009,This,1
+en_partut-ud-test,10677,"
+",e with paragraph 1 shall expire on 6 October 2009.,This Judge shall be chosen by lot. The term of off,"e with paragraph 1 shall expire on 6 October 2009.
+This Judge shall be chosen by lot. The term of off",,This,0
+en_partut-ud-test,10711,.," 6 October 2009.
+This Judge shall be chosen by lot"," The term of office of the other Judge shall
+expir"," 6 October 2009.
+This Judge shall be chosen by lot. The term of office of the other Judge shall
+expir",lot,The,1
+en_partut-ud-test,10756,"
+",y lot. The term of office of the other Judge shall,expire on 6 October 2012. The term of office of on,"y lot. The term of office of the other Judge shall
+expire on 6 October 2012. The term of office of on",shall,expire,0
+en_partut-ud-test,10781,.," of the other Judge shall
+expire on 6 October 2012", The term of office of one of the Judges of the Ge," of the other Judge shall
+expire on 6 October 2012. The term of office of one of the Judges of the Ge",2012,The,1
+en_partut-ud-test,10837,"
+",term of office of one of the Judges of the General,Court appointed in accordance with paragraph 1 sha,"term of office of one of the Judges of the General
+Court appointed in accordance with paragraph 1 sha",General,Court,0
+en_partut-ud-test,10915,.,ce with paragraph 1 shall expire on 31 August 2007,"
+The term of office of the other Judge shall expir","ce with paragraph 1 shall expire on 31 August 2007.
+The term of office of the other Judge shall expir",2007,The,1
+en_partut-ud-test,10916,"
+",e with paragraph 1 shall expire on 31 August 2007.,The term of office of the other Judge shall expire,"e with paragraph 1 shall expire on 31 August 2007.
+The term of office of the other Judge shall expire",,The,0
+en_partut-ud-test,10985,., of the other Judge shall expire on 31 August 2010," The Court
+of Justice shall make such adaptations "," of the other Judge shall expire on 31 August 2010. The Court
+of Justice shall make such adaptations ",2010,The,1
+en_partut-ud-test,10996,"
+",er Judge shall expire on 31 August 2010. The Court,of Justice shall make such adaptations to its Rule,"er Judge shall expire on 31 August 2010. The Court
+of Justice shall make such adaptations to its Rule",Court,of,0
+en_partut-ud-test,11077,"
+",ptations to its Rules of Procedure as are rendered,"necessary by accession. The General Court, in agre","ptations to its Rules of Procedure as are rendered
+necessary by accession. The General Court, in agre",rendered,necessary,0
+en_partut-ud-test,11100,.,"f Procedure as are rendered
+necessary by accession"," The General Court, in agreement with the Court of","f Procedure as are rendered
+necessary by accession. The General Court, in agreement with the Court of",accession,The,1
+en_partut-ud-test,11151,"
+"," The General Court, in agreement with the Court of","Justice, shall make such adaptations to its Rules "," The General Court, in agreement with the Court of
+Justice, shall make such adaptations to its Rules ",of,Justice,0
+en_partut-ud-test,11230,"
+",ptations to its Rules of Procedure as are rendered,necessary by accession. The Rules of Procedure as ,"ptations to its Rules of Procedure as are rendered
+necessary by accession. The Rules of Procedure as ",rendered,necessary,0
+en_partut-ud-test,11253,.,"f Procedure as are rendered
+necessary by accession", The Rules of Procedure as adapted shall require t,"f Procedure as are rendered
+necessary by accession. The Rules of Procedure as adapted shall require t",accession,The,1
+en_partut-ud-test,11306,"
+",he Rules of Procedure as adapted shall require the,consent of the Council. A national of each new Mem,"he Rules of Procedure as adapted shall require the
+consent of the Council. A national of each new Mem",the,consent,0
+en_partut-ud-test,11329,.,"s adapted shall require the
+consent of the Council", A national of each new Member State shall be appo,"s adapted shall require the
+consent of the Council. A national of each new Member State shall be appo",Council,A,1
+en_partut-ud-test,11385,"
+",tional of each new Member State shall be appointed,to the Court of Auditors as from the date of acces,"tional of each new Member State shall be appointed
+to the Court of Auditors as from the date of acces",appointed,to,0
+en_partut-ud-test,11464,"
+",from the date of accession for a term of office of,six years. The terms of office of the members thus,"from the date of accession for a term of office of
+six years. The terms of office of the members thus",of,six,0
+en_partut-ud-test,11474,.,"ate of accession for a term of office of
+six years", The terms of office of the members thus appointed,"ate of accession for a term of office of
+six years. The terms of office of the members thus appointed",years,The,1
+en_partut-ud-test,11545,"
+", of the members thus appointed shall expire at the,same time as those of the members in office at the," of the members thus appointed shall expire at the
+same time as those of the members in office at the",the,same,0
+en_partut-ud-test,11614,., of the members in office at the time of accession," The terms
+of office of the newly appointed member"," of the members in office at the time of accession. The terms
+of office of the newly appointed member",accession,The,1
+en_partut-ud-test,11625,"
+",bers in office at the time of accession. The terms,of office of the newly appointed members shall exp,"bers in office at the time of accession. The terms
+of office of the newly appointed members shall exp",terms,of,0
+en_partut-ud-test,11705,"
+",ted members shall expire at the same time as those,of the members in office at the time of accession.,"ted members shall expire at the same time as those
+of the members in office at the time of accession.",those,of,0
+en_partut-ud-test,11755,.,"
+of the members in office at the time of accession"," They shall communicate those
+measures to the Comm","
+of the members in office at the time of accession. They shall communicate those
+measures to the Comm",accession,They,1
+en_partut-ud-test,11785,"
+",he time of accession. They shall communicate those,measures to the Commission by the date of accessio,"he time of accession. They shall communicate those
+measures to the Commission by the date of accessio",those,measures,0
+en_partut-ud-test,11866,"
+","the date of accession or, where later, by the time",limit provided for in this Protocol. The measures ,"the date of accession or, where later, by the time
+limit provided for in this Protocol. The measures ",time,limit,0
+en_partut-ud-test,11902,.,"r, by the time
+limit provided for in this Protocol"," The measures shall be adopted according to
+the vo","r, by the time
+limit provided for in this Protocol. The measures shall be adopted according to
+the vo",Protocol,The,1
+en_partut-ud-test,11946,"
+",otocol. The measures shall be adopted according to,the voting rules governing the adoption of the act,"otocol. The measures shall be adopted according to
+the voting rules governing the adoption of the act",to,the,0
+en_partut-ud-test,12020,"
+",ing the adoption of the act from which a temporary,derogation is sought. Where these derogations are ,"ing the adoption of the act from which a temporary
+derogation is sought. Where these derogations are ",temporary,derogation,0
+en_partut-ud-test,12041,.,"he act from which a temporary
+derogation is sought", Where these derogations are adopted after accessi,"he act from which a temporary
+derogation is sought. Where these derogations are adopted after accessi",sought,Where,1
+en_partut-ud-test,12099,"
+",these derogations are adopted after accession they,may be applied as from the date of accession. Wher,"these derogations are adopted after accession they
+may be applied as from the date of accession. Wher",they,may,0
+en_partut-ud-test,12144,.," they
+may be applied as from the date of accession"," Where these adaptations are
+adopted after accessi"," they
+may be applied as from the date of accession. Where these adaptations are
+adopted after accessi",accession,Where,1
+en_partut-ud-test,12173,"
+",the date of accession. Where these adaptations are,adopted after accession they may be applied as fro,"the date of accession. Where these adaptations are
+adopted after accession they may be applied as fro",are,adopted,0
+en_partut-ud-test,12247,., they may be applied as from the date of accession," They
+shall be published in the Official Journal o"," they may be applied as from the date of accession. They
+shall be published in the Official Journal o",accession,They,1
+en_partut-ud-test,12253,"
+",may be applied as from the date of accession. They,shall be published in the Official Journal of the ,"may be applied as from the date of accession. They
+shall be published in the Official Journal of the ",They,shall,0
+en_partut-ud-test,12334,"
+",cial Journal of the European Union if the texts in,the present languages were so published. Annexes I,"cial Journal of the European Union if the texts in
+the present languages were so published. Annexes I",in,the,0
+en_partut-ud-test,12374,.,"e texts in
+the present languages were so published"," Annexes I to IX and the Appendices
+thereto shall ","e texts in
+the present languages were so published. Annexes I to IX and the Appendices
+thereto shall ",published,Annexes,1
+en_partut-ud-test,12410,"
+",e so published. Annexes I to IX and the Appendices,thereto shall form an integral part of this Protoc,"e so published. Annexes I to IX and the Appendices
+thereto shall form an integral part of this Protoc",Appendices,thereto,0
+en_partut-ud-test,12463,.,ereto shall form an integral part of this Protocol," The text of that Treaty,
+drawn up in the Bulgaria","ereto shall form an integral part of this Protocol. The text of that Treaty,
+drawn up in the Bulgaria",Protocol,The,1
+en_partut-ud-test,12489,"
+","al part of this Protocol. The text of that Treaty,","drawn up in the Bulgarian and Romanian languages, ","al part of this Protocol. The text of that Treaty,
+drawn up in the Bulgarian and Romanian languages, ",,drawn,0
+en_partut-ud-test,12564,"
+","n and Romanian languages, shall be annexed to this",Protocol. Those texts shall be authentic under the,"n and Romanian languages, shall be annexed to this
+Protocol. Those texts shall be authentic under the",this,Protocol,0
+en_partut-ud-test,12573,.,"anian languages, shall be annexed to this
+Protocol", Those texts shall be authentic under the same con,"anian languages, shall be annexed to this
+Protocol. Those texts shall be authentic under the same con",Protocol,Those,1
+en_partut-ud-test,12644,"
+",e authentic under the same conditions as the texts,"of the Treaty referred to in the first paragraph, ","e authentic under the same conditions as the texts
+of the Treaty referred to in the first paragraph, ",texts,of,0
+en_partut-ud-test,12718,"
+","to in the first paragraph, drawn up in the present",languages. As long as this Agreement is not yet co,"to in the first paragraph, drawn up in the present
+languages. As long as this Agreement is not yet co",present,languages,0
+en_partut-ud-test,12728,.,"first paragraph, drawn up in the present
+languages"," As long as this Agreement is not yet concluded, i","first paragraph, drawn up in the present
+languages. As long as this Agreement is not yet concluded, i",languages,As,1
+en_partut-ud-test,12799,"
+","eement is not yet concluded, insofar as it applies",provisionally. A national base area for each produ,"eement is not yet concluded, insofar as it applies
+provisionally. A national base area for each produ",applies,provisionally,0
+en_partut-ud-test,12813,.,"yet concluded, insofar as it applies
+provisionally", A national base area for each producing Member St,"yet concluded, insofar as it applies
+provisionally. A national base area for each producing Member St",provisionally,A,1
+en_partut-ud-test,12877,"
+",ase area for each producing Member State is hereby,"established. However, for France two base areas ar","ase area for each producing Member State is hereby
+established. However, for France two base areas ar",hereby,established,0
+en_partut-ud-test,12889,.," each producing Member State is hereby
+established"," However, for France two base areas are establishe"," each producing Member State is hereby
+established. However, for France two base areas are establishe",established,However,1
+en_partut-ud-test,12941,.,"However, for France two base areas are established"," A maximum
+guaranteed area of 829229 ha is hereby ","However, for France two base areas are established. A maximum
+guaranteed area of 829229 ha is hereby ",established,A,1
+en_partut-ud-test,12952,"
+",r France two base areas are established. A maximum,guaranteed area of 829229 ha is hereby established,"r France two base areas are established. A maximum
+guaranteed area of 829229 ha is hereby established",maximum,guaranteed,0
+en_partut-ud-test,13003,.,guaranteed area of 829229 ha is hereby established," If such a decision is taken
+before the date of ac","guaranteed area of 829229 ha is hereby established. If such a decision is taken
+before the date of ac",established,If,1
+en_partut-ud-test,13032,"
+",is hereby established. If such a decision is taken,"before the date of accession, the decision will on","is hereby established. If such a decision is taken
+before the date of accession, the decision will on",taken,before,0
+en_partut-ud-test,13111,"
+",", the decision will only come into effect upon the",date of accession. the aid measures shall be commu,", the decision will only come into effect upon the
+date of accession. the aid measures shall be commu",the,date,0
+en_partut-ud-test,13129,.,"l only come into effect upon the
+date of accession", the aid measures shall be communicated to the Com,"l only come into effect upon the
+date of accession. the aid measures shall be communicated to the Com",accession,the,1
+en_partut-ud-test,13187,"
+",d measures shall be communicated to the Commission,within four months of the date of accession. This ,"d measures shall be communicated to the Commission
+within four months of the date of accession. This ",Commission,within,0
+en_partut-ud-test,13231,.,"ission
+within four months of the date of accession"," This communication shall include
+information on t","ission
+within four months of the date of accession. This communication shall include
+information on t",accession,This,1
+en_partut-ud-test,13265,"
+",ate of accession. This communication shall include,information on the legal basis for each measure. A,"ate of accession. This communication shall include
+information on the legal basis for each measure. A",include,information,0
+en_partut-ud-test,13313,.,"de
+information on the legal basis for each measure"," After that date, any aid found
+to be incompatible","de
+information on the legal basis for each measure. After that date, any aid found
+to be incompatible",measure,After,1
+en_partut-ud-test,13345,"
+","s for each measure. After that date, any aid found",to be incompatible with those guidelines shall be ,"s for each measure. After that date, any aid found
+to be incompatible with those guidelines shall be ",found,to,0
+en_partut-ud-test,13417,.,th those guidelines shall be considered as new aid," The
+stocks referred to in paragraph 1 shall be de","th those guidelines shall be considered as new aid. The
+stocks referred to in paragraph 1 shall be de",aid,The,1
+en_partut-ud-test,13422,"
+",ose guidelines shall be considered as new aid. The,stocks referred to in paragraph 1 shall be deducte,"ose guidelines shall be considered as new aid. The
+stocks referred to in paragraph 1 shall be deducte",The,stocks,0
+en_partut-ud-test,13502,"
+",ph 1 shall be deducted from the quantity exceeding,the normal carryover of stocks. Such companies bri,"ph 1 shall be deducted from the quantity exceeding
+the normal carryover of stocks. Such companies bri",exceeding,the,0
+en_partut-ud-test,13533,.," quantity exceeding
+the normal carryover of stocks"," Such companies bring technologically advanced
+imp"," quantity exceeding
+the normal carryover of stocks. Such companies bring technologically advanced
+imp",stocks,Such,1
+en_partut-ud-test,13580,"
+",cks. Such companies bring technologically advanced,imports and new management techniques that foster ,"cks. Such companies bring technologically advanced
+imports and new management techniques that foster ",advanced,imports,0
+en_partut-ud-test,13656,"
+","t techniques that foster growth in domestic firms,","while spurring industrial modernization. Medicine,","t techniques that foster growth in domestic firms,
+while spurring industrial modernization. Medicine,",,while,0
+en_partut-ud-test,13696,.,"tic firms,
+while spurring industrial modernization"," Medicine, however affordable, is of no
+value if n","tic firms,
+while spurring industrial modernization. Medicine, however affordable, is of no
+value if n",modernization,Medicine,1
+en_partut-ud-test,13736,"
+","ernization. Medicine, however affordable, is of no",value if no one is available to prescribe or admin,"ernization. Medicine, however affordable, is of no
+value if no one is available to prescribe or admin",no,value,0
+en_partut-ud-test,13795,., no one is available to prescribe or administer it," Here, too, Germany
+should take the lead. And Chin"," no one is available to prescribe or administer it. Here, too, Germany
+should take the lead. And Chin",it,Here,1
+en_partut-ud-test,13815,"
+"," to prescribe or administer it. Here, too, Germany",should take the lead. And China relied heavily on ," to prescribe or administer it. Here, too, Germany
+should take the lead. And China relied heavily on ",Germany,should,0
+en_partut-ud-test,13836,.,"nister it. Here, too, Germany
+should take the lead", And China relied heavily on the US dollar to anch,"nister it. Here, too, Germany
+should take the lead. And China relied heavily on the US dollar to anch",lead,And,1
+en_partut-ud-test,13893,"
+",hina relied heavily on the US dollar to anchor its,"undervalued currency, allowing it to boost its exp","hina relied heavily on the US dollar to anchor its
+undervalued currency, allowing it to boost its exp",its,undervalued,0
+en_partut-ud-test,13963,.,"y, allowing it to boost its export competitiveness"," In the
+end, however, this codependency was a marr","y, allowing it to boost its export competitiveness. In the
+end, however, this codependency was a marr",competitiveness,In,1
+en_partut-ud-test,13971,"
+",ing it to boost its export competitiveness. In the,"end, however, this codependency was a marriage of ","ing it to boost its export competitiveness. In the
+end, however, this codependency was a marriage of ",the,end,0
+en_partut-ud-test,14046,.,"endency was a marriage of convenience, not of love"," If
+America remains stuck in its under-saving ways","endency was a marriage of convenience, not of love. If
+America remains stuck in its under-saving ways",love,If,1
+en_partut-ud-test,14050,"
+","ncy was a marriage of convenience, not of love. If",America remains stuck in its under-saving ways but,"ncy was a marriage of convenience, not of love. If
+America remains stuck in its under-saving ways but",If,America,0
+en_partut-ud-test,14130,"
+",under-saving ways but finds itself without Chinese,"goods and capital, it will suffer higher inflation","under-saving ways but finds itself without Chinese
+goods and capital, it will suffer higher inflation",Chinese,goods,0
+en_partut-ud-test,14211,"
+","fer higher inflation, rising interest rates, and a","weaker dollar. Though the likely answer is yes, th","fer higher inflation, rising interest rates, and a
+weaker dollar. Though the likely answer is yes, th",a,weaker,0
+en_partut-ud-test,14225,.,"lation, rising interest rates, and a
+weaker dollar"," Though the likely answer is yes, the downside ris","lation, rising interest rates, and a
+weaker dollar. Though the likely answer is yes, the downside ris",dollar,Though,1
+en_partut-ud-test,14290,"
+","kely answer is yes, the downside risks seem higher",than they did a few decades ago. All of these prob,"kely answer is yes, the downside risks seem higher
+than they did a few decades ago. All of these prob",higher,than,0
+en_partut-ud-test,14322,.," risks seem higher
+than they did a few decades ago"," All of these problems have solutions, at least
+in"," risks seem higher
+than they did a few decades ago. All of these problems have solutions, at least
+in",ago,All,1
+en_partut-ud-test,14370,"
+","go. All of these problems have solutions, at least",in the short to medium run. Or perhaps this innova,"go. All of these problems have solutions, at least
+in the short to medium run. Or perhaps this innova",least,in,0
+en_partut-ud-test,14397,.,"ave solutions, at least
+in the short to medium run", Or perhaps this innovation is less significant th,"ave solutions, at least
+in the short to medium run. Or perhaps this innovation is less significant th",run,Or,1
+en_partut-ud-test,14450,"
+",r perhaps this innovation is less significant than,its enthusiasts believe. It is telling that most o,"r perhaps this innovation is less significant than
+its enthusiasts believe. It is telling that most o",than,its,0
+en_partut-ud-test,14474,.,"n is less significant than
+its enthusiasts believe"," It is telling that most of the symposium's 47
+par","n is less significant than
+its enthusiasts believe. It is telling that most of the symposium's 47
+par",believe,It,1
+en_partut-ud-test,14521,"
+",eve. It is telling that most of the symposium's 47,participants – influential public- and private-sec,"eve. It is telling that most of the symposium's 47
+participants – influential public- and private-sec",47,participants,0
+en_partut-ud-test,14599,"
+",public- and private-sector figures from around the,world – were unaware of the extent to which a moth,"public- and private-sector figures from around the
+world – were unaware of the extent to which a moth",the,world,0
+en_partut-ud-test,14676,"
+",e extent to which a mother's nutrition affects her,offspring's wellbeing. This reflects a fundamental,"e extent to which a mother's nutrition affects her
+offspring's wellbeing. This reflects a fundamental",her,offspring's,0
+en_partut-ud-test,14698,.,"ther's nutrition affects her
+offspring's wellbeing", This reflects a fundamental failing on the part o,"ther's nutrition affects her
+offspring's wellbeing. This reflects a fundamental failing on the part o",wellbeing,This,1
+en_partut-ud-test,14754,"
+", reflects a fundamental failing on the part of the,scientific community to relay relevant data to dec," reflects a fundamental failing on the part of the
+scientific community to relay relevant data to dec",the,scientific,0
+en_partut-ud-test,14817,.,ommunity to relay relevant data to decision-makers," In South Korea,
+Japan, and elsewhere, developing ","ommunity to relay relevant data to decision-makers. In South Korea,
+Japan, and elsewhere, developing ",decision-makers,In,1
+en_partut-ud-test,14834,"
+"," relevant data to decision-makers. In South Korea,","Japan, and elsewhere, developing and maximizing wo"," relevant data to decision-makers. In South Korea,
+Japan, and elsewhere, developing and maximizing wo",,Japan,0
+en_partut-ud-test,14913,"
+",ping and maximizing women's potential will require,"comprehensive education and labor-market reforms, ","ping and maximizing women's potential will require
+comprehensive education and labor-market reforms, ",require,comprehensive,0
+en_partut-ud-test,14993,"
+","abor-market reforms, as well as structural change,",particularly on the services side of the economy. ,"abor-market reforms, as well as structural change,
+particularly on the services side of the economy. ",,particularly,0
+en_partut-ud-test,15042,.,",
+particularly on the services side of the economy"," In the realm of international
+economics, being pe",",
+particularly on the services side of the economy. In the realm of international
+economics, being pe",economy,In,1
+en_partut-ud-test,15073,"
+",side of the economy. In the realm of international,"economics, being perceived as boring confers power","side of the economy. In the realm of international
+economics, being perceived as boring confers power",international,economics,0
+en_partut-ud-test,15153,"
+", boring confers power to the extent that it allows,major decisions to be made without a great deal of," boring confers power to the extent that it allows
+major decisions to be made without a great deal of",allows,major,0
+en_partut-ud-test,15222,., be made without a great deal of external scrutiny," Nothing
+good would ever happen – and certainly no"," be made without a great deal of external scrutiny. Nothing
+good would ever happen – and certainly no",scrutiny,Nothing,1
+en_partut-ud-test,15231,"
+",without a great deal of external scrutiny. Nothing,good would ever happen – and certainly not for the,"without a great deal of external scrutiny. Nothing
+good would ever happen – and certainly not for the",Nothing,good,0
+en_partut-ud-test,15285,.,d would ever happen – and certainly not for the US," These countries' global
+economic and financial si","d would ever happen – and certainly not for the US. These countries' global
+economic and financial si",US,These,1
+en_partut-ud-test,15310,"
+", certainly not for the US. These countries' global,economic and financial significance has grown rapi," certainly not for the US. These countries' global
+economic and financial significance has grown rapi",global,economic,0
+en_partut-ud-test,15390,"
+","icance has grown rapidly, yet they have relatively",little representation at the Fund. A package of re,"icance has grown rapidly, yet they have relatively
+little representation at the Fund. A package of re",relatively,little,0
+en_partut-ud-test,15424,.," have relatively
+little representation at the Fund"," A package of reforms has been agreed. In
+effect, "," have relatively
+little representation at the Fund. A package of reforms has been agreed. In
+effect, ",Fund,A,1
+en_partut-ud-test,15462,., at the Fund. A package of reforms has been agreed," In
+effect, the administration tried to make the I"," at the Fund. A package of reforms has been agreed. In
+effect, the administration tried to make the I",agreed,In,1
+en_partut-ud-test,15466,"
+",the Fund. A package of reforms has been agreed. In,"effect, the administration tried to make the IMF m","the Fund. A package of reforms has been agreed. In
+effect, the administration tried to make the IMF m",In,effect,0
+en_partut-ud-test,15546,"
+","ied to make the IMF more interesting, particularly",to encourage Republicans in the House of Represent,"ied to make the IMF more interesting, particularly
+to encourage Republicans in the House of Represent",particularly,to,0
+en_partut-ud-test,15626,.,he House of Representatives to support the reforms,"
+The latest indications are that the Republicans w","he House of Representatives to support the reforms.
+The latest indications are that the Republicans w",reforms,The,1
+en_partut-ud-test,15627,"
+",e House of Representatives to support the reforms.,The latest indications are that the Republicans wi,"e House of Representatives to support the reforms.
+The latest indications are that the Republicans wi",,The,0
+en_partut-ud-test,15698,.,ns are that the Republicans will not be so enticed," Not an
+inch. And yet, as Ukrainians work to rebui","ns are that the Republicans will not be so enticed. Not an
+inch. And yet, as Ukrainians work to rebui",enticed,Not,1
+en_partut-ud-test,15706,"
+",hat the Republicans will not be so enticed. Not an,"inch. And yet, as Ukrainians work to rebuild our c","hat the Republicans will not be so enticed. Not an
+inch. And yet, as Ukrainians work to rebuild our c",an,inch,0
+en_partut-ud-test,15711,.,"he Republicans will not be so enticed. Not an
+inch"," And yet, as Ukrainians work to rebuild our countr","he Republicans will not be so enticed. Not an
+inch. And yet, as Ukrainians work to rebuild our countr",inch,And,1
+en_partut-ud-test,15776,"
+",krainians work to rebuild our country after Viktor,"Yanukovych's predatory rule, we are facing a new t","krainians work to rebuild our country after Viktor
+Yanukovych's predatory rule, we are facing a new t",Viktor,Yanukovych's,0
+en_partut-ud-test,15857,"
+","e are facing a new threat, in the form of a ""peace","offensive"" – that old staple of Soviet diplomacy d","e are facing a new threat, in the form of a ""peace
+offensive"" – that old staple of Soviet diplomacy d",peace,offensive,0
+en_partut-ud-test,15936,"
+", of Soviet diplomacy designed to undermine Western,resolve. If there is no oppression of Russian spea," of Soviet diplomacy designed to undermine Western
+resolve. If there is no oppression of Russian spea",Western,resolve,0
+en_partut-ud-test,15944,.,"et diplomacy designed to undermine Western
+resolve", If there is no oppression of Russian speakers in ,"et diplomacy designed to undermine Western
+resolve. If there is no oppression of Russian speakers in ",resolve,If,1
+en_partut-ud-test,16015,"
+","ession of Russian speakers in Ukraine, there is no",reason to change the country's political structure,"ession of Russian speakers in Ukraine, there is no
+reason to change the country's political structure",no,reason,0
+en_partut-ud-test,16066,.,reason to change the country's political structure," When it comes to genetic
+engineering, however, sc","reason to change the country's political structure. When it comes to genetic
+engineering, however, sc",structure,When,1
+en_partut-ud-test,16092,"
+",ry's political structure. When it comes to genetic,"engineering, however, science seems to matter less","ry's political structure. When it comes to genetic
+engineering, however, science seems to matter less",genetic,engineering,0
+en_partut-ud-test,16157,.,"owever, science seems to matter less than politics"," After all,
+establishing a genuine fiscal union wo","owever, science seems to matter less than politics. After all,
+establishing a genuine fiscal union wo",politics,After,1
+en_partut-ud-test,16169,"
+","nce seems to matter less than politics. After all,",establishing a genuine fiscal union would require ,"nce seems to matter less than politics. After all,
+establishing a genuine fiscal union would require ",,establishing,0
+en_partut-ud-test,16249,"
+", union would require strong political commitment –,and considerable legwork. His time at Vendôme is r," union would require strong political commitment –
+and considerable legwork. His time at Vendôme is r",,and,0
+en_partut-ud-test,16274,.,"ng political commitment –
+and considerable legwork", His time at Vendôme is reflected in Louis Lambert,"ng political commitment –
+and considerable legwork. His time at Vendôme is reflected in Louis Lambert",legwork,His,1
+en_partut-ud-test,16330,"
+","time at Vendôme is reflected in Louis Lambert, his",1832 novel about a young boy studying at an Orator,"time at Vendôme is reflected in Louis Lambert, his
+1832 novel about a young boy studying at an Orator",his,1832,0
+en_partut-ud-test,16410,.,studying at an Oratorian grammar school at Vendôme,"
+as Robb explained: A symbolic inheritance. In the","studying at an Oratorian grammar school at Vendôme.
+as Robb explained: A symbolic inheritance. In the",Vendôme,as,1
+en_partut-ud-test,16411,"
+",tudying at an Oratorian grammar school at Vendôme.,as Robb explained: A symbolic inheritance. In the ,"tudying at an Oratorian grammar school at Vendôme.
+as Robb explained: A symbolic inheritance. In the ",,as,0
+en_partut-ud-test,16453,.,"Vendôme.
+as Robb explained: A symbolic inheritance"," In the end, his health fails and he
+is consumed b","Vendôme.
+as Robb explained: A symbolic inheritance. In the end, his health fails and he
+is consumed b",inheritance,In,1
+en_partut-ud-test,16490,"
+","c inheritance. In the end, his health fails and he",is consumed by his own confusion. Their length was,"c inheritance. In the end, his health fails and he
+is consumed by his own confusion. Their length was",he,is,1
+en_partut-ud-test,16523,.,"alth fails and he
+is consumed by his own confusion"," Their length was not predetermined. His
+preferred","alth fails and he
+is consumed by his own confusion. Their length was not predetermined. His
+preferred",confusion,Their,1
+en_partut-ud-test,16559,., own confusion. Their length was not predetermined," His
+preferred method was to eat a light meal at f"," own confusion. Their length was not predetermined. His
+preferred method was to eat a light meal at f",predetermined,His,1
+en_partut-ud-test,16564,"
+",confusion. Their length was not predetermined. His,preferred method was to eat a light meal at five o,"confusion. Their length was not predetermined. His
+preferred method was to eat a light meal at five o",His,preferred,0
+en_partut-ud-test,16643,"
+","a light meal at five or six in the afternoon, then","sleep until midnight. Although Balzac was ""by turn","a light meal at five or six in the afternoon, then
+sleep until midnight. Although Balzac was ""by turn",then,sleep,0
+en_partut-ud-test,16664,.,"or six in the afternoon, then
+sleep until midnight"," Although Balzac was ""by turns a hermit and a vagr","or six in the afternoon, then
+sleep until midnight. Although Balzac was ""by turns a hermit and a vagr",midnight,Although,1
+en_partut-ud-test,16723,"
+","h Balzac was ""by turns a hermit and a vagrant"", he",managed to stay connected to the social world whic,"h Balzac was ""by turns a hermit and a vagrant"", he
+managed to stay connected to the social world whic",he,managed,0
+en_partut-ud-test,16797,.,ed to the social world which nourished his writing," His
+health deteriorated on the way, and Ewelina w","ed to the social world which nourished his writing. His
+health deteriorated on the way, and Ewelina w",writing,His,1
+en_partut-ud-test,16802,"
+", the social world which nourished his writing. His,"health deteriorated on the way, and Ewelina wrote "," the social world which nourished his writing. His
+health deteriorated on the way, and Ewelina wrote ",His,health,0
+en_partut-ud-test,16881,"
+","ay, and Ewelina wrote to her daughter about Balzac","being ""in a state of extreme weakness"" and ""sweati","ay, and Ewelina wrote to her daughter about Balzac
+being ""in a state of extreme weakness"" and ""sweati",Balzac,being,0
+en_partut-ud-test,16945,.,"tate of extreme weakness"" and ""sweating profusely"""," Balzac sought
+to present his characters as real p","tate of extreme weakness"" and ""sweating profusely"". Balzac sought
+to present his characters as real p",,Balzac,1
+en_partut-ud-test,16960,"
+"," weakness"" and ""sweating profusely"". Balzac sought","to present his characters as real people, neither "," weakness"" and ""sweating profusely"". Balzac sought
+to present his characters as real people, neither ",sought,to,0
+en_partut-ud-test,17041,"
+","eal people, neither fully good nor fully evil, but","fully human. As he did with the people around him,","eal people, neither fully good nor fully evil, but
+fully human. As he did with the people around him,",but,fully,0
+en_partut-ud-test,17053,.,"neither fully good nor fully evil, but
+fully human"," As he did with the people around him, Balzac stud","neither fully good nor fully evil, but
+fully human. As he did with the people around him, Balzac stud",human,As,1
+en_partut-ud-test,17120,"
+","the people around him, Balzac studied these places","in depth, traveling to remote locations and survey","the people around him, Balzac studied these places
+in depth, traveling to remote locations and survey",places,in,0
+en_partut-ud-test,17200,"
+", locations and surveying notes that he had made on,"previous visits. ""The artist of the Comédie Humain"," locations and surveying notes that he had made on
+previous visits. ""The artist of the Comédie Humain",on,previous,0
+en_partut-ud-test,17216,.,"urveying notes that he had made on
+previous visits"," ""The artist of the Comédie Humaine,"" he wrote, ""i","urveying notes that he had made on
+previous visits. ""The artist of the Comédie Humaine,"" he wrote, ""i",visits,,1
+en_partut-ud-test,17273,"
+","artist of the Comédie Humaine,"" he wrote, ""is half","smothered by the historian. ""Balzac has received h","artist of the Comédie Humaine,"" he wrote, ""is half
+smothered by the historian. ""Balzac has received h",half,smothered,0
+en_partut-ud-test,17300,.,"ne,"" he wrote, ""is half
+smothered by the historian"," ""Balzac has received high praise from critics as
+","ne,"" he wrote, ""is half
+smothered by the historian. ""Balzac has received high praise from critics as
+",historian,,1
+en_partut-ud-test,17350,"
+",". ""Balzac has received high praise from critics as",diverse as Walter Benjamin and Camille Paglia. It ,". ""Balzac has received high praise from critics as
+diverse as Walter Benjamin and Camille Paglia. It ",as,diverse,0
+en_partut-ud-test,17396,.,"s as
+diverse as Walter Benjamin and Camille Paglia"," It is not known exactly when
+Shakespeare began wr","s as
+diverse as Walter Benjamin and Camille Paglia. It is not known exactly when
+Shakespeare began wr",Paglia,It,1
+en_partut-ud-test,17426,"
+",n and Camille Paglia. It is not known exactly when,"Shakespeare began writing, but contemporary allusi","n and Camille Paglia. It is not known exactly when
+Shakespeare began writing, but contemporary allusi",when,Shakespeare,0
+en_partut-ud-test,17495,"
+","writing, but contemporary allusions and records of",performances show that several of his plays were o,"writing, but contemporary allusions and records of
+performances show that several of his plays were o",of,performances,0
+en_partut-ud-test,17572,.,eral of his plays were on the London stage by 1592,"
+Shakespeare was buried in the chancel of the Holy","eral of his plays were on the London stage by 1592.
+Shakespeare was buried in the chancel of the Holy",1592,Shakespeare,1
+en_partut-ud-test,17573,"
+",ral of his plays were on the London stage by 1592.,Shakespeare was buried in the chancel of the Holy ,"ral of his plays were on the London stage by 1592.
+Shakespeare was buried in the chancel of the Holy ",,Shakespeare,0
+en_partut-ud-test,17653,"
+", chancel of the Holy Trinity Church two days after,his death. The epitaph carved into the stone slab ," chancel of the Holy Trinity Church two days after
+his death. The epitaph carved into the stone slab ",after,his,0
+en_partut-ud-test,17663,.,"f the Holy Trinity Church two days after
+his death", The epitaph carved into the stone slab covering h,"f the Holy Trinity Church two days after
+his death. The epitaph carved into the stone slab covering h",death,The,1
+en_partut-ud-test,17733,"
+", into the stone slab covering his grave includes a,"curse against moving his bones, which was carefull"," into the stone slab covering his grave includes a
+curse against moving his bones, which was carefull",a,curse,0
+en_partut-ud-test,17812,"
+","es, which was carefully avoided during restoration",of the church in 2008. Shakespeare collaborated on,"es, which was carefully avoided during restoration
+of the church in 2008. Shakespeare collaborated on",restoration,of,0
+en_partut-ud-test,17834,.,"y avoided during restoration
+of the church in 2008", Shakespeare collaborated on two further surviving,"y avoided during restoration
+of the church in 2008. Shakespeare collaborated on two further surviving",2008,Shakespeare,1
+en_partut-ud-test,17892,"
+","peare collaborated on two further surviving plays,","Henry VIII and The Two Noble Kinsmen, probably wit","peare collaborated on two further surviving plays,
+Henry VIII and The Two Noble Kinsmen, probably wit",,Henry,0
+en_partut-ud-test,17958,.,"The Two Noble Kinsmen, probably with John Fletcher"," After Hamlet,
+Shakespeare varied his poetic style","The Two Noble Kinsmen, probably with John Fletcher. After Hamlet,
+Shakespeare varied his poetic style",Fletcher,After,1
+en_partut-ud-test,17973,"
+","insmen, probably with John Fletcher. After Hamlet,","Shakespeare varied his poetic style further, parti","insmen, probably with John Fletcher. After Hamlet,
+Shakespeare varied his poetic style further, parti",,Shakespeare,0
+en_partut-ud-test,18053,"
+"," style further, particularly in the more emotional",passages of the late tragedies. In Shakespeare's l," style further, particularly in the more emotional
+passages of the late tragedies. In Shakespeare's l",emotional,passages,0
+en_partut-ud-test,18084,.," the more emotional
+passages of the late tragedies"," In Shakespeare's late romances, he deliberately
+r"," the more emotional
+passages of the late tragedies. In Shakespeare's late romances, he deliberately
+r",tragedies,In,1
+en_partut-ud-test,18133,"
+","s. In Shakespeare's late romances, he deliberately","returned to a more artificial style, which emphasi","s. In Shakespeare's late romances, he deliberately
+returned to a more artificial style, which emphasi",deliberately,returned,0
+en_partut-ud-test,18211,.,"al style, which emphasised the illusion of theatre","
+In the 18th and 19th centuries, his reputation al","al style, which emphasised the illusion of theatre.
+In the 18th and 19th centuries, his reputation al",theatre,In,1
+en_partut-ud-test,18212,"
+","l style, which emphasised the illusion of theatre.","In the 18th and 19th centuries, his reputation als","l style, which emphasised the illusion of theatre.
+In the 18th and 19th centuries, his reputation als",,In,0
+en_partut-ud-test,18278,.," 19th centuries, his reputation also spread abroad"," Only a small
+minority of academics believe there "," 19th centuries, his reputation also spread abroad. Only a small
+minority of academics believe there ",abroad,Only,1
+en_partut-ud-test,18292,"
+","s, his reputation also spread abroad. Only a small",minority of academics believe there is reason to q,"s, his reputation also spread abroad. Only a small
+minority of academics believe there is reason to q",small,minority,0
+en_partut-ud-test,18366,"
+",elieve there is reason to question the traditional,"attribution, but interest in the subject, particul","elieve there is reason to question the traditional
+attribution, but interest in the subject, particul",traditional,attribution,0
+en_partut-ud-test,18445,"
+"," the subject, particularly the Oxfordian theory of","Shakespeare authorship, continues into the 21st ce"," the subject, particularly the Oxfordian theory of
+Shakespeare authorship, continues into the 21st ce",of,Shakespeare,0
+en_partut-ud-test,18501,.,"speare authorship, continues into the 21st century"," 
+","speare authorship, continues into the 21st century. 
 ",century,,1
+en_partut-ud-test,18503,"
+","eare authorship, continues into the 21st century. ",,"eare authorship, continues into the 21st century. 
+",,,0

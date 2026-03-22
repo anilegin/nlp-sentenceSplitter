@@ -7,7 +7,9 @@ import pandas as pd
 class SentenceSplitPreprocessor:
     def __init__(self, eos_token="<EOS>", candidate_punct=None, window=50):
         self.eos_token = eos_token
-        self.candidate_punct = candidate_punct or {".", "?", "!"}
+        
+        ### also added "\n" to the default set of candidate punctuation
+        self.candidate_punct = candidate_punct or {".", "?", "!", "\n"}
 
         self.window = window
 
@@ -55,7 +57,8 @@ class SentenceSplitPreprocessor:
     def extract_clean_text_and_boundaries(self, raw_text):
         clean_chars = []
         boundary_punct_indices = set()
-        non_punct_boundary_indices = []
+        
+        non_punct_boundary_indices = set()
 
         i = 0
         while i < len(raw_text):
@@ -66,7 +69,7 @@ class SentenceSplitPreprocessor:
                     boundary_punct_indices.add(boundary_idx)
                 else:
                     # boundary exists, but not attached to . ? !
-                    non_punct_boundary_indices.append(len(clean_chars))
+                    non_punct_boundary_indices.add(len(clean_chars))
 
                 # remove eos completely from model-visible text
                 i += len(self.eos_token)
@@ -77,8 +80,20 @@ class SentenceSplitPreprocessor:
         clean_text = "".join(clean_chars)
         return clean_text, boundary_punct_indices, non_punct_boundary_indices
 
-    def extract_candidates(self, clean_text, boundary_punct_indices, doc_id):
+    def extract_candidates(self, clean_text, boundary_punct_indices, non_punct_boundary_indices, doc_id):
         rows = []
+        
+        layout_boundaries = set()
+        for eos_idx in non_punct_boundary_indices:
+            j = eos_idx
+            while j < len(clean_text) and clean_text[j] != '\n':
+                j += 1
+            if j < len(clean_text):
+                layout_boundaries.add(j)
+            else:
+                layout_boundaries.add(eos_idx - 1)
+                
+        all_boundaries = boundary_punct_indices.union(layout_boundaries)
 
         for idx, ch in enumerate(clean_text):
             if ch not in self.candidate_punct:
@@ -96,14 +111,15 @@ class SentenceSplitPreprocessor:
                 "centered_context": clean_text[left_start:right_end],
                 "token_before": self._get_token_before(clean_text, idx),
                 "token_after": self._get_token_after(clean_text, idx),
-                "label": 1 if idx in boundary_punct_indices else 0,
+                "label": 1 if idx in all_boundaries else 0,
             })
 
         return rows
 
     def process_document(self, raw_text, doc_id):
         clean_text, boundary_punct_indices, non_punct_boundary_indices = self.extract_clean_text_and_boundaries(raw_text)
-        rows = self.extract_candidates(clean_text, boundary_punct_indices, doc_id)
+        
+        rows = self.extract_candidates(clean_text, boundary_punct_indices, non_punct_boundary_indices, doc_id)
         df = pd.DataFrame(rows)
 
         return {

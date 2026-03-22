@@ -62,6 +62,7 @@ class FeatureExtractor(BaseEstimator, TransformerMixin):
         out["is_period"] = (punct == ".").astype(int)
         out["is_question"] = (punct == "?").astype(int)
         out["is_exclamation"] = (punct == "!").astype(int)
+        out["is_newline_candidate"] = (punct == "\n").astype(int)
 
         # immediate char context
         out["prev_is_digit"] = prev_char.str.isdigit().astype(int)
