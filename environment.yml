@@ -1,0 +1,32 @@
+name: sent-split
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.11
+  - pip
+  - jupyter
+  - ipykernel
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - tqdm
+  - pyyaml
+  - regex
+  - nltk
+  - spacy
+  - pytorch
+  - torchvision
+  - torchaudio
+  - cpuonly
+  - lightgbm
+  - xgboost
+  - catboost
+  - optuna
+  - pip:
+      - notebook
